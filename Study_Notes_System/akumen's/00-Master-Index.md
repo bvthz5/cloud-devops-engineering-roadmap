@@ -18,6 +18,7 @@ This directory contains comprehensive, deeply structured study guides for Cloud 
 | **05. File Management in Linux** | [`Linux/05-File-Management-in-Linux/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/README.md) | ✅ Complete (25 Modules + Source) |
 | **06. Linux Folder Structure** | [`Linux/06-Linux-Folder-Structure/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/06-Linux-Folder-Structure/README.md) | ✅ Complete (22 Modules + Source) |
 | **07. Core Components of a Linux Machine** | [`Linux/07-Core-Components-of-a-Linux-Machine/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/07-Core-Components-of-a-Linux-Machine/README.md) | ✅ Complete (20 Modules + Source) |
+| **08. Linux over Windows** | [`Linux/08-Linux-over-Windows/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/08-Linux-over-Windows/README.md) | ✅ Complete (17 Modules + Source) |
 | *Pending Topics* | `Linux/<Topic-Name>/` | ⏳ Ready for input |
 
 ### 🌐 Networking & Protocols
