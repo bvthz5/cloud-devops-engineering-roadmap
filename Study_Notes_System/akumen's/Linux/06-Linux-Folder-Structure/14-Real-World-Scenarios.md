@@ -46,9 +46,8 @@ tmpfs    /tmp        tmpfs    defaults,rw,nosuid,nodev,noexec    0 0
 - **`noexec`:** Prevents execution of binary executables inside `/tmp` (stops malicious scripts downloaded to `/tmp` from executing).
 - **`nosuid`:** Disables SUID bit execution inside the directory.
 - **`nodev`:** Disables block/character device node creation.
-
 ---
 
-## ⬅️ Navigation
-- Previous: [13 - Useful Inspection Commands](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/13-Useful-Commands.md)
-- Next: [15 - Troubleshooting Filesystem Issues](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/15-Troubleshooting.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - Useful Commands](./13-Useful-Commands.md) | [README](./README.md) | [15 - Troubleshooting](./15-Troubleshooting.md) |

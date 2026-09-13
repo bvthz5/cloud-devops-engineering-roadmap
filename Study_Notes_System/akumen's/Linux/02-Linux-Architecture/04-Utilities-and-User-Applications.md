@@ -101,3 +101,8 @@ $ ldd /usr/bin/cp
 
 If `/lib/x86_64-linux-gnu/libc.so.6` is missing or corrupted, `/usr/bin/cp` cannot start!
 Statically compiled binaries (such as many Go or Rust microservices in Docker) have no `ldd` dependencies and can run inside completely empty `FROM scratch` containers.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - System Calls and Libraries](./03-System-Calls-and-Libraries.md) | [README](./README.md) | [05 - How File Copy Works](./05-How-File-Copy-Works.md) |

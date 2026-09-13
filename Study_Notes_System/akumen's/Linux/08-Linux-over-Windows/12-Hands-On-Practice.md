@@ -39,9 +39,8 @@ Practical terminal exercises for cross-platform file conversions, line ending fi
    ```bash
    cat /proc/meminfo | grep -iE 'MemTotal|MemFree|MemAvailable|Buffers|Cached'
    ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [11 - Interview Q&A](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/11-Interview-QA.md)
-- Next: [13 - Multiple Choice Questions](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/13-MCQ.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Interview QA](./11-Interview-QA.md) | [README](./README.md) | [13 - MCQ](./13-MCQ.md) |

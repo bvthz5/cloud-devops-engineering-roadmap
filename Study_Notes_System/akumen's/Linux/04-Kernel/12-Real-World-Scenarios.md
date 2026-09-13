@@ -84,3 +84,8 @@ Action: Kernel Live Patch Module Loaded via ftrace
 ```
 
 Using tools like **Canonical Livepatch** or Red Hat **kpatch**, the kernel uses the internal `ftrace` function tracer to atomically redirect the entry point of the vulnerable function to a patched routine in RAM. The security vulnerability is closed instantly with **zero downtime and zero reboot required**.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Linux Distributions](./11-Linux-Distributions.md) | [README](./README.md) | [13 - Troubleshooting](./13-Troubleshooting.md) |

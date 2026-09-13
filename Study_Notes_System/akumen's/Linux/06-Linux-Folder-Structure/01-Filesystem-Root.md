@@ -47,9 +47,8 @@ df -h
 - **Absolute Paths Start Here:** Any path beginning with a forward slash (`/`) is an **Absolute Path** starting from the root directory (e.g., `/etc/nginx/nginx.conf`).
 - **Owner & Permissions:** The root directory is owned by the `root` user (`root:root`) with standard permissions `755` (`rwxr-xr-x`).
 - **Partition Isolation:** If `/` runs out of disk space (100% full), system services will fail to create temporary files or sockets, crashing critical OS processes.
-
 ---
 
-## ⬅️ Navigation
-- Index: [README.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/README.md)
-- Next: [02 - `/boot` Directory](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/02-boot.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - boot](./02-boot.md) |

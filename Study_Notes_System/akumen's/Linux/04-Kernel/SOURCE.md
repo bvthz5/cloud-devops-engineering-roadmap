@@ -47,3 +47,8 @@ Key architectural extensions include:
    - 4 Terminal labs (`sysctl` live tuning, `slabtop` cache tracking, `modprobe` dependency trees, and `dmesg` filtering).
    - 10 Self-assessment multiple-choice questions with detailed explanations.
    - 5-Minute pre-interview revision cheat sheet.
+---
+
+| Back to Index |
+| :---: |
+| [README](./README.md) |

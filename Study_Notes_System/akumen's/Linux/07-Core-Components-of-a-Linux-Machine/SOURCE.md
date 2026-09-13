@@ -31,22 +31,27 @@ To transform high-level component diagrams into a production-grade DevOps study 
 
 ## 📂 Topic File Index
 
-- [`README.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/README.md)
-- [`01-Layered-Architecture-Overview.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/01-Layered-Architecture-Overview.md)
-- [`02-Hardware-Layer.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/02-Hardware-Layer.md)
-- [`03-Linux-Kernel-Core.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/03-Linux-Kernel-Core.md)
-- [`04-Device-Drivers.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/04-Device-Drivers.md)
-- [`05-System-Libraries-and-Glibc.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/05-System-Libraries-and-Glibc.md)
-- [`06-System-Utilities-and-Binaries.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/06-System-Utilities-and-Binaries.md)
-- [`07-The-Shell.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/07-The-Shell.md)
-- [`08-User-Applications-and-Services.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/08-User-Applications-and-Services.md)
-- [`09-Command-Flow-ls-cat-networking.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/09-Command-Flow-ls-cat-networking.md)
-- [`10-Shell-Builtins-vs-External-Binaries-cd-vs-ls.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/10-Shell-Builtins-vs-External-Binaries-cd-vs-ls.md)
-- [`11-Practical-Commands.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/11-Practical-Commands.md)
-- [`12-Real-World-Scenarios.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/12-Real-World-Scenarios.md)
-- [`13-Troubleshooting.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/13-Troubleshooting.md)
-- [`14-Interview-QA.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/14-Interview-QA.md)
-- [`15-Hands-On-Practice.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/15-Hands-On-Practice.md)
-- [`16-MCQ.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/16-MCQ.md)
-- [`17-Quick-Revision.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/17-Quick-Revision.md)
-- [`18-Related-Topics.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/18-Related-Topics.md)
+- [`README.md`](./README.md)
+- [`01-Layered-Architecture-Overview.md`](./01-Layered-Architecture-Overview.md)
+- [`02-Hardware-Layer.md`](./02-Hardware-Layer.md)
+- [`03-Linux-Kernel-Core.md`](./03-Linux-Kernel-Core.md)
+- [`04-Device-Drivers.md`](./04-Device-Drivers.md)
+- [`05-System-Libraries-and-Glibc.md`](./05-System-Libraries-and-Glibc.md)
+- [`06-System-Utilities-and-Binaries.md`](./06-System-Utilities-and-Binaries.md)
+- [`07-The-Shell.md`](./07-The-Shell.md)
+- [`08-User-Applications-and-Services.md`](./08-User-Applications-and-Services.md)
+- [`09-Command-Flow-ls-cat-networking.md`](./09-Command-Flow-ls-cat-networking.md)
+- [`10-Shell-Builtins-vs-External-Binaries-cd-vs-ls.md`](./10-Shell-Builtins-vs-External-Binaries-cd-vs-ls.md)
+- [`11-Practical-Commands.md`](./11-Practical-Commands.md)
+- [`12-Real-World-Scenarios.md`](./12-Real-World-Scenarios.md)
+- [`13-Troubleshooting.md`](./13-Troubleshooting.md)
+- [`14-Interview-QA.md`](./14-Interview-QA.md)
+- [`15-Hands-On-Practice.md`](./15-Hands-On-Practice.md)
+- [`16-MCQ.md`](./16-MCQ.md)
+- [`17-Quick-Revision.md`](./17-Quick-Revision.md)
+- [`18-Related-Topics.md`](./18-Related-Topics.md)
+---
+
+| Back to Index |
+| :---: |
+| [README](./README.md) |

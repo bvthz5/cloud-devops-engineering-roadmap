@@ -34,9 +34,8 @@ findmnt /boot
 # 4. Check if /var/log is a separate partition
 df -h /var/log
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [12 - FHS Mental Model](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/12-FHS-Mental-Model.md)
-- Next: [14 - Real-World Production Scenarios](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/14-Real-World-Scenarios.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - FHS Mental Model](./12-FHS-Mental-Model.md) | [README](./README.md) | [14 - Real World Scenarios](./14-Real-World-Scenarios.md) |

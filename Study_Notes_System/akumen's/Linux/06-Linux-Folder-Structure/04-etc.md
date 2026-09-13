@@ -42,9 +42,8 @@ sudo apt install etckeeper
 # Check status of configuration changes in /etc
 cd /etc && sudo git status
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [03 - `/usr` Directory](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/03-usr.md)
-- Next: [05 - `/var` Directory](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/05-var.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - usr](./03-usr.md) | [README](./README.md) | [05 - var](./05-var.md) |

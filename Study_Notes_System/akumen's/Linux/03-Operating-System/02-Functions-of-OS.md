@@ -74,3 +74,8 @@ An operating system acts as the central coordinator of the computing environment
 | **Access Control** | UID/GID, POSIX ACLs, SELinux, AppArmor | `chmod`, `chown`, `getfacl`, `sestatus` |
 | **Resource Accounting** | Process Accounting (`psacct`), Cgroups v2 | `ps`, `systemd-cgtop`, `/sys/fs/cgroup` |
 | **Fault Recovery** | Signals (`SIGSEGV`, `SIGKILL`), Kernel Panic | `dmesg`, `journalctl`, `coredumpctl` |
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - OS Basics](./01-OS-Basics.md) | [README](./README.md) | [03 - Process Management](./03-Process-Management.md) |

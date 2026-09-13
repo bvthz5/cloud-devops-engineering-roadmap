@@ -63,23 +63,28 @@ By the end of this module, you will:
 
 | File | Topic Covered | Purpose |
 |---|---|---|
-| [01-Filesystem-Basics.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/01-Filesystem-Basics.md) | Inverted Tree, Everything is a File, Inodes | Foundational concepts & mental model |
-| [02-Directory-Structure.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/02-Directory-Structure.md) | The Standard 18 Directories | Master breakdown of every top-level dir |
-| [03-Paths-and-Navigation.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/03-Paths-and-Navigation.md) | Absolute vs. Relative Paths, `.` and `..`, `~` | Fast and accurate navigation skills |
-| [04-Important-Directories-Deep-Dive.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/04-Important-Directories-Deep-Dive.md) | `/etc`, `/var`, `/proc`, `/sys`, `/dev` | Deep dive into system-critical internals |
-| [05-FHS-and-Modern-Linux.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/05-FHS-and-Modern-Linux.md) | FHS Matrix, Merged `/usr`, systemd `/run` | Modern Linux standards & architectural shifts |
-| [06-Mounts-and-Filesystems.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/06-Mounts-and-Filesystems.md) | Mounting, `/etc/fstab`, UUIDs, VFS | How disks attach to directory nodes |
-| [07-Practical-Commands.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/07-Practical-Commands.md) | `ls`, `tree`, `find`, `du`, `df`, `stat`, `file` | Day-to-day command recipes & syntax |
-| [08-Real-World-Scenarios.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/08-Real-World-Scenarios.md) | Production setups, container mounts, EBS volumes | Real enterprise architectures & best practices |
-| [09-Troubleshooting.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/09-Troubleshooting.md) | Disk 100% full, deleted open files, inode exhaustion | Practical SRE/DevOps incident response guides |
-| [10-Interview-QA.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/10-Interview-QA.md) | Scenario & Technical Interview Questions | Junior to Senior level QA |
-| [11-Hands-On-Practice.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/11-Hands-On-Practice.md) | Lab exercises, step-by-step challenges | Hands-on terminal muscle memory |
-| [12-MCQ.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/12-MCQ.md) | Multiple Choice Questions with Explanations | Self-assessment knowledge checks |
-| [13-Quick-Revision.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/13-Quick-Revision.md) | 5-Minute Cheat Sheet, Comparison Tables | Rapid pre-interview / exam review |
-| [14-Related-Topics.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/14-Related-Topics.md) | Permissions, LVM, Inodes, Systemd, Containers | Next learning path connections |
+| [01-Filesystem-Basics.md](./01-Filesystem-Basics.md) | Inverted Tree, Everything is a File, Inodes | Foundational concepts & mental model |
+| [02-Directory-Structure.md](./02-Directory-Structure.md) | The Standard 18 Directories | Master breakdown of every top-level dir |
+| [03-Paths-and-Navigation.md](./03-Paths-and-Navigation.md) | Absolute vs. Relative Paths, `.` and `..`, `~` | Fast and accurate navigation skills |
+| [04-Important-Directories-Deep-Dive.md](./04-Important-Directories-Deep-Dive.md) | `/etc`, `/var`, `/proc`, `/sys`, `/dev` | Deep dive into system-critical internals |
+| [05-FHS-and-Modern-Linux.md](./05-FHS-and-Modern-Linux.md) | FHS Matrix, Merged `/usr`, systemd `/run` | Modern Linux standards & architectural shifts |
+| [06-Mounts-and-Filesystems.md](./06-Mounts-and-Filesystems.md) | Mounting, `/etc/fstab`, UUIDs, VFS | How disks attach to directory nodes |
+| [07-Practical-Commands.md](./07-Practical-Commands.md) | `ls`, `tree`, `find`, `du`, `df`, `stat`, `file` | Day-to-day command recipes & syntax |
+| [08-Real-World-Scenarios.md](./08-Real-World-Scenarios.md) | Production setups, container mounts, EBS volumes | Real enterprise architectures & best practices |
+| [09-Troubleshooting.md](./09-Troubleshooting.md) | Disk 100% full, deleted open files, inode exhaustion | Practical SRE/DevOps incident response guides |
+| [10-Interview-QA.md](./10-Interview-QA.md) | Scenario & Technical Interview Questions | Junior to Senior level QA |
+| [11-Hands-On-Practice.md](./11-Hands-On-Practice.md) | Lab exercises, step-by-step challenges | Hands-on terminal muscle memory |
+| [12-MCQ.md](./12-MCQ.md) | Multiple Choice Questions with Explanations | Self-assessment knowledge checks |
+| [13-Quick-Revision.md](./13-Quick-Revision.md) | 5-Minute Cheat Sheet, Comparison Tables | Rapid pre-interview / exam review |
+| [14-Related-Topics.md](./14-Related-Topics.md) | Permissions, LVM, Inodes, Systemd, Containers | Next learning path connections |
 
 ---
 
 ## 💡 Prerequisites
 - Basic familiarity with terminal/command line interface.
 - Basic understanding of how computer operating systems store files.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| — | You are here | [01 - Filesystem Basics](./01-Filesystem-Basics.md) |

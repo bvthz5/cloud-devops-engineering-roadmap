@@ -116,3 +116,8 @@ This tells the kernel to transfer data directly from one file to another **entir
 2. `cp` calls `exit_group(0)`.
 3. The kernel reclaims the process's virtual memory and file descriptor tables.
 4. The parent shell wakes up, prints the prompt, and awaits your next command!
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Utilities and User Applications](./04-Utilities-and-User-Applications.md) | [README](./README.md) | [06 - Practical Commands](./06-Practical-Commands.md) |

@@ -51,9 +51,8 @@ Reinforce your understanding of the Linux directory hierarchy with these practic
    ls -ld /mnt/practice_lab
    sudo rmdir /mnt/practice_lab
    ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [16 - Interview Q&A](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/16-Interview-QA.md)
-- Next: [18 - Multiple Choice Questions](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/18-MCQ.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [16 - Interview QA](./16-Interview-QA.md) | [README](./README.md) | [18 - MCQ](./18-MCQ.md) |

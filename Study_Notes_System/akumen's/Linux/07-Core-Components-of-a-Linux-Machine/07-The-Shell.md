@@ -28,9 +28,8 @@ graph LR
 3. **Fork (`fork()`):** Creates a child process clone of the shell.
 4. **Execute (`execve()`):** Replaces the child process memory space with the target binary executable.
 5. **Wait (`waitpid()`):** Shell waits for child process completion and captures its exit status code (`$?`).
-
 ---
 
-## ⬅️ Navigation
-- Previous: [06 - System Utilities & Binaries](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/06-System-Utilities-and-Binaries.md)
-- Next: [08 - User Applications & Services](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/08-User-Applications-and-Services.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - System Utilities and Binaries](./06-System-Utilities-and-Binaries.md) | [README](./README.md) | [08 - User Applications and Services](./08-User-Applications-and-Services.md) |

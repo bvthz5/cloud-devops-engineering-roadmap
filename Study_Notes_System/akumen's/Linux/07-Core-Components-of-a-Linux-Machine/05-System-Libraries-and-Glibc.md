@@ -47,9 +47,8 @@ ldd /bin/ls
 #   libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1
 #   libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f...)
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [04 - Device Drivers](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/04-Device-Drivers.md)
-- Next: [06 - System Utilities & Binaries](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/06-System-Utilities-and-Binaries.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Device Drivers](./04-Device-Drivers.md) | [README](./README.md) | [06 - System Utilities and Binaries](./06-System-Utilities-and-Binaries.md) |

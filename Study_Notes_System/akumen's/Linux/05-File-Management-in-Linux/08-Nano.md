@@ -74,3 +74,8 @@ set smooth
 # Enable mouse support (click to move cursor):
 set mouse
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Head and Tail](./07-Head-and-Tail.md) | [README](./README.md) | [09 - Vi and Vim](./09-Vi-and-Vim.md) |

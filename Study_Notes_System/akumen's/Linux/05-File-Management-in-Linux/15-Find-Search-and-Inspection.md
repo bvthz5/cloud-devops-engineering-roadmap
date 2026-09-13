@@ -79,3 +79,8 @@ logo.png: PNG image data, 800 x 600, 8-bit/color RGBA, non-interlaced
 $ file fake_image.png
 fake_image.png: POSIX shell script, ASCII text executable  <-- SECURITY ALERT!
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Links and Metadata](./14-Links-and-Metadata.md) | [README](./README.md) | [16 - Archives and Compression](./16-Archives-and-Compression.md) |

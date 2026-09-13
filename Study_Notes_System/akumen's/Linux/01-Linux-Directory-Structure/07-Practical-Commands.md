@@ -121,3 +121,8 @@ $ find / -xtype l 2>/dev/null
 | **`whereis`** | Locates binary, source code, and man pages | `whereis nginx` | `/usr/sbin/nginx /etc/nginx /usr/share/man/...` |
 | **`type`** | Reveals if a command is a shell built-in, alias, or disk binary | `type cd` | `cd is a shell builtin` |
 | **`realpath`** | Resolves all symlinks to return canonical absolute path | `realpath /bin` | `/usr/bin` |
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Mounts and Filesystems](./06-Mounts-and-Filesystems.md) | [README](./README.md) | [08 - Real World Scenarios](./08-Real-World-Scenarios.md) |

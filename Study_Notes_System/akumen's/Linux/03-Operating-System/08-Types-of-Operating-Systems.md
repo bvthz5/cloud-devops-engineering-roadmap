@@ -69,3 +69,8 @@ Over seven decades of computing, operating systems have evolved through several 
 | **Distributed OS** | Unified resource sharing | Yes | No | Kubernetes, Amoeba |
 | **Hard RTOS** | Absolute timing determinism | Rare | **YES (Strict Microsecond)**| VxWorks, FreeRTOS |
 | **Embedded OS** | Minimal footprint & power | Embedded/Mobile | Dependent on use | Android, Yocto Linux |
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Kernel User Space System Calls](./07-Kernel-User-Space-System-Calls.md) | [README](./README.md) | [09 - UNIX GNU Linux History](./09-UNIX-GNU-Linux-History.md) |

@@ -110,3 +110,8 @@ A common point of confusion in system performance is the difference between a **
 - Occurs when the Linux CPU scheduler suspends Process A and starts executing Process B.
 - Requires saving Process A's CPU registers, switching page tables (`CR3` register), and invalidating/flushing the CPU Translation Lookaside Buffer (TLB).
 - Significantly more expensive than a mode switch. High context switching rates directly degrade system throughput.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - Kernel Deep Dive](./02-Kernel-Deep-Dive.md) |

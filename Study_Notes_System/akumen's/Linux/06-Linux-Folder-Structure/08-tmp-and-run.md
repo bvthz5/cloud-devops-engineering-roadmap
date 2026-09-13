@@ -50,9 +50,8 @@ df -hT | grep tmpfs
 ls -ld /tmp
 # Output: drwxrwxrwt 12 root root ... /tmp
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [07 - `/opt` and `/srv`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/07-opt-and-srv.md)
-- Next: [09 - `/proc`, `/sys`, and `/dev`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/09-proc-sys-and-dev.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - opt and srv](./07-opt-and-srv.md) | [README](./README.md) | [09 - proc sys and dev](./09-proc-sys-and-dev.md) |

@@ -151,3 +151,8 @@ Test your understanding of the Linux Directory Structure, FHS, and filesystem me
 **Correct Answer: B**  
 **Explanation:** `lsof` (List Open Files) with `grep deleted` or `lsof +L1` lists processes holding open file descriptors for unlinked files, revealing why the kernel has not freed the associated data blocks.
 </details>
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Hands On Practice](./11-Hands-On-Practice.md) | [README](./README.md) | [13 - Quick Revision](./13-Quick-Revision.md) |

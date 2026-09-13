@@ -151,3 +151,8 @@ Test your knowledge of the Linux architecture, system calls, kernel subsystems, 
 **Correct Answer: C**  
 **Explanation:** Exit code 137 indicates termination by `SIGKILL` (signal 9). Standard Unix exit codes for signal termination are calculated as `128 + Signal Number` (`128 + 9 = 137`).
 </details>
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Hands On Practice](./10-Hands-On-Practice.md) | [README](./README.md) | [12 - Quick Revision](./12-Quick-Revision.md) |

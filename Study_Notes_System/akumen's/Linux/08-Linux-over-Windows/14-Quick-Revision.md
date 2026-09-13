@@ -16,9 +16,8 @@ A 5-minute high-density reference sheet comparing Linux and Windows operating sy
 | **Containers** | Native (`cgroups` & `namespaces`) | Hyper-V virtualized layer for Linux containers |
 | **Config Model** | Plain-text files under `/etc` | Centralized binary Registry |
 | **Reboots** | Zero forced reboots (Live patching) | Frequent required update reboots |
-
 ---
 
-## ⬅️ Navigation
-- Previous: [13 - Multiple Choice Questions](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/13-MCQ.md)
-- Next: [15 - Related Topics & Next Steps](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/15-Related-Topics.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - MCQ](./13-MCQ.md) | [README](./README.md) | [15 - Related Topics](./15-Related-Topics.md) |

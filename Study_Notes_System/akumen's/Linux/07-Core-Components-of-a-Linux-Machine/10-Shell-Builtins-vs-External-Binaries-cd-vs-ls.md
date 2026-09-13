@@ -46,9 +46,8 @@ type ls
 type -t ls
 # Output: file (meaning an external executable file on disk)
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [09 - Command Traversal Flow](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/09-Command-Flow-ls-cat-networking.md)
-- Next: [11 - Practical Commands for Component Inspection](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/11-Practical-Commands.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Command Flow ls cat networking](./09-Command-Flow-ls-cat-networking.md) | [README](./README.md) | [11 - Practical Commands](./11-Practical-Commands.md) |

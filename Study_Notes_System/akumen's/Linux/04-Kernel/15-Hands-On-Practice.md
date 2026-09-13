@@ -93,3 +93,8 @@ sudo dmesg -T | grep -i "smpboot: CPU"
 # 3. Inspect storage controller detection:
 sudo dmesg -T | grep -E "ahci|nvme|scsi"
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Interview Q&A](./14-Interview-Q&A.md) | [README](./README.md) | [16 - MCQ](./16-MCQ.md) |

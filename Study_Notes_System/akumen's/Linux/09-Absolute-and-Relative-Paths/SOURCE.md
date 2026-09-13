@@ -34,18 +34,23 @@ To transform basic navigation commands into a production-grade DevOps study guid
 
 ## 📂 Topic File Index
 
-- [`README.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/README.md)
-- [`01-Path-Basics-and-Mental-Model.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/01-Path-Basics-and-Mental-Model.md)
-- [`02-Absolute-Paths.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/02-Absolute-Paths.md)
-- [`03-Relative-Paths.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/03-Relative-Paths.md)
-- [`04-Dot-and-DotDot-Mechanics.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/04-Dot-and-DotDot-Mechanics.md)
-- [`05-Absolute-vs-Relative-Comparison.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/05-Absolute-vs-Relative-Comparison.md)
-- [`06-Wildcards-and-Shell-Globbing.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/06-Wildcards-and-Shell-Globbing.md)
-- [`07-Practical-Command-Examples.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/07-Practical-Command-Examples.md)
-- [`08-Real-World-Production-Scenarios.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/08-Real-World-Production-Scenarios.md)
-- [`09-Troubleshooting.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/09-Troubleshooting.md)
-- [`10-Interview-QA.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/10-Interview-QA.md)
-- [`11-Hands-On-Practice.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/11-Hands-On-Practice.md)
-- [`12-MCQ.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/12-MCQ.md)
-- [`13-Quick-Revision.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/13-Quick-Revision.md)
-- [`14-Related-Topics.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/14-Related-Topics.md)
+- [`README.md`](./README.md)
+- [`01-Path-Basics-and-Mental-Model.md`](./01-Path-Basics-and-Mental-Model.md)
+- [`02-Absolute-Paths.md`](./02-Absolute-Paths.md)
+- [`03-Relative-Paths.md`](./03-Relative-Paths.md)
+- [`04-Dot-and-DotDot-Mechanics.md`](./04-Dot-and-DotDot-Mechanics.md)
+- [`05-Absolute-vs-Relative-Comparison.md`](./05-Absolute-vs-Relative-Comparison.md)
+- [`06-Wildcards-and-Shell-Globbing.md`](./06-Wildcards-and-Shell-Globbing.md)
+- [`07-Practical-Command-Examples.md`](./07-Practical-Command-Examples.md)
+- [`08-Real-World-Production-Scenarios.md`](./08-Real-World-Production-Scenarios.md)
+- [`09-Troubleshooting.md`](./09-Troubleshooting.md)
+- [`10-Interview-QA.md`](./10-Interview-QA.md)
+- [`11-Hands-On-Practice.md`](./11-Hands-On-Practice.md)
+- [`12-MCQ.md`](./12-MCQ.md)
+- [`13-Quick-Revision.md`](./13-Quick-Revision.md)
+- [`14-Related-Topics.md`](./14-Related-Topics.md)
+---
+
+| Back to Index |
+| :---: |
+| [README](./README.md) |

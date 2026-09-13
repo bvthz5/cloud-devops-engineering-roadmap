@@ -151,3 +151,8 @@ Test your mastery of operating systems concepts, Linux distributions, memory man
 **Correct Answer: B**  
 **Explanation:** The Mode Bit in the CPU status register designates whether the processor is executing in Kernel Mode (Ring 0, full privilege) or User Mode (Ring 3, restricted privilege).
 </details>
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Hands On Practice](./14-Hands-On-Practice.md) | [README](./README.md) | [16 - Quick Revision](./16-Quick-Revision.md) |

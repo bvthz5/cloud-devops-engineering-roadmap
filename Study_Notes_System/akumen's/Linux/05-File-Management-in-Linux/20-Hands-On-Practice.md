@@ -98,3 +98,8 @@ vim ~/file_lab/server.conf
 # 6. Type ':%s/development/production/g' and press Enter to search & replace.
 # 7. Type ':wq' and press Enter to save and exit!
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [19 - Interview QA](./19-Interview-QA.md) | [README](./README.md) | [21 - MCQ](./21-MCQ.md) |

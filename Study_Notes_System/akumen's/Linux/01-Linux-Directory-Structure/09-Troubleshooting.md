@@ -153,3 +153,8 @@ $ mount -a
 # 5. Reboot back into normal multi-user target:
 $ systemctl reboot
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Real World Scenarios](./08-Real-World-Scenarios.md) | [README](./README.md) | [10 - Interview QA](./10-Interview-QA.md) |

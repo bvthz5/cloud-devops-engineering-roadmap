@@ -27,9 +27,8 @@ Cron daemons and Systemd service runners execute processes in non-standard or de
 ### Q4: How does the shell expand wildcards (`*`, `?`) when executing a command?
 **Answer:**
 The shell performs **Glob Expansion** before handing arguments to the target executable. When a user runs `ls *.log`, the shell searches the matching directory, expands `*.log` into the list of filenames (e.g., `a.log b.log`), and executes `execve("/usr/bin/ls", ["ls", "a.log", "b.log"])`.
-
 ---
 
-## ⬅️ Navigation
-- Previous: [09 - Troubleshooting Path Errors](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/09-Troubleshooting.md)
-- Next: [11 - Hands-On Practice & Exercises](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/11-Hands-On-Practice.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Troubleshooting](./09-Troubleshooting.md) | [README](./README.md) | [11 - Hands On Practice](./11-Hands-On-Practice.md) |

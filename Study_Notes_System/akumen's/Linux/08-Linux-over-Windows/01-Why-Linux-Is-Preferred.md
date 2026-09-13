@@ -29,9 +29,8 @@ Everything in Linux is driven by plain-text files and standard command streams. 
 
 ### 4. Zero Software Licensing Overhead
 Linux distributions (Debian, Ubuntu, AlmaLinux, Rocky Linux) are open-source and free under GNU GPL. Organizations scale from 1 server to 100,000 servers without paying OS per-core licensing fees.
-
 ---
 
-## ⬅️ Navigation
-- Index: [README.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/README.md)
-- Next: [02 - Cost-Effectiveness & Licensing](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/02-Cost-Effectiveness-and-Licensing.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - Cost Effectiveness and Licensing](./02-Cost-Effectiveness-and-Licensing.md) |

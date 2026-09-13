@@ -128,3 +128,8 @@ tmpfs           /dev/shm      tmpfs   defaults,noexec,nosuid,nodev 0      0
 - **`noexec`:** Disallows execution of any binary or script located on this partition. (Even if a hacker drops `malware.sh` in `/tmp` and runs `chmod +x`, execution is blocked by the kernel).
 - **`nosuid`:** Disallows SUID privilege escalation flags.
 - **`nodev`:** Prevents creation of character or block device nodes.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Practical Commands](./07-Practical-Commands.md) | [README](./README.md) | [09 - Troubleshooting](./09-Troubleshooting.md) |

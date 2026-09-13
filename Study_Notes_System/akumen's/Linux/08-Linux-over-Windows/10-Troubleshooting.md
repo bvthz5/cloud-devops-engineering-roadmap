@@ -41,9 +41,8 @@ Windows uses backslashes (`\`), while Linux uses forward slashes (`/`).
 
 ### Solution:
 Always use forward slashes (`/`) or environment path jointers (`path.join()` in Node.js / `os.path.join()` in Python) in cross-platform codebases.
-
 ---
 
-## ⬅️ Navigation
-- Previous: [09 - Real-World Production Scenarios](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/09-Real-World-Production-Scenarios.md)
-- Next: [11 - Interview Q&A](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/11-Interview-QA.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Real World Production Scenarios](./09-Real-World-Production-Scenarios.md) | [README](./README.md) | [11 - Interview QA](./11-Interview-QA.md) |

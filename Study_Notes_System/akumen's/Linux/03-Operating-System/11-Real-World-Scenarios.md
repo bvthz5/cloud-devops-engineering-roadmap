@@ -81,3 +81,8 @@ A common source of confusion when monitoring memory leaks is the difference betw
 - **VSZ (Virtual Memory Size):** How much memory the program *thinks* it has requested. If a program calls `malloc(10 * 1024 * 1024 * 1024)` (10 GB) but never writes to it, VSZ will increase by 10 GB, but **RSS will remain 0 MB** because of demand paging!
 - **RSS (Resident Set Size):** The true physical RAM currently consumed by the process.
 - **Rule of Thumb:** A high VSZ is usually harmless. A continuously climbing **RSS** indicates an application memory leak that will eventually trigger the OOM killer.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Linux Distributions](./10-Linux-Distributions.md) | [README](./README.md) | [12 - Troubleshooting](./12-Troubleshooting.md) |

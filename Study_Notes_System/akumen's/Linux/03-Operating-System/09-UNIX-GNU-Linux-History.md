@@ -87,3 +87,8 @@ Developers quickly combined the **Linux kernel** with the **GNU utilities**, pro
 ```
 
 Today, this unified system powers over **96% of the world's top 1 million web servers**, 100% of the world's top 500 supercomputers, the Android mobile ecosystem, and nearly all public cloud infrastructure (AWS, Azure, GCP).
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Types of Operating Systems](./08-Types-of-Operating-Systems.md) | [README](./README.md) | [10 - Linux Distributions](./10-Linux-Distributions.md) |

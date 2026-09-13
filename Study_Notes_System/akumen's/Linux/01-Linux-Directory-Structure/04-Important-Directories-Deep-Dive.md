@@ -149,3 +149,8 @@ brw-rw---- 1 root disk 8, 1 Sep 13 09:00 /dev/sda1
    ```
 3. **`/dev/urandom`:** Cryptographically secure pseudo-random number generator (CSPRNG).
 4. **`/dev/shm` (Shared Memory):** A RAM-backed `tmpfs` filesystem accessible for high-speed inter-process communication. Writing here writes directly into RAM.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - Paths and Navigation](./03-Paths-and-Navigation.md) | [README](./README.md) | [05 - FHS and Modern Linux](./05-FHS-and-Modern-Linux.md) |

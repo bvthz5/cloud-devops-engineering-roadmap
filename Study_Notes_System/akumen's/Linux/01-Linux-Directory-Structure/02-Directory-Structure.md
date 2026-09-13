@@ -64,3 +64,8 @@ The `/boot` directory houses kernel images (`vmlinuz-x.y.z`) and RAM disk images
 
 ### Why `/root` is NOT in `/home`
 If `/home` is placed on a separate partition, network share, or encrypted disk volume that fails to mount during a boot disaster, the system administrator must still be able to log in to `/root` in single-user recovery mode to fix the issue. Keeping `/root` on the primary root filesystem ensures it is always accessible.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Filesystem Basics](./01-Filesystem-Basics.md) | [README](./README.md) | [03 - Paths and Navigation](./03-Paths-and-Navigation.md) |

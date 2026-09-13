@@ -49,9 +49,8 @@ docker run -v ./data:/app/data nginx
 docker run -v /home/ubuntu/data:/app/data nginx
 docker run -v $(pwd)/data:/app/data nginx
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [07 - Practical Command Examples](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/07-Practical-Command-Examples.md)
-- Next: [09 - Troubleshooting Path Errors](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/09-Troubleshooting.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Practical Command Examples](./07-Practical-Command-Examples.md) | [README](./README.md) | [09 - Troubleshooting](./09-Troubleshooting.md) |

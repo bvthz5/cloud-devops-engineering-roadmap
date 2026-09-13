@@ -83,3 +83,8 @@ When multiple applications run simultaneously (e.g., a database, an HTTP server,
 2. **Efficiency:** Maximizes throughput and minimizes latency across physical CPU cores and I/O channels.
 3. **Reliability & Isolation:** Ensures that a bug or crash in one user space program cannot crash neighboring applications or take down the host.
 4. **Extensibility & Portability:** Provides standardized APIs (such as POSIX) allowing software to run across diverse hardware architectures without modification.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - Functions of OS](./02-Functions-of-OS.md) |

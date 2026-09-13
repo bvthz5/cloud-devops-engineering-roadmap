@@ -43,27 +43,32 @@ Welcome to the definitive hands-on guide on **File Management in Linux**. This m
 
 | File | Title | Key Topics Covered |
 |---|---|---|
-| [01-Navigation-ls-cd-pwd.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/01-Navigation-ls-cd-pwd.md) | Navigation Essentials | `pwd`, `cd`, `ls -lah`, flags, shortcuts (`~`, `-`, `.`, `..`) |
-| [02-Directories-mkdir-rmdir.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/02-Directories-mkdir-rmdir.md) | Directory Operations | `mkdir -p -m`, `rmdir`, creating nested tree structures |
-| [03-Delete-rm.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/03-Delete-rm.md) | Deletion Mechanics | `rm -rf -i`, unlinking, `shred`, accidental deletion prevention |
-| [04-Copy-cp.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/04-Copy-cp.md) | Copying Files & Trees | `cp -r`, archive mode `cp -a`, preserving attributes, reflink |
-| [05-Move-and-Rename-mv.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/05-Move-and-Rename-mv.md) | Move & Atomic Rename | `mv -i -u -b`, cross-filesystem moves vs atomic same-disk rename |
-| [06-Viewing-cat-tac-less-more.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/06-Viewing-cat-tac-less-more.md) | File Viewers | `cat -n`, `tac`, `less` navigation shortcuts, `more` differences |
-| [07-Head-and-Tail.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/07-Head-and-Tail.md) | Head & Tail Utilities | `head -n`, `tail -n`, real-time monitoring `tail -f` and `tail -F` |
-| [08-Nano.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/08-Nano.md) | Nano Text Editor | Nano shortcuts (`Ctrl+O`, `Ctrl+X`, `Ctrl+W`), `.nanorc` configs |
-| [09-Vi-and-Vim.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/09-Vi-and-Vim.md) | Vi / Vim Mastery | Modal editing (Normal, Insert, Visual, Command), motions, `:wq` |
-| [10-Echo-and-Redirection.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/10-Echo-and-Redirection.md) | I/O Streams & Redirection | `stdout`, `stderr`, `>`, `>>`, `2>`, `2>&1`, pipes (`\|`), `tee -a` |
-| [11-All-Flags-Cheat-Sheet.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/11-All-Flags-Cheat-Sheet.md) | Master Command Flags | Exhaustive flag reference for every core file utility |
-| [12-Paths-Wildcards-and-Expansion.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/12-Paths-Wildcards-and-Expansion.md) | Globbing & Expansion | Wildcards (`*`, `?`, `[]`), brace expansion (`{a,b}`), escaping |
-| [13-Permissions-and-Ownership.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/13-Permissions-and-Ownership.md) | Permissions & Ownership | `chmod`, `chown`, `chgrp`, `umask`, SUID, SGID, Sticky Bit |
-| [14-Links-and-Metadata.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/14-Links-and-Metadata.md) | Links & Inode Metadata | Hard links vs Symbolic links (`ln -s`), `stat`, timestamps |
-| [15-Find-Search-and-Inspection.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/15-Find-Search-and-Inspection.md) | Search & File Inspection | `find` recipes, `grep -rni`, magic byte inspection with `file` |
-| [16-Archives-and-Compression.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/16-Archives-and-Compression.md) | Archiving & Compression | `tar -czvf`, `tar -xvf`, `gzip`, `bzip2`, `xz`, `zip`/`unzip` |
-| [17-Real-World-Scenarios.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/17-Real-World-Scenarios.md) | Production Scenarios | Runaway log zeroing, logrotate, CI/CD pipeline artifact storage |
-| [18-Troubleshooting.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/18-Troubleshooting.md) | Diagnostic Playbooks | Permission denied, argument list too long, device or resource busy |
-| [19-Interview-Q&A.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/19-Interview-Q&A.md) | Technical Interview QA | 10 In-depth file management questions with interview frameworks |
-| [20-Hands-On-Practice.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/20-Hands-On-Practice.md) | Terminal Exercises | 5 Hands-on labs (redirection, safe deletion, vim workout, links) |
-| [21-MCQ.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/21-MCQ.md) | Self-Assessment Quiz | 10 Multiple-choice questions with answer keys & justifications |
-| [22-Quick-Revision.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/22-Quick-Revision.md) | 5-Minute Cheat Sheet | High-speed command reference, vim survival guide, syntax tables |
-| [23-Related-Topics.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/23-Related-Topics.md) | Downstream Connections | Bash scripting, sed & awk, cron automation, GitOps |
-| [SOURCE.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/SOURCE.md) | Source Material Mapping | Mapping of notes to the original file management command set |
+| [01-Navigation-ls-cd-pwd.md](./01-Navigation-ls-cd-pwd.md) | Navigation Essentials | `pwd`, `cd`, `ls -lah`, flags, shortcuts (`~`, `-`, `.`, `..`) |
+| [02-Directories-mkdir-rmdir.md](./02-Directories-mkdir-rmdir.md) | Directory Operations | `mkdir -p -m`, `rmdir`, creating nested tree structures |
+| [03-Delete-rm.md](./03-Delete-rm.md) | Deletion Mechanics | `rm -rf -i`, unlinking, `shred`, accidental deletion prevention |
+| [04-Copy-cp.md](./04-Copy-cp.md) | Copying Files & Trees | `cp -r`, archive mode `cp -a`, preserving attributes, reflink |
+| [05-Move-and-Rename-mv.md](./05-Move-and-Rename-mv.md) | Move & Atomic Rename | `mv -i -u -b`, cross-filesystem moves vs atomic same-disk rename |
+| [06-Viewing-cat-tac-less-more.md](./06-Viewing-cat-tac-less-more.md) | File Viewers | `cat -n`, `tac`, `less` navigation shortcuts, `more` differences |
+| [07-Head-and-Tail.md](./07-Head-and-Tail.md) | Head & Tail Utilities | `head -n`, `tail -n`, real-time monitoring `tail -f` and `tail -F` |
+| [08-Nano.md](./08-Nano.md) | Nano Text Editor | Nano shortcuts (`Ctrl+O`, `Ctrl+X`, `Ctrl+W`), `.nanorc` configs |
+| [09-Vi-and-Vim.md](./09-Vi-and-Vim.md) | Vi / Vim Mastery | Modal editing (Normal, Insert, Visual, Command), motions, `:wq` |
+| [10-Echo-and-Redirection.md](./10-Echo-and-Redirection.md) | I/O Streams & Redirection | `stdout`, `stderr`, `>`, `>>`, `2>`, `2>&1`, pipes (`\|`), `tee -a` |
+| [11-All-Flags-Cheat-Sheet.md](./11-All-Flags-Cheat-Sheet.md) | Master Command Flags | Exhaustive flag reference for every core file utility |
+| [12-Paths-Wildcards-and-Expansion.md](./12-Paths-Wildcards-and-Expansion.md) | Globbing & Expansion | Wildcards (`*`, `?`, `[]`), brace expansion (`{a,b}`), escaping |
+| [13-Permissions-and-Ownership.md](./13-Permissions-and-Ownership.md) | Permissions & Ownership | `chmod`, `chown`, `chgrp`, `umask`, SUID, SGID, Sticky Bit |
+| [14-Links-and-Metadata.md](./14-Links-and-Metadata.md) | Links & Inode Metadata | Hard links vs Symbolic links (`ln -s`), `stat`, timestamps |
+| [15-Find-Search-and-Inspection.md](./15-Find-Search-and-Inspection.md) | Search & File Inspection | `find` recipes, `grep -rni`, magic byte inspection with `file` |
+| [16-Archives-and-Compression.md](./16-Archives-and-Compression.md) | Archiving & Compression | `tar -czvf`, `tar -xvf`, `gzip`, `bzip2`, `xz`, `zip`/`unzip` |
+| [17-Real-World-Scenarios.md](./17-Real-World-Scenarios.md) | Production Scenarios | Runaway log zeroing, logrotate, CI/CD pipeline artifact storage |
+| [18-Troubleshooting.md](./18-Troubleshooting.md) | Diagnostic Playbooks | Permission denied, argument list too long, device or resource busy |
+| [19-Interview-Q&A.md](./19-Interview-Q&A.md) | Technical Interview QA | 10 In-depth file management questions with interview frameworks |
+| [20-Hands-On-Practice.md](./20-Hands-On-Practice.md) | Terminal Exercises | 5 Hands-on labs (redirection, safe deletion, vim workout, links) |
+| [21-MCQ.md](./21-MCQ.md) | Self-Assessment Quiz | 10 Multiple-choice questions with answer keys & justifications |
+| [22-Quick-Revision.md](./22-Quick-Revision.md) | 5-Minute Cheat Sheet | High-speed command reference, vim survival guide, syntax tables |
+| [23-Related-Topics.md](./23-Related-Topics.md) | Downstream Connections | Bash scripting, sed & awk, cron automation, GitOps |
+| [SOURCE.md](./SOURCE.md) | Source Material Mapping | Mapping of notes to the original file management command set |
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| — | You are here | [01 - Navigation ls cd pwd](./01-Navigation-ls-cd-pwd.md) |

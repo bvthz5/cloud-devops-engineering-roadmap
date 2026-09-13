@@ -39,19 +39,24 @@ To transform general platform comparisons into a production-grade DevOps study g
 
 ## 📂 Topic File Index
 
-- [`README.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/README.md)
-- [`01-Why-Linux-Is-Preferred.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/01-Why-Linux-Is-Preferred.md)
-- [`02-Cost-Effectiveness-and-Licensing.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/02-Cost-Effectiveness-and-Licensing.md)
-- [`03-Performance-Efficiency-and-Resource-Usage.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/03-Performance-Efficiency-and-Resource-Usage.md)
-- [`04-Security-Permissions-and-Reliability.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/04-Security-Permissions-and-Reliability.md)
-- [`05-Linux-vs-Windows-Comparison-Matrix.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/05-Linux-vs-Windows-Comparison-Matrix.md)
-- [`06-Linux-in-DevOps-Cloud-and-Containers.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/06-Linux-in-DevOps-Cloud-and-Containers.md)
-- [`07-CLI-vs-GUI-Philosophies.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/07-CLI-vs-GUI-Philosophies.md)
-- [`08-Practical-Commands-and-Tools.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/08-Practical-Commands-and-Tools.md)
-- [`09-Real-World-Production-Scenarios.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/09-Real-World-Production-Scenarios.md)
-- [`10-Troubleshooting.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/10-Troubleshooting.md)
-- [`11-Interview-QA.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/11-Interview-QA.md)
-- [`12-Hands-On-Practice.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/12-Hands-On-Practice.md)
-- [`13-MCQ.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/13-MCQ.md)
-- [`14-Quick-Revision.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/14-Quick-Revision.md)
-- [`15-Related-Topics.md`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/15-Related-Topics.md)
+- [`README.md`](./README.md)
+- [`01-Why-Linux-Is-Preferred.md`](./01-Why-Linux-Is-Preferred.md)
+- [`02-Cost-Effectiveness-and-Licensing.md`](./02-Cost-Effectiveness-and-Licensing.md)
+- [`03-Performance-Efficiency-and-Resource-Usage.md`](./03-Performance-Efficiency-and-Resource-Usage.md)
+- [`04-Security-Permissions-and-Reliability.md`](./04-Security-Permissions-and-Reliability.md)
+- [`05-Linux-vs-Windows-Comparison-Matrix.md`](./05-Linux-vs-Windows-Comparison-Matrix.md)
+- [`06-Linux-in-DevOps-Cloud-and-Containers.md`](./06-Linux-in-DevOps-Cloud-and-Containers.md)
+- [`07-CLI-vs-GUI-Philosophies.md`](./07-CLI-vs-GUI-Philosophies.md)
+- [`08-Practical-Commands-and-Tools.md`](./08-Practical-Commands-and-Tools.md)
+- [`09-Real-World-Production-Scenarios.md`](./09-Real-World-Production-Scenarios.md)
+- [`10-Troubleshooting.md`](./10-Troubleshooting.md)
+- [`11-Interview-QA.md`](./11-Interview-QA.md)
+- [`12-Hands-On-Practice.md`](./12-Hands-On-Practice.md)
+- [`13-MCQ.md`](./13-MCQ.md)
+- [`14-Quick-Revision.md`](./14-Quick-Revision.md)
+- [`15-Related-Topics.md`](./15-Related-Topics.md)
+---
+
+| Back to Index |
+| :---: |
+| [README](./README.md) |

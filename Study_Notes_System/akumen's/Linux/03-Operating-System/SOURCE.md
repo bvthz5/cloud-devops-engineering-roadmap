@@ -52,3 +52,8 @@ Key added components include:
    - 4 Hands-on terminal labs (`pstree`, minor/major page faults, zombie reproduction, and hardware interrupts).
    - 10 Multiple choice self-assessment questions.
    - 5-Minute pre-interview revision cheat sheet.
+---
+
+| Back to Index |
+| :---: |
+| [README](./README.md) |

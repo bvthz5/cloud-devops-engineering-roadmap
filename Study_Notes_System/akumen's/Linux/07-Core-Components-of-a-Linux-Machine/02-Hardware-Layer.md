@@ -28,9 +28,8 @@ When hardware receives data (such as a network packet hitting a NIC or a key pre
 # View real-time hardware interrupt counts per CPU core
 cat /proc/interrupts
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [01 - Layered Architecture Overview](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/01-Layered-Architecture-Overview.md)
-- Next: [03 - Linux Kernel Core](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/03-Linux-Kernel-Core.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Layered Architecture Overview](./01-Layered-Architecture-Overview.md) | [README](./README.md) | [03 - Linux Kernel Core](./03-Linux-Kernel-Core.md) |

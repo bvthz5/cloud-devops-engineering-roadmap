@@ -57,3 +57,8 @@ Mastering the Linux Directory Structure unlocks the core mental model required f
    - `man 8 mount` — Mount a filesystem.
    - `man 5 proc` — Process information pseudo-filesystem.
 3. **Freedesktop.org:** The Case for Merged `/usr` (UsrMerge documentation).
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - Quick Revision](./13-Quick-Revision.md) | [README](./README.md) | — |

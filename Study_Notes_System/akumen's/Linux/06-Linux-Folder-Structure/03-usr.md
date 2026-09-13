@@ -38,9 +38,8 @@ Contains architecture-independent data:
 - `/usr/share/man`: System manual pages read by `man` command.
 - `/usr/share/doc`: Package documentation and examples.
 - `/usr/share/fonts`: System-wide font files.
-
 ---
 
-## ⬅️ Navigation
-- Previous: [02 - `/boot` Directory](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/02-boot.md)
-- Next: [04 - `/etc` Directory](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/04-etc.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - boot](./02-boot.md) | [README](./README.md) | [04 - etc](./04-etc.md) |

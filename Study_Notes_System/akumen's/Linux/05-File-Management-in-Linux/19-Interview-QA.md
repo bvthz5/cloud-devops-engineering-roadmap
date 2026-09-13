@@ -83,3 +83,8 @@ The kernel calculates default creation permissions by taking base defaults (`666
 With a standard `umask` of `022`:
 - **New File:** `666 - 022 = 644` (`rw-r--r--`)
 - **New Directory:** `777 - 022 = 755` (`rwxr-xr-x`)
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [18 - Troubleshooting](./18-Troubleshooting.md) | [README](./README.md) | [20 - Hands On Practice](./20-Hands-On-Practice.md) |

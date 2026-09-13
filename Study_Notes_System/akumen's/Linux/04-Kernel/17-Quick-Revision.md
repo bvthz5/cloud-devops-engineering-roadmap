@@ -71,3 +71,8 @@ sudo sysctl -p /etc/sysctl.d/99-custom.conf
 | **`kernel.panic`** | `10` | Automatically reboots host 10 seconds after a kernel panic. |
 | **`fs.file-max`** | `2097152` | Raises system-wide file descriptor limit for high-concurrency servers. |
 | **`net.core.somaxconn`** | `4096` | Increases TCP listen backlog queue for high-traffic web services. |
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [16 - MCQ](./16-MCQ.md) | [README](./README.md) | [18 - Related Topics](./18-Related-Topics.md) |

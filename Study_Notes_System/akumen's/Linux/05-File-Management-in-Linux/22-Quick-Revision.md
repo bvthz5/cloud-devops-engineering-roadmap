@@ -73,9 +73,8 @@ A high-density 5-minute reference sheet for Linux file operations, syntax, and o
    `rm -rf /` or `rm -rf / path/to/dir` (notice the accidental space).
 3. **Use `-i` for interactive prompts when overwriting or removing:**
    `cp -i`, `mv -i`, `rm -i`.
-
 ---
 
-## ⬅️ Navigation
-- Previous: [21 - Multiple Choice Questions](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/05-File-Management-in-Linux/21-MCQ.md)
-- Next: [23 - Related Topics & Next Steps](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/05-File-Management-in-Linux/23-Related-Topics.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [21 - MCQ](./21-MCQ.md) | [README](./README.md) | [23 - Related Topics](./23-Related-Topics.md) |

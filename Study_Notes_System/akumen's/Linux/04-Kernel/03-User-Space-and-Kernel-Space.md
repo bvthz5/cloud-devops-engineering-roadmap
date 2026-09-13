@@ -69,3 +69,8 @@ In 2018, researchers discovered the **Meltdown** hardware vulnerability, which a
 In response, the Linux kernel implemented **KPTI (Kernel Page Table Isolation)**:
 - In user mode, the kernel's memory map is stripped out of the process's page table entirely.
 - When a system call occurs, the kernel swaps to a separate page table containing kernel memory, eliminating speculative leaks at the cost of a slight performance penalty on older CPUs.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - Kernel Responsibilities](./02-Kernel-Responsibilities.md) | [README](./README.md) | [04 - System Calls](./04-System-Calls.md) |

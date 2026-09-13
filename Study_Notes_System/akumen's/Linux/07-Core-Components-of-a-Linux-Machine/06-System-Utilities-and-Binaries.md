@@ -39,9 +39,8 @@ type ls
 type -a ls
 # Output: ls is /usr/bin/ls
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [05 - System Libraries & glibc](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/05-System-Libraries-and-Glibc.md)
-- Next: [07 - The Shell](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/07-The-Shell.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - System Libraries and Glibc](./05-System-Libraries-and-Glibc.md) | [README](./README.md) | [07 - The Shell](./07-The-Shell.md) |

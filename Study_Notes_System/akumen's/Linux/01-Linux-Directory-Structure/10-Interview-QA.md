@@ -103,3 +103,8 @@ If an administrator navigating through `/tmp` typed `ls`, the shell would execut
 **Answer:**
 A bind mount makes an existing directory or file available at a second mount point elsewhere in the filesystem tree, bypassing standard symlinks. Both mount points reference the exact same underlying inodes and disk blocks.
 In Docker, bind mounts (`docker run -v /host/path:/container/path`) allow a container to mount a directory directly from the host operating system into its private mount namespace, enabling shared configuration files, persistent data storage, or live source code reloading.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Troubleshooting](./09-Troubleshooting.md) | [README](./README.md) | [11 - Hands On Practice](./11-Hands-On-Practice.md) |

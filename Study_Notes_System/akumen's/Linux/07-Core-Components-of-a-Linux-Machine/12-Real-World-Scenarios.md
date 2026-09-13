@@ -35,9 +35,8 @@ dmesg -T | grep -iE 'net|eth0|ena|error'
 # Unload and reload network driver module (if accessible via out-of-band console)
 sudo modprobe -r ena && sudo modprobe ena
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [11 - Practical Commands for Component Inspection](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/11-Practical-Commands.md)
-- Next: [13 - Troubleshooting Methodology](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/13-Troubleshooting.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Practical Commands](./11-Practical-Commands.md) | [README](./README.md) | [13 - Troubleshooting](./13-Troubleshooting.md) |

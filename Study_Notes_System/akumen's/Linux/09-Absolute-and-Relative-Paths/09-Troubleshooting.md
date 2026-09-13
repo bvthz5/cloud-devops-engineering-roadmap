@@ -51,9 +51,8 @@ Wrap paths containing spaces in double quotes or escape spaces with backslashes:
 cd "/home/user/my documents"
 cd /home/user/my\ documents
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [08 - Real-World Production Scenarios](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/08-Real-World-Production-Scenarios.md)
-- Next: [10 - Interview Q&A](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/10-Interview-QA.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Real World Production Scenarios](./08-Real-World-Production-Scenarios.md) | [README](./README.md) | [10 - Interview QA](./10-Interview-QA.md) |

@@ -53,3 +53,8 @@ Operating System concepts serve as the bedrock for systems programming, containe
 1. **Silberschatz, Galvin, Gagne:** *Operating System Concepts* ("The Dinosaur Book") — The classic computer science textbook on OS theory.
 2. **Andrew S. Tanenbaum:** *Modern Operating Systems* — Detailed analysis of processes, memory, file systems, and distributed OS design.
 3. **Arpaci-Dusseau:** *Operating Systems: Three Easy Pieces (OSTEP)* — Free, world-class book covering Virtualization, Concurrency, and Persistence.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [16 - Quick Revision](./16-Quick-Revision.md) | [README](./README.md) | — |

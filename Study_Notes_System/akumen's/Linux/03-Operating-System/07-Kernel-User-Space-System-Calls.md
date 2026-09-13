@@ -71,3 +71,8 @@ When an application requests a system call (like `write(fd, buffer, count)`), ho
    When arguments exceed available registers, they are stored in a contiguous block in memory, and a single pointer to that memory block is passed in a register.
 3. **Stack:**
    Arguments are pushed onto the process's stack by user code, and popped off by the kernel trap handler.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Devices IO and Networking](./06-Devices-IO-and-Networking.md) | [README](./README.md) | [08 - Types of Operating Systems](./08-Types-of-Operating-Systems.md) |

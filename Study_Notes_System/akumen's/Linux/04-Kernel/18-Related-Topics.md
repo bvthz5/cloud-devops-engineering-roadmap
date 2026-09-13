@@ -52,3 +52,8 @@ Understanding kernel architecture positions you to master container runtimes, hi
 1. **Robert Love:** *Linux Kernel Development* (3rd Edition) — The canonical guide to kernel subsystems, schedulers, and memory allocation.
 2. **Jonathan Corbet, Alessandro Rubini, Greg Kroah-Hartman:** *Linux Device Drivers* (LDD3) — Comprehensive manual on writing kernel drivers.
 3. **Official Linux Kernel Documentation:** [docs.kernel.org](https://docs.kernel.org/) — The upstream documentation maintained by kernel developers.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [17 - Quick Revision](./17-Quick-Revision.md) | [README](./README.md) | — |

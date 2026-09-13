@@ -64,3 +64,8 @@ $ cat /sys/block/sda/queue/scheduler
 $ cat /sys/block/nvme0n1/queue/scheduler
 [none] mq-deadline
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Memory Management](./06-Memory-Management.md) | [README](./README.md) | [08 - Device Drivers and Kernel Modules](./08-Device-Drivers-and-Kernel-Modules.md) |

@@ -65,22 +65,27 @@ Welcome to the comprehensive module on the **Linux Kernel**. The kernel is the c
 
 | File | Title | Key Topics Covered |
 |---|---|---|
-| [01-Kernel-Basics.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/01-Kernel-Basics.md) | Kernel Fundamentals | Definition, the bridge between software & hardware, core objectives |
-| [02-Kernel-Responsibilities.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/02-Kernel-Responsibilities.md) | The 4 Core Responsibilities | Process, memory, filesystem, and device control overview |
-| [03-User-Space-and-Kernel-Space.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/03-User-Space-and-Kernel-Space.md) | Privilege Boundaries | Ring 0 vs Ring 3, memory isolation, fault containment |
-| [04-System-Calls.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/04-System-Calls.md) | System Call Gateway | Syscall dispatch, register calling conventions, glibc interception |
-| [05-Process-Management.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/05-Process-Management.md) | Process & Scheduler Subsystem | `task_struct`, CFS scheduler, red-black tree, preemption, cgroups |
-| [06-Memory-Management.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/06-Memory-Management.md) | Memory Subsystem | Virtual memory, page tables, Page Cache, Slab allocator, OOM Killer |
-| [07-Filesystem-and-Storage.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/07-Filesystem-and-Storage.md) | VFS & Storage Subsystem | VFS architecture, superblocks, inodes, dentries, block I/O layer |
-| [08-Device-Drivers-and-Kernel-Modules.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/08-Device-Drivers-and-Kernel-Modules.md) | Drivers & LKMs | Character/Block/Network drivers, LKMs (`.ko`), `modprobe`, `lsmod` |
-| [09-Linux-Kernel-Architecture.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/09-Linux-Kernel-Architecture.md) | Architectural Classification | Modular Monolithic design, microkernel contrast, eBPF revolution |
-| [10-Kernel-Information-and-Commands.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/10-Kernel-Information-and-Commands.md) | CLI Inspection & Tuning | `uname`, `dmesg`, `sysctl`, `lsmod`, `/proc/sys`, `slabtop` |
-| [11-Linux-Distributions.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/11-Linux-Distributions.md) | Kernel in Distributions | Release models (LTS vs Rolling), package managers, kernels across distros |
-| [12-Real-World-Scenarios.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/12-Real-World-Scenarios.md) | Production Scenarios | Soft lockup crashes, slab memory leaks, kernel live patching |
-| [13-Troubleshooting.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/13-Troubleshooting.md) | Troubleshooting Playbooks | Kernel Panic triage, diagnosing hung tasks, `dmesg` analysis |
-| [14-Interview-Q&A.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/14-Interview-Q&A.md) | Technical Interview QA | 10 Senior kernel interview questions with architectural answers |
-| [15-Hands-On-Practice.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/15-Hands-On-Practice.md) | Hands-On Labs | Tuning kernel parameters with `sysctl`, LKM loading, Slab inspection |
-| [16-MCQ.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/16-MCQ.md) | Self-Assessment Quiz | 10 Multiple choice questions with answer keys & explanations |
-| [17-Quick-Revision.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/17-Quick-Revision.md) | 5-Minute Summary | Quick cheat sheet, core responsibilities, kernel command reference |
-| [18-Related-Topics.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/18-Related-Topics.md) | Downstream Connections | eBPF observability, container runtimes, custom kernel compilation |
-| [SOURCE.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/SOURCE.md) | Source Material Mapping | Mapping of notes to the original Kernel & Distro curriculum |
+| [01-Kernel-Basics.md](./01-Kernel-Basics.md) | Kernel Fundamentals | Definition, the bridge between software & hardware, core objectives |
+| [02-Kernel-Responsibilities.md](./02-Kernel-Responsibilities.md) | The 4 Core Responsibilities | Process, memory, filesystem, and device control overview |
+| [03-User-Space-and-Kernel-Space.md](./03-User-Space-and-Kernel-Space.md) | Privilege Boundaries | Ring 0 vs Ring 3, memory isolation, fault containment |
+| [04-System-Calls.md](./04-System-Calls.md) | System Call Gateway | Syscall dispatch, register calling conventions, glibc interception |
+| [05-Process-Management.md](./05-Process-Management.md) | Process & Scheduler Subsystem | `task_struct`, CFS scheduler, red-black tree, preemption, cgroups |
+| [06-Memory-Management.md](./06-Memory-Management.md) | Memory Subsystem | Virtual memory, page tables, Page Cache, Slab allocator, OOM Killer |
+| [07-Filesystem-and-Storage.md](./07-Filesystem-and-Storage.md) | VFS & Storage Subsystem | VFS architecture, superblocks, inodes, dentries, block I/O layer |
+| [08-Device-Drivers-and-Kernel-Modules.md](./08-Device-Drivers-and-Kernel-Modules.md) | Drivers & LKMs | Character/Block/Network drivers, LKMs (`.ko`), `modprobe`, `lsmod` |
+| [09-Linux-Kernel-Architecture.md](./09-Linux-Kernel-Architecture.md) | Architectural Classification | Modular Monolithic design, microkernel contrast, eBPF revolution |
+| [10-Kernel-Information-and-Commands.md](./10-Kernel-Information-and-Commands.md) | CLI Inspection & Tuning | `uname`, `dmesg`, `sysctl`, `lsmod`, `/proc/sys`, `slabtop` |
+| [11-Linux-Distributions.md](./11-Linux-Distributions.md) | Kernel in Distributions | Release models (LTS vs Rolling), package managers, kernels across distros |
+| [12-Real-World-Scenarios.md](./12-Real-World-Scenarios.md) | Production Scenarios | Soft lockup crashes, slab memory leaks, kernel live patching |
+| [13-Troubleshooting.md](./13-Troubleshooting.md) | Troubleshooting Playbooks | Kernel Panic triage, diagnosing hung tasks, `dmesg` analysis |
+| [14-Interview-Q&A.md](./14-Interview-Q&A.md) | Technical Interview QA | 10 Senior kernel interview questions with architectural answers |
+| [15-Hands-On-Practice.md](./15-Hands-On-Practice.md) | Hands-On Labs | Tuning kernel parameters with `sysctl`, LKM loading, Slab inspection |
+| [16-MCQ.md](./16-MCQ.md) | Self-Assessment Quiz | 10 Multiple choice questions with answer keys & explanations |
+| [17-Quick-Revision.md](./17-Quick-Revision.md) | 5-Minute Summary | Quick cheat sheet, core responsibilities, kernel command reference |
+| [18-Related-Topics.md](./18-Related-Topics.md) | Downstream Connections | eBPF observability, container runtimes, custom kernel compilation |
+| [SOURCE.md](./SOURCE.md) | Source Material Mapping | Mapping of notes to the original Kernel & Distro curriculum |
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| — | You are here | [01 - Kernel Basics](./01-Kernel-Basics.md) |

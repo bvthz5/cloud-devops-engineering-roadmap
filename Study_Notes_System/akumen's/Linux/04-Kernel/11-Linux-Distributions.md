@@ -65,3 +65,8 @@ The source curriculum highlights four primary axes of divergence among distribut
 | **RHEL / Rocky Linux**| Heavily backported enterprise kernel | `dnf` (`.rpm`) | Fixed (10-yr cycle) | Banking, Government, Enterprise IT |
 | **Alpine Linux** | Minimal kernel, musl-libc runtime | `apk` (`.apk`) | Fixed (6-mo cycle) | Docker Containers, Microservices |
 | **Arch Linux** | Latest vanilla upstream kernel | `pacman` | Continuous Rolling | Advanced Linux users, Workstations |
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Kernel Information and Commands](./10-Kernel-Information-and-Commands.md) | [README](./README.md) | [12 - Real World Scenarios](./12-Real-World-Scenarios.md) |

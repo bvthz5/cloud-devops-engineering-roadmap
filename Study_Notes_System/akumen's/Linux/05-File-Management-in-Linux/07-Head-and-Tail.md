@@ -89,3 +89,8 @@ $ head -n 30 file.txt | tail -n 11
 # Method 2 (Direct with sed):
 $ sed -n '20,30p' file.txt
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Viewing cat tac less more](./06-Viewing-cat-tac-less-more.md) | [README](./README.md) | [08 - Nano](./08-Nano.md) |

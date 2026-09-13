@@ -65,3 +65,8 @@ $ ls -lh /boot/vmlinuz*
 2. **Bootloader (GRUB):** Loads `vmlinuz` (the kernel) and `initramfs` (initial RAM disk) into memory.
 3. **Kernel Initialization:** The kernel decompresses itself, probes CPU cores, initializes memory page tables, loads storage drivers from `initramfs`, and mounts the true root filesystem (`/`).
 4. **Spawning PID 1:** The kernel spawns the first user space process, `/sbin/init` (usually **`systemd`**), handing control over to userland.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - Kernel Responsibilities](./02-Kernel-Responsibilities.md) |

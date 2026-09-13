@@ -82,3 +82,8 @@ The OOM killer evaluates the `oom_score` of processes in that cgroup and termina
 **Answer:**
 eBPF (Extended Berkeley Packet Filter) allows developers to run custom, sandboxed bytecode directly inside the Linux kernel without modifying kernel source code or loading external kernel modules (`.ko`).
 The kernel's built-in **eBPF Verifier** statically analyzes the program before execution to guarantee it cannot crash the system, access unauthorized memory, or cause infinite loops. Modern cloud-native tools (like Cilium for Kubernetes networking and Falco for security) use eBPF to achieve near-zero-overhead packet routing, load balancing, and runtime observability directly at the kernel layer.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Troubleshooting](./08-Troubleshooting.md) | [README](./README.md) | [10 - Hands On Practice](./10-Hands-On-Practice.md) |

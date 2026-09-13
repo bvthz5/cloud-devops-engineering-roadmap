@@ -59,3 +59,8 @@ On modern filesystems supporting Copy-on-Write (such as XFS and Btrfs):
 $ cp --reflink=always huge_database.db snapshot.db
 ```
 The kernel creates a new file metadata pointer that points to the exact same physical disk blocks. Disk space is only consumed when one of the files is subsequently modified!
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - Delete rm](./03-Delete-rm.md) | [README](./README.md) | [05 - Move and Rename mv](./05-Move-and-Rename-mv.md) |

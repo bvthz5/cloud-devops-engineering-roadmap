@@ -135,3 +135,8 @@ To remount it back to read-write mode after remediation:
 ```bash
 $ sudo mount -o remount,rw /
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - FHS and Modern Linux](./05-FHS-and-Modern-Linux.md) | [README](./README.md) | [07 - Practical Commands](./07-Practical-Commands.md) |

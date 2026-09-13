@@ -32,9 +32,8 @@ lspci -k | head -n 20
 # 4. View kernel ring buffer boot messages related to memory or storage
 dmesg -T | grep -iE 'memory|nvme|sda' | head -n 15
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [10 - Shell Built-ins vs External Binaries](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/10-Shell-Builtins-vs-External-Binaries-cd-vs-ls.md)
-- Next: [12 - Real-World Production Scenarios](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/12-Real-World-Scenarios.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Shell Builtins vs External Binaries cd vs ls](./10-Shell-Builtins-vs-External-Binaries-cd-vs-ls.md) | [README](./README.md) | [12 - Real World Scenarios](./12-Real-World-Scenarios.md) |

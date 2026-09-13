@@ -87,3 +87,8 @@ When physical RAM is 100% full and a new page must be allocated, the OS must cho
 **Thrashing** occurs when a computer's physical memory is so oversubscribed that the operating system spends more CPU cycles swapping pages in and out of disk than executing user instructions.
 - Symptoms: CPU utilization plunges, Disk I/O wait (`%wa`) hits 100%, and system becomes completely unresponsive.
 - Solution: Terminate memory-hungry processes, add physical RAM, or tune `vm.swappiness`.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - Process Management](./03-Process-Management.md) | [README](./README.md) | [05 - File and Storage Management](./05-File-and-Storage-Management.md) |

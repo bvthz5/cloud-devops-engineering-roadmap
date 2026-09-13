@@ -80,3 +80,8 @@ $ unzip archive.zip -d /target/path/
 | **`bzip2`** | Moderate | Better | `.bz2` / `.tar.bz2` |
 | **`xz`** | Slower | **Best** | `.xz` / `.tar.xz` |
 | **`zip`** | Fast | Good (Cross-Platform) | `.zip` |
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - Find Search and Inspection](./15-Find-Search-and-Inspection.md) | [README](./README.md) | [17 - Real World Scenarios](./17-Real-World-Scenarios.md) |

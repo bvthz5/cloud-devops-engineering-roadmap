@@ -76,3 +76,8 @@ Docker, containerd, and Kubernetes do not exist as physical objects in the Linux
 │ • UTS: Isolated hostname     │                              │
 └──────────────────────────────┴──────────────────────────────┘
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - System Calls](./04-System-Calls.md) | [README](./README.md) | [06 - Memory Management](./06-Memory-Management.md) |

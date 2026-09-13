@@ -62,3 +62,8 @@ The Linux kernel exposes approximately 450 system calls. The most critical for s
 - **`bind()` & `listen()`:** Binds a socket to an IP/port and marks it as passive, ready to accept connections.
 - **`accept()` / `accept4()`:** Extracts the first incoming connection request on a listening socket.
 - **`epoll_create()` / `epoll_wait()`:** Scalable I/O event notification mechanism powering high-performance servers like Nginx and Node.js.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - User Space and Kernel Space](./03-User-Space-and-Kernel-Space.md) | [README](./README.md) | [05 - Process Management](./05-Process-Management.md) |

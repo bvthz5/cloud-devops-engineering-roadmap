@@ -101,3 +101,8 @@ $ sudo fuser -v /mnt/storage
 $ sudo fuser -k -m /mnt/storage
 $ sudo umount /mnt/storage
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [17 - Real World Scenarios](./17-Real-World-Scenarios.md) | [README](./README.md) | [19 - Interview QA](./19-Interview-QA.md) |

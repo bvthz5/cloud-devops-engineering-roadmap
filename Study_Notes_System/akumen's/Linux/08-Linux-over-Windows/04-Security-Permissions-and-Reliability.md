@@ -31,9 +31,8 @@ Linux Live Patching Policy:
   - Software updates (Nginx, Python, Docker) restart only the specific service daemon.
   - Kernel updates can be hot-patched in memory without rebooting (Kpatch, Canonical Livepatch).
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [03 - Performance & Efficiency](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/03-Performance-Efficiency-and-Resource-Usage.md)
-- Next: [05 - Linux vs Windows Comparison Matrix](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/05-Linux-vs-Windows-Comparison-Matrix.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - Performance Efficiency and Resource Usage](./03-Performance-Efficiency-and-Resource-Usage.md) | [README](./README.md) | [05 - Linux vs Windows Comparison Matrix](./05-Linux-vs-Windows-Comparison-Matrix.md) |

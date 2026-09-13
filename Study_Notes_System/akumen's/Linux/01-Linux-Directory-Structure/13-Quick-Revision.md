@@ -99,3 +99,8 @@ Run 'lsof +L1' to find               Check for hidden files shadowed under mount
 open unlinked file descriptors.      Unmount suspect mount points and check underlying dir.
 Zero via /proc/[PID]/fd/[FD].
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - MCQ](./12-MCQ.md) | [README](./README.md) | [14 - Related Topics](./14-Related-Topics.md) |

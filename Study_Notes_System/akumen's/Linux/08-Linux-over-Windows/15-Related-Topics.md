@@ -23,9 +23,8 @@ Understanding why Linux is preferred over Windows forms the operational foundati
    Learn variables, conditionals, loops, functions, and error handling for automated server administration.
 2. **Explore Container Runtimes (Docker / Podman):**
    Build minimal Linux container images and inspect container namespaces and resource caps.
-
 ---
 
-## ⬅️ Navigation
-- Previous: [14 - Quick Revision Cheat Sheet](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/14-Quick-Revision.md)
-- Topic Index: [README.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/README.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Quick Revision](./14-Quick-Revision.md) | [README](./README.md) | — |

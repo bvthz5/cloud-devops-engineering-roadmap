@@ -70,9 +70,8 @@ Square brackets with a range `[1-3]` match exactly one character that is either 
 **Explanation:**
 Excluding `.` from `$PATH` prevents malicious scripts named after common commands (e.g. `ls` or `cd`) placed in `/tmp` from accidentally executing when a user types the command name.
 </details>
-
 ---
 
-## ⬅️ Navigation
-- Previous: [11 - Hands-On Practice](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/11-Hands-On-Practice.md)
-- Next: [13 - Quick Revision Cheat Sheet](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/13-Quick-Revision.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Hands On Practice](./11-Hands-On-Practice.md) | [README](./README.md) | [13 - Quick Revision](./13-Quick-Revision.md) |

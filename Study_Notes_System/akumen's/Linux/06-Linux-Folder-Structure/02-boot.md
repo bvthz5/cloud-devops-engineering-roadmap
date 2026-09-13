@@ -39,9 +39,8 @@ df -h /boot
 # Remove old unused kernel packages (Debian/Ubuntu)
 sudo apt autoremove --purge
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [01 - Filesystem Root](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/01-Filesystem-Root.md)
-- Next: [03 - `/usr` Directory](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/03-usr.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Filesystem Root](./01-Filesystem-Root.md) | [README](./README.md) | [03 - usr](./03-usr.md) |

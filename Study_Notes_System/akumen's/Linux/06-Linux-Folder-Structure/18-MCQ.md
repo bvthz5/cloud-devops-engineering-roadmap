@@ -86,9 +86,8 @@ Test your knowledge on the Linux Filesystem Hierarchy Standard (FHS).
 **Explanation:**
 Under usr-merge, legacy binary directories (`/bin`, `/sbin`, `/lib`) are symbolic links pointing to `/usr/bin`, `/usr/sbin`, and `/usr/lib`.
 </details>
-
 ---
 
-## ⬅️ Navigation
-- Previous: [17 - Hands-On Practice](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/17-Hands-On-Practice.md)
-- Next: [19 - Quick Revision Cheat Sheet](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/19-Quick-Revision.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [17 - Hands On Practice](./17-Hands-On-Practice.md) | [README](./README.md) | [19 - Quick Revision](./19-Quick-Revision.md) |

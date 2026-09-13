@@ -151,3 +151,8 @@ Test your knowledge of the Linux kernel architecture, core responsibilities, mem
 **Correct Answer: B**  
 **Explanation:** Rolling release distributions (like Arch Linux) do not have fixed version numbers (e.g., "22.04"). Instead, packages and upstream kernel versions are updated continuously, delivering bleeding-edge software at the expense of potential stability regressions.
 </details>
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - Hands On Practice](./15-Hands-On-Practice.md) | [README](./README.md) | [17 - Quick Revision](./17-Quick-Revision.md) |

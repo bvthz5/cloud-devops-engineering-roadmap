@@ -76,3 +76,8 @@ $ shred -u -z -n 3 server.key
 - **`-n 3`:** Overwrites 3 times with pseudo-random data.
 - **`-z`:** Adds a final overwrite with zeros to conceal shredding.
 - **`-u`:** Deallocates and deletes the file after overwriting.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - Directories mkdir rmdir](./02-Directories-mkdir-rmdir.md) | [README](./README.md) | [04 - Copy cp](./04-Copy-cp.md) |

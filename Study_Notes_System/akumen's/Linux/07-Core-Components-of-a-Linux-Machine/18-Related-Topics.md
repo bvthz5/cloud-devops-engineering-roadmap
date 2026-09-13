@@ -22,9 +22,8 @@ Mastering the layered architecture of a Linux machine connects directly into low
    Write C code invoking `fork()`, `execve()`, and `pipe()` directly to build a custom mini-shell.
 2. **Container Engine Internals:**
    Explore how Docker and Kubernetes use Linux kernel primitives (cgroups, namespaces, seccomp filters) to isolate user-space application containers.
-
 ---
 
-## ⬅️ Navigation
-- Previous: [17 - Quick Revision Cheat Sheet](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/17-Quick-Revision.md)
-- Topic Index: [README.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/README.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [17 - Quick Revision](./17-Quick-Revision.md) | [README](./README.md) | — |

@@ -112,3 +112,8 @@ The CPU scheduler determines which ready process is allocated CPU execution time
 │    Kill or restart the negligent PARENT process!         │
 └──────────────────────────────────────────────────────────┘
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - Functions of OS](./02-Functions-of-OS.md) | [README](./README.md) | [04 - Memory Management](./04-Memory-Management.md) |

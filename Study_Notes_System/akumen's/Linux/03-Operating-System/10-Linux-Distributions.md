@@ -64,3 +64,8 @@ Modern cloud infrastructure frequently avoids traditional distros with package m
 | **Enterprise / Financial Infrastructure**| **RHEL** or **Rocky Linux** | 10-year support lifecycle, FIPS security certification, SELinux enforcement. |
 | **Docker Base Images (Microservices)**| **Alpine Linux** (or Debian-slim) | Minimizes image pull time, lowers storage costs, reduces attack surface. |
 | **Dedicated Kubernetes Nodes** | **Talos Linux** or **Flatcar** | Zero attack surface, immutable root, automated zero-downtime cluster upgrades. |
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - UNIX GNU Linux History](./09-UNIX-GNU-Linux-History.md) | [README](./README.md) | [11 - Real World Scenarios](./11-Real-World-Scenarios.md) |

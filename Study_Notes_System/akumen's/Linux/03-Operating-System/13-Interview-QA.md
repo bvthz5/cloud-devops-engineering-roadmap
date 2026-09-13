@@ -96,3 +96,8 @@ If a storage array, SAN volume, or network NFS share hangs, dozens of processes 
 - **VSZ (Virtual Memory Size):** The total virtual address space allocated to the process, including mapped shared libraries, executable code, stack, and uncommitted heap allocations.
 - **RSS (Resident Set Size):** The actual number of physical RAM pages currently mapped and resident in DRAM memory frames for that process.
 - *Production Significance:* High VSZ is normal and harmless. A continuously increasing RSS indicates an active memory leak that will eventually trigger the kernel's Out-Of-Memory (OOM) Killer.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Troubleshooting](./12-Troubleshooting.md) | [README](./README.md) | [14 - Hands On Practice](./14-Hands-On-Practice.md) |

@@ -57,9 +57,8 @@ sudo mount /dev/nvme1n1 /data
 | **`/mnt`** | Yes | Temporary manual admin mounts | No |
 | **`/media`** | Yes | Removable media (USB, CD-ROM) | Yes (Desktop DE) |
 | **`/data`** | No (Custom) | Dedicated high-capacity application/DB storage | No (Configured in `/etc/fstab`) |
-
 ---
 
-## ⬅️ Navigation
-- Previous: [09 - `/proc`, `/sys`, and `/dev`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/09-proc-sys-and-dev.md)
-- Next: [11 - Usr-Merge Symlinks: `/bin`, `/sbin`, `/lib`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/11-Symbolic-Links-bin-sbin-lib.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - proc sys and dev](./09-proc-sys-and-dev.md) | [README](./README.md) | [11 - Symbolic Links bin sbin lib](./11-Symbolic-Links-bin-sbin-lib.md) |

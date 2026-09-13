@@ -46,9 +46,8 @@ cd ~alice
 # Check home directory ownership and permissions
 ls -ld /home/* /root
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [05 - `/var` Directory](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/05-var.md)
-- Next: [07 - `/opt` and `/srv`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/07-opt-and-srv.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - var](./05-var.md) | [README](./README.md) | [07 - opt and srv](./07-opt-and-srv.md) |

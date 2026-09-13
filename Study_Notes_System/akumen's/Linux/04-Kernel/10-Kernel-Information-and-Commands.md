@@ -102,3 +102,8 @@ $ sudo modprobe br_netfilter
 # 5. Safely unload an idle kernel module:
 $ sudo modprobe -r br_netfilter
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Linux Kernel Architecture](./09-Linux-Kernel-Architecture.md) | [README](./README.md) | [11 - Linux Distributions](./11-Linux-Distributions.md) |

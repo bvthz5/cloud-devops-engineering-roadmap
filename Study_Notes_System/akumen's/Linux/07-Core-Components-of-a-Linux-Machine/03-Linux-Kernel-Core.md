@@ -35,9 +35,8 @@ The **Linux Kernel** is the central component of the operating system operating 
 ### 4. Network Stack
 - Implements network protocols (Ethernet, IPv4, IPv6, TCP, UDP, ICMP).
 - Provides socket abstractions (`socket()`, `bind()`, `listen()`) for network communication.
-
 ---
 
-## ⬅️ Navigation
-- Previous: [02 - Hardware Layer](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/02-Hardware-Layer.md)
-- Next: [04 - Device Drivers](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/04-Device-Drivers.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - Hardware Layer](./02-Hardware-Layer.md) | [README](./README.md) | [04 - Device Drivers](./04-Device-Drivers.md) |

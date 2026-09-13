@@ -36,9 +36,8 @@ Linux filesystems incorporate special directory symbols and shell expansion shor
   cd ../..     # Go up 2 directory levels
   cd ../../../ # Go up 3 directory levels
   ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [03 - Relative Paths](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/03-Relative-Paths.md)
-- Next: [05 - Absolute vs Relative Comparison Matrix](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/05-Absolute-vs-Relative-Comparison.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - Relative Paths](./03-Relative-Paths.md) | [README](./README.md) | [05 - Absolute vs Relative Comparison](./05-Absolute-vs-Relative-Comparison.md) |

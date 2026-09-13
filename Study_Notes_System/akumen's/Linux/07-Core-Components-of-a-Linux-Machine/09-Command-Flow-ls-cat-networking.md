@@ -44,9 +44,8 @@ sequenceDiagram
 3. **Kernel Network Stack:** Passes through IP layer -> TCP layer -> Socket buffer.
 4. **System Library (`glibc`):** `recv()` / `read()` system call returns data payload to application space.
 5. **User Application:** Nginx or Python web application processes application protocol (HTTP/JSON).
-
 ---
 
-## ⬅️ Navigation
-- Previous: [08 - User Applications & Services](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/08-User-Applications-and-Services.md)
-- Next: [10 - Shell Built-ins vs External Binaries (`cd` vs `ls`)](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/10-Shell-Builtins-vs-External-Binaries-cd-vs-ls.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - User Applications and Services](./08-User-Applications-and-Services.md) | [README](./README.md) | [10 - Shell Builtins vs External Binaries cd vs ls](./10-Shell-Builtins-vs-External-Binaries-cd-vs-ls.md) |

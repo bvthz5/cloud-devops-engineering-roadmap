@@ -33,9 +33,8 @@ AWS EC2 Cost Comparison (Example: t3.large - 2 vCPU, 8 GB RAM):
 Cost Difference: Windows is ~110% more expensive per instance per month.
 At a scale of 100 instances, Linux saves ~$66,000 per year on OS license fees alone.
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [01 - Why Linux is Preferred](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/01-Why-Linux-Is-Preferred.md)
-- Next: [03 - Performance & Efficiency](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/08-Linux-over-Windows/03-Performance-Efficiency-and-Resource-Usage.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Why Linux Is Preferred](./01-Why-Linux-Is-Preferred.md) | [README](./README.md) | [03 - Performance Efficiency and Resource Usage](./03-Performance-Efficiency-and-Resource-Usage.md) |

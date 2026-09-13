@@ -80,3 +80,8 @@ Linux Kernel (Ring 0):
 ```
 
 eBPF is now the foundational engine behind modern Cloud-Native networking (Cilium), container security (Falco), and zero-overhead observability (Pixie, BCC).
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Device Drivers and Kernel Modules](./08-Device-Drivers-and-Kernel-Modules.md) | [README](./README.md) | [10 - Kernel Information and Commands](./10-Kernel-Information-and-Commands.md) |

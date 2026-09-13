@@ -117,3 +117,8 @@ $ sudo modprobe dummy
 # 4. Safely unload a module:
 $ sudo modprobe -r dummy
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Architecture Basics](./01-Architecture-Basics.md) | [README](./README.md) | [03 - System Calls and Libraries](./03-System-Calls-and-Libraries.md) |

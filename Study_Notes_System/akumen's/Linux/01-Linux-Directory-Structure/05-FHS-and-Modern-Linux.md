@@ -92,3 +92,8 @@ lrwxrwxrwx 1 root root 6 Jan  1 00:00 /var/run -> ../run
 ### 6. `/mnt` vs. `/media`
 - **`/mnt`:** Reserved for the system administrator to manually mount temporary filesystems or recovery images (`mount /dev/sdb1 /mnt`).
 - **`/media`:** Used by desktop environments and automounting daemons to dynamically mount removable hardware devices (USB flash drives, SD cards, external HDDs).
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Important Directories Deep Dive](./04-Important-Directories-Deep-Dive.md) | [README](./README.md) | [06 - Mounts and Filesystems](./06-Mounts-and-Filesystems.md) |

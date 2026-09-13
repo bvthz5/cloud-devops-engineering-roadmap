@@ -47,9 +47,8 @@ Practical terminal labs to practice path navigation, relative traversals, and wi
    ```bash
    rm -f /tmp/test_*.log /tmp/data_*.txt
    ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [10 - Interview Q&A](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/10-Interview-QA.md)
-- Next: [12 - Multiple Choice Questions](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/12-MCQ.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Interview QA](./10-Interview-QA.md) | [README](./README.md) | [12 - MCQ](./12-MCQ.md) |

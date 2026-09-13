@@ -74,3 +74,8 @@ vmstat 1
 # 8. Check kernel ring buffer for hardware/OOM errors:
 sudo dmesg -T --level=err,warn
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [13 - Related Topics](./13-Related-Topics.md) |

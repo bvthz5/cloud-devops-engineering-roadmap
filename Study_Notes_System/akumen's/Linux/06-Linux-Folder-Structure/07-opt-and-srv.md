@@ -46,9 +46,8 @@ Both `/opt` and `/srv` store application-related assets, but they serve distinct
 | **`/opt`** | Self-contained 3rd-party software packages. | Vendor installers / Tarballs | `/opt/gitlab/` |
 | **`/srv`** | Data served outwards to web/FTP/Git clients. | SysAdmin / Application services | `/srv/www/htdocs/` |
 | **`/usr/local`** | Custom binaries compiled manually from source. | SysAdmin (`make install`) | `/usr/local/bin/custom_tool` |
-
 ---
 
-## ⬅️ Navigation
-- Previous: [06 - `/home` and `/root`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/06-home-and-root.md)
-- Next: [08 - `/tmp` and `/run`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/08-tmp-and-run.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - home and root](./06-home-and-root.md) | [README](./README.md) | [08 - tmp and run](./08-tmp-and-run.md) |

@@ -39,9 +39,8 @@ Usr-merge consolidates root software directories (`/bin`, `/sbin`, `/lib`, `/lib
 ### Q6: Why is `/var/log` often placed on a separate partition in production servers?
 **Answer:**
 If `/var/log` shares the same partition as the root directory (`/`), a sudden flood of unrotated log entries can consume 100% of disk space. This would crash the entire operating system, prevent SSH logins, and halt database services. Placing `/var/log` on an isolated volume confines disk exhaustion to logs without crashing the host OS.
-
 ---
 
-## ⬅️ Navigation
-- Previous: [15 - Troubleshooting Filesystem Issues](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/15-Troubleshooting.md)
-- Next: [17 - Hands-On Practice & Exercises](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/17-Hands-On-Practice.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - Troubleshooting](./15-Troubleshooting.md) | [README](./README.md) | [17 - Hands On Practice](./17-Hands-On-Practice.md) |

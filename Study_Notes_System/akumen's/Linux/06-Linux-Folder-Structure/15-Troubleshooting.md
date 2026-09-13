@@ -61,9 +61,8 @@ find /var/spool -xdev -printf '%h\n' | sort | uniq -c | sort -nr | head -n 10
 # Find all broken symbolic links starting from /
 find / -xtype l -ls 2>/dev/null
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [14 - Real-World Production Scenarios](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/14-Real-World-Scenarios.md)
-- Next: [16 - Interview Q&A](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/16-Interview-QA.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Real World Scenarios](./14-Real-World-Scenarios.md) | [README](./README.md) | [16 - Interview QA](./16-Interview-QA.md) |

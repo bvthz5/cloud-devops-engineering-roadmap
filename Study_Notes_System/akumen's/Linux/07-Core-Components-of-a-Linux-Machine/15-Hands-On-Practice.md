@@ -47,9 +47,8 @@ Practical terminal labs for inspecting system libraries, shell built-ins, and ha
    ```bash
    strace -e trace=openat cat /etc/issue
    ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [14 - Interview Q&A](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/14-Interview-QA.md)
-- Next: [16 - Multiple Choice Questions](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/07-Core-Components-of-a-Linux-Machine/16-MCQ.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Interview QA](./14-Interview-QA.md) | [README](./README.md) | [16 - MCQ](./16-MCQ.md) |

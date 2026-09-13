@@ -55,3 +55,8 @@ Mastering Linux system architecture provides the theoretical and practical found
 1. **Robert Love:** *Linux Kernel Development* (3rd Edition) — The definitive overview of kernel subsystems and design.
 2. **Michael Kerrisk:** *The Linux Programming Interface (TLPI)* — The encyclopedia of Linux system calls and glibc functions.
 3. **Brendan Gregg:** *Systems Performance: Enterprise and the Cloud* (2nd Edition) — Masterclass on performance profiling, `vmstat`, `perf`, and eBPF.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Quick Revision](./12-Quick-Revision.md) | [README](./README.md) | — |

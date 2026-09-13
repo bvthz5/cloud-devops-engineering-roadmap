@@ -83,3 +83,8 @@ When physical RAM and swap are completely exhausted:
 2. The score is proportional to the percentage of RAM the process consumes.
 3. The process with the highest score receives an unblockable **`SIGKILL` (signal 9)**.
 4. Admins can protect critical services (like `sshd`) by adjusting `/proc/[PID]/oom_score_adj` to `-1000` (exempt from OOM).
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - Process Management](./05-Process-Management.md) | [README](./README.md) | [07 - Filesystem and Storage](./07-Filesystem-and-Storage.md) |

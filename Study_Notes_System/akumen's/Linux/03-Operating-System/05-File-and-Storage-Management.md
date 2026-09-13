@@ -88,3 +88,8 @@ Modern filesystems (ext4, XFS, NTFS) use **Journaling (Write-Ahead Logging)**:
 * If power dies during Step 3:
   On boot, the kernel replays the committed journal log in 2 seconds!
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Memory Management](./04-Memory-Management.md) | [README](./README.md) | [06 - Devices IO and Networking](./06-Devices-IO-and-Networking.md) |

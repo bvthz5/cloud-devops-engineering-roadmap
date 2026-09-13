@@ -47,3 +47,8 @@ This exhaustive cheat sheet summarizes the command-line flags for all core Linux
 | | `-v` | `--verbose` | Verbosely lists files being processed. |
 | | `-f` | `--file` | Specifies the archive file name. |
 | | `-C` | `--directory` | Changes to target directory before extracting. |
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Echo and Redirection](./10-Echo-and-Redirection.md) | [README](./README.md) | [12 - Paths Wildcards and Expansion](./12-Paths-Wildcards-and-Expansion.md) |

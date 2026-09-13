@@ -90,3 +90,8 @@ $ touch -m newfile.txt
 # 4. Set timestamp to a specific historic or future date (YYYYMMDDhhmm.ss):
 $ touch -t 202501011200.00 old_archive.tar.gz
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - Permissions and Ownership](./13-Permissions-and-Ownership.md) | [README](./README.md) | [15 - Find Search and Inspection](./15-Find-Search-and-Inspection.md) |

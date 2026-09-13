@@ -46,9 +46,8 @@ ls -ld /bin /sbin /lib /lib64
 # lrwxrwxrwx 1 root root 8 Jan 10 12:00 /sbin -> usr/sbin
 # lrwxrwxrwx 1 root root 7 Jan 10 12:00 /lib -> usr/lib
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [10 - Storage Mount Points](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/10-mnt-media-and-data.md)
-- Next: [12 - FHS Mental Model & Categorization](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/06-Linux-Folder-Structure/12-FHS-Mental-Model.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - mnt media and data](./10-mnt-media-and-data.md) | [README](./README.md) | [12 - FHS Mental Model](./12-FHS-Mental-Model.md) |

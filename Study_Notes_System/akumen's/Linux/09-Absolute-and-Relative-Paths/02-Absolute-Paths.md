@@ -40,9 +40,8 @@ python3 script.py > log.txt
 # GOOD in Cron:
 /usr/bin/python3 /home/ubuntu/scripts/script.py > /var/log/script.log 2>&1
 ```
-
 ---
 
-## ⬅️ Navigation
-- Previous: [01 - Path Basics](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/01-Path-Basics-and-Mental-Model.md)
-- Next: [03 - Relative Paths](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen's/Linux/09-Absolute-and-Relative-Paths/03-Relative-Paths.md)
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Path Basics and Mental Model](./01-Path-Basics-and-Mental-Model.md) | [README](./README.md) | [03 - Relative Paths](./03-Relative-Paths.md) |

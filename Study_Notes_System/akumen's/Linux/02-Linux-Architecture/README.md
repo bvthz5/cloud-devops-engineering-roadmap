@@ -61,17 +61,22 @@ Welcome to the definitive guide on **Linux System Architecture**. This module ex
 
 | File | Title | Key Topics Covered |
 |---|---|---|
-| [01-Architecture-Basics.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/01-Architecture-Basics.md) | Architecture Fundamentals | 5 layers, User space vs Kernel space, CPU privilege rings |
-| [02-Kernel-Deep-Dive.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/02-Kernel-Deep-Dive.md) | The Linux Kernel Deep Dive | Monolithic vs Microkernel, LKMs, Scheduler, VFS, Memory |
-| [03-System-Calls-and-Libraries.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/03-System-Calls-and-Libraries.md) | System Calls & glibc | C runtime library, syscall table, traps, return codes |
-| [04-Utilities-and-User-Applications.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/04-Utilities-and-User-Applications.md) | Utilities & User Space | GNU coreutils, Shells, Daemons, systemd init system |
-| [05-How-File-Copy-Works.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/05-How-File-Copy-Works.md) | End-to-End `cp` Workflow | Step-by-step trace: shell -> syscalls -> VFS -> drivers |
-| [06-Practical-Commands.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/06-Practical-Commands.md) | Architecture Inspection | `strace`, `ltrace`, `lscpu`, `lsmod`, `modinfo`, `vmstat` |
-| [07-Real-World-Scenarios.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/07-Real-World-Scenarios.md) | DevOps & Production Context | High context switching, OOM killer, eBPF, Container isolation |
-| [08-Troubleshooting.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/08-Troubleshooting.md) | Diagnostic Playbooks | Tracing slow syscalls, kernel panics, high iowait, crashed daemons |
-| [09-Interview-Q&A.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/09-Interview-Q&A.md) | Technical Interview QA | 10 in-depth architectural questions with answer frameworks |
-| [10-Hands-On-Practice.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/10-Hands-On-Practice.md) | Terminal Exercises | Live labs with `strace`, kernel module inspection, and memory stats |
-| [11-MCQ.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/11-MCQ.md) | Self-Assessment Quiz | 10 Multiple choice questions with thorough explanations |
-| [12-Quick-Revision.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/12-Quick-Revision.md) | 5-Minute Summary | Quick cheat sheet, core concepts, syscall quick reference |
-| [13-Related-Topics.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/13-Related-Topics.md) | Downstream Connections | Process lifecycle, Memory Paging, VFS internals, eBPF |
-| [SOURCE.md](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/SOURCE.md) | Source Material Mapping | Mapping of notes to the original Linux Architecture curriculum |
+| [01-Architecture-Basics.md](./01-Architecture-Basics.md) | Architecture Fundamentals | 5 layers, User space vs Kernel space, CPU privilege rings |
+| [02-Kernel-Deep-Dive.md](./02-Kernel-Deep-Dive.md) | The Linux Kernel Deep Dive | Monolithic vs Microkernel, LKMs, Scheduler, VFS, Memory |
+| [03-System-Calls-and-Libraries.md](./03-System-Calls-and-Libraries.md) | System Calls & glibc | C runtime library, syscall table, traps, return codes |
+| [04-Utilities-and-User-Applications.md](./04-Utilities-and-User-Applications.md) | Utilities & User Space | GNU coreutils, Shells, Daemons, systemd init system |
+| [05-How-File-Copy-Works.md](./05-How-File-Copy-Works.md) | End-to-End `cp` Workflow | Step-by-step trace: shell -> syscalls -> VFS -> drivers |
+| [06-Practical-Commands.md](./06-Practical-Commands.md) | Architecture Inspection | `strace`, `ltrace`, `lscpu`, `lsmod`, `modinfo`, `vmstat` |
+| [07-Real-World-Scenarios.md](./07-Real-World-Scenarios.md) | DevOps & Production Context | High context switching, OOM killer, eBPF, Container isolation |
+| [08-Troubleshooting.md](./08-Troubleshooting.md) | Diagnostic Playbooks | Tracing slow syscalls, kernel panics, high iowait, crashed daemons |
+| [09-Interview-Q&A.md](./09-Interview-Q&A.md) | Technical Interview QA | 10 in-depth architectural questions with answer frameworks |
+| [10-Hands-On-Practice.md](./10-Hands-On-Practice.md) | Terminal Exercises | Live labs with `strace`, kernel module inspection, and memory stats |
+| [11-MCQ.md](./11-MCQ.md) | Self-Assessment Quiz | 10 Multiple choice questions with thorough explanations |
+| [12-Quick-Revision.md](./12-Quick-Revision.md) | 5-Minute Summary | Quick cheat sheet, core concepts, syscall quick reference |
+| [13-Related-Topics.md](./13-Related-Topics.md) | Downstream Connections | Process lifecycle, Memory Paging, VFS internals, eBPF |
+| [SOURCE.md](./SOURCE.md) | Source Material Mapping | Mapping of notes to the original Linux Architecture curriculum |
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| — | You are here | [01 - Architecture Basics](./01-Architecture-Basics.md) |

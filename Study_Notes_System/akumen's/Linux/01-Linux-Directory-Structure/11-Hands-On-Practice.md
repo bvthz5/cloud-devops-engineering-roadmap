@@ -139,3 +139,8 @@ df -h /tmp
 # 10. Clean up background process:
 kill $APP_PID
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Interview QA](./10-Interview-QA.md) | [README](./README.md) | [12 - MCQ](./12-MCQ.md) |

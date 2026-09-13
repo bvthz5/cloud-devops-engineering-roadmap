@@ -49,3 +49,8 @@ The source curriculum defines four fundamental pillars that govern the Linux ker
 - **Device Drivers:** The kernel contains millions of lines of driver code that translate generic system requests into the proprietary electrical command protocols required by specific hardware vendors (Intel, NVIDIA, Realtek, Samsung).
 - **Interrupt Handling (IRQs):** When a network card receives a packet or a disk finishes writing a block, it fires an electrical signal (hardware interrupt). The kernel's Interrupt Service Routine (ISR) intercepts this signal and processes the data immediately.
 - **Unified `/dev` Interface:** Exposes hardware peripherals as standardized file nodes (`/dev/sda`, `/dev/tty`), adhering to the Unix philosophy that *"Everything is a file"*.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Kernel Basics](./01-Kernel-Basics.md) | [README](./README.md) | [03 - User Space and Kernel Space](./03-User-Space-and-Kernel-Space.md) |

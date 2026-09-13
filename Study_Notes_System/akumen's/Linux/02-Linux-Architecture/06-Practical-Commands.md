@@ -109,3 +109,8 @@ procs -----------memory---------- ---swap-- -----io---- -system-- ------cpu-----
 - **`sy` (System CPU %):** Time spent executing kernel code on behalf of system calls (Ring 0).
 - **`wa` (I/O Wait %):** CPU idle time spent waiting for disk or network I/O.
 - **`st` (Steal Time %):** Virtual CPU cycles stolen by the hypervisor for another tenant in Cloud VMs (AWS/GCP).
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - How File Copy Works](./05-How-File-Copy-Works.md) | [README](./README.md) | [07 - Real World Scenarios](./07-Real-World-Scenarios.md) |

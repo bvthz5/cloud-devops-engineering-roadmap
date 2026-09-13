@@ -113,3 +113,8 @@ cat /proc/meminfo | grep -E "Cached|Dirty"
 # 7. Clean up:
 rm -f testfile.img
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Interview Q&A](./09-Interview-Q&A.md) | [README](./README.md) | [11 - MCQ](./11-MCQ.md) |
