@@ -20,6 +20,8 @@ This directory contains comprehensive, deeply structured study guides for Cloud 
 | **07. Core Components of a Linux Machine** | [`Linux/07-Core-Components-of-a-Linux-Machine/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/07-Core-Components-of-a-Linux-Machine/README.md) | ✅ Complete (20 Modules + Source) |
 | **08. Linux over Windows** | [`Linux/08-Linux-over-Windows/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/08-Linux-over-Windows/README.md) | ✅ Complete (17 Modules + Source) |
 | **09. Absolute and Relative Paths** | [`Linux/09-Absolute-and-Relative-Paths/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/09-Absolute-and-Relative-Paths/README.md) | ✅ Complete (16 Modules + Source) |
+| **10. User Management in Linux** | [`Linux/10-User-Management-in-Linux/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/10-User-Management-in-Linux/README.md) | ✅ Complete (17 Modules + Source) |
+| **11. VI Editor Shortcuts** | [`Linux/11-VI-Editor-Shortcuts/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/11-VI-Editor-Shortcuts/README.md) | ✅ Complete (17 Modules + Source) |
 | *Pending Topics* | `Linux/<Topic-Name>/` | ⏳ Ready for input |
 
 ### 🌐 Networking & Protocols
