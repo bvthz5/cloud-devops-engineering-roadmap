@@ -12,6 +12,10 @@ This directory contains comprehensive, deeply structured study guides for Cloud 
 | Topic | Module Path | Status |
 |---|---|---|
 | **01. Linux Directory Structure (FHS)** | [`Linux/01-Linux-Directory-Structure/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/01-Linux-Directory-Structure/README.md) | ✅ Complete (14 Modules) |
+| **02. Linux Architecture** | [`Linux/02-Linux-Architecture/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/02-Linux-Architecture/README.md) | ✅ Complete (14 Modules + Source) |
+| **03. Operating System** | [`Linux/03-Operating-System/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/03-Operating-System/README.md) | ✅ Complete (18 Modules + Source) |
+| **04. Linux Kernel** | [`Linux/04-Kernel/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/04-Kernel/README.md) | ✅ Complete (19 Modules + Source) |
+| **05. File Management in Linux** | [`Linux/05-File-Management-in-Linux/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/05-File-Management-in-Linux/README.md) | ✅ Complete (25 Modules + Source) |
 | *Pending Topics* | `Linux/<Topic-Name>/` | ⏳ Ready for input |
 
 ### 🌐 Networking & Protocols
