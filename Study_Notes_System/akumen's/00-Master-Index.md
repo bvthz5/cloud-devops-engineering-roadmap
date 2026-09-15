@@ -22,6 +22,8 @@ This directory contains comprehensive, deeply structured study guides for Cloud 
 | **09. Absolute and Relative Paths** | [`Linux/09-Absolute-and-Relative-Paths/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/09-Absolute-and-Relative-Paths/README.md) | ✅ Complete (16 Modules + Source) |
 | **10. User Management in Linux** | [`Linux/10-User-Management-in-Linux/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/10-User-Management-in-Linux/README.md) | ✅ Complete (17 Modules + Source) |
 | **11. VI Editor Shortcuts** | [`Linux/11-VI-Editor-Shortcuts/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/11-VI-Editor-Shortcuts/README.md) | ✅ Complete (17 Modules + Source) |
+| **19. Ubuntu Disk Partitioning** | [`Linux/19-Ubuntu-Disk-Partitioning/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/19-Ubuntu-Disk-Partitioning/README.md) | ✅ Complete (23 Modules + Source) |
+| **20. Web Servers: Nginx, Apache & Related Topics** | [`Linux/20-Web-Servers-Nginx-Apache-and-Related-Topics/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/20-Web-Servers-Nginx-Apache-and-Related-Topics/README.md) | ✅ Complete (25 Modules + Source) |
 | *Pending Topics* | `Linux/<Topic-Name>/` | ⏳ Ready for input |
 
 ### 🌐 Networking & Protocols
