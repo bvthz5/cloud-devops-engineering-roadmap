@@ -78,3 +78,9 @@ Logs can grow forever. For production systems, consider:
 ## Source foundation
 
 The supplied source recommends redirecting output to a log file and explains `>`, `2>`, and `2>&1`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - Special Shortcuts](./05-Special-Shortcuts.md) | [README](./README.md) | [07 - Environment and Paths](./07-Environment-and-Paths.md) |

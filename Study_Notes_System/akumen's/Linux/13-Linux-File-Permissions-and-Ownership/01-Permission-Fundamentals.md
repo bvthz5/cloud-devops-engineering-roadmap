@@ -89,3 +89,9 @@ r - x  --> 1 0 1  --> 4 + 0 + 1 = 5
 r - -  --> 1 0 0  --> 4 + 0 + 0 = 4
 ```
 So, `-rwxr-xr--` translates to the octal permission `754`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - Read Write Execute Files vs Directories](./02-Read-Write-Execute-Files-vs-Directories.md) |

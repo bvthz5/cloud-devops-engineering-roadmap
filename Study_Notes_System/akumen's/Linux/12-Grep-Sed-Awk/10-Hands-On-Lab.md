@@ -198,3 +198,9 @@ For each command you run in this challenge:
 - Explain **why** you chose grep, sed, or awk
 - Explain what the flags do
 - Describe what the output means
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Interview QA](./09-Interview-QA.md) | [README](./README.md) | [11 - MCQs](./11-MCQs.md) |

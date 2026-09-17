@@ -183,3 +183,9 @@ Isolate the step where the data changes unexpectedly — that is the broken comm
 | awk wrong column | Wrong FS | Add `-F','` or correct separator |
 | awk wrong calculation | Header included | Add `NR > 1` condition |
 | Pipeline wrong output | One bad step | Test commands one at a time |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Real World DevOps Scenarios](./07-Real-World-DevOps-Scenarios.md) | [README](./README.md) | [09 - Interview QA](./09-Interview-QA.md) |

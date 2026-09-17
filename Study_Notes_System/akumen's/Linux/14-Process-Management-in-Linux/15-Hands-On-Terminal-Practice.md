@@ -139,3 +139,9 @@ cat /proc/7788/cmdline | tr '\0' ' '
 # Cleanup
 kill 7788
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Interview QA](./14-Interview-QA.md) | [README](./README.md) | [16 - MCQs](./16-MCQs.md) |

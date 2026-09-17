@@ -168,3 +168,9 @@ HR             | 1
 | 7 | Clean config file | `grep` / `sed` | `-v "^#"` + `-v "^$"` |
 | 8 | Check service logs | `grep` | `journalctl -u \| grep -i` |
 | 9 | Department report | `awk` | `BEGIN{}` + `END{}` + `printf` |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Combining Pipelines](./06-Combining-Pipelines.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |

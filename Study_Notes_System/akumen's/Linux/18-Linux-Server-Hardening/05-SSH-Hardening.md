@@ -207,3 +207,9 @@ sudo tail -f /var/log/auth.log | grep sshd
 # RHEL / CentOS / Systemd Journal
 sudo journalctl -u sshd -f | grep Failed
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Password Policies and PAM](./04-Password-Policies-and-PAM.md) | [README](./README.md) | [06 - Firewall Configuration UFW NFTables](./06-Firewall-Configuration-UFW-NFTables.md) |

@@ -14,3 +14,9 @@
 - **`/home`:** Dedicated partition (preserves user data across OS reinstalls)
 - **`/tmp`:** 5 GB – 10 GB (mounted with `nodev,nosuid,noexec` for security)
 - **Swap:** 2 GB – 8 GB (or swapfile)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - BIOS vs UEFI and ESP Partition](./03-BIOS-vs-UEFI-and-ESP-Partition.md) | [README](./README.md) | [05 - Manual Installation and Dual Booting](./05-Manual-Installation-and-Dual-Booting.md) |

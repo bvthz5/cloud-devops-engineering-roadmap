@@ -46,3 +46,9 @@ awk '{print $1}' /var/log/nginx/access.log | sort | uniq -c | sort -nr | head -n
 # Real-time web log viewer
 sudo goaccess /var/log/nginx/access.log -o /var/www/html/report.html --log-format=COMBINED
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Static vs Dynamic App Execution PHP FPM Node Python](./14-Static-vs-Dynamic-App-Execution-PHP-FPM-Node-Python.md) | [README](./README.md) | [16 - HTTP Status Codes and Troubleshooting 502 504 403](./16-HTTP-Status-Codes-and-Troubleshooting-502-504-403.md) |

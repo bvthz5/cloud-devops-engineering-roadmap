@@ -52,3 +52,9 @@ add_header X-Content-Type-Options "nosniff" always;
 add_header Referrer-Policy "no-referrer-when-downgrade" always;
 add_header Content-Security-Policy "default-src 'self' http: https: data: blob: 'unsafe-inline'" always;
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - TLS HTTPS SSL Certificates and Certbot](./06-TLS-HTTPS-SSL-Certificates-and-Certbot.md) | [README](./README.md) | [08 - WebSockets HTTP2 HTTP3 and gRPC Proxying](./08-WebSockets-HTTP2-HTTP3-and-gRPC-Proxying.md) |

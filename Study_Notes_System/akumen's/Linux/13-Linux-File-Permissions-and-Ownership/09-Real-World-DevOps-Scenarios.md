@@ -94,3 +94,9 @@ Use the **Sticky Bit**. This is exactly how `/tmp` works.
     ```
     *   `1` (Sticky Bit) prevents deletion of files by non-owners.
     *   `777` grants read, write, and execute to everyone.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Changing Ownership chown chgrp](./08-Changing-Ownership-chown-chgrp.md) | [README](./README.md) | [10 - Permission Troubleshooting](./10-Permission-Troubleshooting.md) |

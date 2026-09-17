@@ -83,3 +83,9 @@ If you are inside an AWS EC2 instance or a GCP Compute instance, you can use `cu
 TOKEN=$(curl -X PUT "http://169.254.169.254/latest/api/token" -H "X-aws-ec2-metadata-token-ttl-seconds: 21600")
 curl -H "X-aws-ec2-metadata-token: $TOKEN" -v http://169.254.169.254/latest/meta-data/local-ipv4
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Common Flags Cheat Sheet](./10-Common-Flags-Cheat-Sheet.md) | [README](./README.md) | [12 - Troubleshooting](./12-Troubleshooting.md) |

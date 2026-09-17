@@ -91,3 +91,9 @@ Replacing `DB_HOST=old-db.internal` with `DB_HOST=db.production.internal` global
 :%s/old-db\.internal/db.production.internal/gc
 ```
 The `c` flag prompts for confirmation before each replacement — safe for production changes!
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Multiple Files and Splits](./08-Multiple-Files-and-Splits.md) | [README](./README.md) | [10 - Troubleshooting](./10-Troubleshooting.md) |

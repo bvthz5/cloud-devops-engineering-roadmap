@@ -44,3 +44,9 @@ Linux task
 3. `logrotate` Configuration
 4. Linux Security & Privilege Escalation Audit
 5. Kubernetes `CronJob` Manifests
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [17 - Commands Cheat Sheet](./17-Commands-Cheat-Sheet.md) | [README](./README.md) | [README (Index)](./README.md) |

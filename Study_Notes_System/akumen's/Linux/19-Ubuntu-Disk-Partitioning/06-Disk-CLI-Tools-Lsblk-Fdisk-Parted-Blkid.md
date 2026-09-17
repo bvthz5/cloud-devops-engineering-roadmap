@@ -43,3 +43,9 @@ sudo parted /dev/sdb mklabel gpt
 # Create a 10 GB primary ext4 partition
 sudo parted /dev/sdb mkpart primary ext4 1MiB 10GiB
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - Manual Installation and Dual Booting](./05-Manual-Installation-and-Dual-Booting.md) | [README](./README.md) | [07 - Filesystems Ext4 XFS Btrfs FAT32 NTFS](./07-Filesystems-Ext4-XFS-Btrfs-FAT32-NTFS.md) |

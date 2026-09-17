@@ -41,3 +41,9 @@ Before a web server can receive a request, the client resolves the domain name v
 1. **A Record:** Maps domain to IPv4 address (`example.com → 192.0.2.1`).
 2. **AAAA Record:** Maps domain to IPv6 address.
 3. **CNAME Record:** Alias domain to another canonical domain name (`www.example.com → example.com`).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - Nginx Architecture and Process Model](./02-Nginx-Architecture-and-Process-Model.md) |

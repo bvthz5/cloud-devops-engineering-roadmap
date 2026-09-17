@@ -208,3 +208,9 @@ fi
 
 > By default, `grep` outputs **the entire matching line**.  
 > With `-o`, it outputs **only the matched portion** (one match per output line).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - Sample Data](./02-Sample-Data.md) | [README](./README.md) | [04 - sed Stream Editor](./04-sed-Stream-Editor.md) |

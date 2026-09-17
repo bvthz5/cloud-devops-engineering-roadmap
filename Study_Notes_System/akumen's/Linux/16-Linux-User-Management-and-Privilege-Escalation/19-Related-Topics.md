@@ -57,3 +57,9 @@ Once you have mastered standard user management and `sudo`, these advanced topic
 
 **What it is:** Securing the automated deployment pipeline.
 **Why it matters:** CI/CD runners (Jenkins agents, GitLab runners) often have powerful sudo access on target servers. If the CI/CD system is compromised, the attacker inherits those permissions. Best practices include using short-lived credentials, rotating secrets, and running pipeline steps in isolated containers.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [18 - Quick Revision](./18-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |

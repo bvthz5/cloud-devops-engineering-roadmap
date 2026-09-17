@@ -6,3 +6,9 @@
 - **fstab Syntax:** `UUID  MountPoint  FSType  Options  Dump  Pass`.
 - **LVM Layers:** Physical Volume (PV) → Volume Group (VG) → Logical Volume (LV).
 - **fsck Warning:** Never run `fsck` on a mounted filesystem!
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [19 - Hands On Scenario Challenge](./19-Hands-On-Scenario-Challenge.md) | [README](./README.md) | [21 - Related DevOps Storage Topics](./21-Related-DevOps-Storage-Topics.md) |

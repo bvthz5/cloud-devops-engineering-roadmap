@@ -20,3 +20,9 @@
    - C. `027`
    - D. `777`
    **Answer: C**
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [17 - Interview Questions and Answers](./17-Interview-Questions-and-Answers.md) | [README](./README.md) | [19 - Hands On Scenario Challenge](./19-Hands-On-Scenario-Challenge.md) |

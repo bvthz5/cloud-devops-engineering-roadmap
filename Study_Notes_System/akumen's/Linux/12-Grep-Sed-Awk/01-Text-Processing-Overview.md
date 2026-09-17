@@ -105,3 +105,9 @@ A pipe `|` sends the **stdout** of one command to the **stdin** of the next. No 
 12. Quick Revision
 13. Related Topics
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - Sample Data](./02-Sample-Data.md) |

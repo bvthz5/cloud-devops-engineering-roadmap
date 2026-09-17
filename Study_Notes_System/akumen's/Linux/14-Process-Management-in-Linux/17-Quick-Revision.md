@@ -75,3 +75,9 @@ High-density 5-minute summary for fast review before interviews, exams, or on-ca
 ## 🎯 30-Second Interview Answer
 
 > *"Linux processes are executing instances of programs, organized in a tree rooted at PID 1 (`systemd`). We monitor them dynamically with `htop` and statically with `ps`. Processes transition through states like Running, Sleeping, Uninterruptible Sleep (D-state, indicating I/O blocks), and Zombie. We control them using Signals—primarily `SIGTERM` (15) for graceful exits and `SIGKILL` (9) as a last resort. For long-running administrative tasks, we use terminal multiplexers like `tmux` to protect against `SIGHUP` disconnects, and adjust CPU scheduling priority using `nice`."*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [16 - MCQs](./16-MCQs.md) | [README](./README.md) | [18 - Related Topics](./18-Related-Topics.md) |

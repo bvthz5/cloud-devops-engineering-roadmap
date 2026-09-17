@@ -13,3 +13,9 @@
 ## Summary Architecture Decision Guide
 - Choose **Nginx** for reverse proxying, high-concurrency static/API serving, TLS termination, and Kubernetes ingress controllers.
 - Choose **Apache** when requiring `.htaccess` directory-level user control (e.g., shared hosting), embedded legacy language modules, or specific Apache modules (`mod_security2`).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Apache Virtual Hosts and Reverse Proxy Mod_Proxy](./10-Apache-Virtual-Hosts-and-Reverse-Proxy-Mod_Proxy.md) | [README](./README.md) | [12 - Modern Web Servers Caddy IIS lighttpd](./12-Modern-Web-Servers-Caddy-IIS-lighttpd.md) |

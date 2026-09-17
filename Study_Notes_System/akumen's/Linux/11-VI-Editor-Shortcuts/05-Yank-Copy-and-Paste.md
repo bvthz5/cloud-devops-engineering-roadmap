@@ -47,3 +47,9 @@ To save or paste from a specific register, prefix the command with `"` followed 
 In environments where Vim is compiled with X11/clipboard support (`+clipboard` in `vim --version`):
 * `"+yy` - Yank current line into the **OS System Clipboard** (Ctrl+C equivalent).
 * `"+p` - Paste from the **OS System Clipboard** into Vim.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Delete Undo Redo Operations](./04-Delete-Undo-Redo-Operations.md) | [README](./README.md) | [06 - Search and Replace](./06-Search-and-Replace.md) |

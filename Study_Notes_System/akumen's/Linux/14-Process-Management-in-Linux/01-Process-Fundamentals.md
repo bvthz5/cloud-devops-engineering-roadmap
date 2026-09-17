@@ -67,3 +67,9 @@ systemd─┬─NetworkManager───2*[{NetworkManager}]
         └─systemd-journal
 ```
 In this example, `systemd` spawned `sshd` (the SSH server). When you connected, that `sshd` spawned a child `sshd` session, which spawned your `bash` shell, which you just used to run `pstree`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - Process States](./02-Process-States.md) |

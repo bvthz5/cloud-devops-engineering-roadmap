@@ -195,3 +195,9 @@ awk -F',' 'BEGIN {OFS=" | "} NR > 1 {print $2, $3, $4}' employees.txt
 │ Filter high-value records          │ $4 > threshold           │
 └──────────────────────────────────────────────────────────────┘
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - sed Stream Editor](./04-sed-Stream-Editor.md) | [README](./README.md) | [06 - Combining Pipelines](./06-Combining-Pipelines.md) |

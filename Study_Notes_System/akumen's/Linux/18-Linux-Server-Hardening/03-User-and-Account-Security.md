@@ -38,3 +38,9 @@ awk -F: '($3 == "0") { print $1 }' /etc/passwd
 # Check for accounts with empty passwords in /etc/shadow
 sudo awk -F: '($2 == "") { print $1 }' /etc/shadow
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - Patch Management](./02-Patch-Management.md) | [README](./README.md) | [04 - Password Policies and PAM](./04-Password-Policies-and-PAM.md) |

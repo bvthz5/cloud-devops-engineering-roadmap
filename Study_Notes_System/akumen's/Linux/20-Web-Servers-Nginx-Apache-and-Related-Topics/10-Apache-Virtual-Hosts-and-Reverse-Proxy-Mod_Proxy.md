@@ -45,3 +45,9 @@ Reverse Proxy Virtual Host Configuration:
     CustomLog ${APACHE_LOG_DIR}/proxy_access.log combined
 </VirtualHost>
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Apache HTTP Server Architecture and MPMs](./09-Apache-HTTP-Server-Architecture-and-MPMs.md) | [README](./README.md) | [11 - Nginx vs Apache Architecture Performance Comparison](./11-Nginx-vs-Apache-Architecture-Performance-Comparison.md) |

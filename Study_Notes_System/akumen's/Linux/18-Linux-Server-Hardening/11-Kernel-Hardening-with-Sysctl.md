@@ -36,3 +36,9 @@ Apply kernel settings:
 ```bash
 sudo sysctl -p /etc/sysctl.d/99-security-hardening.conf
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Services and Port Hardening](./10-Services-and-Port-Hardening.md) | [README](./README.md) | [12 - Auditd and Log Monitoring](./12-Auditd-and-Log-Monitoring.md) |

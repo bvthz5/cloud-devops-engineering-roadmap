@@ -12,3 +12,9 @@
 2. Ensure UEFI ESP partition exists (reuse existing Windows EFI partition at `/boot/efi` without formatting it).
 3. Create `/` (Root) partition formatted as `ext4`.
 4. Install GRUB bootloader to the primary disk device (e.g., `/dev/nvme0n1`).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Ubuntu Partition Layouts and Recommended Sizes](./04-Ubuntu-Partition-Layouts-and-Recommended-Sizes.md) | [README](./README.md) | [06 - Disk CLI Tools Lsblk Fdisk Parted Blkid](./06-Disk-CLI-Tools-Lsblk-Fdisk-Parted-Blkid.md) |

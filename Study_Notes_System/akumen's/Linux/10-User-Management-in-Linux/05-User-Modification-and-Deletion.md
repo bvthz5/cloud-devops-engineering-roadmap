@@ -93,3 +93,9 @@ Before executing `userdel -r` on production systems:
    ```bash
    sudo userdel -r alice
    ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Password Management and Aging](./04-Password-Management-and-Aging.md) | [README](./README.md) | [06 - Group Management](./06-Group-Management.md) |

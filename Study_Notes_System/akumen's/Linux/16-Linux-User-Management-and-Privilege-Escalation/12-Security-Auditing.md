@@ -102,3 +102,9 @@ find /etc -writable -type f 2>/dev/null
 echo -e "\n=== Sudoers Drop-in Files ==="
 ls -la /etc/sudoers.d/
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Privilege Escalation Concepts](./11-Privilege-Escalation-Concepts.md) | [README](./README.md) | [13 - Real World DevOps Scenarios](./13-Real-World-DevOps-Scenarios.md) |

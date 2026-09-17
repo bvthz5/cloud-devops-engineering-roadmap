@@ -64,3 +64,9 @@ A web server (like Nginx or Apache) runs as the user `www-data`. For the web ser
 
 ### Example 2: The `/tmp` Directory
 The `/tmp` directory is unique. Everyone needs to create files there, so it has `rwx` for Everyone. However, to prevent User A from deleting User B's files, a special permission (the Sticky Bit) is used. (Covered in Chapter 7).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Permission Fundamentals](./01-Permission-Fundamentals.md) | [README](./README.md) | [03 - Ownership and Groups](./03-Ownership-and-Groups.md) |

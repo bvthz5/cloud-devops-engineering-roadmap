@@ -22,3 +22,9 @@ Set hardened default umask in `/etc/profile` or `/etc/bash.bashrc`:
 ```bash
 umask 027
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Fail2Ban Intrusion Prevention](./07-Fail2Ban-Intrusion-Prevention.md) | [README](./README.md) | [09 - SUID SGID and World Writable Files](./09-SUID-SGID-and-World-Writable-Files.md) |

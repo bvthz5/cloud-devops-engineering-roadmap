@@ -19,3 +19,9 @@
 - LBA 1: Primary GPT Header.
 - LBA 2-33: Partition Entries (128 partition slots).
 - Secondary GPT Header stored at the absolute last sectors of the disk for emergency recovery.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Disk Partition Filesystem Fundamentals](./01-Disk-Partition-Filesystem-Fundamentals.md) | [README](./README.md) | [03 - BIOS vs UEFI and ESP Partition](./03-BIOS-vs-UEFI-and-ESP-Partition.md) |

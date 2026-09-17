@@ -113,3 +113,9 @@ D) `"+p`
 <b>Correct Answer: B</b><br>
 <b>Explanation:</b> <code>P</code> (uppercase) pastes before/above the cursor or above the current line. <code>p</code> (lowercase) pastes after/below.
 </details>
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Hands On Lab](./12-Hands-On-Lab.md) | [README](./README.md) | [14 - Quick Revision](./14-Quick-Revision.md) |

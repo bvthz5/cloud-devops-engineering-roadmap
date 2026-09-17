@@ -41,3 +41,9 @@ Nginx uses a non-threaded, event-driven master-worker process architecture desig
 
 - **Process/Thread-per-Request (Legacy):** Blocks an entire OS thread waiting for disk or network I/O. Memory scales linearly with concurrent connections (1,000 requests = 1,000 threads).
 - **Asynchronous Event Loop (Nginx):** A single worker process handles thousands of connections in a single thread. When I/O blocks, the event loop immediately moves to process ready events from other sockets. Memory footprint remains minimal and flat.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Web Server Fundamentals HTTP HTTPS DNS Ports](./01-Web-Server-Fundamentals-HTTP-HTTPS-DNS-Ports.md) | [README](./README.md) | [03 - Nginx Configuration Structure and Server Blocks](./03-Nginx-Configuration-Structure-and-Server-Blocks.md) |

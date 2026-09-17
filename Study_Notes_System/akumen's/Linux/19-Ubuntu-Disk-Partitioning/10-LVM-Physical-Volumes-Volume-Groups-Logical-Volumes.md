@@ -46,3 +46,9 @@ sudo mount /dev/vg_storage/lv_web /var/www
 sudo lvextend -L +20G /dev/vg_storage/lv_web
 sudo resize2fs /dev/vg_storage/lv_web
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Swap Partitions and Swap Files](./09-Swap-Partitions-and-Swap-Files.md) | [README](./README.md) | [11 - RAID and LUKS Disk Encryption](./11-RAID-and-LUKS-Disk-Encryption.md) |

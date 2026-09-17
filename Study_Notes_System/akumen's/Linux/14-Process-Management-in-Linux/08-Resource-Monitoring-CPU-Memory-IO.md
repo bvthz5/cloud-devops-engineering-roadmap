@@ -80,3 +80,9 @@ sudo lsof -i :80
 # See which process is holding a deleted log file open (causing disk space leaks)
 sudo lsof | grep deleted
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Process Priority nice renice](./07-Process-Priority-nice-renice.md) | [README](./README.md) | [09 - The proc Filesystem](./09-The-proc-Filesystem.md) |

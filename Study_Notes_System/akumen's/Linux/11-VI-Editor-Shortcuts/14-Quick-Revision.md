@@ -108,3 +108,9 @@ Ctrl+W =    → Equalize pane sizes
 | Swap file warning on open | Press `R` to recover |
 | Search highlights stuck | `:noh` |
 | Accidentally in wrong mode | `<ESC>` (twice if unsure) |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - MCQ](./13-MCQ.md) | [README](./README.md) | [15 - Related Topics](./15-Related-Topics.md) |

@@ -79,3 +79,9 @@ Permissions and ownership are guaranteed topics in any Linux System Administrati
 ## 💡 30-Second Interview Answer
 
 > *"Linux permissions govern access through three classes: User, Group, and Others, each possessing independent Read, Write, and Execute rights. These rights function differently on files versus directories—where directory execute acts as a traversal pass. Permissions are manipulated using `chmod` (via symbolic or octal 755/644 notation), while ownership is managed via `chown`. For complex shared or secure environments, special permissions like SGID for collaborative folders and the Sticky Bit for `/tmp` are essential."*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Permission Troubleshooting](./10-Permission-Troubleshooting.md) | [README](./README.md) | [12 - Hands On Terminal Practice](./12-Hands-On-Terminal-Practice.md) |

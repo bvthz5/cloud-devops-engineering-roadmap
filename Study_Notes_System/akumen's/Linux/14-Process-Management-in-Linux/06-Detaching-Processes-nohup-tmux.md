@@ -98,3 +98,9 @@ tmux attach -t db_import
 
 ### Why use tmux?
 For any task that takes longer than 5 minutes, or for any task where a dropped VPN connection would cause a disaster, `tmux` is mandatory.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - Job Control fg bg jobs](./05-Job-Control-fg-bg-jobs.md) | [README](./README.md) | [07 - Process Priority nice renice](./07-Process-Priority-nice-renice.md) |

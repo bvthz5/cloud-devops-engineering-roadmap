@@ -22,3 +22,9 @@
 2. Add `net.ipv4.tcp_syncookies = 1` and `net.ipv4.ip_forward = 0`
 3. Apply settings: `sudo sysctl --system`
 4. Verify setting: `sysctl net.ipv4.tcp_syncookies`
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - Time Sync and SELinux AppArmor](./15-Time-Sync-and-SELinux-AppArmor.md) | [README](./README.md) | [17 - Troubleshooting Hardening Scenarios](./17-Troubleshooting-Hardening-Scenarios.md) |

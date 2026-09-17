@@ -104,3 +104,9 @@
    - C. Cron cannot run shell commands
    - D. Cron only runs as root
    **Answer: B**
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Interview Questions](./14-Interview-Questions.md) | [README](./README.md) | [16 - Quick Revision](./16-Quick-Revision.md) |

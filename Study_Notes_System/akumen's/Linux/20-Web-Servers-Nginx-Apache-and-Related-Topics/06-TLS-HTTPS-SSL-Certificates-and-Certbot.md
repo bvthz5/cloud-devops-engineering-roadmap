@@ -63,3 +63,9 @@ sudo certbot --nginx -d example.com -d www.example.com
 # Test automatic renewal timer / cron job
 sudo certbot renew --dry-run
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - Nginx Load Balancing Algorithms and Health Checks](./05-Nginx-Load-Balancing-Algorithms-and-Health-Checks.md) | [README](./README.md) | [07 - Caching Compression Gzip Brotli and HTTP Headers](./07-Caching-Compression-Gzip-Brotli-and-HTTP-Headers.md) |

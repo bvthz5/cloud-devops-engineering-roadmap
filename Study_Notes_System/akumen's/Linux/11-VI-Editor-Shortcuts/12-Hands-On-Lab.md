@@ -100,3 +100,9 @@ EOF
 2. Navigate between panes with `Ctrl+W l` and `Ctrl+W h`.
 3. Equalize pane sizes with `Ctrl+W =`.
 4. Close one pane with `:q`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Interview QA](./11-Interview-QA.md) | [README](./README.md) | [13 - MCQ](./13-MCQ.md) |

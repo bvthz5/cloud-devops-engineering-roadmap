@@ -93,3 +93,9 @@ Use this only when automatic restarts are intentionally part of the design.
 @reboot /home/alice/scripts/startup.sh
 ```
 `@reboot` runs the job when the cron service starts/at system startup according to the cron implementation. Do not assume it behaves exactly like a full dependency-aware service manager.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - Cron Syntax](./03-Cron-Syntax.md) | [README](./README.md) | [05 - Special Shortcuts](./05-Special-Shortcuts.md) |

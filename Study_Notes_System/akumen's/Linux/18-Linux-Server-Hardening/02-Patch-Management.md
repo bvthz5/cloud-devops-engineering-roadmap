@@ -36,3 +36,9 @@ sudo dnf upgrade -y
 1. **Subscribe to Security Advisories:** Monitor Ubuntu Security Notices (USN) or Red Hat Security Advisories (RHSA).
 2. **Staging Environment First:** Always test updates on non-production systems before deploying to production.
 3. **Automate Security Patches:** Use `unattended-upgrades` or `dnf-automatic` for critical security errata.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Hardening Fundamentals](./01-Hardening-Fundamentals.md) | [README](./README.md) | [03 - User and Account Security](./03-User-and-Account-Security.md) |

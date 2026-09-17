@@ -79,3 +79,9 @@ curl -sSL -X PUT \
   -d '{"status": "active"}' \
   https://api.example.com/users/123 | jq
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Redirects and Resumes](./04-Redirects-and-Resumes.md) | [README](./README.md) | [06 - Headers and Debugging](./06-Headers-and-Debugging.md) |

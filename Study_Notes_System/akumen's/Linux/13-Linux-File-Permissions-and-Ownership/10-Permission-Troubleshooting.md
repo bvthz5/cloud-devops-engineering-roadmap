@@ -95,3 +95,9 @@ If an application requires write access to a directory, figure out what user the
 2. `chgrp` the directory to that user's group, and `chmod 775`.
 
 Leave `777` strictly for explicitly shared scratch spaces like `/tmp` (and always with the sticky bit: `1777`).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Real World DevOps Scenarios](./09-Real-World-DevOps-Scenarios.md) | [README](./README.md) | [11 - Interview QA](./11-Interview-QA.md) |

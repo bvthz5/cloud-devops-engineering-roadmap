@@ -179,3 +179,9 @@ sed 's/Engineering/Tech/g; s/Marketing/Sales/g' employees.txt
 > **Never run `sed -i` on a production file without testing the transformation first.**
 >
 > Always run without `-i` to verify the output, then apply with a `.bak` backup as a safeguard.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - grep Pattern Searching](./03-grep-Pattern-Searching.md) | [README](./README.md) | [05 - awk Fields and Reports](./05-awk-Fields-and-Reports.md) |

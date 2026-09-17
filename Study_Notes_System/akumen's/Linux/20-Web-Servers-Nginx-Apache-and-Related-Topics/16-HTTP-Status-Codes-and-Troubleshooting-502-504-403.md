@@ -41,3 +41,9 @@
   sudo chown -R www-data:www-data /var/www/html
   sudo chmod -R 755 /var/www/html
   ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - Logging Formats Log Analysis Access and Error Logs](./15-Logging-Formats-Log-Analysis-Access-and-Error-Logs.md) | [README](./README.md) | [17 - Web Server Security Hardening Best Practices](./17-Web-Server-Security-Hardening-Best-Practices.md) |

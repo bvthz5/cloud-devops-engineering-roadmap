@@ -48,3 +48,9 @@ When you run `docker run --memory="256m" --cpus="0.5"`, Docker configures a cgro
 **Why it matters:** 
 *   **Capabilities** break root privileges into smaller pieces. Instead of giving a web server full root access just to bind to port 80, you can give it only the `CAP_NET_BIND_SERVICE` capability.
 *   **MAC (Mandatory Access Control)** profiles (like AppArmor or SELinux) enforce rules on what a process can do, *even if the process is running as root*. For example, an AppArmor profile can restrict a Docker container from writing to `/etc`, completely mitigating container escape vulnerabilities.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [17 - Quick Revision](./17-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |

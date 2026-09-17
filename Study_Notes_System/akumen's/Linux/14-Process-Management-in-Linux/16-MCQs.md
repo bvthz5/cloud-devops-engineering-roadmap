@@ -270,3 +270,9 @@ This usually indicates a disk or network storage bottleneck. The process cannot 
 
 `nohup` only redirects output to a file; you cannot interact with the process once you leave the terminal.
 </details>
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - Hands On Terminal Practice](./15-Hands-On-Terminal-Practice.md) | [README](./README.md) | [17 - Quick Revision](./17-Quick-Revision.md) |

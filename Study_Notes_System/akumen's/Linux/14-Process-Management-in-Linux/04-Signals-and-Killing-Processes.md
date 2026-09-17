@@ -81,3 +81,9 @@ A common mistake among junior administrators is instantly reaching for `kill -9`
 3. If it hasn't exited, *then* send `SIGKILL` (`kill -9 PID`).
 
 If you use `kill -9` on a database like PostgreSQL or MySQL, you risk severe database corruption because the engine cannot flush its writes to disk.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - Viewing Processes ps top htop](./03-Viewing-Processes-ps-top-htop.md) | [README](./README.md) | [05 - Job Control fg bg jobs](./05-Job-Control-fg-bg-jobs.md) |

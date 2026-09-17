@@ -113,3 +113,9 @@ sudo chown -R root:backend /opt/backend-app
 sudo chmod -R 2775 /opt/frontend-app
 sudo chmod -R 2775 /opt/backend-app
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Security Auditing](./12-Security-Auditing.md) | [README](./README.md) | [14 - Troubleshooting](./14-Troubleshooting.md) |

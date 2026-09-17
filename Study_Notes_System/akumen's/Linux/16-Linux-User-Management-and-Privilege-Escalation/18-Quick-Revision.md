@@ -84,3 +84,9 @@ lastlog | grep "Never logged in"                → Stale accounts
 ## 🎯 30-Second Interview Answer
 
 > *"Linux user management revolves around `/etc/passwd` (identity), `/etc/shadow` (password hashes and aging), and `/etc/group` (memberships). Privilege escalation is controlled via `sudo` and `/etc/sudoers`, which must always be edited with `visudo` to prevent syntax errors from locking out administrators. Best practices include using modular drop-in files in `/etc/sudoers.d/`, applying least-privilege by scoping sudo rules to specific commands, reserving `NOPASSWD` for non-interactive service accounts, creating service accounts with `/sbin/nologin`, and regularly auditing for unauthorized UID 0 accounts and excessive SUID binaries."*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [17 - MCQs](./17-MCQs.md) | [README](./README.md) | [19 - Related Topics](./19-Related-Topics.md) |

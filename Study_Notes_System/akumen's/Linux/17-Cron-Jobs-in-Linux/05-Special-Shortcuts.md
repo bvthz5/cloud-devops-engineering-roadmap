@@ -41,3 +41,9 @@ If an application has:
 - Detailed service logging
 
 then a service manager (like `systemd`) is a better fit.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Cron Examples](./04-Cron-Examples.md) | [README](./README.md) | [06 - Output Logging and Redirection](./06-Output-Logging-and-Redirection.md) |

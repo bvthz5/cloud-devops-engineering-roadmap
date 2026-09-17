@@ -89,3 +89,9 @@ The password field in `/etc/shadow` starts with a prefix between dollar signs (`
 | `$5$` | SHA-256 | Standard / Secure |
 | `$6$` | SHA-512 | Standard High Security (Default on Linux) |
 | `$y$` | yescrypt | Next-Gen Default on newer Debian/Ubuntu/Fedora |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - User Creation and Management](./03-User-Creation-and-Management.md) | [README](./README.md) | [05 - User Modification and Deletion](./05-User-Modification-and-Deletion.md) |

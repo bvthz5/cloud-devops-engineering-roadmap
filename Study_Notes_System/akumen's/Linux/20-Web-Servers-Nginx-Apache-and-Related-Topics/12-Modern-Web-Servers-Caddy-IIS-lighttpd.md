@@ -18,3 +18,9 @@
 ## 3. lighttpd ("lighty")
 - **Focus:** Ultra-lightweight footprint, single-threaded event-driven server.
 - **Use Cases:** Embedded systems, IoT devices, resource-constrained Virtual Private Servers (VPS).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Nginx vs Apache Architecture Performance Comparison](./11-Nginx-vs-Apache-Architecture-Performance-Comparison.md) | [README](./README.md) | [13 - Application Servers and Containers Tomcat HAProxy](./13-Application-Servers-and-Containers-Tomcat-HAProxy.md) |

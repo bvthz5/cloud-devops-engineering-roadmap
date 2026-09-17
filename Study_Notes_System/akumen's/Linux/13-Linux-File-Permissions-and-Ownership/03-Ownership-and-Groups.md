@@ -66,3 +66,9 @@ Permissions: `---rwxrwx`
 *   **Others:** Has `rwx`.
 
 When Alice tries to read the file, the kernel checks step 2: "Is Alice the owner?" Yes. It applies the User Permissions (`---`) and denies access. It does not matter that the Group and Others have access, because the kernel stopped evaluating. Alice would have to use `chmod u+r` on the file to regain access.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - Read Write Execute Files vs Directories](./02-Read-Write-Execute-Files-vs-Directories.md) | [README](./README.md) | [04 - Inspecting Permissions ls namei stat](./04-Inspecting-Permissions-ls-namei-stat.md) |

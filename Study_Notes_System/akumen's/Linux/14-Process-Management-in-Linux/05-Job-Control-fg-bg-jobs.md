@@ -86,3 +86,9 @@ Job Control is bound to your specific SSH/Terminal session.
 If you have jobs running in the background and you close your terminal (or your SSH connection drops), the shell sends a `SIGHUP` (Hangup) signal to all its child jobs, terminating them instantly.
 
 To run processes that survive a disconnect, you need tools like `nohup` or `tmux` (covered in Chapter 6).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Signals and Killing Processes](./04-Signals-and-Killing-Processes.md) | [README](./README.md) | [06 - Detaching Processes nohup tmux](./06-Detaching-Processes-nohup-tmux.md) |

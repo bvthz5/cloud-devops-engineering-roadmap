@@ -47,3 +47,9 @@ The dot (`.`) command repeats the **exact last text-editing modification** execu
 3. Press `.` to immediately delete that line as well!
 4. You change a word using `cw` to `production`, then press `<ESC>`.
 5. Move to another word and press `.` to automatically change it to `production`!
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - Insert and Editing Modes](./03-Insert-and-Editing-Modes.md) | [README](./README.md) | [05 - Yank Copy and Paste](./05-Yank-Copy-and-Paste.md) |

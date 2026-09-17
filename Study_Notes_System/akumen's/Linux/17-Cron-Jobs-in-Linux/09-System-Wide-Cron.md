@@ -65,3 +65,9 @@ A root-run cron script can become a serious security risk if an unprivileged use
 ## Source foundation
 
 The supplied source identifies `/etc/crontab`, `/etc/cron.d/`, and the hourly/daily/weekly/monthly directories.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Testing and Troubleshooting](./08-Testing-and-Troubleshooting.md) | [README](./README.md) | [10 - Security and Best Practices](./10-Security-and-Best-Practices.md) |

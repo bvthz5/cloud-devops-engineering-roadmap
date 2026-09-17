@@ -15,3 +15,9 @@
 
 5. **How does Fail2Ban prevent brute-force attacks?**
    Monitors log files for repeated authentication failures and dynamically adds iptables/nftables firewall rules to drop packets from the attacker's IP.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [17 - Troubleshooting Hardening Scenarios](./17-Troubleshooting-Hardening-Scenarios.md) | [README](./README.md) | [19 - MCQs and Quick Revision](./19-MCQs-and-Quick-Revision.md) |

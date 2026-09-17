@@ -34,3 +34,9 @@ Create a GPT partition table, format an `ext4` filesystem, set up permanent UUID
    sudo mount -a
    df -h /mnt/datastore
    ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Storage Security and Backup Best Practices](./14-Storage-Security-and-Backup-Best-Practices.md) | [README](./README.md) | [16 - Troubleshooting Partitioning Scenarios](./16-Troubleshooting-Partitioning-Scenarios.md) |

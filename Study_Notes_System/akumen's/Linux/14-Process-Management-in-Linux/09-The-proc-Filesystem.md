@@ -79,3 +79,9 @@ If someone accidentally deletes a critical file (like a database log), but a pro
     ```bash
     cp /proc/2000/fd/4 /tmp/recovered_log.txt
     ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Resource Monitoring CPU Memory IO](./08-Resource-Monitoring-CPU-Memory-IO.md) | [README](./README.md) | [10 - systemd and Service Management](./10-systemd-and-Service-Management.md) |

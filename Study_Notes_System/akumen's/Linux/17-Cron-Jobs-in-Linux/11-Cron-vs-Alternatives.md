@@ -49,3 +49,9 @@ Workload is Kubernetes-native?
       |
       +--> Kubernetes CronJob may fit
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Security and Best Practices](./10-Security-and-Best-Practices.md) | [README](./README.md) | [12 - Hands On Practice](./12-Hands-On-Practice.md) |

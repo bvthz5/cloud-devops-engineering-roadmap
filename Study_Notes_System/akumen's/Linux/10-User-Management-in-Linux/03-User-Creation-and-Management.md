@@ -83,3 +83,9 @@ Whenever `useradd -m` creates a new home directory, files inside `/etc/skel` (e.
 ```
 
 > **DevOps Tip:** Customize `/etc/skel/.bashrc` or add standard SSH config directories (`/etc/skel/.ssh/authorized_keys`) in custom golden images so every newly created user gets standardized aliases and environments!
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - Core Configuration Files](./02-Core-Configuration-Files.md) | [README](./README.md) | [04 - Password Management and Aging](./04-Password-Management-and-Aging.md) |

@@ -39,3 +39,9 @@ graph LR
 
 6. **Container & Kubernetes Security Contexts:**
    * *Relationship:* Mapping host UIDs/GIDs into container namespaces, enforcing non-root container users (`USER 10001` in Dockerfile), and defining Kubernetes `securityContext: runAsUser: 1000`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Quick Revision](./14-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |

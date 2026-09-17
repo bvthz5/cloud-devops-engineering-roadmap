@@ -60,3 +60,9 @@ location ^~ /images/ { ... }       # Matches /images/logo.png, skips regex
 location ~* \.(png|jpg|css)$ { ... } # Matches static assets case-insensitively
 location / { ... }                  # Fallback default catch-all
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - Nginx Architecture and Process Model](./02-Nginx-Architecture-and-Process-Model.md) | [README](./README.md) | [04 - Nginx Reverse Proxy Configuration](./04-Nginx-Reverse-Proxy-Configuration.md) |

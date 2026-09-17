@@ -271,3 +271,9 @@ Despite the `#`, it is NOT a comment — `#includedir` is a special directive.
 This lists all commands the current user is allowed (or denied) to run via sudo on this host.
 
 </details>
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [16 - Hands On Terminal Practice](./16-Hands-On-Terminal-Practice.md) | [README](./README.md) | [18 - Quick Revision](./18-Quick-Revision.md) |

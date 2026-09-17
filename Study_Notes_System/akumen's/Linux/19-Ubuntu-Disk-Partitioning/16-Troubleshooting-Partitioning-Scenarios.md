@@ -10,3 +10,9 @@
 ## Scenario 2: Partition table changes not recognized by kernel
 - **Cause:** Disk is busy/in use.
 - **Resolution:** Run `sudo partprobe` to force kernel to reload partition table without rebooting.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - Hands On Partitioning Lab](./15-Hands-On-Partitioning-Lab.md) | [README](./README.md) | [17 - Interview Questions and Answers](./17-Interview-Questions-and-Answers.md) |

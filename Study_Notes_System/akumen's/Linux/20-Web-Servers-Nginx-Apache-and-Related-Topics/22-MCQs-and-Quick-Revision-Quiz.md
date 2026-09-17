@@ -27,3 +27,9 @@
    - C. Caddy
    - D. lighttpd
    **Answer: C**
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [21 - Web Server Interview Questions and Answers](./21-Web-Server-Interview-Questions-and-Answers.md) | [README](./README.md) | [23 - Scenario Based Troubleshooting Challenges](./23-Scenario-Based-Troubleshooting-Challenges.md) |

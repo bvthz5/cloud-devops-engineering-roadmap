@@ -86,3 +86,9 @@ When you want to add or remove a specific permission but preserve the others.
 # Adds execute for the owner, but doesn't change group/others
 chmod u+x script.py
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - chmod Symbolic Notation](./05-chmod-Symbolic-Notation.md) | [README](./README.md) | [07 - Special Permissions setuid setgid sticky bit](./07-Special-Permissions-setuid-setgid-sticky-bit.md) |

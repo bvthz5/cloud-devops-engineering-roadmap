@@ -70,3 +70,9 @@ wget -m -k -p https://example.com
 ## 🎯 30-Second Interview Answer
 
 > *"While both transfer data over networks, they serve different purposes. I use `wget` primarily for autonomous file downloading, as it handles retries automatically and can recursively mirror directories using flags like `-m`. Conversely, `curl` is my go-to for API interaction and network debugging. Because `curl` outputs to `stdout` and supports extensive manipulation of HTTP verbs (`-X`), headers (`-H`), and payloads (`-d`), it is the industry standard for writing REST API calls in bash scripts, usually piped into `jq` for parsing."*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - MCQs](./15-MCQs.md) | [README](./README.md) | [17 - Related Topics](./17-Related-Topics.md) |

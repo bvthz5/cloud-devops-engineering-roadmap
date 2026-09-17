@@ -16,3 +16,9 @@
   sudo ausearch -m avc -ts recent
   ```
 - **Resolution:** Use `audit2allow` to generate custom policy module.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [16 - Hands On Hardening Labs](./16-Hands-On-Hardening-Labs.md) | [README](./README.md) | [18 - Interview Questions and Answers](./18-Interview-Questions-and-Answers.md) |

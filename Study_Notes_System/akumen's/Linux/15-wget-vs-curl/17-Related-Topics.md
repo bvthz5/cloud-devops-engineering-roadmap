@@ -52,3 +52,9 @@ Once you are comfortable with `wget` and `curl`, you will encounter situations w
 
 **What it is:** Tools specifically designed for transferring files securely over SSH.
 **Why it matters:** While `curl` can upload via SFTP/SCP, `rsync` and `scp` are the industry standards for moving files between Linux servers. `rsync` is particularly powerful because it only transfers the *differences* between files, drastically reducing bandwidth usage for backups.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [16 - Quick Revision](./16-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |

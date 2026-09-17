@@ -56,3 +56,9 @@ www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
     awk -F: '$3 == 0 {print $1}' /etc/passwd
     # Should ONLY return 'root'.
     ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Users Groups UID GID](./01-Users-Groups-UID-GID.md) | [README](./README.md) | [03 - etc shadow Deep Dive](./03-etc-shadow-Deep-Dive.md) |

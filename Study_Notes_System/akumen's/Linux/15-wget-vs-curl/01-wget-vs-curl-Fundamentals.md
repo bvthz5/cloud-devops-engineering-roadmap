@@ -46,3 +46,9 @@ sudo yum install wget curl
 # Alpine (Common in Docker)
 apk add wget curl
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - When to use each](./02-When-to-use-each.md) |

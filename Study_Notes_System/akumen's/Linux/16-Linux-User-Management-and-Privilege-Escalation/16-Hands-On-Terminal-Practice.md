@@ -145,3 +145,9 @@ sudo groupdel labteam
 sudo rm -f /etc/sudoers.d/testdev
 sudo rm -f /tmp/testfile.txt
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - Interview QA](./15-Interview-QA.md) | [README](./README.md) | [17 - MCQs](./17-MCQs.md) |

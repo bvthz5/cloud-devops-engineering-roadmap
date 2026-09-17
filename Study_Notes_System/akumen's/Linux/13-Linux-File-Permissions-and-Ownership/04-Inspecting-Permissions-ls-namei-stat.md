@@ -87,3 +87,9 @@ f: /var/www/html/index.html
 **Why use `namei -m`?**
 *   `-m` displays the modes (permissions).
 *   It instantly identifies which directory in a long path is blocking access, saving you from running `ls -ld` manually on every parent folder.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - Ownership and Groups](./03-Ownership-and-Groups.md) | [README](./README.md) | [05 - chmod Symbolic Notation](./05-chmod-Symbolic-Notation.md) |

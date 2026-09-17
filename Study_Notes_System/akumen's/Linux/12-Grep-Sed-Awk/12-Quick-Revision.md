@@ -123,3 +123,9 @@ ps aux | awk 'NR>1 {print $4, $11}' | sort -rn | head -10  → Top memory
 ## 🎯 30-Second Interview Answer
 
 > *"grep, sed, and awk are core Linux text-processing tools. grep searches for matching patterns, sed transforms text through substitution and line operations, and awk processes structured fields — performing filtering, calculations, and report generation. They become especially powerful when combined with pipes to analyze logs, configs, and structured data without writing full scripts."*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - MCQs](./11-MCQs.md) | [README](./README.md) | [13 - Related Topics](./13-Related-Topics.md) |

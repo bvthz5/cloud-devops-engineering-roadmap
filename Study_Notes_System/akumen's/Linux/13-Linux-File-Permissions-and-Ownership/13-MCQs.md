@@ -271,3 +271,9 @@ It is invaluable for troubleshooting "Permission denied" errors caused by missin
 The first character of the 10-character string is `l` for a symlink, `d` for directory, and `-` for a regular file.
 
 </details>
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Hands On Terminal Practice](./12-Hands-On-Terminal-Practice.md) | [README](./README.md) | [14 - Quick Revision](./14-Quick-Revision.md) |

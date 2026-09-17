@@ -73,3 +73,9 @@ User management and privilege escalation are core topics in any Linux security, 
 ## 💡 30-Second Interview Answer
 
 > *"Linux user management centers on three files: `/etc/passwd` (identity mapping), `/etc/shadow` (password hashes and aging), and `/etc/group` (group memberships). Privilege escalation is controlled via `sudo` and the `/etc/sudoers` file, which must always be edited using `visudo` for syntax validation. Best practices include using modular drop-in files in `/etc/sudoers.d/`, applying the principle of least privilege (scoping sudo rules to specific commands), using `NOPASSWD` only for non-interactive service accounts, creating service accounts with `/sbin/nologin`, and regularly auditing for unauthorized UID 0 accounts, stale users, and excessive SUID binaries."*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Troubleshooting](./14-Troubleshooting.md) | [README](./README.md) | [16 - Hands On Terminal Practice](./16-Hands-On-Terminal-Practice.md) |

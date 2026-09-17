@@ -89,3 +89,9 @@ sudo groupdel devteam
 # View members of a group
 getent group devteam
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - etc shadow Deep Dive](./03-etc-shadow-Deep-Dive.md) | [README](./README.md) | [05 - sudo Fundamentals](./05-sudo-Fundamentals.md) |

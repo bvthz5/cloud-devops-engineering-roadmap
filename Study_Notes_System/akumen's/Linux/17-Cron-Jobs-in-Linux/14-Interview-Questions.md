@@ -80,3 +80,9 @@
 
 25. **Why is logging important for cron?**
     Cron jobs run unattended in the background; logs provide execution proof and diagnostic error details.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - Scenario Based Questions](./13-Scenario-Based-Questions.md) | [README](./README.md) | [15 - MCQs](./15-MCQs.md) |

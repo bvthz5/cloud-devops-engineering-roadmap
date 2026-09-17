@@ -24,3 +24,9 @@ Example `/etc/mysql/mariadb.conf.d/50-server.cnf`:
 ```ini
 bind-address = 127.0.0.1
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - SUID SGID and World Writable Files](./09-SUID-SGID-and-World-Writable-Files.md) | [README](./README.md) | [11 - Kernel Hardening with Sysctl](./11-Kernel-Hardening-with-Sysctl.md) |

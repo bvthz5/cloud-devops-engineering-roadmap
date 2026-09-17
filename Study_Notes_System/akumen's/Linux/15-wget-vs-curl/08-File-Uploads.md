@@ -57,3 +57,9 @@ If you are uploading massive files over slow connections, `curl` will keep the c
 # Resume an interrupted upload
 curl -C - -T massive_db_dump.sql sftp://server.example.com/data/
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Authentication](./07-Authentication.md) | [README](./README.md) | [09 - Website Mirroring wget](./09-Website-Mirroring-wget.md) |

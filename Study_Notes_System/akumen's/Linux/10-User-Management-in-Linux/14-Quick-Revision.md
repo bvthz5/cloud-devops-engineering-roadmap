@@ -55,3 +55,9 @@ sudo userdel -r alice                        # Delete account + home directory
 3. **Debian/Ubuntu admin group = `sudo`**. **RHEL/Rocky/Fedora admin group = `wheel`**.
 4. Drop-in files under `/etc/sudoers.d/` must be permissions `0440` and **cannot contain dots (`.`) in filenames**.
 5. Linux kernel evaluates permissions by **numerical UID/GID**, not string usernames.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - MCQ](./13-MCQ.md) | [README](./README.md) | [15 - Related Topics](./15-Related-Topics.md) |

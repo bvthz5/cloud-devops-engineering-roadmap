@@ -81,3 +81,9 @@ To view current logged-in user credentials, run:
 id
 # Output: uid=1000(alice) gid=1000(alice) groups=1000(alice),27(sudo),998(docker)
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - Core Configuration Files](./02-Core-Configuration-Files.md) |

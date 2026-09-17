@@ -22,3 +22,9 @@ sudo mkfs.xfs -f -L "DatabaseVol" /dev/sdb2
 # Format partition as FAT32 (vfat) for EFI
 sudo mkfs.vfat -F 32 /dev/sdb3
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Disk CLI Tools Lsblk Fdisk Parted Blkid](./06-Disk-CLI-Tools-Lsblk-Fdisk-Parted-Blkid.md) | [README](./README.md) | [08 - Etc Fstab and UUID Mounting](./08-Etc-Fstab-and-UUID-Mounting.md) |

@@ -79,3 +79,9 @@ sudo userdel -r "$TARGET_USER"
 
 echo "Offboarding complete for $TARGET_USER."
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Sudo Privilege Escalation and Sudoers](./07-Sudo-Privilege-Escalation-and-Sudoers.md) | [README](./README.md) | [09 - Real World Production Scenarios](./09-Real-World-Production-Scenarios.md) |

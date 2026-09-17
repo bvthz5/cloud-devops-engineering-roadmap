@@ -95,3 +95,9 @@ Re-add all required groups using the `-a` append flag:
 sudo usermod -aG sudo,devs,libvirt,docker alice
 ```
 > 💡 **Best Practice Rule:** ALWAYS use `-aG` together when modifying groups!
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Real World Production Scenarios](./09-Real-World-Production-Scenarios.md) | [README](./README.md) | [11 - Interview QA](./11-Interview-QA.md) |

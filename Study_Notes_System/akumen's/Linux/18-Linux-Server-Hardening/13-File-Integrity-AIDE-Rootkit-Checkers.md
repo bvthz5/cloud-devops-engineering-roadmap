@@ -31,3 +31,9 @@ sudo rkhunter --propupd
 sudo rkhunter --check --sk
 sudo chkrootkit
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Auditd and Log Monitoring](./12-Auditd-and-Log-Monitoring.md) | [README](./README.md) | [14 - Automatic Security Updates](./14-Automatic-Security-Updates.md) |

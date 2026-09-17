@@ -42,3 +42,9 @@ graph LR
 
 6. **GNU `nano` — Simple Alternative:**
    * Ideal for quick ad-hoc edits in environments where VI expertise is not required. Non-modal with on-screen key bindings displayed at the bottom.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Quick Revision](./14-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |

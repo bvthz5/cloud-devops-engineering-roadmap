@@ -30,3 +30,9 @@ Industry benchmarks provide standardized hardening guidelines:
 - **CIS Benchmarks** (Center for Internet Security)
 - **NIST SP 800-53**
 - **DISA STIGs** (Defense Information Systems Agency)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - Patch Management](./02-Patch-Management.md) |

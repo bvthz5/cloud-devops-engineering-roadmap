@@ -28,3 +28,9 @@
       server web1 192.168.1.10:80 check
       server web2 192.168.1.11:80 check
   ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Modern Web Servers Caddy IIS lighttpd](./12-Modern-Web-Servers-Caddy-IIS-lighttpd.md) | [README](./README.md) | [14 - Static vs Dynamic App Execution PHP FPM Node Python](./14-Static-vs-Dynamic-App-Execution-PHP-FPM-Node-Python.md) |

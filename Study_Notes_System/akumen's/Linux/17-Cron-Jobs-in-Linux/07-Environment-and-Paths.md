@@ -123,3 +123,9 @@ Remove the test job after debugging.
 ## Source foundation
 
 The supplied source specifically warns about relative paths, executable permissions, and missing environment variables such as `PATH` and `JAVA_HOME`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Output Logging and Redirection](./06-Output-Logging-and-Redirection.md) | [README](./README.md) | [08 - Testing and Troubleshooting](./08-Testing-and-Troubleshooting.md) |

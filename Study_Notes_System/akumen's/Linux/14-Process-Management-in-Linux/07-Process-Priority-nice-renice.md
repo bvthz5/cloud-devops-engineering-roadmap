@@ -78,3 +78,9 @@ USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
 alice     8842 99.0  0.1  12345  4567 pts/0    RN   10:00   1:23 ./heavy_backup.sh
 ```
 *(The `RN` means it is Running, and it is low priority/Nice).*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Detaching Processes nohup tmux](./06-Detaching-Processes-nohup-tmux.md) | [README](./README.md) | [08 - Resource Monitoring CPU Memory IO](./08-Resource-Monitoring-CPU-Memory-IO.md) |

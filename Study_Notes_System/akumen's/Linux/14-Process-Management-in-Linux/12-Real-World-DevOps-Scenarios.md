@@ -69,3 +69,9 @@ Use the `SIGHUP` signal (Hangup). Most well-written daemons treat `SIGHUP` as a 
 sudo systemctl reload nginx
 # Under the hood, systemd essentially runs: kill -HUP $(pidof nginx)
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Job Scheduling cron at](./11-Job-Scheduling-cron-at.md) | [README](./README.md) | [13 - Troubleshooting Checklists](./13-Troubleshooting-Checklists.md) |

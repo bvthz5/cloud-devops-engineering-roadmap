@@ -62,3 +62,9 @@ When a user attempts SSH login via password:
 4. It hashes the user-provided password using the same salt and algorithm (e.g. SHA-512 `$6$` or yescrypt `$y$`).
 5. If the computed hash matches `/etc/shadow`, PAM checks account aging parameters (expiration date, maximum age, inactivity period).
 6. If authentication and account validity checks pass, PAM returns success, and `sshd` spawns the user's shell.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Troubleshooting](./10-Troubleshooting.md) | [README](./README.md) | [12 - Hands On Lab](./12-Hands-On-Lab.md) |

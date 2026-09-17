@@ -126,3 +126,9 @@ Using uppercase `+X` tells `chmod` to add execute permissions **only** to direct
 chmod -R a+X /var/www/html
 # Ensures all subdirectories can be entered, without making .html files executable.
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Inspecting Permissions ls namei stat](./04-Inspecting-Permissions-ls-namei-stat.md) | [README](./README.md) | [06 - chmod Octal Notation](./06-chmod-Octal-Notation.md) |

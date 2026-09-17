@@ -65,3 +65,9 @@ Linux stores user and group information in three plain-text files:
 | **`/etc/group`** | Maps group names to GIDs and lists group members. |
 
 These files are covered in depth in the following chapters.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - etc passwd Deep Dive](./02-etc-passwd-Deep-Dive.md) |

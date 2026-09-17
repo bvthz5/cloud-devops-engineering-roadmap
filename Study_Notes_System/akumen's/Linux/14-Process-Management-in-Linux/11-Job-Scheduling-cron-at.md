@@ -81,3 +81,9 @@ Additionally, you can drop scripts into `/etc/cron.daily/`, `/etc/cron.hourly/`,
     ```text
     * * * * * /script.sh >> /var/log/cron_script.log 2>&1
     ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - systemd and Service Management](./10-systemd-and-Service-Management.md) | [README](./README.md) | [12 - Real World DevOps Scenarios](./12-Real-World-DevOps-Scenarios.md) |

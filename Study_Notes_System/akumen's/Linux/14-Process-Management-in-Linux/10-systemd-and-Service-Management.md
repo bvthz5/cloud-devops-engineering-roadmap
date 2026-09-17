@@ -95,3 +95,9 @@ journalctl -b
 # View logs for a specific service in the last hour
 journalctl -u my-app --since "1 hour ago"
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - The proc Filesystem](./09-The-proc-Filesystem.md) | [README](./README.md) | [11 - Job Scheduling cron at](./11-Job-Scheduling-cron-at.md) |

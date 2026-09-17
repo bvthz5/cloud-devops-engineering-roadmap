@@ -271,3 +271,9 @@ It is equivalent to running `-r -N -l inf --no-remove-listing`.
 `jq` is the standard command-line JSON processor used extensively with `curl`.
 
 </details>
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Hands On Terminal Practice](./14-Hands-On-Terminal-Practice.md) | [README](./README.md) | [16 - Quick Revision](./16-Quick-Revision.md) |

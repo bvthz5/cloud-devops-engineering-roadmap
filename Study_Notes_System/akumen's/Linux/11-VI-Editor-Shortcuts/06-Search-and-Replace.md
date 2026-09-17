@@ -75,3 +75,9 @@ Vim's substitution uses the `:s` (substitute) command with the standard Ex forma
    ```text
    :%s/^\s\+//
    ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - Yank Copy and Paste](./05-Yank-Copy-and-Paste.md) | [README](./README.md) | [07 - File Operations Save and Quit](./07-File-Operations-Save-and-Quit.md) |

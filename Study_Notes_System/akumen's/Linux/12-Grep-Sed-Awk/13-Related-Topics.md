@@ -62,3 +62,9 @@ The true power of grep/sed/awk is unlocked when they are piped together with the
 
 ### CI/CD Text Processing
 * **Why it matters:** In Jenkins, GitLab CI, or GitHub Actions pipelines, you frequently need to parse version numbers, extract build statuses from command output, or inject environment variables into template files before deployment.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Quick Revision](./12-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |

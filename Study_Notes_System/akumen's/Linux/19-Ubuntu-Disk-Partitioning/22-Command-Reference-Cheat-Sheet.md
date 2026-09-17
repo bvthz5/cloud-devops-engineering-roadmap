@@ -28,3 +28,9 @@ sudo lvextend -L +10G /dev/vg0/lv0     # Extend LV
 sudo resize2fs /dev/vg0/lv0            # Expand ext4 online
 sudo xfs_growfs /mountpoint            # Expand XFS online
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [21 - Related DevOps Storage Topics](./21-Related-DevOps-Storage-Topics.md) | [README](./README.md) | [23 - External References and Documentation](./23-External-References-and-Documentation.md) |

@@ -86,3 +86,9 @@ A typical default `/etc/sudoers` on Ubuntu includes:
 ```
 
 This is why adding a user to the `sudo` group (`usermod -aG sudo alice`) grants them full `sudo` access.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - sudo Fundamentals](./05-sudo-Fundamentals.md) | [README](./README.md) | [07 - sudoers d Modular Rules](./07-sudoers-d-Modular-Rules.md) |

@@ -27,3 +27,9 @@ sudo iotop -o
 If `df -h` shows space available but files cannot be written:
 1. **Exhausted Inodes:** Check `df -i`. Delete directories with millions of tiny files (e.g., mail queues/session files).
 2. **Deleted Files Held Open by Processes:** Process holds file handle open after `rm`. Check with `sudo lsof +L1` and restart responsible service.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Resizing Filesystem Checks and Fsck](./12-Resizing-Filesystem-Checks-and-Fsck.md) | [README](./README.md) | [14 - Storage Security and Backup Best Practices](./14-Storage-Security-and-Backup-Best-Practices.md) |

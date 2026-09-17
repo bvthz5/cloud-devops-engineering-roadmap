@@ -133,3 +133,9 @@ Example:
 devs:$6$kL8m...:alice:bob,charlie
 ```
 * **Group Administrators:** Users who can add/remove members using `gpasswd` without root privileges.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - User Management Fundamentals](./01-User-Management-Fundamentals.md) | [README](./README.md) | [03 - User Creation and Management](./03-User-Creation-and-Management.md) |

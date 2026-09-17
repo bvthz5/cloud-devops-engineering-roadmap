@@ -174,3 +174,9 @@ grep "ERROR" app.log | awk '{print $1, $2, $5}'
 ## 💡 30-Second Interview Answer
 
 > *"grep, sed, and awk are core Linux text-processing tools. grep searches for matching patterns, sed transforms streams of text through substitution and line operations, and awk processes structured fields — performing filtering, calculations, and report generation. They become especially powerful when combined with pipes to analyze logs, configuration files, command output, and structured data — all without writing full scripts."*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Troubleshooting](./08-Troubleshooting.md) | [README](./README.md) | [10 - Hands On Lab](./10-Hands-On-Lab.md) |

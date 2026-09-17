@@ -80,3 +80,9 @@ Minimum number of days between password change          : 0
 Maximum number of days between password change          : 99999
 Number of days of warning before password expires       : 7
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - etc passwd Deep Dive](./02-etc-passwd-Deep-Dive.md) | [README](./README.md) | [04 - Creating Managing Users](./04-Creating-Managing-Users.md) |

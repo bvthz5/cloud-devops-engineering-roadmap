@@ -75,3 +75,9 @@ Each application or microservice on a server should run under its own dedicated 
 *   Your custom application runs as `myapp`.
 
 This ensures that if one application is compromised (e.g., a vulnerability in Nginx), the attacker's access is limited to the files and processes owned by `www-data`. They cannot read PostgreSQL's data directory or your application's configuration files.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Password Management and Aging](./09-Password-Management-and-Aging.md) | [README](./README.md) | [11 - Privilege Escalation Concepts](./11-Privilege-Escalation-Concepts.md) |

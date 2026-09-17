@@ -271,3 +271,9 @@ The `s` command in sed performs text substitution: `s/pattern/replacement/flags`
 Pipes connect commands into data pipelines: `grep "ERROR" app.log | awk '{print $1}'`
 
 </details>
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Hands On Lab](./10-Hands-On-Lab.md) | [README](./README.md) | [12 - Quick Revision](./12-Quick-Revision.md) |

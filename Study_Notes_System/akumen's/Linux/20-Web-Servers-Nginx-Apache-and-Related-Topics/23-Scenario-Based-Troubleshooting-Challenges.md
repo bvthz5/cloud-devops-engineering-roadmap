@@ -20,3 +20,9 @@
   }
   ```
   Run: `ulimit -n 65535`
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [22 - MCQs and Quick Revision Quiz](./22-MCQs-and-Quick-Revision-Quiz.md) | [README](./README.md) | [24 - DevOps Cloud and Kubernetes Web Server Connections](./24-DevOps-Cloud-and-Kubernetes-Web-Server-Connections.md) |

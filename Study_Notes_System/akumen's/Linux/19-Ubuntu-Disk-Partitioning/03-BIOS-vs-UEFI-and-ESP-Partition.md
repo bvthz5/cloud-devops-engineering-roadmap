@@ -23,3 +23,9 @@
   ├── grubx64.efi   (GRUB2 Bootloader binary)
   └── grub.cfg      (GRUB configuration file pointer)
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - MBR vs GPT Partition Tables](./02-MBR-vs-GPT-Partition-Tables.md) | [README](./README.md) | [04 - Ubuntu Partition Layouts and Recommended Sizes](./04-Ubuntu-Partition-Layouts-and-Recommended-Sizes.md) |

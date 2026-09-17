@@ -60,3 +60,9 @@ A daily cron job should have run while the laptop was off.
 ## Scenario 12 — Complex dependency
 Job B must start only after Job A succeeds.
 - **Answer:** Do not use two independent cron entries. Use a wrapper script, locking/coordination, or a workflow tool.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Hands On Practice](./12-Hands-On-Practice.md) | [README](./README.md) | [14 - Interview Questions](./14-Interview-Questions.md) |

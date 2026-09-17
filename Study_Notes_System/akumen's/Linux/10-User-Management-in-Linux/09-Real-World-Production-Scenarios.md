@@ -85,3 +85,9 @@ USER appuser
 EXPOSE 3000
 CMD ["node", "server.js"]
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Practical Command Examples](./08-Practical-Command-Examples.md) | [README](./README.md) | [10 - Troubleshooting](./10-Troubleshooting.md) |

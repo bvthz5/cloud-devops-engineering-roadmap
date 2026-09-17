@@ -64,3 +64,9 @@ In the output of `ps aux`, you often see additional characters appended to the p
 *   `<` = is high priority (not nice to other processes).
 *   `N` = is low priority (nice to other processes).
 *   `l` = is multi-threaded.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Process Fundamentals](./01-Process-Fundamentals.md) | [README](./README.md) | [03 - Viewing Processes ps top htop](./03-Viewing-Processes-ps-top-htop.md) |

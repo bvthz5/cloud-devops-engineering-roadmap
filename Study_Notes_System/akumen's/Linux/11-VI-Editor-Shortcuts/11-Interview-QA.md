@@ -87,3 +87,9 @@ When Vim warns about an existing swap file, it indicates a previous session cras
 After a successful recovery with `R`:
 1. Review recovered content, save with `:wq`.
 2. Delete the orphaned swap file: `rm .filename.swp`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Troubleshooting](./10-Troubleshooting.md) | [README](./README.md) | [12 - Hands On Lab](./12-Hands-On-Lab.md) |

@@ -47,3 +47,9 @@ curl -X POST -H "Content-Type: application/json" -d '{"key":"value"}' https://ap
 | **REST APIs** | Possible, but clunky | Excellent (The industry standard) |
 | **Protocols** | HTTP, HTTPS, FTP | 20+ protocols (HTTP, FTP, SCP, LDAP, etc.) |
 | **Piping to bash** | Clunky (`wget -qO-`) | Native (`curl -s`) |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - wget vs curl Fundamentals](./01-wget-vs-curl-Fundamentals.md) | [README](./README.md) | [03 - File Downloads and Filenames](./03-File-Downloads-and-Filenames.md) |

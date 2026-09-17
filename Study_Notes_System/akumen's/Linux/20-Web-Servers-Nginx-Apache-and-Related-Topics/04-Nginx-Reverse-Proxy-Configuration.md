@@ -45,3 +45,9 @@ server {
 - `X-Real-IP`: Passes real client IPv4/IPv6 address to upstream application logs.
 - `X-Forwarded-For`: Appends client and proxy IP chain so upstream knows full hop path.
 - `X-Forwarded-Proto`: Informs backend whether request originally arrived over `http` or `https`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - Nginx Configuration Structure and Server Blocks](./03-Nginx-Configuration-Structure-and-Server-Blocks.md) | [README](./README.md) | [05 - Nginx Load Balancing Algorithms and Health Checks](./05-Nginx-Load-Balancing-Algorithms-and-Health-Checks.md) |

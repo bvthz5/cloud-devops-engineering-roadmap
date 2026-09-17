@@ -64,3 +64,9 @@ Command-line networking tools are guaranteed to appear in technical assessments.
 ## 💡 30-Second Interview Answer
 
 > *"While both `curl` and `wget` transfer data via the command line, their use cases differ. I use `wget` for autonomous, robust file downloads, especially when I need recursive website mirroring or reliable resume capabilities (`-c`). I use `curl` as my primary tool for interacting with REST APIs, testing webhooks, and troubleshooting network headers, utilizing its versatile flags for HTTP methods (`-X`), custom headers (`-H`), JSON payloads (`-d`), and verbose debugging (`-v`). In CI/CD pipelines, `curl` combined with `jq` is my standard for querying and parsing endpoints."*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Troubleshooting](./12-Troubleshooting.md) | [README](./README.md) | [14 - Hands On Terminal Practice](./14-Hands-On-Terminal-Practice.md) |

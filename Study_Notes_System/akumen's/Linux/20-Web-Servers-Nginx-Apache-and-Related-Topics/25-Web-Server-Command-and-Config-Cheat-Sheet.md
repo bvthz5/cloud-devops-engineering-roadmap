@@ -23,3 +23,9 @@ sudo tail -f /var/log/nginx/error.log  # Real-time error log monitoring
 sudo netstat -tulpn | grep -E ':80|:443' # Check process listening on ports 80/443
 curl -I -v https://example.com         # Inspect HTTP response headers & TLS handshake
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [24 - DevOps Cloud and Kubernetes Web Server Connections](./24-DevOps-Cloud-and-Kubernetes-Web-Server-Connections.md) | [README](./README.md) | [README (Index)](./README.md) |

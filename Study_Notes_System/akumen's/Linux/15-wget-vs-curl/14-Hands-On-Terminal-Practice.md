@@ -103,3 +103,9 @@ wget -m -p -k http://example.com
 # Explore the resulting folder
 ls -la example.com/
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - Interview QA](./13-Interview-QA.md) | [README](./README.md) | [15 - MCQs](./15-MCQs.md) |

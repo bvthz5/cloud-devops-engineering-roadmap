@@ -77,3 +77,9 @@ In Command-Line Mode:
 * `:set nu` or `:set number` - Enable line numbers.
 * `:set nonu` or `:set nonumber` - Disable line numbers.
 * `:set rnu` or `:set relativenumber` - Enable relative line numbers (shows distance from current line).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - VI Editor Basics and Modes](./01-VI-Editor-Basics-and-Modes.md) | [README](./README.md) | [03 - Insert and Editing Modes](./03-Insert-and-Editing-Modes.md) |

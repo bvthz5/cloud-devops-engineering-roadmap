@@ -57,3 +57,9 @@ Once you have mastered the standard Linux permission model (`rwx`, `ugo`, `chmod
 
 **What it is:** Handling permissions across boundaries (e.g., Host OS to Docker Container, or mounting an NFS share).
 **Why it matters:** A frequent DevOps headache is mapping User IDs (UIDs). If a process inside a Docker container runs as UID 1000, and it mounts a host volume owned by UID 1001, it will get "Permission denied," regardless of the usernames involved.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Quick Revision](./14-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |

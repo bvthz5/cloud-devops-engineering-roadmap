@@ -52,3 +52,9 @@ This is the most common frustration for junior engineers. Postman hides a lot of
 3.  **Use Postman's Code Generator:**
     *   If a request works in Postman, look for the `</>` (Code) button on the right side of the screen.
     *   Select `cURL` from the dropdown. Postman will generate the exact `curl` command for you, including all the hidden headers. Paste this into your terminal.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - DevOps CI CD Scenarios](./11-DevOps-CI-CD-Scenarios.md) | [README](./README.md) | [13 - Interview QA](./13-Interview-QA.md) |

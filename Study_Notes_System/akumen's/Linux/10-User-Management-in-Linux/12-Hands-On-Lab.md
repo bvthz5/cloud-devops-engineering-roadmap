@@ -98,3 +98,9 @@ sudo tar -czf /tmp/alice_backup.tar.gz /home/alice
 sudo userdel -r alice
 id alice  # Should return: id: 'alice': no such user
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Interview QA](./11-Interview-QA.md) | [README](./README.md) | [13 - MCQ](./13-MCQ.md) |

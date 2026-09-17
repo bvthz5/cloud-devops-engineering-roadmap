@@ -37,3 +37,9 @@ sudo sysctl --system
 - [ ] Automatic security updates configured
 - [ ] `chrony` time synchronization running
 - [ ] `auditd` monitoring system files
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [19 - MCQs and Quick Revision](./19-MCQs-and-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |

@@ -48,3 +48,9 @@ curl -C - -O https://example.com/huge_file.iso
 ```
 
 > **Server Support Required:** Both of these resume features require the remote web server to support "Range Requests" (specifically the `Accept-Ranges: bytes` header). Most modern servers do, but if the server refuses, both tools will start the download from the beginning.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - File Downloads and Filenames](./03-File-Downloads-and-Filenames.md) | [README](./README.md) | [05 - curl REST API Requests](./05-curl-REST-API-Requests.md) |

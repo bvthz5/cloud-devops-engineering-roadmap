@@ -117,3 +117,9 @@ htop
 *   **Mouse Support:** You can click columns to sort them.
 *   **Tree View:** Press `F5` to view processes in their parent/child tree hierarchy.
 *   **Easier Actions:** Select a process and press `F9` to send a kill signal, without needing to type the PID.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - Process States](./02-Process-States.md) | [README](./README.md) | [04 - Signals and Killing Processes](./04-Signals-and-Killing-Processes.md) |

@@ -11,3 +11,9 @@
 
 4. **Why should `.htaccess` files be avoided in high-performance production Apache deployments?**
    - *Answer:* When `AllowOverride All` is enabled, Apache performs file system checks for `.htaccess` in every directory along the request path for *every request*, resulting in significant disk I/O penalties.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [20 - Production Web Server Deployment Checklist](./20-Production-Web-Server-Deployment-Checklist.md) | [README](./README.md) | [22 - MCQs and Quick Revision Quiz](./22-MCQs-and-Quick-Revision-Quiz.md) |

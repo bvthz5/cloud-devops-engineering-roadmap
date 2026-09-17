@@ -74,3 +74,9 @@
 - **anacron** → Periodic tasks on systems with downtime (laptops).
 - **systemd timer** → Linux service integration & dependency management.
 - **Kubernetes CronJob** → Containerized workloads.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - MCQs](./15-MCQs.md) | [README](./README.md) | [17 - Commands Cheat Sheet](./17-Commands-Cheat-Sheet.md) |

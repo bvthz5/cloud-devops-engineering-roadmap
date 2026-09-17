@@ -40,3 +40,9 @@ server {
 
 ## 4. Web Application Firewall (ModSecurity WAF)
 Integrate ModSecurity with OWASP Core Rule Set (CRS) to block SQL Injection (SQLi), Cross-Site Scripting (XSS), and Remote Code Execution (RCE) attacks at the reverse proxy layer.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [16 - HTTP Status Codes and Troubleshooting 502 504 403](./16-HTTP-Status-Codes-and-Troubleshooting-502-504-403.md) | [README](./README.md) | [18 - Hands On Lab Ubuntu Nginx Reverse Proxy Setup](./18-Hands-On-Lab-Ubuntu-Nginx-Reverse-Proxy-Setup.md) |

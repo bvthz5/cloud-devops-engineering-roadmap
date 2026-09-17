@@ -64,3 +64,9 @@ sudo -u postgres psql
 | `sudo su -` | Login shell (via `su -`) | Root's environment (clean). | Identical to `sudo -i` in practice. |
 
 > **Best Practice:** Use `sudo -i` for a clean root session. Use `sudo <command>` for individual commands. Avoid `sudo su` as it is redundant.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Creating Managing Users](./04-Creating-Managing-Users.md) | [README](./README.md) | [06 - etc sudoers and visudo](./06-etc-sudoers-and-visudo.md) |

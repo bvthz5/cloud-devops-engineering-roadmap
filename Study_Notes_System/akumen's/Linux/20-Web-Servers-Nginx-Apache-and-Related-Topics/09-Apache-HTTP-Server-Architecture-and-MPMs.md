@@ -28,3 +28,9 @@ Unlike Nginx's asynchronous event loop, Apache HTTP Server (`httpd` or `apache2`
 - **Function:** `.htaccess` allows directory-level configuration overrides without modifying root httpd configuration files.
 - **Performance Trade-off:** When `AllowOverride All` is enabled, Apache is forced to search and parse `.htaccess` files in *every directory along the requested file path* for every single request.
 - **Production Recommendation:** Disable `.htaccess` (`AllowOverride None`) in production and place all rules in main `<VirtualHost>` config blocks.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - WebSockets HTTP2 HTTP3 and gRPC Proxying](./08-WebSockets-HTTP2-HTTP3-and-gRPC-Proxying.md) | [README](./README.md) | [10 - Apache Virtual Hosts and Reverse Proxy Mod_Proxy](./10-Apache-Virtual-Hosts-and-Reverse-Proxy-Mod_Proxy.md) |

@@ -98,3 +98,9 @@ Add comments explaining the job's purpose:
 
 ## 15. Consider concurrency and dependencies
 If job B depends on job A finishing, two independent cron entries may not provide the required ordering. For complex dependency graphs, use a more suitable scheduler/orchestrator.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - System Wide Cron](./09-System-Wide-Cron.md) | [README](./README.md) | [11 - Cron vs Alternatives](./11-Cron-vs-Alternatives.md) |

@@ -84,3 +84,9 @@ sudo chown -R nginx:nginx /var/www → Recursively change user and group
 ## 🎯 30-Second Interview Answer
 
 > *"Linux permissions govern access through three classes: User, Group, and Others, each possessing independent Read, Write, and Execute rights. These rights function differently on files versus directories—where directory execute acts as a traversal pass. Permissions are manipulated using `chmod` (via symbolic or octal notation like 755/644), while ownership is managed via `chown`. For complex shared or secure environments, special permissions like SGID for collaborative folders and the Sticky Bit for shared scratch spaces like `/tmp` are essential."*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - MCQs](./13-MCQs.md) | [README](./README.md) | [15 - Related Topics](./15-Related-Topics.md) |

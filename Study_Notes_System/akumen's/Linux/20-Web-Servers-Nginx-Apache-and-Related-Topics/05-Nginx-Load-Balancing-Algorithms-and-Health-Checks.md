@@ -35,3 +35,9 @@ server {
 - `fail_timeout=30s`: Time period server is considered offline after reaching `max_fails`.
 - `backup`: Specifies fallback server used only when all primary servers are down.
 - `down`: Marks server permanently offline for maintenance.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Nginx Reverse Proxy Configuration](./04-Nginx-Reverse-Proxy-Configuration.md) | [README](./README.md) | [06 - TLS HTTPS SSL Certificates and Certbot](./06-TLS-HTTPS-SSL-Certificates-and-Certbot.md) |

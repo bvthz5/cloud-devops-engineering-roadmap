@@ -28,3 +28,9 @@
 - **SSH Hardening:** Disable root login, disable passwords, use SSH keys.
 - **Firewall:** Default deny incoming.
 - **Kernel Tuning:** Enable `tcp_syncookies`, disable `ip_forward`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [18 - Interview Questions and Answers](./18-Interview-Questions-and-Answers.md) | [README](./README.md) | [20 - Commands Cheat Sheet and Checklist](./20-Commands-Cheat-Sheet-and-Checklist.md) |

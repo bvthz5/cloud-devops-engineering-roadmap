@@ -38,3 +38,9 @@ Configure Apache 2.4 on Ubuntu with Event MPM and multi-site Virtual Hosts.
    sudo apache2ctl configtest
    sudo systemctl reload apache2
    ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [18 - Hands On Lab Ubuntu Nginx Reverse Proxy Setup](./18-Hands-On-Lab-Ubuntu-Nginx-Reverse-Proxy-Setup.md) | [README](./README.md) | [20 - Production Web Server Deployment Checklist](./20-Production-Web-Server-Deployment-Checklist.md) |

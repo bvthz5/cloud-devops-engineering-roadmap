@@ -151,3 +151,9 @@ Use those absolute paths when appropriate.
 | Script cannot execute | Missing executable bit (`chmod +x`) or shebang |
 | Wrong user permissions | Job belongs to different user |
 | Relative file missing | Unexpected working directory |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Environment and Paths](./07-Environment-and-Paths.md) | [README](./README.md) | [09 - System Wide Cron](./09-System-Wide-Cron.md) |

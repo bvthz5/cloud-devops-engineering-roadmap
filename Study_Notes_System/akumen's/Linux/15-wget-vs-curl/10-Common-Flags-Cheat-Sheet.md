@@ -39,3 +39,9 @@ A quick reference guide for the most frequently used flags in both tools. Rememb
 | **`-A`** | Accept list (only download specific extensions). | `wget -r -A.pdf http://site.com` |
 | **`--no-check-certificate`** | Insecure (ignore SSL warnings). | `wget --no-check-certificate https://untrusted.com` |
 | **`--limit-rate`**| Limit bandwidth usage. | `wget --limit-rate=500k http://site.com/file.iso` |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Website Mirroring wget](./09-Website-Mirroring-wget.md) | [README](./README.md) | [11 - DevOps CI CD Scenarios](./11-DevOps-CI-CD-Scenarios.md) |

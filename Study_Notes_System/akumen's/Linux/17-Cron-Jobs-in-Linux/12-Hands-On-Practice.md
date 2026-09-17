@@ -110,3 +110,9 @@ Write the current date to a file every minute.
    ls -l /etc/cron.d/
    ```
 2. Read `/etc/crontab`: `cat /etc/crontab`
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Cron vs Alternatives](./11-Cron-vs-Alternatives.md) | [README](./README.md) | [13 - Scenario Based Questions](./13-Scenario-Based-Questions.md) |

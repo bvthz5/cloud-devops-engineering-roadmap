@@ -120,3 +120,9 @@ sudo visudo -f /etc/sudoers.d/devops
 1. File permissions must be set to `0440` (`chmod 0440 /etc/sudoers.d/devops`).
 2. Owned by `root:root`.
 3. File names **must NOT contain dots (`.`) or end in `~`**. (e.g., `50-devops` is valid; `devops.conf` will be ignored by sudo!).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Group Management](./06-Group-Management.md) | [README](./README.md) | [08 - Practical Command Examples](./08-Practical-Command-Examples.md) |

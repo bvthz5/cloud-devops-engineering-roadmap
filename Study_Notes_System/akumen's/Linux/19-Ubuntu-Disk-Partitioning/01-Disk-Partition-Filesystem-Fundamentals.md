@@ -25,3 +25,9 @@ Understanding Linux storage requires visualizing the layer stack from physical h
 3. **Partition:** A contiguous boundary slice of raw disk space (e.g., `/dev/sda1`).
 4. **Filesystem:** Data structure format written onto a partition that allows the OS to organize, store, retrieve, and control files and metadata.
 5. **Mounting & Mount Point:** Attaching a formatted filesystem to a specific directory path in the unified Linux root directory tree (`/`).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - MBR vs GPT Partition Tables](./02-MBR-vs-GPT-Partition-Tables.md) |

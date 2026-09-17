@@ -64,3 +64,9 @@ wget -q https://example.com/file.txt
 curl -s -O https://example.com/file.txt
 ```
 *(Note: If `curl` fails in silent mode, it outputs nothing. It is often paired with `-S` to show errors even when silent: `curl -sS`).*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - When to use each](./02-When-to-use-each.md) | [README](./README.md) | [04 - Redirects and Resumes](./04-Redirects-and-Resumes.md) |

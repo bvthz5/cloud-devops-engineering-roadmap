@@ -113,3 +113,9 @@ D) `groupdel username`
 <b>Correct Answer: B</b><br>
 <b>Explanation:</b> The `-r` (`--remove`) flag tells `userdel` to recursively purge the user's home directory and mail spool.
 </details>
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Hands On Lab](./12-Hands-On-Lab.md) | [README](./README.md) | [14 - Quick Revision](./14-Quick-Revision.md) |

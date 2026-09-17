@@ -40,3 +40,9 @@ Check status:
 ```bash
 sudo aa-status
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Automatic Security Updates](./14-Automatic-Security-Updates.md) | [README](./README.md) | [16 - Hands On Hardening Labs](./16-Hands-On-Hardening-Labs.md) |

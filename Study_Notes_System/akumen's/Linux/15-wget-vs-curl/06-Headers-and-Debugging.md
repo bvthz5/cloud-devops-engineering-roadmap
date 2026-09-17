@@ -82,3 +82,9 @@ DevOps engineers often use `curl` to test API latency. You can format `curl`'s o
 curl -o /dev/null -s -w "DNS: %{time_namelookup}s \nConnect: %{time_connect}s \nTTFB: %{time_starttransfer}s \nTotal: %{time_total}s \n" https://example.com
 ```
 *   **TTFB (Time To First Byte):** The time it took the server to process the request and start responding. Extremely useful for performance tuning.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - curl REST API Requests](./05-curl-REST-API-Requests.md) | [README](./README.md) | [07 - Authentication](./07-Authentication.md) |

@@ -75,3 +75,9 @@ Process management is a core competency tested heavily in DevOps and SysAdmin in
 ## 💡 30-Second Interview Answer
 
 > *"In Linux, processes are executing instances of programs, tracked via PIDs in a hierarchical tree rooted at `systemd` (PID 1). We monitor them statically with `ps` or dynamically with `top`/`htop`. Process control relies on Signals—primarily `SIGTERM` (15) for graceful shutdowns and `SIGKILL` (9) for forceful immediate termination. When troubleshooting performance, I look beyond CPU usage to process states, specifically watching for Uninterruptible Sleep ('D' state) which indicates hardware I/O bottlenecks, and Zombies ('Z' state) which indicate poorly written parent processes failing to reap their children."*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - Troubleshooting Checklists](./13-Troubleshooting-Checklists.md) | [README](./README.md) | [15 - Hands On Terminal Practice](./15-Hands-On-Terminal-Practice.md) |

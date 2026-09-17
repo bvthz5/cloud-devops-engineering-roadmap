@@ -140,3 +140,9 @@ sudo find /tmp/www -type f -exec chmod 644 {} \;
 
 ls -la /tmp/www/html
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Interview QA](./11-Interview-QA.md) | [README](./README.md) | [13 - MCQs](./13-MCQs.md) |

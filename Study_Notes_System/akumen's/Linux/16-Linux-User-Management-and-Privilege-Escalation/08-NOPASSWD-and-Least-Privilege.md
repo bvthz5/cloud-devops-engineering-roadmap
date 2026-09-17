@@ -68,3 +68,9 @@ alice   ALL=(ALL)   ALL, !/usr/bin/passwd root, !/usr/sbin/visudo
 ```
 *Alice can run anything via sudo except changing the root password or editing sudoers.*
 *(Note: Deny rules are easily bypassed by copying the binary to another location. They are a speed bump, not a wall).*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - sudoers d Modular Rules](./07-sudoers-d-Modular-Rules.md) | [README](./README.md) | [09 - Password Management and Aging](./09-Password-Management-and-Aging.md) |

@@ -77,3 +77,9 @@ After splitting, move focus between panes using `Ctrl+W` prefix key combinations
 | :---: | :--- |
 | `:q` | Close **current** focused window pane |
 | `:only` | Close **all other panes**, keeping only the currently focused one |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - File Operations Save and Quit](./07-File-Operations-Save-and-Quit.md) | [README](./README.md) | [09 - Practical DevOps Workflows](./09-Practical-DevOps-Workflows.md) |

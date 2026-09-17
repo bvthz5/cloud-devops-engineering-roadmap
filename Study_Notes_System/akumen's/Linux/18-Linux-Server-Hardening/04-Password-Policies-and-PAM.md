@@ -50,3 +50,9 @@ Add to `/etc/pam.d/common-auth` or `/etc/pam.d/system-auth`:
 ```ini
 auth required pam_faillock.so preauth silent audit deny=5 unlock_time=900
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - User and Account Security](./03-User-and-Account-Security.md) | [README](./README.md) | [05 - SSH Hardening](./05-SSH-Hardening.md) |

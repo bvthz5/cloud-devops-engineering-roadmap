@@ -28,3 +28,9 @@ sudo umount /dev/sdb1
 # Run interactive filesystem check & repair
 sudo fsck -fy /dev/sdb1
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - RAID and LUKS Disk Encryption](./11-RAID-and-LUKS-Disk-Encryption.md) | [README](./README.md) | [13 - Storage Performance and Capacity Troubleshooting](./13-Storage-Performance-and-Capacity-Troubleshooting.md) |

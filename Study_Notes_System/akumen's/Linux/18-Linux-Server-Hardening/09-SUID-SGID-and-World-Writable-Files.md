@@ -30,3 +30,9 @@ sudo find / -xdev -type f -perm -0002 -exec ls -l {} ;
 ```bash
 sudo chmod o-w /path/to/file
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - File Permissions and Umask](./08-File-Permissions-and-Umask.md) | [README](./README.md) | [10 - Services and Port Hardening](./10-Services-and-Port-Hardening.md) |

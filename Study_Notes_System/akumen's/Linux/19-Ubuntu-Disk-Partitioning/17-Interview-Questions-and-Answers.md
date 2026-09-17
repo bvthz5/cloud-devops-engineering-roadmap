@@ -11,3 +11,9 @@
 
 4. **How do you extend an active `ext4` filesystem on LVM?**
    Run `sudo lvextend -L +10G /dev/vg/lv` followed by `sudo resize2fs /dev/vg/lv`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [16 - Troubleshooting Partitioning Scenarios](./16-Troubleshooting-Partitioning-Scenarios.md) | [README](./README.md) | [18 - MCQs and Quick Revision](./18-MCQs-and-Quick-Revision.md) |

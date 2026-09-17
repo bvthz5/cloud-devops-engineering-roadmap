@@ -82,3 +82,9 @@ sudo passwd -S alice
 | **Minimum Age** | 1–7 days | Prevents cycling through password history. |
 | **Warning Period** | 7–14 days | Gives users time to change proactively. |
 | **Inactivity Lockout** | 30 days | Auto-disables accounts that ignore expiry. |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - NOPASSWD and Least Privilege](./08-NOPASSWD-and-Least-Privilege.md) | [README](./README.md) | [10 - Service Accounts and nologin](./10-Service-Accounts-and-nologin.md) |

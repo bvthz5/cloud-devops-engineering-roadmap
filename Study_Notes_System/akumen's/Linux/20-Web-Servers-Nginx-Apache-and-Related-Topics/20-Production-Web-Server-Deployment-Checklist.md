@@ -20,3 +20,9 @@
   - Configured structured JSON access logging.
   - Verified log rotation (`/etc/logrotate.d/nginx`).
   - Integrated metric exporters (e.g., Prometheus Nginx Exporter).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [19 - Hands On Lab Ubuntu Apache Virtual Hosts Setup](./19-Hands-On-Lab-Ubuntu-Apache-Virtual-Hosts-Setup.md) | [README](./README.md) | [21 - Web Server Interview Questions and Answers](./21-Web-Server-Interview-Questions-and-Answers.md) |

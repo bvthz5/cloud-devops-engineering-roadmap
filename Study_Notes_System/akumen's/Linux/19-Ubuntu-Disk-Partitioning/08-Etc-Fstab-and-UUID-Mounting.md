@@ -35,3 +35,9 @@ sudo mount -a
 
 # If mount -a reports errors, fix /etc/fstab immediately before rebooting!
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Filesystems Ext4 XFS Btrfs FAT32 NTFS](./07-Filesystems-Ext4-XFS-Btrfs-FAT32-NTFS.md) | [README](./README.md) | [09 - Swap Partitions and Swap Files](./09-Swap-Partitions-and-Swap-Files.md) |
