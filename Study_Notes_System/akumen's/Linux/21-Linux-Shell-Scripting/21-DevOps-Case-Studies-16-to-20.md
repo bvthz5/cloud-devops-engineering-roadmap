@@ -145,3 +145,8 @@ AFTER_SPACE=$(docker system df | awk 'NR==2 {print $4}')
 echo "Docker cleanup finished."
 echo "Space Before: $BEFORE_SPACE | Space After: $AFTER_SPACE"
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [20 - DevOps Case Studies 11-15](./20-DevOps-Case-Studies-11-to-15.md) | [README](./README.md) | [22 - Hands-On Labs 01-05](./22-Hands-On-Labs-01-to-05-Backup-and-Disk.md) |

@@ -94,3 +94,8 @@
 ### Scenario 15: Single Bracket `[` Fails with `too many arguments`
 - **Symptom**: `[ $STR == "hello" ]` fails if `$STR` is empty or contains spaces.
 - **Fix**: Replace `[` with double bracket `[[ $STR == "hello" ]]`.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [25 - Hands-On Labs 16-20](./25-Hands-On-Labs-16-to-20-DevOps-and-Cloud.md) | [README](./README.md) | [27 - Comprehensive Interview Q&A](./27-Comprehensive-Interview-Questions-and-Answers.md) |

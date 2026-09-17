@@ -42,3 +42,8 @@
 1. Build temporary Docker container images: `docker run --name temp_test alpine echo "test"`.
 2. Stop container.
 3. Run `20_docker_cleanup.sh` and observe disk space reclaimed via `docker system df`.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [24 - Hands-On Labs 11-15](./24-Hands-On-Labs-11-to-15-Network-and-DB.md) | [README](./README.md) | [26 - Troubleshooting Scenarios](./26-Troubleshooting-Scenarios-and-Common-Pitfalls.md) |

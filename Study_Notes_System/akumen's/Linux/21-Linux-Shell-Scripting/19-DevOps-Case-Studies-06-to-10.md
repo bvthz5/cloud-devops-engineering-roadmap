@@ -194,3 +194,8 @@ echo "$FAILED_IPS" | while read -r COUNT IP; do
   fi
 done
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [18 - DevOps Case Studies 01-05](./18-DevOps-Case-Studies-01-to-05.md) | [README](./README.md) | [20 - DevOps Case Studies 11-15](./20-DevOps-Case-Studies-11-to-15.md) |

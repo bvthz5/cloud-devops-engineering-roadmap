@@ -62,3 +62,8 @@ Which utility generates a unique temporary file path safely?
 
 **Answer**: **B**
 *Explanation*: `mktemp` creates random unique temporary filenames with safe 0600 permissions.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [27 - Comprehensive Interview Q&A](./27-Comprehensive-Interview-Questions-and-Answers.md) | [README](./README.md) | [29 - Quick Revision Notes](./29-Quick-Revision-Notes.md) |

@@ -152,3 +152,8 @@ for SERVICE in "${SERVICES[@]}"; do
   fi
 done
 ```
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [19 - DevOps Case Studies 06-10](./19-DevOps-Case-Studies-06-to-10.md) | [README](./README.md) | [21 - DevOps Case Studies 16-20](./21-DevOps-Case-Studies-16-to-20.md) |

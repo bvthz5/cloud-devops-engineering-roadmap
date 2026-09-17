@@ -41,3 +41,8 @@
 1. Stop Nginx service manually: `sudo systemctl stop nginx`.
 2. Run watchdog script `sudo ./15_service_auto_restart.sh`.
 3. Verify watchdog detects stoppage, restarts Nginx, and reports status recovery.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [23 - Hands-On Labs 06-10](./23-Hands-On-Labs-06-to-10-Log-and-Security.md) | [README](./README.md) | [25 - Hands-On Labs 16-20](./25-Hands-On-Labs-16-to-20-DevOps-and-Cloud.md) |

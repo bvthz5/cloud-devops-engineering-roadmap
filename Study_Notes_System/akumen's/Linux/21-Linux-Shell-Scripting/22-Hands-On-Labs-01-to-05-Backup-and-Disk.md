@@ -71,3 +71,8 @@
    ```
 2. Run `sudo ./05_bulk_user_creation.sh users.csv`.
 3. Verify created users in `/etc/passwd` using `getent passwd dev_alice`.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [21 - DevOps Case Studies 16-20](./21-DevOps-Case-Studies-16-to-20.md) | [README](./README.md) | [23 - Hands-On Labs 06-10](./23-Hands-On-Labs-06-to-10-Log-and-Security.md) |

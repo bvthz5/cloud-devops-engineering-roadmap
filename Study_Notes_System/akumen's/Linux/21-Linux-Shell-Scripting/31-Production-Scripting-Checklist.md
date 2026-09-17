@@ -34,3 +34,8 @@
 - [ ] 23. Pipeline errors caught with `set -o pipefail`.
 - [ ] 24. Return values handled cleanly with explicit `exit N`.
 - [ ] 25. Source material references preserved in `SOURCE.md`.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [30 - Command Cheat Sheet](./30-Complete-Command-Cheat-Sheet.md) | [README](./README.md) | [README (Index)](./README.md) |

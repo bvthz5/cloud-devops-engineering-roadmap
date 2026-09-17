@@ -44,3 +44,8 @@
 1. Generate test failed login log entries using `logger -t sshd "Failed password for root from 192.168.1.50 port 54321 ssh2"`.
 2. Execute SSH log parsing script.
 3. Verify output extracts IP `192.168.1.50` and counts occurrences correctly.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [22 - Hands-On Labs 01-05](./22-Hands-On-Labs-01-to-05-Backup-and-Disk.md) | [README](./README.md) | [24 - Hands-On Labs 11-15](./24-Hands-On-Labs-11-to-15-Network-and-DB.md) |

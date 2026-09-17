@@ -12,3 +12,8 @@
 8. **Subshell Avoidance**: Use process substitution `< <(cmd)` instead of `cmd | while read` when modifying outer variables inside loops.
 9. **Atomic Overwrites**: Never overwrite active production configs directly; write to a temp file and `mv` atomically.
 10. **Lint Before Push**: Run `shellcheck script.sh` and `bash -n script.sh` prior to code review.
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [28 - MCQs & Quizzes](./28-MCQs-and-Scenario-Quizzes.md) | [README](./README.md) | [30 - Command Cheat Sheet](./30-Complete-Command-Cheat-Sheet.md) |
