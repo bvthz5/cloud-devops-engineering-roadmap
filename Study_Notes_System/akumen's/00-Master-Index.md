@@ -25,6 +25,7 @@ This directory contains comprehensive, deeply structured study guides for Cloud 
 | **19. Ubuntu Disk Partitioning** | [`Linux/19-Ubuntu-Disk-Partitioning/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/19-Ubuntu-Disk-Partitioning/README.md) | ✅ Complete (23 Modules + Source) |
 | **20. Web Servers: Nginx, Apache & Related Topics** | [`Linux/20-Web-Servers-Nginx-Apache-and-Related-Topics/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/20-Web-Servers-Nginx-Apache-and-Related-Topics/README.md) | ✅ Complete (25 Modules + Source) |
 | **21. Linux Shell Scripting** | [`Linux/21-Linux-Shell-Scripting/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/21-Linux-Shell-Scripting/README.md) | ✅ Complete (31 Modules + Source) |
+| **22. Real-World Linux Issues DevOps Engineers Face** | [`Linux/22-Real-World-Linux-Issues-DevOps-Engineers-Face/`](file:///c:/Users/binil/OneDrive/Desktop/cloud-devops-engineering-roadmap/Study_Notes_System/akumen%27s/Linux/22-Real-World-Linux-Issues-DevOps-Engineers-Face/README.md) | ✅ Complete (28 Modules + Source) |
 | *Pending Topics* | `Linux/<Topic-Name>/` | ⏳ Ready for input |
 
 ### 🌐 Networking & Protocols
