@@ -15,7 +15,10 @@ This directory contains comprehensive, deeply structured study guides and produc
 | **02. OS & Kernel Fundamentals** | [`01 - Basics/02-OS-and-Kernel-Fundamentals/`](01%20-%20Basics/02-OS-and-Kernel-Fundamentals/README.md) | ✅ Complete |
 | **03. CLI & Terminal Basics** | [`01 - Basics/03-CLI-and-Terminal-Basics/`](01%20-%20Basics/03-CLI-and-Terminal-Basics/README.md) | ✅ Complete |
 | **04. Data Formats (YAML, JSON, XML, TOML)** | [`01 - Basics/04-Data-Formats-YAML-JSON-XML-TOML/`](01%20-%20Basics/04-Data-Formats-YAML-JSON-XML-TOML/README.md) | ✅ Complete |
-| **05. Foundational Exercises & Troubleshooting** | [`01 - Basics/05-Foundational-Exercises-and-Troubleshooting/`](01%20-%20Basics/05-Foundational-Exercises-and-Troubleshooting/README.md) | ✅ Complete |
+| **05. Number Systems & Character Encoding** | [`01 - Basics/05-Number-Systems-Binary-and-Character-Encoding/`](01%20-%20Basics/05-Number-Systems-Binary-and-Character-Encoding/README.md) | ✅ Complete |
+| **06. Compilers, Linkers & Runtimes** | [`01 - Basics/06-Compilers-Linkers-and-Runtimes/`](01%20-%20Basics/06-Compilers-Linkers-and-Runtimes/README.md) | ✅ Complete |
+| **07. Cryptography, PKI & Security Foundations** | [`01 - Basics/07-Cryptography-PKI-and-Security-Foundations/`](01%20-%20Basics/07-Cryptography-PKI-and-Security-Foundations/README.md) | ✅ Complete |
+| **08. Data Structures, Algorithms & System Design** | [`01 - Basics/08-Data-Structures-Algorithms-and-System-Design/`](01%20-%20Basics/08-Data-Structures-Algorithms-and-System-Design/README.md) | ✅ Complete |
 
 ### 02. 🐧 [02 - Linux](02%20-%20Linux/README.md)
 | Topic | Module Path | Status |
@@ -43,6 +46,17 @@ This directory contains comprehensive, deeply structured study guides and produc
 | **21. Linux Shell Scripting** | [`02 - Linux/21-Linux-Shell-Scripting/`](02%20-%20Linux/21-Linux-Shell-Scripting/README.md) | ✅ Complete (31 Modules + Source) |
 | **22. Real-World Linux Issues DevOps Engineers Face** | [`02 - Linux/22-Real-World-Linux-Issues-DevOps-Engineers-Face/`](02%20-%20Linux/22-Real-World-Linux-Issues-DevOps-Engineers-Face/README.md) | ✅ Complete (28 Modules + Source) |
 | **23. Free SSL Certificate (Let's Encrypt / Certbot)** | [`02 - Linux/23-Free-SSL-Certificate-Lets-Encrypt-Certbot/`](02%20-%20Linux/23-Free-SSL-Certificate-Lets-Encrypt-Certbot/README.md) | ✅ Complete (27 Modules + Source) |
+| **24. Package Management (APT, YUM, DNF, APK, Source)** | [`02 - Linux/24-Linux-Package-Management-APT-YUM-DNF-APK-and-Source/`](02%20-%20Linux/24-Linux-Package-Management-APT-YUM-DNF-APK-and-Source/README.md) | ✅ Complete |
+| **25. Linux Networking & DNS Troubleshooting** | [`02 - Linux/25-Linux-Networking-and-DNS-Troubleshooting/`](02%20-%20Linux/25-Linux-Networking-and-DNS-Troubleshooting/README.md) | ✅ Complete |
+| **26. Linux Firewalls (iptables, nftables, UFW, firewalld)** | [`02 - Linux/26-Linux-Firewalls-iptables-nftables-and-UFW/`](02%20-%20Linux/26-Linux-Firewalls-iptables-nftables-and-UFW/README.md) | ✅ Complete |
+| **27. systemd Service Management & Journald** | [`02 - Linux/27-systemd-Service-Management-and-Journald/`](02%20-%20Linux/27-systemd-Service-Management-and-Journald/README.md) | ✅ Complete |
+| **28. Advanced Storage, LVM, RAID & Filesystems** | [`02 - Linux/28-Advanced-Storage-LVM-RAID-and-Filesystems/`](02%20-%20Linux/28-Advanced-Storage-LVM-RAID-and-Filesystems/README.md) | ✅ Complete |
+| **29. Performance Tuning & Observability** | [`02 - Linux/29-Linux-Performance-Tuning-and-Observability/`](02%20-%20Linux/29-Linux-Performance-Tuning-and-Observability/README.md) | ✅ Complete |
+| **30. Log Management (Logrotate, rsyslog, auditd)** | [`02 - Linux/30-Linux-Log-Management-Logrotate-and-Rsyslog/`](02%20-%20Linux/30-Linux-Log-Management-Logrotate-and-Rsyslog/README.md) | ✅ Complete |
+| **31. Backup, Archiving & rsync** | [`02 - Linux/31-Linux-Backup-Archiving-and-rsync/`](02%20-%20Linux/31-Linux-Backup-Archiving-and-rsync/README.md) | ✅ Complete |
+| **32. SSH Architecture, Key Management & Tunneling** | [`02 - Linux/32-SSH-Architecture-Key-Management-and-Tunneling/`](02%20-%20Linux/32-SSH-Architecture-Key-Management-and-Tunneling/README.md) | ✅ Complete |
+| **33. Boot Troubleshooting, GRUB & Rescue Mode** | [`02 - Linux/33-Linux-Boot-Troubleshooting-and-Rescue-Mode/`](02%20-%20Linux/33-Linux-Boot-Troubleshooting-and-Rescue-Mode/README.md) | ✅ Complete |
+
 
 ### 03. 🌐 [03 - Networking](03%20-%20Networking/README.md)
 | Topic | Module Path | Status |
