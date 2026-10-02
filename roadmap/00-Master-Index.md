@@ -255,6 +255,13 @@ This directory contains comprehensive, deeply structured study guides and produc
 | **04. Kubecost & OpenCost K8s Cost Optimization** | [`14 - Multi-Cloud & FinOps/04-Kubecost-and-OpenCost-Kubernetes-Cost-Optimization/`](14%20-%20Multi-Cloud%20&%20FinOps/04-Kubecost-and-OpenCost-Kubernetes-Cost-Optimization/README.md) | ⏳ Ready for input |
 | **05. Infracost: Shift-Left IaC Cost Estimates** | [`14 - Multi-Cloud & FinOps/05-Infracost-IaC-Cost-Estimation-in-CICD/`](14%20-%20Multi-Cloud%20&%20FinOps/05-Infracost-IaC-Cost-Estimation-in-CICD/README.md) | ⏳ Ready for input |
 | **06. Spot Instances, Savings Plans & Reserved Capacity** | [`14 - Multi-Cloud & FinOps/06-Spot-Instances-Savings-Plans-and-Reserved-Capacity/`](14%20-%20Multi-Cloud%20&%20FinOps/06-Spot-Instances-Savings-Plans-and-Reserved-Capacity/README.md) | ⏳ Ready for input |
+| **07. Multi-Cloud Networking, Transit Gateways & Interconnect** | [`14 - Multi-Cloud & FinOps/07-Multi-Cloud-Networking-Transit-Gateways-and-Interconnect/`](14%20-%20Multi-Cloud%20&%20FinOps/07-Multi-Cloud-Networking-Transit-Gateways-and-Interconnect/README.md) | ⏳ Ready for input |
+| **08. Multi-Cloud Identity, Access & Unified Governance** | [`14 - Multi-Cloud & FinOps/08-Multi-Cloud-Identity-Access-and-Unified-Governance/`](14%20-%20Multi-Cloud%20&%20FinOps/08-Multi-Cloud-Identity-Access-and-Unified-Governance/README.md) | ⏳ Ready for input |
+| **09. Multi-Cloud Infrastructure Automation with Terraform & OpenTofu** | [`14 - Multi-Cloud & FinOps/09-Multi-Cloud-Infrastructure-Automation-Terraform-and-OpenTofu/`](14%20-%20Multi-Cloud%20&%20FinOps/09-Multi-Cloud-Infrastructure-Automation-Terraform-and-OpenTofu/README.md) | ⏳ Ready for input |
+| **10. Multi-Cloud Observability & Centralized Telemetry** | [`14 - Multi-Cloud & FinOps/10-Multi-Cloud-Observability-and-Centralized-Telemetry/`](14%20-%20Multi-Cloud%20&%20FinOps/10-Multi-Cloud-Observability-and-Centralized-Telemetry/README.md) | ⏳ Ready for input |
+| **11. Cloud Waste Reduction, Anomaly Detection & Remediation** | [`14 - Multi-Cloud & FinOps/11-Cloud-Waste-Reduction-Anomaly-Detection-and-Remediation/`](14%20-%20Multi-Cloud%20&%20FinOps/11-Cloud-Waste-Reduction-Anomaly-Detection-and-Remediation/README.md) | ⏳ Ready for input |
+| **12. Multi-Cloud Security, Compliance & CSPM** | [`14 - Multi-Cloud & FinOps/12-Multi-Cloud-Security-Compliance-and-CSPM/`](14%20-%20Multi-Cloud%20&%20FinOps/12-Multi-Cloud-Security-Compliance-and-CSPM/README.md) | ⏳ Ready for input |
+
 
 ### 15. 🚀 [15 - CI-CD Pipelines & Automation](15%20-%20CI-CD%20Pipelines%20&%20Automation/README.md)
 | Topic | Module Path | Status |
