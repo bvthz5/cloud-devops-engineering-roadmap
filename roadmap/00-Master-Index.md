@@ -123,14 +123,17 @@ This directory contains comprehensive, deeply structured study guides and produc
 ### 07. 🐳 [07 - Containers & Docker](07%20-%20Containers%20&%20Docker/README.md)
 | Topic | Module Path | Status |
 |---|---|---|
-| **01. Container Fundamentals (Cgroups & Namespaces)** | [`07 - Containers & Docker/01-Container-Fundamentals-Cgroups-Namespaces/`](07%20-%20Containers%20&%20Docker/01-Container-Fundamentals-Cgroups-Namespaces/README.md) | ⏳ Ready for input |
-| **02. Docker Architecture & CLI** | [`07 - Containers & Docker/02-Docker-Architecture-and-CLI/`](07%20-%20Containers%20&%20Docker/02-Docker-Architecture-and-CLI/README.md) | ⏳ Ready for input |
-| **03. Dockerfile Best Practices & Multi-Stage** | [`07 - Containers & Docker/03-Dockerfile-Best-Practices-and-Multi-Stage/`](07%20-%20Containers%20&%20Docker/03-Dockerfile-Best-Practices-and-Multi-Stage/README.md) | ⏳ Ready for input |
-| **04. Docker Storage & Volumes** | [`07 - Containers & Docker/04-Docker-Storage-and-Volumes/`](07%20-%20Containers%20&%20Docker/04-Docker-Storage-and-Volumes/README.md) | ⏳ Ready for input |
-| **05. Docker Networking** | [`07 - Containers & Docker/05-Docker-Networking/`](07%20-%20Containers%20&%20Docker/05-Docker-Networking/README.md) | ⏳ Ready for input |
-| **06. Docker Compose Multi-Container Apps** | [`07 - Containers & Docker/06-Docker-Compose-Multi-Container-Apps/`](07%20-%20Containers%20&%20Docker/06-Docker-Compose-Multi-Container-Apps/README.md) | ⏳ Ready for input |
-| **07. Container Security & Image Scanning** | [`07 - Containers & Docker/07-Container-Security-and-Image-Scanning/`](07%20-%20Containers%20&%20Docker/07-Container-Security-and-Image-Scanning/README.md) | ⏳ Ready for input |
-| **08. Container Registries (DockerHub, ECR, GHCR)** | [`07 - Containers & Docker/08-Container-Registries-DockerHub-ECR-GHCR/`](07%20-%20Containers%20&%20Docker/08-Container-Registries-DockerHub-ECR-GHCR/README.md) | ⏳ Ready for input |
+| **01. Container Fundamentals (Cgroups & Namespaces)** | [`07 - Containers & Docker/01-Container-Fundamentals-Cgroups-Namespaces/`](07%20-%20Containers%20&%20Docker/01-Container-Fundamentals-Cgroups-Namespaces/README.md) | ✅ Complete (13 Modules) |
+| **02. Docker Architecture & CLI** | [`07 - Containers & Docker/02-Docker-Architecture-and-CLI/`](07%20-%20Containers%20&%20Docker/02-Docker-Architecture-and-CLI/README.md) | ✅ Complete (13 Modules) |
+| **03. Dockerfile Best Practices & Multi-Stage** | [`07 - Containers & Docker/03-Dockerfile-Best-Practices-and-Multi-Stage/`](07%20-%20Containers%20&%20Docker/03-Dockerfile-Best-Practices-and-Multi-Stage/README.md) | ✅ Complete (13 Modules) |
+| **04. Docker Storage & Volumes** | [`07 - Containers & Docker/04-Docker-Storage-and-Volumes/`](07%20-%20Containers%20&%20Docker/04-Docker-Storage-and-Volumes/README.md) | ✅ Complete (13 Modules) |
+| **05. Docker Networking** | [`07 - Containers & Docker/05-Docker-Networking/`](07%20-%20Containers%20&%20Docker/05-Docker-Networking/README.md) | ✅ Complete (13 Modules) |
+| **06. Docker Compose Multi-Container Apps** | [`07 - Containers & Docker/06-Docker-Compose-Multi-Container-Apps/`](07%20-%20Containers%20&%20Docker/06-Docker-Compose-Multi-Container-Apps/README.md) | ✅ Complete (13 Modules) |
+| **07. Container Security & Image Scanning** | [`07 - Containers & Docker/07-Container-Security-and-Image-Scanning/`](07%20-%20Containers%20&%20Docker/07-Container-Security-and-Image-Scanning/README.md) | ✅ Complete (13 Modules) |
+| **08. Container Registries (DockerHub, ECR, GHCR)** | [`07 - Containers & Docker/08-Container-Registries-DockerHub-ECR-GHCR/`](07%20-%20Containers%20&%20Docker/08-Container-Registries-DockerHub-ECR-GHCR/README.md) | ✅ Complete (13 Modules) |
+| **09. OCI Standards & Container Runtimes** | [`07 - Containers & Docker/09-OCI-Standards-and-Container-Runtimes/`](07%20-%20Containers%20&%20Docker/09-OCI-Standards-and-Container-Runtimes/README.md) | ✅ Complete (13 Modules) |
+| **10. Podman, Buildah & Skopeo Daemonless Stack** | [`07 - Containers & Docker/10-Podman-Buildah-and-Skopeo-Daemonless-Stack/`](07%20-%20Containers%20&%20Docker/10-Podman-Buildah-and-Skopeo-Daemonless-Stack/README.md) | ✅ Complete (13 Modules) |
+| **11. Container Observability & Troubleshooting** | [`07 - Containers & Docker/11-Container-Observability-and-Troubleshooting/`](07%20-%20Containers%20&%20Docker/11-Container-Observability-and-Troubleshooting/README.md) | ✅ Complete (13 Modules) |
 
 ### 08. ☸️ [08 - Kubernetes & Orchestration](08%20-%20Kubernetes%20&%20Orchestration/README.md)
 | Topic | Module Path | Status |
