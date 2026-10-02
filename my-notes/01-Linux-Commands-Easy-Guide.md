@@ -154,7 +154,53 @@
 
 ---
 
-## 📖 2. Viewing & Searching File Contents
+## 🔗 2. Linux Links & Inodes (`ln`, `ln -s`)
+
+### What is an Inode?
+- **1-Line Definition:** A unique serial number on your disk that stores a file's metadata (file size, owner, permissions, and disk blocks), but not its file name.
+- **What details you get on screen (`ls -i`):** Prints the numeric Inode number before the filename (e.g., `1441824 my-app.js`).
+
+---
+
+### `ln` (Hard Link)
+- **1-Line Definition:** Creates a direct twin file name pointing to the exact same physical Inode and disk blocks as the original file.
+- **Advantage:** If someone deletes or renames the original file, your hard link still opens and preserves the data completely!
+- **Limitation:** Cannot link directories, and cannot span across two different disk drives or partitions.
+- **What details you get when you type it:** Runs silently on success.
+- **What details appear on `ls -l`:** The link count (2nd column) increases from `1` to `2`.
+- **Example:** `ln database.conf database.conf.bak`
+
+---
+
+### `ln -s` (Soft Link / Symbolic Link / Symlink)
+- **1-Line Definition:** A lightweight shortcut file that simply stores the text path pointing to another file or directory (just like a Windows desktop shortcut).
+- **Advantage:** Can link entire folders (`ln -s /var/log/nginx ./logs`) and can link across different disks, partitions, and network drives.
+- **Limitation:** If the original file is deleted or moved, the soft link breaks (turns into a red "dangling link").
+- **What details you get when you type it:** Runs silently on success.
+- **What details appear on `ls -l`:**
+  - File type starts with `l` (e.g., `lrwxrwxrwx 1 ubuntu ubuntu ...`)
+  - Displays a visual arrow pointing to the destination: `app-shortcut -> /opt/apps/production/server.js`
+- **Example (File):** `ln -s /etc/nginx/sites-available/app.conf /etc/nginx/sites-enabled/app.conf`
+- **Example (Directory):** `ln -s /var/log/my-app ./app-logs`
+
+---
+
+### `readlink -f <link>` (Resolve Real Path)
+- **1-Line Definition:** Follows a symlink chain and prints the true, physical destination path on disk.
+- **Advantage:** Easily find the real file behind nested shortcut links.
+- **What details you get:** Prints the absolute real path (e.g., `/opt/apps/production/server.js`).
+- **Example:** `readlink -f app-shortcut`
+
+---
+
+### `unlink <link>` (Remove a Link)
+- **1-Line Definition:** Deletes the shortcut link cleanly without touching or damaging the original target file.
+- **Advantage:** Safe way to remove symbolic links without accidentally deleting real directories.
+- **Example:** `unlink ./app-logs`
+
+---
+
+## 📖 3. Viewing & Searching File Contents
 
 ### `cat` (Concatenate & Print)
 - **Definition:** Prints the entire contents of a file directly onto the terminal screen.
@@ -244,7 +290,7 @@
 
 ---
 
-## 🔒 3. Permissions & User Control Commands
+## 🔒 4. Permissions & User Control Commands
 
 ### `chmod` (Change File Permissions)
 - **Definition:** Changes who can Read (`r`), Write (`w`), and Execute (`x`) a file.
@@ -280,7 +326,7 @@
 
 ---
 
-## 🖥️ 4. System, CPU, Memory & Disk Inspection Commands
+## 🖥️ 5. System, CPU, Memory & Disk Inspection Commands
 
 ### `whoami` (Who Am I)
 - **Definition:** Tells you the username of the account you are currently logged in as.
@@ -338,7 +384,7 @@
 
 ---
 
-## ⚡ 5. Process Management & System Services
+## ⚡ 6. Process Management & System Services
 
 ### `ps aux` (Process Snapshot)
 - **Definition:** Lists every single running process on the entire machine.
@@ -387,7 +433,7 @@
 
 ---
 
-## 🌐 6. Network Inspection Commands (IP, Sockets & Ports)
+## 🌐 7. Network Inspection Commands (IP, Sockets & Ports)
 
 ### `hostname -I` (Show Host IP Addresses)
 - **Definition:** Prints all network IP addresses assigned to this machine on a single line.
@@ -462,18 +508,49 @@
 
 ---
 
+---
+
+## 📦 8. Archives & File Compression
+
 ### `tar` (Tape Archive — Compression & Packaging)
-- **Definition:** Bundles multiple files into a single `.tar` archive file, and optionally compresses it with gzip (`.tar.gz`).
+- **1-Line Definition:** Bundles multiple files and folders into a single archive file, optionally compressed with gzip.
+- **Advantage:** Preserves file permissions and directory structure when creating backups.
 - **Flags Breakdown:**
-  - `tar -czvf archive.tar.gz /path/to/folder` (Create compressed archive)
+  - `tar -czvf backup.tar.gz /var/log` (Create compressed archive)
     - `-c`: Create new archive
-    - `-z`: Compress with gzip
-    - `-v`: Verbose (list files being packed on screen)
-    - `-f`: Output filename
-  - `tar -xzvf archive.tar.gz` (Extract compressed archive)
-    - `-x`: Extract files from archive
+    - `-z`: Compress with gzip (`.tar.gz`)
+    - `-v`: Verbose (lists each file being added on screen)
+    - `-f`: Output file name
+  - `tar -xzvf backup.tar.gz -C /opt/` (Extract archive to destination)
+    - `-x`: Extract files
+    - `-C`: Target directory to unpack into
+- **What details you get:** Prints each file path as it is packed or extracted, followed by final archive file on disk.
+
+### `gzip` & `gunzip` (Single File Compression)
+- **1-Line Definition:** Compresses a single large file to save disk space (`gzip`), or decompresses it back (`gunzip`).
+- **Advantage:** Reduces log files by 80–90% size.
+- **Example:** `gzip access.log` (creates `access.log.gz` and removes uncompressed file).
 
 ---
+
+## ⚙️ 9. Package Management & Environment Variables
+
+### Package Management (`apt` for Ubuntu/Debian, `dnf`/`yum` for RHEL/CentOS)
+- **1-Line Definition:** The system app store that downloads, installs, updates, and removes software packages.
+- **Commands:**
+  - `sudo apt update`: Refreshes package lists and version numbers from remote repositories.
+  - `sudo apt upgrade -y`: Installs newest security patches and versions for all installed software.
+  - `sudo apt install -y nginx`: Downloads and installs a software package automatically.
+  - `sudo apt remove -y nginx`: Uninstalls the software binary.
+  - `sudo apt autoremove -y`: Cleans up orphaned dependencies that are no longer needed.
+
+### Environment Variables (`export`, `env`, `$PATH`)
+- **1-Line Definition:** System-wide key-value variables that applications and shells read to discover configuration paths and settings.
+- **Commands:**
+  - `env`: Prints all currently active environment variables on screen.
+  - `echo $PATH`: Shows the list of directories Linux searches to find executable commands.
+  - `export DB_URL="postgres://localhost:5432"`: Sets an environment variable in the current shell session.
+  - Permanent setup: Add `export KEY=VALUE` into `~/.bashrc` (user) or `/etc/environment` (system-wide).
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |

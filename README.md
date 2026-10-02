@@ -134,10 +134,18 @@ Every single guide in this repository contains a synchronized navigation header 
 
 ---
 
-## 📓 Personal Study Journal
+## 📓 Kids-Mind Short Notes & Rapid Study Hub
 
-Track your progress, take notes, and log system design reflections inside:
-- 📝 **[`my-notes/`](my-notes/00-Index.md)**: Includes study progress templates, topic tracker, and revision checklists.
+Supercharge your revision with our high-yield, 1-line plain language cheat sheets with real-world analogies, command breakdowns, and screen outputs:
+- 🐧 **[`01 - Linux Commands, Links & Inodes`](my-notes/01-Linux-Commands-Easy-Guide.md)**: Files, soft/hard links (`ln`, `ln -s`), permissions, systemctl, tar.
+- 🪟 **[`02 - Windows CMD & PowerShell`](my-notes/02-Windows-PowerShell-CMD-Easy-Guide.md)**: `ipconfig /all`, DNS flushing, taskkill, and PowerShell cmdlets.
+- 🌐 **[`03 - Networking, OSI Model & Port Numbers`](my-notes/03-Networking-Commands-and-Concepts-Easy-Guide.md)**: OSI 7 Layers, TCP handshake, CIDR, `ip addr`, and 40+ master ports.
+- 🐳 **[`04 - Docker & Containers`](my-notes/04-Docker-and-Containers-Short-Notes.md)**: Images, containers, build, run, prune, port mapping, Dockerfile, Compose.
+- ☸️ **[`05 - Kubernetes (K8s)`](my-notes/05-Kubernetes-K8s-Short-Notes.md)**: Pods, Deployments, Services, Ingress, RBAC, Helm, and `kubectl` screen outputs.
+- ☁️ **[`06 - Cloud Computing (AWS, Azure, GCP)`](my-notes/06-Cloud-Computing-AWS-Azure-GCP-Short-Notes.md)**: Compute, S3/Storage, VPC, Subnets, NAT, IAM, and FinOps.
+- 🔀 **[`07 - Git & CI/CD Pipelines`](my-notes/07-Git-and-CICD-Short-Notes.md)**: 4 Git areas, branching, merge/rebase, stash, and GitHub Actions workflows.
+- 🏗️ **[`08 - Terraform & Ansible (IaC)`](my-notes/08-Terraform-and-Ansible-IaC-Short-Notes.md)**: HCL, State, Plan/Apply, Ansible Playbooks, Roles, and Vault.
+- 📑 **[`Explore Master Notes Index`](my-notes/00-Index.md)**: Full table of contents and study tracker.
 
 ---
 
