@@ -109,11 +109,16 @@ This directory contains comprehensive, deeply structured study guides and produc
 ### 06. 🌐 [06 - Web Servers & Reverse Proxies](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/README.md)
 | Topic | Module Path | Status |
 |---|---|---|
-| **01. Nginx Architecture & Configuration** | [`06 - Web Servers & Reverse Proxies/01-Nginx-Architecture-and-Configuration/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/01-Nginx-Architecture-and-Configuration/README.md) | ⏳ Ready for input |
-| **02. Apache HTTP Server** | [`06 - Web Servers & Reverse Proxies/02-Apache-HTTP-Server/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/02-Apache-HTTP-Server/README.md) | ⏳ Ready for input |
-| **03. Reverse Proxy & Load Balancing** | [`06 - Web Servers & Reverse Proxies/03-Reverse-Proxy-and-Load-Balancing/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/03-Reverse-Proxy-and-Load-Balancing/README.md) | ⏳ Ready for input |
-| **04. SSL/TLS Certificates & HTTPS** | [`06 - Web Servers & Reverse Proxies/04-SSL-TLS-Certificates-and-HTTPS/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/04-SSL-TLS-Certificates-and-HTTPS/README.md) | ⏳ Ready for input |
-| **05. Caching & Rate Limiting** | [`06 - Web Servers & Reverse Proxies/05-Caching-and-Rate-Limiting/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/05-Caching-and-Rate-Limiting/README.md) | ⏳ Ready for input |
+| **01. Nginx Architecture & Configuration** | [`06 - Web Servers & Reverse Proxies/01-Nginx-Architecture-and-Configuration/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/01-Nginx-Architecture-and-Configuration/README.md) | ✅ Complete (13 Modules) |
+| **02. Apache HTTP Server** | [`06 - Web Servers & Reverse Proxies/02-Apache-HTTP-Server/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/02-Apache-HTTP-Server/README.md) | ✅ Complete (13 Modules) |
+| **03. Reverse Proxy & Load Balancing** | [`06 - Web Servers & Reverse Proxies/03-Reverse-Proxy-and-Load-Balancing/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/03-Reverse-Proxy-and-Load-Balancing/README.md) | ✅ Complete (13 Modules) |
+| **04. SSL/TLS Certificates & HTTPS** | [`06 - Web Servers & Reverse Proxies/04-SSL-TLS-Certificates-and-HTTPS/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/04-SSL-TLS-Certificates-and-HTTPS/README.md) | ✅ Complete (13 Modules) |
+| **05. Caching & Rate Limiting** | [`06 - Web Servers & Reverse Proxies/05-Caching-and-Rate-Limiting/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/05-Caching-and-Rate-Limiting/README.md) | ✅ Complete (13 Modules) |
+| **06. HAProxy High-Performance Load Balancing** | [`06 - Web Servers & Reverse Proxies/06-HAProxy-High-Performance-Load-Balancing/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/06-HAProxy-High-Performance-Load-Balancing/README.md) | ✅ Complete (13 Modules) |
+| **07. Traefik Cloud-Native Reverse Proxy** | [`06 - Web Servers & Reverse Proxies/07-Traefik-Cloud-Native-Reverse-Proxy/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/07-Traefik-Cloud-Native-Reverse-Proxy/README.md) | ✅ Complete (13 Modules) |
+| **08. Envoy Proxy & Service Mesh Data Plane** | [`06 - Web Servers & Reverse Proxies/08-Envoy-Proxy-and-Service-Mesh-Data-Plane/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/08-Envoy-Proxy-and-Service-Mesh-Data-Plane/README.md) | ✅ Complete (13 Modules) |
+| **09. Caddy & Modern HTTP/3 Web Servers** | [`06 - Web Servers & Reverse Proxies/09-Caddy-and-Modern-HTTP3-Web-Servers/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/09-Caddy-and-Modern-HTTP3-Web-Servers/README.md) | ✅ Complete (13 Modules) |
+| **10. Web Security, WAF & Hardening** | [`06 - Web Servers & Reverse Proxies/10-Web-Security-WAF-and-Hardening/`](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/10-Web-Security-WAF-and-Hardening/README.md) | ✅ Complete (13 Modules) |
 
 ### 07. 🐳 [07 - Containers & Docker](07%20-%20Containers%20&%20Docker/README.md)
 | Topic | Module Path | Status |
