@@ -96,11 +96,15 @@ This directory contains comprehensive, deeply structured study guides and produc
 ### 05. 📜 [05 - Programming & Scripting](05%20-%20Programming%20&%20Scripting/README.md)
 | Topic | Module Path | Status |
 |---|---|---|
-| **01. Bash Scripting for DevOps** | [`05 - Programming & Scripting/01-Bash-Scripting-for-DevOps/`](05%20-%20Programming%20&%20Scripting/01-Bash-Scripting-for-DevOps/README.md) | ⏳ Ready for input |
-| **02. Python for DevOps & Automation** | [`05 - Programming & Scripting/02-Python-for-DevOps-and-Automation/`](05%20-%20Programming%20&%20Scripting/02-Python-for-DevOps-and-Automation/README.md) | ⏳ Ready for input |
-| **03. Golang Basics for Cloud-Native** | [`05 - Programming & Scripting/03-Golang-Basics-for-Cloud-Native/`](05%20-%20Programming%20&%20Scripting/03-Golang-Basics-for-Cloud-Native/README.md) | ⏳ Ready for input |
-| **04. APIs: REST, gRPC & Webhooks** | [`05 - Programming & Scripting/04-APIs-REST-gRPC-and-Webhooks/`](05%20-%20Programming%20&%20Scripting/04-APIs-REST-gRPC-and-Webhooks/README.md) | ⏳ Ready for input |
-| **05. Automation Script Templates** | [`05 - Programming & Scripting/05-Automation-Script-Templates/`](05%20-%20Programming%20&%20Scripting/05-Automation-Script-Templates/README.md) | ⏳ Ready for input |
+| **01. Bash Scripting for DevOps** | [`05 - Programming & Scripting/01-Bash-Scripting-for-DevOps/`](05%20-%20Programming%20&%20Scripting/01-Bash-Scripting-for-DevOps/README.md) | ✅ Complete (13 Modules) |
+| **02. Python for DevOps & Automation** | [`05 - Programming & Scripting/02-Python-for-DevOps-and-Automation/`](05%20-%20Programming%20&%20Scripting/02-Python-for-DevOps-and-Automation/README.md) | ✅ Complete (13 Modules) |
+| **03. Golang Basics for Cloud-Native** | [`05 - Programming & Scripting/03-Golang-Basics-for-Cloud-Native/`](05%20-%20Programming%20&%20Scripting/03-Golang-Basics-for-Cloud-Native/README.md) | ✅ Complete (13 Modules) |
+| **04. APIs: REST, gRPC & Webhooks** | [`05 - Programming & Scripting/04-APIs-REST-gRPC-and-Webhooks/`](05%20-%20Programming%20&%20Scripting/04-APIs-REST-gRPC-and-Webhooks/README.md) | ✅ Complete (13 Modules) |
+| **05. Automation Script Templates** | [`05 - Programming & Scripting/05-Automation-Script-Templates/`](05%20-%20Programming%20&%20Scripting/05-Automation-Script-Templates/README.md) | ✅ Complete (13 Modules) |
+| **06. PowerShell Core for Cloud & DevOps** | [`05 - Programming & Scripting/06-PowerShell-Core-for-Cloud-and-DevOps/`](05%20-%20Programming%20&%20Scripting/06-PowerShell-Core-for-Cloud-and-DevOps/README.md) | ✅ Complete (13 Modules) |
+| **07. Cloud SDKs & Infrastructure Automation** | [`05 - Programming & Scripting/07-Cloud-SDKs-and-Infrastructure-Automation/`](05%20-%20Programming%20&%20Scripting/07-Cloud-SDKs-and-Infrastructure-Automation/README.md) | ✅ Complete (13 Modules) |
+| **08. Testing & Quality for DevOps Code** | [`05 - Programming & Scripting/08-Testing-and-Quality-for-DevOps-Code/`](05%20-%20Programming%20&%20Scripting/08-Testing-and-Quality-for-DevOps-Code/README.md) | ✅ Complete (13 Modules) |
+| **09. Kubernetes Client-Go & Custom Controllers** | [`05 - Programming & Scripting/09-Kubernetes-Client-Go-and-Custom-Controllers/`](05%20-%20Programming%20&%20Scripting/09-Kubernetes-Client-Go-and-Custom-Controllers/README.md) | ✅ Complete (13 Modules) |
 
 ### 06. 🌐 [06 - Web Servers & Reverse Proxies](06%20-%20Web%20Servers%20&%20Reverse%20Proxies/README.md)
 | Topic | Module Path | Status |
