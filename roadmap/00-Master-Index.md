@@ -274,6 +274,11 @@ This directory contains comprehensive, deeply structured study guides and produc
 | **06. Artifact Repositories (Nexus / Artifactory)** | [`15 - CI-CD Pipelines & Automation/06-Artifact-Repositories-Nexus-Artifactory/`](15%20-%20CI-CD%20Pipelines%20&%20Automation/06-Artifact-Repositories-Nexus-Artifactory/README.md) | ⏳ Ready for input |
 | **07. Automated Testing Pipelines** | [`15 - CI-CD Pipelines & Automation/07-Automated-Testing-Pipelines/`](15%20-%20CI-CD%20Pipelines%20&%20Automation/07-Automated-Testing-Pipelines/README.md) | ⏳ Ready for input |
 | **08. Deployment Strategies (Canary / Blue-Green)** | [`15 - CI-CD Pipelines & Automation/08-Deployment-Strategies-Canary-Blue-Green-Rolling/`](15%20-%20CI-CD%20Pipelines%20&%20Automation/08-Deployment-Strategies-Canary-Blue-Green-Rolling/README.md) | ⏳ Ready for input |
+| **09. GitOps & Continuous Delivery (ArgoCD & Flux)** | [`15 - CI-CD Pipelines & Automation/09-GitOps-Continuous-Delivery-ArgoCD-and-Flux/`](15%20-%20CI-CD%20Pipelines%20&%20Automation/09-GitOps-Continuous-Delivery-ArgoCD-and-Flux/README.md) | ⏳ Ready for input |
+| **10. DevSecOps & Software Supply Chain Security** | [`15 - CI-CD Pipelines & Automation/10-DevSecOps-and-Software-Supply-Chain-Security/`](15%20-%20CI-CD%20Pipelines%20&%20Automation/10-DevSecOps-and-Software-Supply-Chain-Security/README.md) | ⏳ Ready for input |
+| **11. Pipeline Secrets Management & OIDC** | [`15 - CI-CD Pipelines & Automation/11-Pipeline-Secrets-Management-and-OIDC/`](15%20-%20CI-CD%20Pipelines%20&%20Automation/11-Pipeline-Secrets-Management-and-OIDC/README.md) | ⏳ Ready for input |
+| **12. Release Automation, Semantic Versioning & Feature Flags** | [`15 - CI-CD Pipelines & Automation/12-Release-Automation-Semantic-Versioning-and-Feature-Flags/`](15%20-%20CI-CD%20Pipelines%20&%20Automation/12-Release-Automation-Semantic-Versioning-and-Feature-Flags/README.md) | ⏳ Ready for input |
+
 
 ### 16. 🔄 [16 - GitOps & Progressive Delivery](16%20-%20GitOps%20&%20Progressive%20Delivery/README.md)
 | Topic | Module Path | Status |
