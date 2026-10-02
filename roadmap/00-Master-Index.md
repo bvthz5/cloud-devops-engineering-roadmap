@@ -184,6 +184,11 @@ This directory contains comprehensive, deeply structured study guides and produc
 | **07. Ansible Vault & Secret Management** | [`10 - Configuration Management (Ansible)/07-Ansible-Vault-and-Secret-Management/`](10%20-%20Configuration%20Management%20(Ansible)/07-Ansible-Vault-and-Secret-Management/README.md) | ⏳ Ready for input |
 | **08. Ansible Galaxy & Collections** | [`10 - Configuration Management (Ansible)/08-Ansible-Galaxy-and-Collections/`](10%20-%20Configuration%20Management%20(Ansible)/08-Ansible-Galaxy-and-Collections/README.md) | ⏳ Ready for input |
 | **09. Ansible for Cloud & Kubernetes** | [`10 - Configuration Management (Ansible)/09-Ansible-for-Cloud-and-Kubernetes/`](10%20-%20Configuration%20Management%20(Ansible)/09-Ansible-for-Cloud-and-Kubernetes/README.md) | ⏳ Ready for input |
+| **10. AWX, Red Hat AAP & Tower** | [`10 - Configuration Management (Ansible)/10-AWX-Ansible-Automation-Platform-and-Tower/`](10%20-%20Configuration%20Management%20(Ansible)/10-AWX-Ansible-Automation-Platform-and-Tower/README.md) | ⏳ Ready for input |
+| **11. Testing Ansible with Molecule & Lint** | [`10 - Configuration Management (Ansible)/11-Testing-Ansible-with-Molecule-and-Lint/`](10%20-%20Configuration%20Management%20(Ansible)/11-Testing-Ansible-with-Molecule-and-Lint/README.md) | ⏳ Ready for input |
+| **12. Performance Optimization & Strategy** | [`10 - Configuration Management (Ansible)/12-Ansible-Performance-Optimization-and-Strategy/`](10%20-%20Configuration%20Management%20(Ansible)/12-Ansible-Performance-Optimization-and-Strategy/README.md) | ⏳ Ready for input |
+| **13. Ansible CI/CD Pipelines & GitOps** | [`10 - Configuration Management (Ansible)/13-Ansible-CICD-Pipelines-and-GitOps/`](10%20-%20Configuration%20Management%20(Ansible)/13-Ansible-CICD-Pipelines-and-GitOps/README.md) | ⏳ Ready for input |
+| **14. Troubleshooting & Security Hardening** | [`10 - Configuration Management (Ansible)/14-Troubleshooting-Security-Hardening-and-Best-Practices/`](10%20-%20Configuration%20Management%20(Ansible)/14-Troubleshooting-Security-Hardening-and-Best-Practices/README.md) | ⏳ Ready for input |
 
 ### 11. ☁️ [11 - Cloud Computing - AWS](11%20-%20Cloud%20Computing%20-%20AWS/README.md)
 | Topic | Module Path | Status |

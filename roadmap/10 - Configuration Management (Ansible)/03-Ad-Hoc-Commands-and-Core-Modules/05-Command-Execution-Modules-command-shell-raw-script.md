@@ -1,0 +1,14 @@
+# 05 - Command Execution Modules: command vs shell vs raw vs script
+
+| Module | Features | Shell Piping/Redirects (`\|`, `>`) | Requires Python? |
+|---|---|---|---|
+| `command` | Safe, default module | **NO** | YES |
+| `shell` | Runs via `/bin/sh` | **YES** | YES |
+| `raw` | Low-level SSH command | **YES** | **NO** (Use to bootstrap Python) |
+| `script` | Runs local script on target | **YES** | YES |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - User & Security Modules](./04-User-and-Security-Modules-user-group-authorized_key-copy.md) | [README](./README.md) | [06 - Utility Modules](./06-Network-and-Utility-Modules-ping-uri-get_url-stat.md) |
