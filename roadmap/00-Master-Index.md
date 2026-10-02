@@ -204,7 +204,9 @@ This directory contains comprehensive, deeply structured study guides and produc
 | **09. AWS Lambda & Serverless** | [`11 - Cloud Computing - AWS/09-AWS-Lambda-and-Serverless/`](11%20-%20Cloud%20Computing%20-%20AWS/09-AWS-Lambda-and-Serverless/README.md) | ⏳ Ready for input |
 | **10. AWS Route53 & CloudFront** | [`11 - Cloud Computing - AWS/10-AWS-Route53-and-CloudFront/`](11%20-%20Cloud%20Computing%20-%20AWS/10-AWS-Route53-and-CloudFront/README.md) | ⏳ Ready for input |
 | **11. AWS CloudWatch & CloudTrail** | [`11 - Cloud Computing - AWS/11-AWS-CloudWatch-and-CloudTrail/`](11%20-%20Cloud%20Computing%20-%20AWS/11-AWS-CloudWatch-and-CloudTrail/README.md) | ⏳ Ready for input |
-| **12. Multi-Cloud Overview (Azure & GCP)** | [`11 - Cloud Computing - AWS/12-Multi-Cloud-Overview-Azure-and-GCP/`](11%20-%20Cloud%20Computing%20-%20AWS/12-Multi-Cloud-Overview-Azure-and-GCP/README.md) | ⏳ Ready for input |
+| **12. AWS Security, Organizations & Well-Architected** | [`11 - Cloud Computing - AWS/12-AWS-Security-Organizations-Landing-Zones-and-Well-Architected/`](11%20-%20Cloud%20Computing%20-%20AWS/12-AWS-Security-Organizations-Landing-Zones-and-Well-Architected/README.md) | ⏳ Ready for input |
+| **13. AWS Native DevOps & CI/CD Pipelines** | [`11 - Cloud Computing - AWS/13-AWS-DevOps-Services-CodePipeline-CodeBuild-CodeDeploy/`](11%20-%20Cloud%20Computing%20-%20AWS/13-AWS-DevOps-Services-CodePipeline-CodeBuild-CodeDeploy/README.md) | ⏳ Ready for input |
+| **14. AWS Cost Optimization, FinOps & Migration** | [`11 - Cloud Computing - AWS/14-AWS-Cost-Optimization-FinOps-and-Migration-Strategies/`](11%20-%20Cloud%20Computing%20-%20AWS/14-AWS-Cost-Optimization-FinOps-and-Migration-Strategies/README.md) | ⏳ Ready for input |
 
 ### 12. 🔷 [12 - Cloud Computing - Azure](12%20-%20Cloud%20Computing%20-%20Azure/README.md)
 | Topic | Module Path | Status |

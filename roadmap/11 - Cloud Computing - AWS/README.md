@@ -1,6 +1,7 @@
-# 11 - Cloud Computing (AWS)
+# 11 - Cloud Computing - AWS
 
-> Roadmap topics and modules under 11 - Cloud Computing (AWS).
+> **Learning Methodology:**
+> **Understand -> See -> Practice -> Troubleshoot -> Interview -> Revise**
 
 ## 📌 Modules
 - [01-Cloud-Computing-Fundamentals-IaaS-PaaS-SaaS](01-Cloud-Computing-Fundamentals-IaaS-PaaS-SaaS/README.md)
@@ -14,5 +15,8 @@
 - [09-AWS-Lambda-and-Serverless](09-AWS-Lambda-and-Serverless/README.md)
 - [10-AWS-Route53-and-CloudFront](10-AWS-Route53-and-CloudFront/README.md)
 - [11-AWS-CloudWatch-and-CloudTrail](11-AWS-CloudWatch-and-CloudTrail/README.md)
-- [12-Multi-Cloud-Overview-Azure-and-GCP](12-Multi-Cloud-Overview-Azure-and-GCP/README.md)
+- [12-AWS-Security-Organizations-Landing-Zones-and-Well-Architected](12-AWS-Security-Organizations-Landing-Zones-and-Well-Architected/README.md)
+- [13-AWS-DevOps-Services-CodePipeline-CodeBuild-CodeDeploy](13-AWS-DevOps-Services-CodePipeline-CodeBuild-CodeDeploy/README.md)
+- [14-AWS-Cost-Optimization-FinOps-and-Migration-Strategies](14-AWS-Cost-Optimization-FinOps-and-Migration-Strategies/README.md)
+
 
