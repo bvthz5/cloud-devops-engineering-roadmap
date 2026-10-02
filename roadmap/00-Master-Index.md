@@ -61,16 +61,21 @@ This directory contains comprehensive, deeply structured study guides and produc
 ### 03. 🌐 [03 - Networking](03%20-%20Networking/README.md)
 | Topic | Module Path | Status |
 |---|---|---|
-| **01. OSI & TCP/IP Models** | [`03 - Networking/01-OSI-and-TCPIP-Models/`](03%20-%20Networking/01-OSI-and-TCPIP-Models/README.md) | ⏳ Ready for input |
-| **02. IP Addressing, Subnetting & CIDR** | [`03 - Networking/02-IP-Addressing-Subnetting-CIDR/`](03%20-%20Networking/02-IP-Addressing-Subnetting-CIDR/README.md) | ⏳ Ready for input |
-| **03. DNS & DHCP** | [`03 - Networking/03-DNS-and-DHCP/`](03%20-%20Networking/03-DNS-and-DHCP/README.md) | ⏳ Ready for input |
-| **04. HTTP, HTTPS & Web Protocols** | [`03 - Networking/04-HTTP-HTTPS-and-Web-Protocols/`](03%20-%20Networking/04-HTTP-HTTPS-and-Web-Protocols/README.md) | ⏳ Ready for input |
-| **05. TCP, UDP & Sockets** | [`03 - Networking/05-TCP-UDP-and-Sockets/`](03%20-%20Networking/05-TCP-UDP-and-Sockets/README.md) | ⏳ Ready for input |
-| **06. SSH & Secure Remote Access** | [`03 - Networking/06-SSH-and-Secure-Remote-Access/`](03%20-%20Networking/06-SSH-and-Secure-Remote-Access/README.md) | ⏳ Ready for input |
-| **07. Firewalls, iptables & UFW** | [`03 - Networking/07-Firewalls-iptables-and-UFW/`](03%20-%20Networking/07-Firewalls-iptables-and-UFW/README.md) | ⏳ Ready for input |
-| **08. Load Balancers & Proxies** | [`03 - Networking/08-Load-Balancers-and-Proxies/`](03%20-%20Networking/08-Load-Balancers-and-Proxies/README.md) | ⏳ Ready for input |
-| **09. VPN & VPC Networking** | [`03 - Networking/09-VPN-and-VPC-Networking/`](03%20-%20Networking/09-VPN-and-VPC-Networking/README.md) | ⏳ Ready for input |
-| **10. Network Troubleshooting Tools** | [`03 - Networking/10-Network-Troubleshooting-Tools/`](03%20-%20Networking/10-Network-Troubleshooting-Tools/README.md) | ⏳ Ready for input |
+| **01. OSI & TCP/IP Models** | [`03 - Networking/01-OSI-and-TCPIP-Models/`](03%20-%20Networking/01-OSI-and-TCPIP-Models/README.md) | ✅ Complete (13 Modules) |
+| **02. IP Addressing, Subnetting & CIDR** | [`03 - Networking/02-IP-Addressing-Subnetting-CIDR/`](03%20-%20Networking/02-IP-Addressing-Subnetting-CIDR/README.md) | ✅ Complete (13 Modules) |
+| **03. DNS & DHCP** | [`03 - Networking/03-DNS-and-DHCP/`](03%20-%20Networking/03-DNS-and-DHCP/README.md) | ✅ Complete (13 Modules) |
+| **04. HTTP, HTTPS & Web Protocols** | [`03 - Networking/04-HTTP-HTTPS-and-Web-Protocols/`](03%20-%20Networking/04-HTTP-HTTPS-and-Web-Protocols/README.md) | ✅ Complete (13 Modules) |
+| **05. TCP, UDP & Sockets** | [`03 - Networking/05-TCP-UDP-and-Sockets/`](03%20-%20Networking/05-TCP-UDP-and-Sockets/README.md) | ✅ Complete (13 Modules) |
+| **06. SSH & Secure Remote Access** | [`03 - Networking/06-SSH-and-Secure-Remote-Access/`](03%20-%20Networking/06-SSH-and-Secure-Remote-Access/README.md) | ✅ Complete (13 Modules) |
+| **07. Firewalls, iptables & UFW** | [`03 - Networking/07-Firewalls-iptables-and-UFW/`](03%20-%20Networking/07-Firewalls-iptables-and-UFW/README.md) | ✅ Complete (13 Modules) |
+| **08. Load Balancers & Proxies** | [`03 - Networking/08-Load-Balancers-and-Proxies/`](03%20-%20Networking/08-Load-Balancers-and-Proxies/README.md) | ✅ Complete (13 Modules) |
+| **09. VPN & VPC Networking** | [`03 - Networking/09-VPN-and-VPC-Networking/`](03%20-%20Networking/09-VPN-and-VPC-Networking/README.md) | ✅ Complete (13 Modules) |
+| **10. Network Troubleshooting Tools** | [`03 - Networking/10-Network-Troubleshooting-Tools/`](03%20-%20Networking/10-Network-Troubleshooting-Tools/README.md) | ✅ Complete (13 Modules) |
+| **11. BGP Routing & Cloud Interconnects** | [`03 - Networking/11-BGP-Routing-and-Cloud-Interconnects/`](03%20-%20Networking/11-BGP-Routing-and-Cloud-Interconnects/README.md) | ✅ Complete (13 Modules) |
+| **12. Overlay Networks, VXLAN & Container CNI** | [`03 - Networking/12-Overlay-Networks-VXLAN-and-Container-CNI/`](03%20-%20Networking/12-Overlay-Networks-VXLAN-and-Container-CNI/README.md) | ✅ Complete (13 Modules) |
+| **13. CDN, Edge Networks & Anycast Routing** | [`03 - Networking/13-CDN-Edge-Networks-and-Anycast-Routing/`](03%20-%20Networking/13-CDN-Edge-Networks-and-Anycast-Routing/README.md) | ✅ Complete (13 Modules) |
+| **14. Modern Web Protocols: HTTP/3, QUIC & gRPC** | [`03 - Networking/14-Modern-Web-Protocols-HTTP3-QUIC-and-gRPC/`](03%20-%20Networking/14-Modern-Web-Protocols-HTTP3-QUIC-and-gRPC/README.md) | ✅ Complete (13 Modules) |
+
 
 ### 04. 🐙 [04 - Git & Version Control](04%20-%20Git%20&%20Version%20Control/README.md)
 | Topic | Module Path | Status |
