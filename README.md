@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/bvthz5/cloud-devops-engineering-roadmap"><img src="https://img.shields.io/badge/Roadmap-23_Core_Stages-00b4d8?style=for-the-badge&logo=compass&logoColor=white" alt="Roadmap Stages" /></a>
-  <a href="https://github.com/bvthz5/cloud-devops-engineering-roadmap"><img src="https://img.shields.io/badge/Modules-299_Full_Guides-7209b7?style=for-the-badge&logo=gitbook&logoColor=white" alt="Modules Count" /></a>
-  <a href="https://github.com/bvthz5/cloud-devops-engineering-roadmap"><img src="https://img.shields.io/badge/Content_Sheets-3%2C780%2B_Lessons-4cc9f0?style=for-the-badge&logo=markdown&logoColor=white" alt="Content Files" /></a>
+  <a href="https://github.com/bvthz5/cloud-devops-engineering-roadmap"><img src="https://img.shields.io/badge/Roadmap-24_Core_Stages-00b4d8?style=for-the-badge&logo=compass&logoColor=white" alt="Roadmap Stages" /></a>
+  <a href="https://github.com/bvthz5/cloud-devops-engineering-roadmap"><img src="https://img.shields.io/badge/Modules-319_Full_Guides-7209b7?style=for-the-badge&logo=gitbook&logoColor=white" alt="Modules Count" /></a>
+  <a href="https://github.com/bvthz5/cloud-devops-engineering-roadmap"><img src="https://img.shields.io/badge/Content_Sheets-3%2C860%2B_Lessons-4cc9f0?style=for-the-badge&logo=markdown&logoColor=white" alt="Content Files" /></a>
   <a href="https://github.com/bvthz5/cloud-devops-engineering-roadmap"><img src="https://img.shields.io/badge/Standard-Production_Tested-4361ee?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Production Ready" /></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-2ec4b6?style=for-the-badge" alt="License" /></a>
   <a href="https://github.com/bvthz5/cloud-devops-engineering-roadmap/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-f72585?style=for-the-badge&logo=github&logoColor=white" alt="PRs Welcome" /></a>
@@ -59,7 +59,7 @@ Every single module in this repository is built around a rigorous **learning and
 
 ---
 
-## 🗺️ Complete 23-Stage Learning Roadmap
+## 🗺️ Complete 24-Stage Learning Roadmap
 
 Click on any stage below to jump straight to its modules, deep-dive lessons, and terminal labs:
 
@@ -88,6 +88,7 @@ Click on any stage below to jump straight to its modules, deep-dive lessons, and
 | **21** | **Database Reliability Engineering (DBRE)** | [Explore `21 - Database Reliability Engineering`](roadmap/21%20-%20Database%20Reliability%20Engineering%20(DBRE)/) | **10** | PostgreSQL/MySQL internals, WAL replication, PITR disaster recovery, Flyway, K8s DB operators |
 | **22** | **AI for DevOps, AIOps & LLMOps** | [Explore `22 - AI for DevOps, AIOps & LLMOps`](roadmap/22%20-%20AI%20for%20DevOps,%20AIOps%20&%20LLMOps/) | **12** | AI code generation, K8sGPT triage, vLLM / Ollama deployment, NVIDIA GPU operator, Langfuse, Guardrails |
 | **23** | **Real-World Projects & Enterprise Architectures** | [Explore `23 - Real-World Projects`](roadmap/23%20-%20Real-World%20Projects%20&%20Enterprise%20Architectures/) | **12** | End-to-end production systems: 3-tier AWS, DevSecOps pipeline, GitOps K8s, Self-healing cluster, vLLM |
+| **24** | **Scenario-Based Interview Questions & Answers** | [Explore `24 - Interview Scenarios`](roadmap/24%20-%20Scenario-Based%20Interview%20Questions%20%26%20Answers/) | **20** | 200 Production incidents & triage drills, architecture failure recoveries, candidate verbal pitches, and rapid-fire CLI cheat sheets |
 
 ---
 
@@ -101,6 +102,7 @@ Track B: Cloud & Container Ops  ──► Stages 07, 08, 09, 10, 11 (or 12/13)
 Track C: Delivery & Security    ──► Stages 15, 16, 18, 19
 Track D: Reliability & SRE      ──► Stages 14, 17, 20, 21
 Track E: AI & Advanced Platform ──► Stages 22, 23 (Production Architectures)
+Track F: Interview & Incident Mastery ──► Stage 24 (200 Production Scenarios & Verbal Pitches)
 ```
 
 1. **🐣 Associate Cloud/DevOps Engineer (Weeks 1 – 8)**:
@@ -111,6 +113,8 @@ Track E: AI & Advanced Platform ──► Stages 22, 23 (Production Architecture
    - Complete **Stages 15, 16, 18, 19**: Implement end-to-end CI/CD with GitHub Actions & Jenkins, declarative GitOps with ArgoCD, container image signing with Cosign, and service mesh routing with Istio.
 4. **🧠 Senior SRE & Next-Gen AI Platform Engineer (Weeks 21 – 24+)**:
    - Complete **Stages 17, 20, 21, 22, 23**: Design SLO/SLI dashboards, manage multi-region database failovers, run chaos experiments, deploy local LLM inferencing clusters with vLLM & GPUs, and build production reference architectures.
+5. **🎯 Staff / Principal / Lead Interview Prep**:
+   - Complete **Stage 24**: Master all 200 real-world production incident response scenarios, root-cause analysis explanations, exact CLI diagnostic toolchains, and articulate verbal pitch answers across all 20 core domains.
 
 ---
 
