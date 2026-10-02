@@ -1,30 +1,46 @@
-# 01-Computer Hardware and Architecture
+# 01 - Computer Hardware and Architecture
 
-> Essential hardware components, CPU mechanics, memory hierarchy, storage technologies, architectures (x86 vs ARM), and virtualization foundations for Cloud & DevOps Engineers.
-
----
-
-## 🎯 Learning Objectives
-
-By the end of this module, you will understand:
-1. **Computer System Flow:** How data moves across Input, CPU Processing, Memory, Storage, and Output.
-2. **CPU Internals:** Control Unit (CU), Arithmetic Logic Unit (ALU), Registers (PC, SP, IR), L1/L2/L3 Caches, Cores, Threads, and Clock Speed.
-3. **CPU Architectures & ISAs:** x86-64 (amd64) vs ARM64 (aarch64) vs RISC-V and why architecture matters in Docker, Kubernetes, and Cloud Machine Selection.
-4. **Memory Hierarchy & Virtual Memory:** RAM volatility, Paging, Page Tables, TLB (Translation Lookaside Buffer), and Swap.
-5. **Persistent Storage Technologies:** HDD vs SATA SSD vs NVMe SSD over PCIe, I/O performance, Interrupts, DMA, and Buses.
-6. **Boot Process & Firmware:** Motherboard interfaces, BIOS vs UEFI, Bootloaders (GRUB, systemd-boot), GPUs/CUDA, and NICs/MAC addresses.
-7. **Virtualization Foundations:** Hardware virtualization (VT-x, AMD-V), Type 1 vs Type 2 Hypervisors, VMs vs Containers.
+> Complete Deep-Dive Guide to Computer Architecture, CPU Mechanics, Memory Hierarchy, Storage Subsystems, Motherboard Buses, Firmware, and Hardware Virtualization for DevOps and Cloud Engineers.
 
 ---
 
-## 📁 Module Navigation
+## 🗺️ Architectural Mind Map
 
-- [`01-Basics.md`](01-Basics.md) — Core concepts, CPU breakdown, RAM, storage, and I/O.
-- [`02-Deep-Dive.md`](02-Deep-Dive.md) — Deep architectural mechanics, TLB, Cache L1/L2/L3, NVMe/PCIe, ISAs.
-- [`03-How-It-Works.md`](03-How-It-Works.md) — Step-by-step execution cycles, boot flow diagrams, VM vs Container execution.
-- [`04-Practical-Examples.md`](04-Practical-Examples.md) — Hardware inspection CLI runbooks (`lscpu`, `free`, `lsblk`, `lspci`, `uname`).
-- [`05-Real-World-Scenarios.md`](05-Real-World-Scenarios.md) — Selecting cloud instance types (Graviton ARM vs x86), NVMe I/O tuning, GPU allocation.
-- [`06-Troubleshooting.md`](06-Troubleshooting.md) — Diagnosing hardware bottlenecks, memory leaks, I/O wait (`iowait`), and thermal throttling.
-- [`07-Interview-QA.md`](07-Interview-QA.md) — Technical interview Q&A for hardware & virtualization.
-- [`08-MCQ.md`](08-MCQ.md) — Self-assessment diagnostic test with detailed explanations.
-- [`09-Quick-Revision.md`](09-Quick-Revision.md) — One-pager cheat sheet, key equations, and summary comparison tables.
+```text
+                                  COMPUTER SYSTEM
+                                         │
+        ┌────────────────────────────────┼────────────────────────────────┐
+        │                                │                                │
+ ┌──────┴──────┐                  ┌──────┴──────┐                  ┌──────┴──────┐
+ │     CPU     │                  │   Memory    │                  │ Storage &   │
+ │             │                  │  Hierarchy  │                  │     I/O     │
+ └──────┬──────┘                  └──────┬──────┘                  └──────┬──────┘
+        │                                │                                │
+ ┌──────┼──────┐                  ┌──────┼──────┐                  ┌──────┼──────┐
+ │      │      │                  │      │      │                  │      │      │
+CU     ALU  Registers          L1/L2/L3 RAM    TLB                NVMe   PCIe   NIC
+ │      │      │                  │      │      │                  │      │      │
+PC     IR     SP                Caches DRAM Virtual               SSD   DMA    MAC
+                                              Memory
+```
+
+---
+
+## 📌 Complete Syllabus Breakdown (All 74 Topics)
+
+| Module File | Topics Covered | Key Focus Areas |
+|---|---|---|
+| [`01-Computer-Architecture-and-CPU-Fundamentals.md`](01-Computer-Architecture-and-CPU-Fundamentals.md) | **Topics 1–13** | Computer Fundamentals, Von Neumann Architecture, CPU, Control Unit, ALU, Registers (PC, IR, SP), Cores, Threads, Clock Speed, Instruction Cycle. |
+| [`02-ISA-x86-ARM-RISCV-and-Microarchitecture.md`](02-ISA-x86-ARM-RISCV-and-Microarchitecture.md) | **Topics 14–21, 74** | Instruction Set Architecture (ISA), x86 vs x86-64/AMD64, ARM vs ARM64/AArch64, RISC-V, Microarchitecture, IPC, Software Compatibility. |
+| [`03-CPU-Cache-Hierarchy-and-Memory-Subsystems.md`](03-CPU-Cache-Hierarchy-and-Memory-Subsystems.md) | **Topics 22–29** | CPU Cache, L1/L2/L3 Cache, Cache Hit/Miss, RAM, DRAM vs SRAM, Memory Latency. |
+| [`04-Virtual-Memory-Paging-and-MMU.md`](04-Virtual-Memory-Paging-and-MMU.md) | **Topics 30–38** | Virtual Memory, Physical Memory, Virtual vs Physical Address, Pages, Page Tables, Page Faults, TLB, Memory Protection. |
+| [`05-Storage-Technologies-and-IO-Subsystems.md`](05-Storage-Technologies-and-IO-Subsystems.md) | **Topics 39–44** | HDD, SSD, SATA SSD, NVMe SSD, Storage I/O, Input/Output Subsystem. |
+| [`06-Motherboard-Buses-and-Peripherals.md`](06-Motherboard-Buses-and-Peripherals.md) | **Topics 45–56** | Motherboard, PCIe, USB, SATA Interface, GPU, NIC, MAC Address, Interrupts & Handling, DMA, System Bus, Memory Bus. |
+| [`07-Firmware-BIOS-UEFI-and-Boot-Process.md`](07-Firmware-BIOS-UEFI-and-Boot-Process.md) | **Topics 57–63** | Firmware, BIOS vs UEFI, Boot Process, Bootloader, GRUB, Windows Boot Manager. |
+| [`08-Virtualization-Hypervisors-and-Containers.md`](08-Virtualization-Hypervisors-and-Containers.md) | **Topics 64–73** | Hardware Virtualization, Intel VT-x, AMD-V, Hypervisor (Type 1 & Type 2), VMs, Virtualization vs Containers. |
+| [`09-Real-World-Scenarios.md`](09-Real-World-Scenarios.md) | Production Patterns | AWS Graviton Migration, NVMe IOPS Bottlenecks, GPU Cloud Sizing for LLM Inference. |
+| [`10-Troubleshooting.md`](10-Troubleshooting.md) | Diagnostic Runbook | CPU Throttling, Memory Leaks, High `iowait`, PCIe Bus Errors, Hardware MCEs. |
+| [`11-Interview-QA.md`](11-Interview-QA.md) | Technical Interview Prep | 20+ Real-world interview questions and detailed answers. |
+| [`12-Hands-On-Practice.md`](12-Hands-On-Practice.md) | Practical Labs | 10 CLI Labs inspecting CPU, memory, disks, PCIe, and virtualization flags. |
+| [`13-MCQ.md`](13-MCQ.md) | Self-Assessment | 15+ Diagnostic MCQs with complete answer keys and rationales. |
+| [`14-Quick-Revision.md`](14-Quick-Revision.md) | Fast Recall Sheet | One-page cheat sheet, latency numbers, and architecture comparison tables. |
