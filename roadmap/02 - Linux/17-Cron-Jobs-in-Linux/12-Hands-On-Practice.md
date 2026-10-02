@@ -115,4 +115,4 @@ Write the current date to a file every minute.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Cron vs Alternatives](./11-Cron-vs-Alternatives.md) | [README](./README.md) | [13 - Scenario Based Questions](./13-Scenario-Based-Questions.md) |
+| [← 11 - Cron vs Alternatives](./11-Cron-vs-Alternatives.md) | [Index](../../../README.md) | [13 - Scenario Based Questions →](./13-Scenario-Based-Questions.md) |

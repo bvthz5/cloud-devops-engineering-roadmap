@@ -45,4 +45,4 @@ func main() {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - HTTP & Context](./05-HTTP-Services-and-Context-Cancellation.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - HTTP Services and Context Cancellation](./05-HTTP-Services-and-Context-Cancellation.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

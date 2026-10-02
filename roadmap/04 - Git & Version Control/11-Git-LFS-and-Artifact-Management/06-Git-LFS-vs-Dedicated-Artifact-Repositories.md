@@ -13,4 +13,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Repo Migration](./05-Migrating-Bloated-Repositories-to-Git-LFS.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Migrating Bloated Repositories to Git LFS](./05-Migrating-Bloated-Repositories-to-Git-LFS.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

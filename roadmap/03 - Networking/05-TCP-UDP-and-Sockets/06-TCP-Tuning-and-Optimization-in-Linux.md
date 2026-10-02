@@ -29,4 +29,4 @@ sudo sysctl --system
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Network Sockets & BSD API](./05-Network-Sockets-and-the-BSD-Socket-API.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Network Sockets and the BSD Socket API](./05-Network-Sockets-and-the-BSD-Socket-API.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

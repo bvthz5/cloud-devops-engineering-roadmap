@@ -39,4 +39,4 @@ DB_PORT=5433
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - git rerere](./02-git-rerere-Reuse-Recorded-Resolution.md) |
+| [← Prev Module (06-Git-Hooks-and-Automation)](../06-Git-Hooks-and-Automation/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - git rerere Reuse Recorded Resolution →](./02-git-rerere-Reuse-Recorded-Resolution.md) |

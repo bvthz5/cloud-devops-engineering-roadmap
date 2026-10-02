@@ -26,4 +26,4 @@ roles/common/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Creating Roles](./02-Creating-Roles-with-ansible-galaxy-role-init.md) |
+| [← Prev Module (05-Variables-Facts-and-Jinja2-Templates)](../05-Variables-Facts-and-Jinja2-Templates/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Creating Roles with ansible galaxy role init →](./02-Creating-Roles-with-ansible-galaxy-role-init.md) |

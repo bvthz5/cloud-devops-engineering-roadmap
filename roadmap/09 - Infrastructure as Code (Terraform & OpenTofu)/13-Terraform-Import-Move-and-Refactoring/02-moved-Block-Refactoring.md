@@ -35,4 +35,4 @@ moved {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - terraform import](./01-terraform-import-CLI-and-Import-Block.md) | [README](./README.md) | [03 - removed Block](./03-removed-Block-and-State-Surgery.md) |
+| [← 01 - terraform import CLI and Import Block](./01-terraform-import-CLI-and-Import-Block.md) | [Index](../../../README.md) | [03 - removed Block and State Surgery →](./03-removed-Block-and-State-Surgery.md) |

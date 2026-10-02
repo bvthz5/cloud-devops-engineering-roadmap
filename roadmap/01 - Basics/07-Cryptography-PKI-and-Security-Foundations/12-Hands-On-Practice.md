@@ -24,4 +24,4 @@ openssl verify -CAfile rootCA.crt server.crt
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Interview Q&A](./11-Interview-QA.md) | [README](./README.md) | [13 - Multiple Choice Questions](./13-MCQ.md) |
+| [← 11 - Interview QA](./11-Interview-QA.md) | [Index](../../../README.md) | [13 - MCQ →](./13-MCQ.md) |

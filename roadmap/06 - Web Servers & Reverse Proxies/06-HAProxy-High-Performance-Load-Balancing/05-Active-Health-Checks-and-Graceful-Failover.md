@@ -50,4 +50,4 @@ echo "set server app_servers/app1 state maint" | socat stdio /run/haproxy/admin.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Stick-Tables & Advanced Rate Limiting](./04-Stick-Tables-and-Advanced-Rate-Limiting.md) | [README](./README.md) | [06 - Dynamic Reconfiguration](./06-Dynamic-Reconfiguration-Runtime-API-and-Data-Plane-API.md) |
+| [← 04 - Stick Tables and Advanced Rate Limiting](./04-Stick-Tables-and-Advanced-Rate-Limiting.md) | [Index](../../../README.md) | [06 - Dynamic Reconfiguration Runtime API and Data Plane API →](./06-Dynamic-Reconfiguration-Runtime-API-and-Data-Plane-API.md) |

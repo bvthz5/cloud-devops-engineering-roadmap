@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Multi Cloud Compliance CIS Benchmarks NIST SOC2 HIPAA](./04-Multi-Cloud-Compliance-CIS-Benchmarks-NIST-SOC2-HIPAA.md) | [Index](../../../README.md) | [06 - Automated Vulnerability Scanning and Remediation Workflows →](./06-Automated-Vulnerability-Scanning-and-Remediation-Workflows.md) |

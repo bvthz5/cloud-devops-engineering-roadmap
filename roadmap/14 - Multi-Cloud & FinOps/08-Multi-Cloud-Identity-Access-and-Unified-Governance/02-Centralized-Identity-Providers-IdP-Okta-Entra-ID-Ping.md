@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Multi Cloud Identity Architecture AWS IAM Entra ID GCP IAM](./01-Multi-Cloud-Identity-Architecture-AWS-IAM-Entra-ID-GCP-IAM.md) | [Index](../../../README.md) | [03 - Cross Cloud Trust Workload Identity Federation SPIFFE SPIRE →](./03-Cross-Cloud-Trust-Workload-Identity-Federation-SPIFFE-SPIRE.md) |

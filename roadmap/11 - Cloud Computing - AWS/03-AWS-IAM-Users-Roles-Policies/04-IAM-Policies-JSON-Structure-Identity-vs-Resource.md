@@ -18,4 +18,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - IAM Roles & Trust Policies](./03-IAM-Roles-Trust-Policies-and-AssumeRole.md) | [README](./README.md) | [05 - Policy Evaluation Logic](./05-IAM-Policy-Evaluation-Logic-Explicit-Deny-Rule.md) |
+| [← 03 - IAM Roles Trust Policies and AssumeRole](./03-IAM-Roles-Trust-Policies-and-AssumeRole.md) | [Index](../../../README.md) | [05 - IAM Policy Evaluation Logic Explicit Deny Rule →](./05-IAM-Policy-Evaluation-Logic-Explicit-Deny-Rule.md) |

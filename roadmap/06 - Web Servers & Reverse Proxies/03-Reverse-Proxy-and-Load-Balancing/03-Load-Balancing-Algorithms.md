@@ -53,4 +53,4 @@ upstream cache_sharded_backend {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Layer 4 vs Layer 7 Load Balancing](./02-Layer-4-vs-Layer-7-Load-Balancing.md) | [README](./README.md) | [04 - Upstream Management & Buffer Tuning](./04-Upstream-Management-and-Buffer-Tuning.md) |
+| [← 02 - Layer 4 vs Layer 7 Load Balancing](./02-Layer-4-vs-Layer-7-Load-Balancing.md) | [Index](../../../README.md) | [04 - Upstream Management and Buffer Tuning →](./04-Upstream-Management-and-Buffer-Tuning.md) |

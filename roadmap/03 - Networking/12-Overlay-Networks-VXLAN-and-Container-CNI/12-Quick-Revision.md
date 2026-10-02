@@ -18,4 +18,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [13 - CDN & Anycast](../13-CDN-Edge-Networks-and-Anycast-Routing/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (13-CDN-Edge-Networks-and-Anycast-Routing) →](../13-CDN-Edge-Networks-and-Anycast-Routing/01-Anycast-Routing-Architecture-and-BGP.md) |

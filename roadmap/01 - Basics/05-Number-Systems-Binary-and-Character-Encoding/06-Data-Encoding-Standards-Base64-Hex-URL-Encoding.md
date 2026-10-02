@@ -44,4 +44,4 @@ echo "U3VwZXJTZWNyZXRQYXNzd29yZDEyMyE=" | base64 -d
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Line Endings CRLF vs LF](./05-Line-Endings-CRLF-vs-LF-and-Windows-Linux-Interop.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Line Endings CRLF vs LF and Windows Linux Interop](./05-Line-Endings-CRLF-vs-LF-and-Windows-Linux-Interop.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

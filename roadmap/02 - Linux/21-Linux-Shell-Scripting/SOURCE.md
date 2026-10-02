@@ -13,3 +13,9 @@
 
 ## Core Topics Preservation
 This module preserves all foundational notes on shell syntax, execution models, file handling, logic constructs, debugging, scheduling, and error control while expanding each section into production-ready DevOps patterns and real-world infrastructure code.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 31 - Production Scripting Checklist](./31-Production-Scripting-Checklist.md) | [Index](../../../README.md) | [Next Module (22-Real-World-Linux-Issues-DevOps-Engineers-Face) →](../22-Real-World-Linux-Issues-DevOps-Engineers-Face/01-Linux-Troubleshooting-Mindset-and-Workflow.md) |

@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - AMI & Image Baking](./04-AMI-Creation-Management-and-Packer-Baking.md) | [README](./README.md) | [06 - Auto Scaling Groups](./06-Auto-Scaling-Groups-ASG-Target-Tracking-and-Predictive-Scaling.md) |
+| [← 04 - AMI Creation Management and Packer Baking](./04-AMI-Creation-Management-and-Packer-Baking.md) | [Index](../../../README.md) | [06 - Auto Scaling Groups ASG Target Tracking and Predictive Scaling →](./06-Auto-Scaling-Groups-ASG-Target-Tracking-and-Predictive-Scaling.md) |

@@ -26,4 +26,4 @@ Modern cloud architectures heavily differentiate between Layer 4 and Layer 7 loa
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Layer 3 Network](./05-Layer-3-Network-IP-Routing-and-Routers.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Layer 3 Network IP Routing and Routers](./05-Layer-3-Network-IP-Routing-and-Routers.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

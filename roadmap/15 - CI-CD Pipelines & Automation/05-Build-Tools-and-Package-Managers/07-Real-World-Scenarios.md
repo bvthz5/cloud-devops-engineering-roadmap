@@ -25,3 +25,9 @@ A enterprise financial institution requires strict air-gapped security. Build se
 1. **JFrog Artifactory / Sonatype Nexus Proxy**: Setup internal proxy repositories connected to approved public mirrors with automated vulnerability scanning (Xray/Nexus IQ).
 2. **Security Gating**: Automatically quarantine dependencies containing High/Critical CVEs before developers or CI runners can download them.
 3. **CI Pipeline Integration**: Configure `.npmrc`, `settings.xml`, and `pip.conf` across all build runners to enforce routing exclusively through the internal repository.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 06 - Build Caching Strategies and Dependency Mirrors](./06-Build-Caching-Strategies-and-Dependency-Mirrors.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

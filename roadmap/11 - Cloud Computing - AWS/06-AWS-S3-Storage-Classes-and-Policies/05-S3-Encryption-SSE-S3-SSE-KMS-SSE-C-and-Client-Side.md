@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Bucket Policies & Security](./04-S3-Security-Bucket-Policies-ACLs-and-Block-Public-Access.md) | [README](./README.md) | [06 - Versioning & Replication](./06-S3-Versioning-Replication-Cross-Region-Same-Region.md) |
+| [← 04 - S3 Security Bucket Policies ACLs and Block Public Access](./04-S3-Security-Bucket-Policies-ACLs-and-Block-Public-Access.md) | [Index](../../../README.md) | [06 - S3 Versioning Replication Cross Region Same Region →](./06-S3-Versioning-Replication-Cross-Region-Same-Region.md) |

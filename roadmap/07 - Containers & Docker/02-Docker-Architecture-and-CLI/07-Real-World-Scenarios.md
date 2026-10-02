@@ -24,4 +24,4 @@ Configure global log rotation in `/etc/docker/daemon.json`:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Multi-Arch Builds with Buildx](./06-Multi-Architecture-Builds-with-Buildx.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Multi Architecture Builds with Buildx](./06-Multi-Architecture-Builds-with-Buildx.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

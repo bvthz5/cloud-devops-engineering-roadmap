@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (06-Multi-Cluster-and-Multi-Environment-GitOps)](../06-Multi-Cluster-and-Multi-Environment-GitOps/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Flagger with Istio Linkerd and NGINX Ingress Traffic Shifting →](./02-Flagger-with-Istio-Linkerd-and-NGINX-Ingress-Traffic-Shifting.md) |

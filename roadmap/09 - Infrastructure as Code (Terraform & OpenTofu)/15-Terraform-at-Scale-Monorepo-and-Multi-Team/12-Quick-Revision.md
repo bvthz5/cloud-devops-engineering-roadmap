@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 16 - CDK for Terraform](../16-CDK-for-Terraform-and-Pulumi-Comparison/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (16-CDK-for-Terraform-and-Pulumi-Comparison) →](../16-CDK-for-Terraform-and-Pulumi-Comparison/01-CDKTF-Architecture-and-Setup.md) |

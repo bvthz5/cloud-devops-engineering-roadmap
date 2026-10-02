@@ -57,4 +57,4 @@ Key sections in an ELF binary:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Static vs Dynamic Linking](./02-Static-vs-Dynamic-Linking-and-Shared-Libraries.md) |
+| [← Prev Module (05-Number-Systems-Binary-and-Character-Encoding)](../05-Number-Systems-Binary-and-Character-Encoding/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Static vs Dynamic Linking and Shared Libraries →](./02-Static-vs-Dynamic-Linking-and-Shared-Libraries.md) |

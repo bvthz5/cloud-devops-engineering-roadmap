@@ -29,4 +29,4 @@ CGO_ENABLED=0 GOOS=linux go build -ldflags="-s -w" -o myapp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [04 - APIs & Webhooks](../04-APIs-REST-gRPC-and-Webhooks/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (04-APIs-REST-gRPC-and-Webhooks) →](../04-APIs-REST-gRPC-and-Webhooks/01-REST-API-Architecture-and-Idempotency.md) |

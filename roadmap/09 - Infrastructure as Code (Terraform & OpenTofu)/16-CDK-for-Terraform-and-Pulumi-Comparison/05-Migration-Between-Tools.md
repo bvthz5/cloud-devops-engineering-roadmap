@@ -21,4 +21,4 @@ No automated tool. Manual rewrite required.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - HCL vs GPL Tradeoffs](./04-HCL-vs-General-Purpose-Language-Tradeoffs.md) | [README](./README.md) | [06 - Decision Framework](./06-Decision-Framework-Choosing-the-Right-Tool.md) |
+| [← 04 - HCL vs General Purpose Language Tradeoffs](./04-HCL-vs-General-Purpose-Language-Tradeoffs.md) | [Index](../../../README.md) | [06 - Decision Framework Choosing the Right Tool →](./06-Decision-Framework-Choosing-the-Right-Tool.md) |

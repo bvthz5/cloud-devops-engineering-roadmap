@@ -37,4 +37,4 @@ curl -I http://localhost:8080/api/data
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Interview Q&A](./09-Interview-QA.md) | [README](./README.md) | [11 - Self-Assessment MCQ](./11-MCQ.md) |
+| [← 09 - Interview QA](./09-Interview-QA.md) | [Index](../../../README.md) | [11 - MCQ →](./11-MCQ.md) |

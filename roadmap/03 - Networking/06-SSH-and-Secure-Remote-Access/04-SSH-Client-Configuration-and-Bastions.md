@@ -24,4 +24,4 @@ ssh internal-web
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Hardening OpenSSH Server](./03-Hardening-OpenSSH-Server-sshd_config.md) | [README](./README.md) | [05 - SSH Tunneling](./05-SSH-Tunneling-and-Port-Forwarding-Mastery.md) |
+| [← 03 - Hardening OpenSSH Server sshd_config](./03-Hardening-OpenSSH-Server-sshd_config.md) | [Index](../../../README.md) | [05 - SSH Tunneling and Port Forwarding Mastery →](./05-SSH-Tunneling-and-Port-Forwarding-Mastery.md) |

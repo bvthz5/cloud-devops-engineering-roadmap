@@ -40,4 +40,4 @@ mutmut results
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Static Analysis & CI Gates](./05-Static-Analysis-Security-Linting-and-CI-Gates.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Static Analysis Security Linting and CI Gates](./05-Static-Analysis-Security-Linting-and-CI-Gates.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

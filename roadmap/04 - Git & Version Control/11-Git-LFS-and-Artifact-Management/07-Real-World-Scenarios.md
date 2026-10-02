@@ -26,4 +26,4 @@ Every CI runner ran a clean clone, downloading 4GB of LFS assets per build. The 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - LFS vs Artifact Stores](./06-Git-LFS-vs-Dedicated-Artifact-Repositories.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Git LFS vs Dedicated Artifact Repositories](./06-Git-LFS-vs-Dedicated-Artifact-Repositories.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -92,4 +92,4 @@ ping -c 3 -M do -s 1472 8.8.8.8
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - DNS Resolution Architecture](./04-DNS-Resolution-Architecture-and-systemd-resolved.md) | [README](./README.md) | [06 - Network Namespaces and Containers](./06-Network-Namespaces-and-Container-Networking.md) |
+| [← 04 - DNS Resolution Architecture and systemd resolved](./04-DNS-Resolution-Architecture-and-systemd-resolved.md) | [Index](../../../README.md) | [06 - Network Namespaces and Container Networking →](./06-Network-Namespaces-and-Container-Networking.md) |

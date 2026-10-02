@@ -82,3 +82,9 @@ spec:
 ## 🔗 Related Resources
 - [Docker Multi-Stage Build Guide](https://docs.docker.com/build/building/multi-stage/)
 - [Argo Rollouts Documentation](https://argoproj.github.io/argo-rollouts/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Artifact Repository Architecture Hosted Proxy and Group Repos](./01-Artifact-Repository-Architecture-Hosted-Proxy-and-Group-Repos.md) | [Index](../../../README.md) | [03 - Sonatype Nexus Repository Manager Administration →](./03-Sonatype-Nexus-Repository-Manager-Administration.md) |

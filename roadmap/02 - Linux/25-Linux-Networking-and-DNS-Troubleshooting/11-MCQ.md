@@ -76,4 +76,4 @@ Standard Ethernet Layer 2 frames support a Maximum Transmission Unit (MTU) of 15
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Hands-On Practice](./10-Hands-On-Practice.md) | [README](./README.md) | [12 - Quick Revision](./12-Quick-Revision.md) |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

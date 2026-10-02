@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Reconciliation Loops and State Drift Detection](./04-Reconciliation-Loops-and-State-Drift-Detection.md) | [Index](../../../README.md) | [06 - GitOps Disaster Recovery and Cluster Rebuilding →](./06-GitOps-Disaster-Recovery-and-Cluster-Rebuilding.md) |

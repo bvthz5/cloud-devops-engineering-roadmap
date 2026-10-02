@@ -131,4 +131,4 @@ A rigorous compilation of technical interview questions testing operating system
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - Troubleshooting](./14-Troubleshooting.md) | [README](./README.md) | [16 - Hands On Practice](./16-Hands-On-Practice.md) |
+| [← 14 - Troubleshooting](./14-Troubleshooting.md) | [Index](../../../README.md) | [16 - Hands On Practice →](./16-Hands-On-Practice.md) |

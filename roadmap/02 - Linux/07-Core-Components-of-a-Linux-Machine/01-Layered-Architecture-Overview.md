@@ -42,8 +42,9 @@ When a user utility like `cat` needs to read a file stored on an NVMe SSD, it ca
 3. The CPU switches hardware context from **Ring 3** to **Ring 0**.
 4. The Kernel processes the `read()` request via its Virtual Filesystem (VFS) and device driver.
 5. The Kernel copies data to user-space memory and switches the CPU back to **Ring 3**.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Hardware Layer](./02-Hardware-Layer.md) |
+| [← Prev Module (06-Linux-Folder-Structure)](../06-Linux-Folder-Structure/SOURCE.md) | [Index](../../../README.md) | [02 - Hardware Layer →](./02-Hardware-Layer.md) |

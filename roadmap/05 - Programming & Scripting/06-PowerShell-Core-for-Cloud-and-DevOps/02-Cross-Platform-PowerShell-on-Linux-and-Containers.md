@@ -97,4 +97,4 @@ if (-not (Test-Path -Path $configFile)) {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - PowerShell Architecture](./01-PowerShell-Core-Architecture-and-Object-Pipeline.md) | [README](./README.md) | [03 - Advanced Functions](./03-Advanced-Functions-Script-Blocks-and-Modules.md) |
+| [← 01 - PowerShell Core Architecture and Object Pipeline](./01-PowerShell-Core-Architecture-and-Object-Pipeline.md) | [Index](../../../README.md) | [03 - Advanced Functions Script Blocks and Modules →](./03-Advanced-Functions-Script-Blocks-and-Modules.md) |

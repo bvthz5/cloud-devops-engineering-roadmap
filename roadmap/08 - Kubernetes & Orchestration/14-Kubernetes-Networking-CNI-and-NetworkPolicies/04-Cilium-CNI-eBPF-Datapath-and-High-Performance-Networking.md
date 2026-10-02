@@ -13,4 +13,4 @@ Traditional CNI plugins route packets through heavy Linux Netfilter/iptables cha
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Calico CNI & BGP](./03-Calico-CNI-BGP-Routing-and-IP-Pools.md) | [README](./README.md) | [05 - Native NetworkPolicies](./05-Native-NetworkPolicies-Ingress-Egress-and-Namespaces.md) |
+| [← 03 - Calico CNI BGP Routing and IP Pools](./03-Calico-CNI-BGP-Routing-and-IP-Pools.md) | [Index](../../../README.md) | [05 - Native NetworkPolicies Ingress Egress and Namespaces →](./05-Native-NetworkPolicies-Ingress-Egress-and-Namespaces.md) |

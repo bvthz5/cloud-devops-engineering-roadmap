@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 05 - Azure Storage](../05-Azure-Blob-Storage-and-Storage-Accounts/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (05-Azure-Blob-Storage-and-Storage-Accounts) →](../05-Azure-Blob-Storage-and-Storage-Accounts/01-Azure-Storage-Account-Types-and-Redundancy.md) |

@@ -31,4 +31,4 @@ sudo apt install -y certbot python3-certbot-nginx python3-certbot-apache
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Firewall Setup](./04-Firewall-Configuration-UFW-and-Cloud-Security-Groups.md) | [README](./README.md) | [06 - Nginx SSL Setup with Certbot](./06-Step-by-Step-Nginx-SSL-Setup-with-Certbot.md) |
+| [← 04 - Firewall Configuration UFW and Cloud Security Groups](./04-Firewall-Configuration-UFW-and-Cloud-Security-Groups.md) | [Index](../../../README.md) | [06 - Step by Step Nginx SSL Setup with Certbot →](./06-Step-by-Step-Nginx-SSL-Setup-with-Certbot.md) |

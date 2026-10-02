@@ -99,4 +99,4 @@ In the next sections, we will explore the four dominant data formats used to exp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - JSON Deep Dive Syntax Schema and Parsing](./02-JSON-Deep-Dive-Syntax-Schema-and-Parsing.md) |
+| [← Prev Module (03-CLI-and-Terminal-Basics)](../03-CLI-and-Terminal-Basics/18-Quick-Revision.md) | [Index](../../../README.md) | [02 - JSON Deep Dive Syntax Schema and Parsing →](./02-JSON-Deep-Dive-Syntax-Schema-and-Parsing.md) |

@@ -13,4 +13,4 @@ Azure reserves 5 IP addresses per subnet (.0, .1, .2, .3, and broadcast .255).
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - NSG & ASG](./02-Network-Security-Groups-NSG-and-Application-Security-Groups-ASG.md) |
+| [← Prev Module (02-Azure-Entra-ID-and-Role-Based-Access-Control-RBAC)](../02-Azure-Entra-ID-and-Role-Based-Access-Control-RBAC/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Network Security Groups NSG and Application Security Groups ASG →](./02-Network-Security-Groups-NSG-and-Application-Security-Groups-ASG.md) |

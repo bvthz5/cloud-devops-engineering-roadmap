@@ -21,4 +21,4 @@ Internal Cloud VPC Host ──► Queries "api.company.com" ──► Resolves t
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - DHCP & DORA](./04-DHCP-Protocol-and-DORA-Process.md) | [README](./README.md) | [06 - DNSSEC & Security](./06-DNSSEC-and-DNS-Security.md) |
+| [← 04 - DHCP Protocol and DORA Process](./04-DHCP-Protocol-and-DORA-Process.md) | [Index](../../../README.md) | [06 - DNSSEC and DNS Security →](./06-DNSSEC-and-DNS-Security.md) |

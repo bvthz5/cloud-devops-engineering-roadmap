@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Canary Custom Resource and Metric Analysis](./03-Canary-Custom-Resource-and-Metric-Analysis.md) | [Index](../../../README.md) | [05 - A B Testing with HTTP Headers and Cookies →](./05-A-B-Testing-with-HTTP-Headers-and-Cookies.md) |

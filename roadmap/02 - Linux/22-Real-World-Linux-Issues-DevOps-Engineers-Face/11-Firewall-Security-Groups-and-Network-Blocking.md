@@ -42,4 +42,4 @@ sudo iptables -I INPUT 1 -p tcp --dport 443 -j ACCEPT
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - SSH Debugging](./10-SSH-Connectivity-Auth-and-Config-Troubleshooting.md) | [README](./README.md) | [12 - DNS Resolution Failures](./12-DNS-Resolution-Failures-and-Diagnostic-Tools.md) |
+| [← 10 - SSH Connectivity Auth and Config Troubleshooting](./10-SSH-Connectivity-Auth-and-Config-Troubleshooting.md) | [Index](../../../README.md) | [12 - DNS Resolution Failures and Diagnostic Tools →](./12-DNS-Resolution-Failures-and-Diagnostic-Tools.md) |

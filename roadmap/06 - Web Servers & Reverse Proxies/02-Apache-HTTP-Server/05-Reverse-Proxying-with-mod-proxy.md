@@ -53,4 +53,4 @@ Apache can terminate client connections and proxy requests to backend applicatio
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - URL Rewriting](./04-URL-Rewriting-with-mod-rewrite.md) | [README](./README.md) | [06 - Security Hardening & Module Management](./06-Security-Hardening-and-Module-Management.md) |
+| [← 04 - URL Rewriting with mod rewrite](./04-URL-Rewriting-with-mod-rewrite.md) | [Index](../../../README.md) | [06 - Security Hardening and Module Management →](./06-Security-Hardening-and-Module-Management.md) |

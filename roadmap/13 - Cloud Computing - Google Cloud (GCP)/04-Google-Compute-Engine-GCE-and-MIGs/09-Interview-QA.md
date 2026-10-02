@@ -21,3 +21,9 @@ The GCP Resource Hierarchy consists of **Organization -> Folders -> Projects -> 
 **Answer**:
 - **Shared VPC**: Connects projects within the *same* GCP Organization. A central host project manages the network infrastructure (VPCs, subnets, firewalls, routes), while service projects instantiate workloads (VMs, GKE) inside those subnets.
 - **VPC Peering**: Connects two independent VPC networks (which can belong to different organizations) using internal IP addressing. Traffic does not traverse the public internet, but administrative control remains separate.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

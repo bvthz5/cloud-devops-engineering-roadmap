@@ -28,4 +28,4 @@ Traefik mandates 0600 (read/write for owner only) on <code>acme.json</code> to p
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Hands-On Practice](./10-Hands-On-Practice.md) | [README](./README.md) | [12 - Quick Revision](./12-Quick-Revision.md) |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

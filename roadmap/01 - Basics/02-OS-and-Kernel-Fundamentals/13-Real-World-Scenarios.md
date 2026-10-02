@@ -145,4 +145,4 @@ Redis can now `fork()` instantaneously without waiting for memory verification.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Modern Kernel Tech cgroups v2 eBPF and seccomp](./12-Modern-Kernel-Tech-cgroups-v2-eBPF-and-seccomp.md) | [README](./README.md) | [14 - Troubleshooting](./14-Troubleshooting.md) |
+| [← 12 - Modern Kernel Tech cgroups v2 eBPF and seccomp](./12-Modern-Kernel-Tech-cgroups-v2-eBPF-and-seccomp.md) | [Index](../../../README.md) | [14 - Troubleshooting →](./14-Troubleshooting.md) |

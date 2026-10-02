@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Flux Image Automation Controller ImageRepository and ImagePolicy](./02-Flux-Image-Automation-Controller-ImageRepository-and-ImagePolicy.md) | [Index](../../../README.md) | [04 - Sealed Secrets Asymmetric Encryption in Git →](./04-Sealed-Secrets-Asymmetric-Encryption-in-Git.md) |

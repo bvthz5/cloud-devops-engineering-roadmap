@@ -131,4 +131,4 @@ chmod -R a+X /var/www/html
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Inspecting Permissions ls namei stat](./04-Inspecting-Permissions-ls-namei-stat.md) | [README](./README.md) | [06 - chmod Octal Notation](./06-chmod-Octal-Notation.md) |
+| [← 04 - Inspecting Permissions ls namei stat](./04-Inspecting-Permissions-ls-namei-stat.md) | [Index](../../../README.md) | [06 - chmod Octal Notation →](./06-chmod-Octal-Notation.md) |

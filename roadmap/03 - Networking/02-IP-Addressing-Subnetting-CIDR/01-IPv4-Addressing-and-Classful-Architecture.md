@@ -34,4 +34,4 @@ Before 1993, IPv4 addresses were categorized into rigid classes based on their f
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Private vs Public IP](./02-Private-vs-Public-IP-Addresses-RFC1918.md) |
+| [← Prev Module (01-OSI-and-TCPIP-Models)](../01-OSI-and-TCPIP-Models/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Private vs Public IP Addresses RFC1918 →](./02-Private-vs-Public-IP-Addresses-RFC1918.md) |

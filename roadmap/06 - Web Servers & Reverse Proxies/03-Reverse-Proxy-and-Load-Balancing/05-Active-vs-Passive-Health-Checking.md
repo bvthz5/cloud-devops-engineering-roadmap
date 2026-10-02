@@ -44,4 +44,4 @@ server {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Upstream Management & Buffer Tuning](./04-Upstream-Management-and-Buffer-Tuning.md) | [README](./README.md) | [06 - Header Manipulation & Client IP](./06-Header-Manipulation-and-Client-IP-Preservation.md) |
+| [← 04 - Upstream Management and Buffer Tuning](./04-Upstream-Management-and-Buffer-Tuning.md) | [Index](../../../README.md) | [06 - Header Manipulation and Client IP Preservation →](./06-Header-Manipulation-and-Client-IP-Preservation.md) |

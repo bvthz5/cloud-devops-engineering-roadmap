@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - GKE Security Workload Identity RBAC and Private Clusters](./03-GKE-Security-Workload-Identity-RBAC-and-Private-Clusters.md) | [Index](../../../README.md) | [05 - GKE Autoscaling Cluster Autoscaler Horizontal and Vertical Pod Autoscalers →](./05-GKE-Autoscaling-Cluster-Autoscaler-Horizontal-and-Vertical-Pod-Autoscalers.md) |

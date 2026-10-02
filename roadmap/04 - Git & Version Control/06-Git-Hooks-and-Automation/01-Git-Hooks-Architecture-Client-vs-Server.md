@@ -32,4 +32,4 @@ Git hooks are custom scripts triggered automatically when specific events occur 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Client-Side Hooks](./02-Client-Side-Hooks-pre-commit-commit-msg-pre-push.md) |
+| [← Prev Module (05-GitHub-and-GitLab-Collaboration)](../05-GitHub-and-GitLab-Collaboration/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Client Side Hooks pre commit commit msg pre push →](./02-Client-Side-Hooks-pre-commit-commit-msg-pre-push.md) |

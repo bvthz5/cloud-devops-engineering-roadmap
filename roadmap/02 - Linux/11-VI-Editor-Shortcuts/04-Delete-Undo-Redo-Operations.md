@@ -52,4 +52,4 @@ The dot (`.`) command repeats the **exact last text-editing modification** execu
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Insert and Editing Modes](./03-Insert-and-Editing-Modes.md) | [README](./README.md) | [05 - Yank Copy and Paste](./05-Yank-Copy-and-Paste.md) |
+| [← 03 - Insert and Editing Modes](./03-Insert-and-Editing-Modes.md) | [Index](../../../README.md) | [05 - Yank Copy and Paste →](./05-Yank-Copy-and-Paste.md) |

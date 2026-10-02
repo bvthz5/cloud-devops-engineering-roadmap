@@ -6,4 +6,4 @@ Ansible Vault protects sensitive data (passwords, TLS private keys, API tokens) 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Vault CLI Operations](./02-Ansible-Vault-CLI-encrypt-decrypt-edit-view-rekey.md) |
+| [← Prev Module (06-Ansible-Roles-and-Directory-Structure)](../06-Ansible-Roles-and-Directory-Structure/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Ansible Vault CLI encrypt decrypt edit view rekey →](./02-Ansible-Vault-CLI-encrypt-decrypt-edit-view-rekey.md) |

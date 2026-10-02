@@ -15,4 +15,4 @@ The maintainer enabled GPG/SSH commit verification in GitHub branch settings. Al
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Repo Auditing](./06-Repository-Auditing-and-Access-Governance.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Repository Auditing and Access Governance](./06-Repository-Auditing-and-Access-Governance.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -56,4 +56,4 @@ server {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Active vs Passive Health Checking](./05-Active-vs-Passive-Health-Checking.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Active vs Passive Health Checking](./05-Active-vs-Passive-Health-Checking.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

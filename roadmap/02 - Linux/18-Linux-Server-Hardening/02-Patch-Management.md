@@ -41,4 +41,4 @@ sudo dnf upgrade -y
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Hardening Fundamentals](./01-Hardening-Fundamentals.md) | [README](./README.md) | [03 - User and Account Security](./03-User-and-Account-Security.md) |
+| [← 01 - Hardening Fundamentals](./01-Hardening-Fundamentals.md) | [Index](../../../README.md) | [03 - User and Account Security →](./03-User-and-Account-Security.md) |

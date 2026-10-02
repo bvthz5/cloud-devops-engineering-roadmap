@@ -67,4 +67,4 @@ sudo journalctl --vacuum-time=7d
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - systemd Timers](./04-systemd-Timers-The-Modern-Cron-Replacement.md) | [README](./README.md) | [06 - cgroups v2 Resource Limits](./06-cgroups-v2-Resource-Limits-in-systemd.md) |
+| [← 04 - systemd Timers The Modern Cron Replacement](./04-systemd-Timers-The-Modern-Cron-Replacement.md) | [Index](../../../README.md) | [06 - cgroups v2 Resource Limits in systemd →](./06-cgroups-v2-Resource-Limits-in-systemd.md) |

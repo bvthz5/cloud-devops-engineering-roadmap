@@ -33,4 +33,4 @@ sudo systemctl default
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Initramfs & Dracut](./03-Initramfs-and-Dracut-Internals.md) | [README](./README.md) | [05 - Resetting Root Password](./05-Resetting-Lost-Root-Password-via-GRUB.md) |
+| [← 03 - Initramfs and Dracut Internals](./03-Initramfs-and-Dracut-Internals.md) | [Index](../../../README.md) | [05 - Resetting Lost Root Password via GRUB →](./05-Resetting-Lost-Root-Password-via-GRUB.md) |

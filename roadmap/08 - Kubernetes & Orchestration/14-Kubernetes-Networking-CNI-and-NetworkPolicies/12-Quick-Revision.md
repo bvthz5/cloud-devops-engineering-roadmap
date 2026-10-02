@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 15 - CRDs & Operators](../15-CRDs-and-Kubernetes-Operators/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (15-CRDs-and-Kubernetes-Operators) →](../15-CRDs-and-Kubernetes-Operators/01-CustomResourceDefinitions-CRDs-and-OpenAPI-v3-Validation.md) |

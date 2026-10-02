@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Tagging Strategies](./02-AWS-Resource-Tagging-Strategies-and-Cost-Allocation.md) |
+| [← Prev Module (13-AWS-DevOps-Services-CodePipeline-CodeBuild-CodeDeploy)](../13-AWS-DevOps-Services-CodePipeline-CodeBuild-CodeDeploy/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - AWS Resource Tagging Strategies and Cost Allocation →](./02-AWS-Resource-Tagging-Strategies-and-Cost-Allocation.md) |

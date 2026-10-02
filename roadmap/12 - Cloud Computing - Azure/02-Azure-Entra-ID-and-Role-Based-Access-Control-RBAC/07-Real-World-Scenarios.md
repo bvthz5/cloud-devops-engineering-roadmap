@@ -6,4 +6,4 @@ Using System-Assigned Managed Identity on App Service to read secrets from Key V
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Service Principals & PIM](./06-Service-Principals-App-Registrations-and-PIM.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Service Principals App Registrations and PIM](./06-Service-Principals-App-Registrations-and-PIM.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

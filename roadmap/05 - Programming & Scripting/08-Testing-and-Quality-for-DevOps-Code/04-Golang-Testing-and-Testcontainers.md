@@ -107,4 +107,4 @@ func TestRedisDistributedLock(t *testing.T) {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Python Testing with pytest](./03-Python-Unit-and-Integration-Testing-pytest-and-Moto.md) | [README](./README.md) | [05 - Static Analysis & CI Gates](./05-Static-Analysis-Security-Linting-and-CI-Gates.md) |
+| [← 03 - Python Unit and Integration Testing pytest and Moto](./03-Python-Unit-and-Integration-Testing-pytest-and-Moto.md) | [Index](../../../README.md) | [05 - Static Analysis Security Linting and CI Gates →](./05-Static-Analysis-Security-Linting-and-CI-Gates.md) |

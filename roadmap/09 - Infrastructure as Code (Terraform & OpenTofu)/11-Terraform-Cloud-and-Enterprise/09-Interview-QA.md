@@ -14,4 +14,4 @@ When compliance requirements mandate that all infrastructure operations execute 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Troubleshooting](./08-Troubleshooting.md) | [README](./README.md) | [10 - Hands-On Practice](./10-Hands-On-Practice.md) |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

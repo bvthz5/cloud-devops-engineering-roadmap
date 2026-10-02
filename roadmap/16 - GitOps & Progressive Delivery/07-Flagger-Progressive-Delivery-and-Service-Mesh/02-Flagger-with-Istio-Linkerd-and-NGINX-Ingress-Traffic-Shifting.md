@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Flagger Architecture and Controller Design](./01-Flagger-Architecture-and-Controller-Design.md) | [Index](../../../README.md) | [03 - Canary Custom Resource and Metric Analysis →](./03-Canary-Custom-Resource-and-Metric-Analysis.md) |

@@ -35,4 +35,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Resource Constraints & Limits](./04-Resource-Constraints-and-Limits.md) | [README](./README.md) | [06 - Multi-Arch Builds with Buildx](./06-Multi-Architecture-Builds-with-Buildx.md) |
+| [← 04 - Resource Constraints and Limits](./04-Resource-Constraints-and-Limits.md) | [Index](../../../README.md) | [06 - Multi Architecture Builds with Buildx →](./06-Multi-Architecture-Builds-with-Buildx.md) |

@@ -15,4 +15,4 @@ my_namespace/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Galaxy Ecosystem](./01-Ansible-Galaxy-Ecosystem-and-Public-Hub.md) | [README](./README.md) | [03 - requirements.yml](./03-Managing-Dependencies-with-requirements-yml.md) |
+| [← 01 - Ansible Galaxy Ecosystem and Public Hub](./01-Ansible-Galaxy-Ecosystem-and-Public-Hub.md) | [Index](../../../README.md) | [03 - Managing Dependencies with requirements yml →](./03-Managing-Dependencies-with-requirements-yml.md) |

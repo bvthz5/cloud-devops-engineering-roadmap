@@ -6,4 +6,4 @@ Mitogen replaces Ansible's shell-based process execution with a custom binary pr
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Async Tasks](./05-Async-Tasks-and-Polling-async-and-poll.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Async Tasks and Polling async and poll](./05-Async-Tasks-and-Polling-async-and-poll.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

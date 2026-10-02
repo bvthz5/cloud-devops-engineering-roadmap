@@ -22,4 +22,4 @@ Because networks are unreliable, webhook senders retry failed deliveries (status
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - gRPC vs REST](./02-gRPC-vs-REST-Architectural-Comparison.md) | [README](./README.md) | [04 - Webhook Security](./04-Webhook-Security-and-HMAC-SHA256-Signatures.md) |
+| [← 02 - gRPC vs REST Architectural Comparison](./02-gRPC-vs-REST-Architectural-Comparison.md) | [Index](../../../README.md) | [04 - Webhook Security and HMAC SHA256 Signatures →](./04-Webhook-Security-and-HMAC-SHA256-Signatures.md) |

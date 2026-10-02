@@ -64,4 +64,4 @@ firewall-cmd --reload
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - nftables](./04-nftables-Modern-Linux-Packet-Classification.md) | [README](./README.md) | [06 - Docker & Kubernetes iptables](./06-Docker-and-Kubernetes-iptables-Integration.md) |
+| [← 04 - nftables Modern Linux Packet Classification](./04-nftables-Modern-Linux-Packet-Classification.md) | [Index](../../../README.md) | [06 - Docker and Kubernetes iptables Integration →](./06-Docker-and-Kubernetes-iptables-Integration.md) |

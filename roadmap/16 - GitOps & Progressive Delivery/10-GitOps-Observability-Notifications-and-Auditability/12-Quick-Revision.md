@@ -22,3 +22,9 @@
 3. **Automate Canary releases using Flagger or Argo Rollouts** with Prometheus error rate guardrails.
 4. **Require signed Git commits (GPG/SSH)** for all production deployment repositories.
 5. **Configure Argo Notifications for Slack/PagerDuty** to track deployment sync failures in real time.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (17 - Monitoring, Logging & Observability) →](../../17%20-%20Monitoring%2C%20Logging%20%26%20Observability/01-Observability-Fundamentals-Metrics-Logs-Traces/01-Core-Concepts.md) |

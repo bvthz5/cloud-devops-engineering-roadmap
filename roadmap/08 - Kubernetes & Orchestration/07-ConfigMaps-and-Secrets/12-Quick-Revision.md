@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 08 - Storage & Volumes](../08-Storage-PV-PVC-and-StorageClasses/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (08-Storage-PV-PVC-and-StorageClasses) →](../08-Storage-PV-PVC-and-StorageClasses/01-Kubernetes-Storage-Architecture-PV-and-PVC-Binding.md) |

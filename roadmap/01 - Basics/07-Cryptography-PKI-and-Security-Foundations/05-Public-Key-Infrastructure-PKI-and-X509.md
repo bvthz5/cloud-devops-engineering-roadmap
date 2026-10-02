@@ -38,4 +38,4 @@ A trusted third party called a **Certificate Authority (CA)** cryptographically 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Cryptographic Hashes & HMAC](./04-Cryptographic-Hash-Functions-and-HMAC.md) | [README](./README.md) | [06 - The TLS 1.3 Handshake](./06-The-TLS-SSL-Handshake-Architecture.md) |
+| [← 04 - Cryptographic Hash Functions and HMAC](./04-Cryptographic-Hash-Functions-and-HMAC.md) | [Index](../../../README.md) | [06 - The TLS SSL Handshake Architecture →](./06-The-TLS-SSL-Handshake-Architecture.md) |

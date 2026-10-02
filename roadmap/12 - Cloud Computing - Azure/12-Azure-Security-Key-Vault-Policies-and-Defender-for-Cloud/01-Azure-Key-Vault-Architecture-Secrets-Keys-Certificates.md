@@ -9,4 +9,4 @@ Key Vault safeguards cryptographic keys, database passwords, and TLS certificate
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Access Policies vs RBAC](./02-Key-Vault-Access-Policies-vs-Azure-RBAC-Control.md) |
+| [← Prev Module (11-Azure-Bicep-and-ARM-Templates)](../11-Azure-Bicep-and-ARM-Templates/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Key Vault Access Policies vs Azure RBAC Control →](./02-Key-Vault-Access-Policies-vs-Azure-RBAC-Control.md) |

@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Automated Resource Scheduling Off Hours Shutdown Scripts](./02-Automated-Resource-Scheduling-Off-Hours-Shutdown-Scripts.md) | [Index](../../../README.md) | [04 - Automated Remediation with Cloud Custodian and Serverless →](./04-Automated-Remediation-with-Cloud-Custodian-and-Serverless.md) |

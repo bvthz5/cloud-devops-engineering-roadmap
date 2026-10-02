@@ -29,8 +29,9 @@ Suppose your Current Working Directory (`pwd`) is **/home/ubuntu**:
 
 - **Interactive Terminal Operations:** Quick file creation, moving, and viewing (e.g., `cd projects`, `cat README.md`).
 - **Portable Code Repositories:** Referencing project assets inside Git repositories (`import ./utils/helper.py`). Portable code will run on any workstation regardless of whether the repo is cloned to `/home/user/repo` or `/opt/repo`.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Absolute Paths](./02-Absolute-Paths.md) | [README](./README.md) | [04 - Dot and DotDot Mechanics](./04-Dot-and-DotDot-Mechanics.md) |
+| [← 02 - Absolute Paths](./02-Absolute-Paths.md) | [Index](../../../README.md) | [04 - Dot and DotDot Mechanics →](./04-Dot-and-DotDot-Mechanics.md) |

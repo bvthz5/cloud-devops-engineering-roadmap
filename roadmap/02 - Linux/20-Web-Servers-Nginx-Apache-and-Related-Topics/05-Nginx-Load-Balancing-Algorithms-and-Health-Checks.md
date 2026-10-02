@@ -40,4 +40,4 @@ server {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Nginx Reverse Proxy Configuration](./04-Nginx-Reverse-Proxy-Configuration.md) | [README](./README.md) | [06 - TLS HTTPS SSL Certificates and Certbot](./06-TLS-HTTPS-SSL-Certificates-and-Certbot.md) |
+| [← 04 - Nginx Reverse Proxy Configuration](./04-Nginx-Reverse-Proxy-Configuration.md) | [Index](../../../README.md) | [06 - TLS HTTPS SSL Certificates and Certbot →](./06-TLS-HTTPS-SSL-Certificates-and-Certbot.md) |

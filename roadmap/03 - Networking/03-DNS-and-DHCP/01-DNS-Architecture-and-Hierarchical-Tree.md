@@ -35,4 +35,4 @@ The Domain Name System (DNS) is a globally distributed, hierarchical database th
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - DNS Record Types](./02-DNS-Record-Types-Deep-Dive.md) |
+| [← Prev Module (02-IP-Addressing-Subnetting-CIDR)](../02-IP-Addressing-Subnetting-CIDR/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - DNS Record Types Deep Dive →](./02-DNS-Record-Types-Deep-Dive.md) |

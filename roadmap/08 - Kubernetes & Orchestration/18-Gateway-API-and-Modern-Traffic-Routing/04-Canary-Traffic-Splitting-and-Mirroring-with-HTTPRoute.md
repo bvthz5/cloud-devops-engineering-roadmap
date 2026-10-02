@@ -38,4 +38,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - HTTPRoute Syntax](./03-HTTPRoute-Advanced-Header-Matching-and-Path-Rewrites.md) | [README](./README.md) | [05 - Cross-Namespace Routing](./05-Cross-Namespace-Routing-and-ReferenceGrants.md) |
+| [← 03 - HTTPRoute Advanced Header Matching and Path Rewrites](./03-HTTPRoute-Advanced-Header-Matching-and-Path-Rewrites.md) | [Index](../../../README.md) | [05 - Cross Namespace Routing and ReferenceGrants →](./05-Cross-Namespace-Routing-and-ReferenceGrants.md) |

@@ -10,4 +10,4 @@ IAM controls **who** (authentication) can do **what** (authorization) on **which
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Users & Groups](./02-IAM-Users-Groups-and-Access-Keys.md) |
+| [← Prev Module (02-AWS-Global-Infrastructure-Regions-AZs)](../02-AWS-Global-Infrastructure-Regions-AZs/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - IAM Users Groups and Access Keys →](./02-IAM-Users-Groups-and-Access-Keys.md) |

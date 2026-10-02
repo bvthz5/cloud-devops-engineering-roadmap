@@ -34,4 +34,4 @@ chroot /host                   # You are now root on the host machine!
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Building a Container in Bash](./05-Building-a-Container-from-Scratch-in-Bash.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Building a Container from Scratch in Bash](./05-Building-a-Container-from-Scratch-in-Bash.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

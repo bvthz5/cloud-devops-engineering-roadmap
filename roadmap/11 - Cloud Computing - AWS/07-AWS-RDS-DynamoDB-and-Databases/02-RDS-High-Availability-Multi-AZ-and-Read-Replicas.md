@@ -11,4 +11,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - RDS Architecture](./01-Relational-Database-Service-RDS-Architecture.md) | [README](./README.md) | [03 - Amazon Aurora](./03-Amazon-Aurora-Serverless-Global-Databases-and-Storage.md) |
+| [← 01 - Relational Database Service RDS Architecture](./01-Relational-Database-Service-RDS-Architecture.md) | [Index](../../../README.md) | [03 - Amazon Aurora Serverless Global Databases and Storage →](./03-Amazon-Aurora-Serverless-Global-Databases-and-Storage.md) |

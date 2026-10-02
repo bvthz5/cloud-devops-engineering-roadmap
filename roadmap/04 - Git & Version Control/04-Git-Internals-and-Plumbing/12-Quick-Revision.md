@@ -20,4 +20,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [05 - GitHub & GitLab Collaboration](../05-GitHub-and-GitLab-Collaboration/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (05-GitHub-and-GitLab-Collaboration) →](../05-GitHub-and-GitLab-Collaboration/01-Remotes-and-Tracking-Branches-Architecture.md) |

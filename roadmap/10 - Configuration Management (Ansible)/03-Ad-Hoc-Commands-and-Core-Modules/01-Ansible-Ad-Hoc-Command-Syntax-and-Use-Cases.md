@@ -18,4 +18,4 @@ ansible webservers -m service -a "name=nginx state=restarted" --become
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Package & System Modules](./02-System-and-Package-Modules-apt-yum-dnf-service-systemd.md) |
+| [← Prev Module (02-Inventory-Management-Static-and-Dynamic)](../02-Inventory-Management-Static-and-Dynamic/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - System and Package Modules apt yum dnf service systemd →](./02-System-and-Package-Modules-apt-yum-dnf-service-systemd.md) |

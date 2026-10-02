@@ -18,4 +18,4 @@ If a job is scheduled to run every 5 minutes (`*/5 * * * *`), but an execution e
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - CronJob Architecture](./04-CronJob-Architecture-and-Schedule-Syntax.md) | [README](./README.md) | [06 - Cleanup & Deadlines](./06-History-Limits-CleanUp-and-Deadlines.md) |
+| [← 04 - CronJob Architecture and Schedule Syntax](./04-CronJob-Architecture-and-Schedule-Syntax.md) | [Index](../../../README.md) | [06 - History Limits CleanUp and Deadlines →](./06-History-Limits-CleanUp-and-Deadlines.md) |

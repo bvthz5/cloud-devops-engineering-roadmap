@@ -10,4 +10,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 10 - Jobs & CronJobs](../10-Jobs-and-CronJobs/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (10-Jobs-and-CronJobs) →](../10-Jobs-and-CronJobs/01-Kubernetes-Job-Controller-and-Completion-Guarantees.md) |

@@ -43,4 +43,4 @@ func main() {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Go Syntax](./02-Go-Syntax-Structs-Pointers-and-Interfaces.md) | [README](./README.md) | [04 - Production CLIs](./04-Building-Production-CLIs-with-Cobra-and-Viper.md) |
+| [← 02 - Go Syntax Structs Pointers and Interfaces](./02-Go-Syntax-Structs-Pointers-and-Interfaces.md) | [Index](../../../README.md) | [04 - Building Production CLIs with Cobra and Viper →](./04-Building-Production-CLIs-with-Cobra-and-Viper.md) |

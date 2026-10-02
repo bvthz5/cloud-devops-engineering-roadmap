@@ -31,3 +31,9 @@ Flux Kustomization resource reports `Kustomization reconciliation failed: depend
 ### Root Cause & Resolution
 1. **Unmet Dependency Order**: The application Kustomization relies on CRDs or controllers (e.g., NGINX Ingress) that have not finished deploying.
 2. **Health Check Wait Configuration**: Ensure the parent infrastructure Kustomization has `wait: true` and appropriate timeout values so child Kustomizations block until CRDs are established.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 07 - Real World Scenarios](./07-Real-World-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

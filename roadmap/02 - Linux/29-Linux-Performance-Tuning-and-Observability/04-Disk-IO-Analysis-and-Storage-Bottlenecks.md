@@ -32,4 +32,4 @@ sudo iotop -oPa
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Memory Tuning](./03-Memory-Tuning-Swap-PageCache-and-OOM.md) | [README](./README.md) | [05 - Historical Monitoring](./05-Historical-System-Activity-Monitoring-sysstat-sar.md) |
+| [← 03 - Memory Tuning Swap PageCache and OOM](./03-Memory-Tuning-Swap-PageCache-and-OOM.md) | [Index](../../../README.md) | [05 - Historical System Activity Monitoring sysstat sar →](./05-Historical-System-Activity-Monitoring-sysstat-sar.md) |

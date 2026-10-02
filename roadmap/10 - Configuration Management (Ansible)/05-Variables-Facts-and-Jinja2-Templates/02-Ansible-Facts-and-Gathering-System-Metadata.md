@@ -19,4 +19,4 @@ Files returning JSON or INI placed in `/etc/ansible/facts.d/custom.fact` are pop
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Variable Precedence](./01-Ansible-Variable-Precedence-22-Levels.md) | [README](./README.md) | [03 - Registering Variables](./03-Registering-Variables-and-Task-Output-Capture.md) |
+| [← 01 - Ansible Variable Precedence 22 Levels](./01-Ansible-Variable-Precedence-22-Levels.md) | [Index](../../../README.md) | [03 - Registering Variables and Task Output Capture →](./03-Registering-Variables-and-Task-Output-Capture.md) |

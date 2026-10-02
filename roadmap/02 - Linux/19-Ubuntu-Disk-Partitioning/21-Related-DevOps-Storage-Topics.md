@@ -9,4 +9,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [20 - Quick Revision Notes](./20-Quick-Revision-Notes.md) | [README](./README.md) | [22 - Command Reference Cheat Sheet](./22-Command-Reference-Cheat-Sheet.md) |
+| [← 20 - Quick Revision Notes](./20-Quick-Revision-Notes.md) | [Index](../../../README.md) | [22 - Command Reference Cheat Sheet →](./22-Command-Reference-Cheat-Sheet.md) |

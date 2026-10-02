@@ -6,4 +6,4 @@ Executing an enterprise cost optimization campaign saving $50k/month via Spot mi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - AWS Migration Tools](./06-AWS-Migration-Tools-Migration-Hub-MGN-and-DMS.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - AWS Migration Tools Migration Hub MGN and DMS](./06-AWS-Migration-Tools-Migration-Hub-MGN-and-DMS.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

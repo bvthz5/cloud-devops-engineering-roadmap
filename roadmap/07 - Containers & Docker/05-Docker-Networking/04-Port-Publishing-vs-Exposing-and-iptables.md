@@ -23,4 +23,4 @@ sudo iptables -A DOCKER-USER -i eth0 -j DROP
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Embedded DNS & Discovery](./03-Embedded-DNS-and-Service-Discovery.md) | [README](./README.md) | [05 - Host, None & Macvlan](./05-Host-None-and-Macvlan-Networking.md) |
+| [← 03 - Embedded DNS and Service Discovery](./03-Embedded-DNS-and-Service-Discovery.md) | [Index](../../../README.md) | [05 - Host None and Macvlan Networking →](./05-Host-None-and-Macvlan-Networking.md) |

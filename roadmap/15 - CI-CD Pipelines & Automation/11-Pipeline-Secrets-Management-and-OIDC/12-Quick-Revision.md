@@ -22,3 +22,9 @@
 3. **Generate SBOMs for all build artifacts** to enable instant vulnerability impact tracing.
 4. **Use OIDC for passwordless authentication** to AWS, Azure, and GCP in CI runners.
 5. **Decouple deployments from business releases using Feature Flags**.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (12-Release-Automation-Semantic-Versioning-and-Feature-Flags) →](../12-Release-Automation-Semantic-Versioning-and-Feature-Flags/01-Semantic-Versioning-SemVer-Major-Minor-Patch-Rules.md) |

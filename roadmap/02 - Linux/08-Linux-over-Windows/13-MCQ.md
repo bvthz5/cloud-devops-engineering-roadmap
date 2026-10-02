@@ -69,8 +69,9 @@ Headless Linux servers run entirely via CLI/SSH without graphical desktop overhe
 **Explanation:**
 Linux uses LF (`\n`), whereas Windows uses CRLF (`\r\n`). CRLF line endings in Linux scripts cause `bad interpreter` errors.
 </details>
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Hands On Practice](./12-Hands-On-Practice.md) | [README](./README.md) | [14 - Quick Revision](./14-Quick-Revision.md) |
+| [← 12 - Hands On Practice](./12-Hands-On-Practice.md) | [Index](../../../README.md) | [14 - Quick Revision →](./14-Quick-Revision.md) |

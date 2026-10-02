@@ -24,4 +24,4 @@ printf '%s' "$DB_PASSWORD" | base64
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Data Encoding Standards](./06-Data-Encoding-Standards-Base64-Hex-URL-Encoding.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Data Encoding Standards Base64 Hex URL Encoding](./06-Data-Encoding-Standards-Base64-Hex-URL-Encoding.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

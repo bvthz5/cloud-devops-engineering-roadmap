@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Helm Charts Templating Values and Release Management](./02-Helm-Charts-Templating-Values-and-Release-Management.md) | [Index](../../../README.md) | [04 - Managing Environment Variations Dev Staging Prod →](./04-Managing-Environment-Variations-Dev-Staging-Prod.md) |

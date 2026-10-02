@@ -30,4 +30,4 @@ parameters:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Storage Architecture](./01-Kubernetes-Storage-Architecture-PV-and-PVC-Binding.md) | [README](./README.md) | [03 - CSI Architecture](./03-Container-Storage-Interface-CSI-Architecture.md) |
+| [← 01 - Kubernetes Storage Architecture PV and PVC Binding](./01-Kubernetes-Storage-Architecture-PV-and-PVC-Binding.md) | [Index](../../../README.md) | [03 - Container Storage Interface CSI Architecture →](./03-Container-Storage-Interface-CSI-Architecture.md) |

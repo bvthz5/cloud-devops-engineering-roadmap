@@ -39,4 +39,4 @@ In modern security, **never invent custom secret encryption algorithms** ("Secur
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Symmetric Encryption](./02-Symmetric-Encryption-AES-and-ChaCha20.md) |
+| [← Prev Module (06-Compilers-Linkers-and-Runtimes)](../06-Compilers-Linkers-and-Runtimes/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Symmetric Encryption AES and ChaCha20 →](./02-Symmetric-Encryption-AES-and-ChaCha20.md) |

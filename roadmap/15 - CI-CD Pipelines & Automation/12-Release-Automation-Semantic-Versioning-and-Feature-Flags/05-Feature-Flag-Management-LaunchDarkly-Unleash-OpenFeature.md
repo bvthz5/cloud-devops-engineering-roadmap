@@ -79,3 +79,9 @@ cosign verify --key cosign.pub us-central1-docker.pkg.dev/my-project/app:v1.2.0
 - [ArgoCD Documentation](https://argo-cd.readthedocs.io/)
 - [Sigstore / Cosign Documentation](https://docs.sigstore.dev/cosign/overview/)
 - [OpenFeature Standard](https://openfeature.dev/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Feature Flags Decoupling Deployment from Release](./04-Feature-Flags-Decoupling-Deployment-from-Release.md) | [Index](../../../README.md) | [06 - Trunk Based Development and Short Lived Feature Branches →](./06-Trunk-Based-Development-and-Short-Lived-Feature-Branches.md) |

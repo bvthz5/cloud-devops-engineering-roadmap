@@ -46,4 +46,4 @@ sudo systemctl enable --now dnf-automatic.timer
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - File Integrity AIDE Rootkit Checkers](./13-File-Integrity-AIDE-Rootkit-Checkers.md) | [README](./README.md) | [15 - Time Sync and SELinux AppArmor](./15-Time-Sync-and-SELinux-AppArmor.md) |
+| [← 13 - File Integrity AIDE Rootkit Checkers](./13-File-Integrity-AIDE-Rootkit-Checkers.md) | [Index](../../../README.md) | [15 - Time Sync and SELinux AppArmor →](./15-Time-Sync-and-SELinux-AppArmor.md) |

@@ -14,4 +14,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Back to Section Index](../README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (10 - Configuration Management (Ansible)) →](../../10%20-%20Configuration%20Management%20(Ansible)/01-Ansible-Architecture-Agentless-Push/01-Ansible-Control-Node-vs-Managed-Nodes.md) |

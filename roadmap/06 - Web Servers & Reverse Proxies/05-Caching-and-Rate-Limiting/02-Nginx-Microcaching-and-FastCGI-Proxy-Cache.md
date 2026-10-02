@@ -53,4 +53,4 @@ http {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - HTTP Caching Architecture](./01-HTTP-Caching-Architecture-and-Headers.md) | [README](./README.md) | [03 - Cache Invalidation & Stale Content](./03-Cache-Invalidation-Bypass-and-Stale-Revalidate.md) |
+| [← 01 - HTTP Caching Architecture and Headers](./01-HTTP-Caching-Architecture-and-Headers.md) | [Index](../../../README.md) | [03 - Cache Invalidation Bypass and Stale Revalidate →](./03-Cache-Invalidation-Bypass-and-Stale-Revalidate.md) |

@@ -47,4 +47,4 @@ main = rule {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Drift Detection](./05-Drift-Detection-Strategies-and-Automation.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Drift Detection Strategies and Automation](./05-Drift-Detection-Strategies-and-Automation.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

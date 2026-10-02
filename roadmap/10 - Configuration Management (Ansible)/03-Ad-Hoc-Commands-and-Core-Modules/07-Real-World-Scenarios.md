@@ -9,4 +9,4 @@ ansible all -f 50 -m apt -a "name=libc6 state=latest" --become
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Utility Modules](./06-Network-and-Utility-Modules-ping-uri-get_url-stat.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Network and Utility Modules ping uri get_url stat](./06-Network-and-Utility-Modules-ping-uri-get_url-stat.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

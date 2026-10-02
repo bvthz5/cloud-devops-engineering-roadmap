@@ -17,4 +17,4 @@ A high-density reference comparing firewall frameworks across Linux distribution
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 27 - systemd Service Management](../27-systemd-Service-Management-and-Journald/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (27-systemd-Service-Management-and-Journald) →](../27-systemd-Service-Management-and-Journald/01-systemd-Architecture-and-PID-1.md) |

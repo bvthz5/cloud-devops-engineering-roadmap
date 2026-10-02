@@ -29,4 +29,4 @@ restic forget --keep-daily 7 --keep-weekly 4 --keep-monthly 12 --prune
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Disaster Recovery RPO & RTO](./05-Disaster-Recovery-Strategies-RPO-and-RTO.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Disaster Recovery Strategies RPO and RTO](./05-Disaster-Recovery-Strategies-RPO-and-RTO.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -20,4 +20,4 @@ A cluster running 50 nodes crashed on Sunday night. Every node reported `OutOfme
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Cleanup & Deadlines](./06-History-Limits-CleanUp-and-Deadlines.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - History Limits CleanUp and Deadlines](./06-History-Limits-CleanUp-and-Deadlines.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

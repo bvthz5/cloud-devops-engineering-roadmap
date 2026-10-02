@@ -21,4 +21,4 @@ git merge feature/billing
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Reverting Commits](./06-Reverting-Commits-and-3-Way-Merge-Reversals.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Reverting Commits and 3 Way Merge Reversals](./06-Reverting-Commits-and-3-Way-Merge-Reversals.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

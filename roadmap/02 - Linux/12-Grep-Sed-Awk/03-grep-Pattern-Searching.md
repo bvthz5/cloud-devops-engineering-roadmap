@@ -213,4 +213,4 @@ fi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Sample Data](./02-Sample-Data.md) | [README](./README.md) | [04 - sed Stream Editor](./04-sed-Stream-Editor.md) |
+| [← 02 - Sample Data](./02-Sample-Data.md) | [Index](../../../README.md) | [04 - sed Stream Editor →](./04-sed-Stream-Editor.md) |

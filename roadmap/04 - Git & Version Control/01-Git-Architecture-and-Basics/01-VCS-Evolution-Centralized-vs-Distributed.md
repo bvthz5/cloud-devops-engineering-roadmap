@@ -36,4 +36,4 @@ DISTRIBUTED (Git):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - The Three Trees](./02-The-Three-Trees-Working-Directory-Index-and-HEAD.md) |
+| [← Prev Section (03 - Networking)](../../03%20-%20Networking/14-Modern-Web-Protocols-HTTP3-QUIC-and-gRPC/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - The Three Trees Working Directory Index and HEAD →](./02-The-Three-Trees-Working-Directory-Index-and-HEAD.md) |

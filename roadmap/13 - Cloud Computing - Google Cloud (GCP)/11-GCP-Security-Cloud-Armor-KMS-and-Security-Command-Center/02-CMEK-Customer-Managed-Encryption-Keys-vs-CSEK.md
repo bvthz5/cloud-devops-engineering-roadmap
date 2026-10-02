@@ -75,3 +75,9 @@ resource "google_storage_bucket" "secure_bucket" {
 ## 🔗 Related Resources
 - [Google Cloud Security Documentation](https://cloud.google.com/security/docs)
 - [GCP FinOps & Cost Management](https://cloud.google.com/cost-management)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Cloud KMS Symmetric Asymmetric Keys and Envelope Encryption](./01-Cloud-KMS-Symmetric-Asymmetric-Keys-and-Envelope-Encryption.md) | [Index](../../../README.md) | [03 - Cloud Armor DDoS Protection WAF and IP Rate Limiting →](./03-Cloud-Armor-DDoS-Protection-WAF-and-IP-Rate-Limiting.md) |

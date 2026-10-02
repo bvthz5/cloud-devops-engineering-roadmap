@@ -25,4 +25,4 @@ kubectl get endpointslices -l kubernetes.io/service-name=my-service
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Kube-Proxy Modes](./05-Kube-Proxy-Modes-iptables-vs-IPVS-vs-Kernel-Routing.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Kube Proxy Modes iptables vs IPVS vs Kernel Routing](./05-Kube-Proxy-Modes-iptables-vs-IPVS-vs-Kernel-Routing.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

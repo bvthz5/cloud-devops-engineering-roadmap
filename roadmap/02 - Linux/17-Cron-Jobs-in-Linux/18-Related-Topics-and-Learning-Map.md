@@ -49,4 +49,4 @@ Linux task
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [17 - Commands Cheat Sheet](./17-Commands-Cheat-Sheet.md) | [README](./README.md) | [README (Index)](./README.md) |
+| [← 17 - Commands Cheat Sheet](./17-Commands-Cheat-Sheet.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

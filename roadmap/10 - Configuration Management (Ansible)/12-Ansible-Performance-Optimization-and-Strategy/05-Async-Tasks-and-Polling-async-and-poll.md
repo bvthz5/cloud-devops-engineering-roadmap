@@ -19,4 +19,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Execution Strategies](./04-Execution-Strategies-linear-free-and-host_pinned.md) | [README](./README.md) | [06 - Mitogen for Ansible](./06-Mitogen-for-Ansible-10x-Speedup.md) |
+| [← 04 - Execution Strategies linear free and host_pinned](./04-Execution-Strategies-linear-free-and-host_pinned.md) | [Index](../../../README.md) | [06 - Mitogen for Ansible 10x Speedup →](./06-Mitogen-for-Ansible-10x-Speedup.md) |

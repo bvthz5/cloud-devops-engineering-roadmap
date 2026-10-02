@@ -48,4 +48,4 @@ terragrunt run-all destroy
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Inputs & Include](./04-Terragrunt-Inputs-and-Include-Blocks.md) | [README](./README.md) | [06 - run-all & CI/CD](./06-Terragrunt-run-all-and-CI-CD-Integration.md) |
+| [← 04 - Terragrunt Inputs and Include Blocks](./04-Terragrunt-Inputs-and-Include-Blocks.md) | [Index](../../../README.md) | [06 - Terragrunt run all and CI CD Integration →](./06-Terragrunt-run-all-and-CI-CD-Integration.md) |

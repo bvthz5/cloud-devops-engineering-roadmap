@@ -51,4 +51,4 @@ sudo firewall-cmd --reload
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - UFW for Debian & Ubuntu](./04-UFW-Uncomplicated-Firewall-for-Debian-Ubuntu.md) | [README](./README.md) | [06 - NAT, Port Forwarding & Masquerading](./06-NAT-Port-Forwarding-and-Masquerading.md) |
+| [← 04 - UFW Uncomplicated Firewall for Debian Ubuntu](./04-UFW-Uncomplicated-Firewall-for-Debian-Ubuntu.md) | [Index](../../../README.md) | [06 - NAT Port Forwarding and Masquerading →](./06-NAT-Port-Forwarding-and-Masquerading.md) |

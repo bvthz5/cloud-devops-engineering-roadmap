@@ -100,4 +100,4 @@ awk -F',' '{print NF}' employees.txt | sort -u
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Text Processing Overview](./01-Text-Processing-Overview.md) | [README](./README.md) | [03 - grep Pattern Searching](./03-grep-Pattern-Searching.md) |
+| [← 01 - Text Processing Overview](./01-Text-Processing-Overview.md) | [Index](../../../README.md) | [03 - grep Pattern Searching →](./03-grep-Pattern-Searching.md) |

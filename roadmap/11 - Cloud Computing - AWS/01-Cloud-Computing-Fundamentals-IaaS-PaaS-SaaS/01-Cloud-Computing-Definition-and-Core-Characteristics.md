@@ -18,4 +18,4 @@ According to the National Institute of Standards and Technology (NIST), cloud co
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Service Models](./02-Cloud-Service-Models-IaaS-vs-PaaS-vs-SaaS.md) |
+| [← Prev Section (10 - Configuration Management (Ansible))](../../10%20-%20Configuration%20Management%20(Ansible)/14-Troubleshooting-Security-Hardening-and-Best-Practices/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Cloud Service Models IaaS vs PaaS vs SaaS →](./02-Cloud-Service-Models-IaaS-vs-PaaS-vs-SaaS.md) |

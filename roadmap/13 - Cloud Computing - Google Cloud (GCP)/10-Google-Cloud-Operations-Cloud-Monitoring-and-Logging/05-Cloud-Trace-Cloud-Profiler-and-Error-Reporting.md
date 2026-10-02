@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Telemetry Ops Agent Installation and Custom Metrics](./04-Telemetry-Ops-Agent-Installation-and-Custom-Metrics.md) | [Index](../../../README.md) | [06 - Log Analytics with SQL in Cloud Logging →](./06-Log-Analytics-with-SQL-in-Cloud-Logging.md) |

@@ -9,4 +9,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - API Gateway](./03-Amazon-API-Gateway-REST-and-HTTP-APIs.md) | [README](./README.md) | [05 - Step Functions](./05-AWS-Step-Functions-State-Machines-and-Orchestration.md) |
+| [← 03 - Amazon API Gateway REST and HTTP APIs](./03-Amazon-API-Gateway-REST-and-HTTP-APIs.md) | [Index](../../../README.md) | [05 - AWS Step Functions State Machines and Orchestration →](./05-AWS-Step-Functions-State-Machines-and-Orchestration.md) |

@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Cloud Automation](./01-Cloud-Automation-with-Ansible-AWS-Azure-GCP.md) | [README](./README.md) | [03 - Kubernetes Automation](./03-Kubernetes-Automation-with-kubernetes-core-Collection.md) |
+| [← 01 - Cloud Automation with Ansible AWS Azure GCP](./01-Cloud-Automation-with-Ansible-AWS-Azure-GCP.md) | [Index](../../../README.md) | [03 - Kubernetes Automation with kubernetes core Collection →](./03-Kubernetes-Automation-with-kubernetes-core-Collection.md) |

@@ -25,3 +25,9 @@ A financial organization running applications across AWS EKS, Azure AKS, and GCP
 1. **OpenTelemetry Collector DaemonSet**: Deploy OTel Collector on all Kubernetes clusters across AWS, Azure, and GCP.
 2. **Unified Data Pipeline**: OTel Collectors standardize trace identifiers (W3C Trace Context) and push metrics to Thanos and traces to Grafana Tempo.
 3. **Single-Pane Dashboard**: Engineering teams view end-to-end multi-cloud microservice latency traces on a unified Grafana dashboard.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 06 - Automated Vulnerability Scanning and Remediation Workflows](./06-Automated-Vulnerability-Scanning-and-Remediation-Workflows.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

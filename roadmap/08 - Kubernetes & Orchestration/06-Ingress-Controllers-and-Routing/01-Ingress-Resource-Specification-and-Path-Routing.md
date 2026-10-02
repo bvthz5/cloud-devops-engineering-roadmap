@@ -57,4 +57,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Ingress-Nginx Architecture](./02-Ingress-Nginx-Architecture-and-Controller-Mechanics.md) |
+| [← Prev Module (05-Services-and-Service-Discovery)](../05-Services-and-Service-Discovery/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Ingress Nginx Architecture and Controller Mechanics →](./02-Ingress-Nginx-Architecture-and-Controller-Mechanics.md) |

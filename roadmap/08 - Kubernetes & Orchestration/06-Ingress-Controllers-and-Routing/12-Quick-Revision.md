@@ -14,4 +14,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 07 - ConfigMaps & Secrets](../07-ConfigMaps-and-Secrets/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (07-ConfigMaps-and-Secrets) →](../07-ConfigMaps-and-Secrets/01-ConfigMap-Creation-Environment-and-Volume-Projections.md) |

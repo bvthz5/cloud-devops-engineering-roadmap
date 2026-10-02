@@ -61,4 +61,4 @@ net.netfilter.nf_conntrack_tcp_timeout_close_wait = 60
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - iptables Architecture](./02-iptables-Tables-Chains-and-Rule-Syntax.md) | [README](./README.md) | [04 - nftables](./04-nftables-Modern-Linux-Packet-Classification.md) |
+| [← 02 - iptables Tables Chains and Rule Syntax](./02-iptables-Tables-Chains-and-Rule-Syntax.md) | [Index](../../../README.md) | [04 - nftables Modern Linux Packet Classification →](./04-nftables-Modern-Linux-Packet-Classification.md) |

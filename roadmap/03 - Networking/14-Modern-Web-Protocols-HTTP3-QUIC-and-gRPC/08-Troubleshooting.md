@@ -29,4 +29,4 @@ If the client cannot reach UDP port 443, it smoothly continues communicating ove
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) | [README](./README.md) | [09 - Interview Q&A](./09-Interview-QA.md) |
+| [← 07 - Real World Scenarios](./07-Real-World-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

@@ -9,4 +9,4 @@ Lambda runs code in response to events and automatically manages compute resourc
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Layers & Containers](./02-Lambda-Layers-Container-Images-and-Runtimes.md) |
+| [← Prev Module (08-AWS-ECS-EKS-and-Container-Services)](../08-AWS-ECS-EKS-and-Container-Services/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Lambda Layers Container Images and Runtimes →](./02-Lambda-Layers-Container-Images-and-Runtimes.md) |

@@ -85,4 +85,4 @@ func (r *DatabaseReconciler) Reconcile(ctx context.Context, req ctrl.Request) (c
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Custom Resource Definitions](./03-Custom-Resource-Definitions-CRDs-and-Code-Generation.md) | [README](./README.md) | [05 - Operator SDK & Kubebuilder](./05-Operator-SDK-and-Kubebuilder-Framework.md) |
+| [← 03 - Custom Resource Definitions CRDs and Code Generation](./03-Custom-Resource-Definitions-CRDs-and-Code-Generation.md) | [Index](../../../README.md) | [05 - Operator SDK and Kubebuilder Framework →](./05-Operator-SDK-and-Kubebuilder-Framework.md) |

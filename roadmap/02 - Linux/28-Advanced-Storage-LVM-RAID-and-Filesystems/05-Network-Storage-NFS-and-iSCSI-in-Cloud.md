@@ -48,4 +48,4 @@ UUID=3f1b4a22-9a3d-4e9b-810a-313210190123 /data ext4 defaults,noatime,nofail 0 2
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Filesystem Internals](./04-Filesystem-Internals-ext4-XFS-and-Btrfs-ZFS.md) | [README](./README.md) | [06 - Online Expansion](./06-Online-Filesystem-Expansion-and-Maintenance.md) |
+| [← 04 - Filesystem Internals ext4 XFS and Btrfs ZFS](./04-Filesystem-Internals-ext4-XFS-and-Btrfs-ZFS.md) | [Index](../../../README.md) | [06 - Online Filesystem Expansion and Maintenance →](./06-Online-Filesystem-Expansion-and-Maintenance.md) |

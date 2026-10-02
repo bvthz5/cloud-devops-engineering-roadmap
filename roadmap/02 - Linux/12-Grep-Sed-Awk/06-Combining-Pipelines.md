@@ -132,4 +132,4 @@ This strategy is described further in [`08-Troubleshooting.md`](./08-Troubleshoo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - awk Fields and Reports](./05-awk-Fields-and-Reports.md) | [README](./README.md) | [07 - Real World DevOps Scenarios](./07-Real-World-DevOps-Scenarios.md) |
+| [← 05 - awk Fields and Reports](./05-awk-Fields-and-Reports.md) | [Index](../../../README.md) | [07 - Real World DevOps Scenarios →](./07-Real-World-DevOps-Scenarios.md) |

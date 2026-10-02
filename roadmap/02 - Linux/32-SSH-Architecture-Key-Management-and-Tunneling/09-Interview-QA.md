@@ -12,4 +12,4 @@ Ed25519 uses Twisted Edwards Curve 25519. It offers a 256-bit key length that pr
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Troubleshooting](./08-Troubleshooting.md) | [README](./README.md) | [10 - Hands-On Practice](./10-Hands-On-Practice.md) |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

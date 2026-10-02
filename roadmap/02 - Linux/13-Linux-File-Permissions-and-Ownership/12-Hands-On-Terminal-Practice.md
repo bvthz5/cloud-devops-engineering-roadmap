@@ -145,4 +145,4 @@ ls -la /tmp/www/html
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Interview QA](./11-Interview-QA.md) | [README](./README.md) | [13 - MCQs](./13-MCQs.md) |
+| [← 11 - Interview QA](./11-Interview-QA.md) | [Index](../../../README.md) | [13 - MCQs →](./13-MCQs.md) |

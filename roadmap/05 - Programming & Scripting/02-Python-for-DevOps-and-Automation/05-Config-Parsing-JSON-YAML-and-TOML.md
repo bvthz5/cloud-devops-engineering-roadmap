@@ -40,4 +40,4 @@ config = DatabaseConfig(host="db.internal", port=5432, username="postgres")
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - REST API Automation](./04-REST-API-Automation-requests-and-httpx.md) | [README](./README.md) | [06 - Structured Logging](./06-Structured-Logging-and-Defensive-Error-Handling.md) |
+| [← 04 - REST API Automation requests and httpx](./04-REST-API-Automation-requests-and-httpx.md) | [Index](../../../README.md) | [06 - Structured Logging and Defensive Error Handling →](./06-Structured-Logging-and-Defensive-Error-Handling.md) |

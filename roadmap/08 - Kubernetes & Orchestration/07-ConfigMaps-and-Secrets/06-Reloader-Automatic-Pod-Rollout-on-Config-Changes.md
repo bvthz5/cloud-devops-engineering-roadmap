@@ -29,4 +29,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - External Secrets Operator](./05-External-Secrets-Operator-ESO-and-Vault-Sync.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - External Secrets Operator ESO and Vault Sync](./05-External-Secrets-Operator-ESO-and-Vault-Sync.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

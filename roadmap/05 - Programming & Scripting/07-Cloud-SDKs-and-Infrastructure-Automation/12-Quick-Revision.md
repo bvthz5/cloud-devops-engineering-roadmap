@@ -30,4 +30,4 @@ client = storage.Client()  # Uses ADC automatically
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [08 - Testing & Quality for DevOps Code](../08-Testing-and-Quality-for-DevOps-Code/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (08-Testing-and-Quality-for-DevOps-Code) →](../08-Testing-and-Quality-for-DevOps-Code/01-The-Testing-Pyramid-for-Infrastructure-and-DevOps.md) |

@@ -91,4 +91,4 @@ The supplied source provides the five-field syntax, allowed ranges, wildcard, li
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Crontab and Commands](./02-Crontab-and-Commands.md) | [README](./README.md) | [04 - Cron Examples](./04-Cron-Examples.md) |
+| [← 02 - Crontab and Commands](./02-Crontab-and-Commands.md) | [Index](../../../README.md) | [04 - Cron Examples →](./04-Cron-Examples.md) |

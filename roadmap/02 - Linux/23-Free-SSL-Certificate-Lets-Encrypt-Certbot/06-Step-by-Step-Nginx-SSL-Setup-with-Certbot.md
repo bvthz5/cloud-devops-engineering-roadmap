@@ -41,4 +41,4 @@ sudo certbot --nginx -d example.com -d www.example.com
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Certbot Installation](./05-Certbot-Installation-Methods-Snap-vs-Apt.md) | [README](./README.md) | [07 - Apache SSL Setup with Certbot](./07-Step-by-Step-Apache-SSL-Setup-with-Certbot.md) |
+| [← 05 - Certbot Installation Methods Snap vs Apt](./05-Certbot-Installation-Methods-Snap-vs-Apt.md) | [Index](../../../README.md) | [07 - Step by Step Apache SSL Setup with Certbot →](./07-Step-by-Step-Apache-SSL-Setup-with-Certbot.md) |

@@ -122,4 +122,4 @@ override.tf.json
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Mutable vs Immutable](./03-Mutable-vs-Immutable-Infrastructure.md) | [README](./README.md) | [05 - IaC in SDLC](./05-IaC-in-the-SDLC-and-DevOps-Pipeline.md) |
+| [← 03 - Mutable vs Immutable Infrastructure](./03-Mutable-vs-Immutable-Infrastructure.md) | [Index](../../../README.md) | [05 - IaC in the SDLC and DevOps Pipeline →](./05-IaC-in-the-SDLC-and-DevOps-Pipeline.md) |

@@ -75,4 +75,4 @@ client = boto3.client('ec2', config=config)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - AWS Boto3 Deep Dive](./02-AWS-Boto3-Deep-Dive-Paginators-Waiters-and-Config.md) |
+| [← Prev Module (06-PowerShell-Core-for-Cloud-and-DevOps)](../06-PowerShell-Core-for-Cloud-and-DevOps/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - AWS Boto3 Deep Dive Paginators Waiters and Config →](./02-AWS-Boto3-Deep-Dive-Paginators-Waiters-and-Config.md) |

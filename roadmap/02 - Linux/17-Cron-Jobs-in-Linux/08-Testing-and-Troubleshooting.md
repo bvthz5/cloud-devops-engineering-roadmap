@@ -156,4 +156,4 @@ Use those absolute paths when appropriate.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Environment and Paths](./07-Environment-and-Paths.md) | [README](./README.md) | [09 - System Wide Cron](./09-System-Wide-Cron.md) |
+| [← 07 - Environment and Paths](./07-Environment-and-Paths.md) | [Index](../../../README.md) | [09 - System Wide Cron →](./09-System-Wide-Cron.md) |

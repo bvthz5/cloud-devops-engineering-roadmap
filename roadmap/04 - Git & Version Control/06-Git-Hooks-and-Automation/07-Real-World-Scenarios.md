@@ -13,4 +13,4 @@ A developer working late created a quick script to test AWS S3 uploads. They har
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Bypassing Hooks](./06-Bypassing-Hooks-and-Security-Trade-Offs.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Bypassing Hooks and Security Trade Offs](./06-Bypassing-Hooks-and-Security-Trade-Offs.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -40,4 +40,4 @@ git gc --prune=now
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Plumbing vs Porcelain](./03-Plumbing-vs-Porcelain-Commands-Deep-Dive.md) | [README](./README.md) | [05 - DAG & Reachability](./05-The-Directed-Acyclic-Graph-DAG-and-Reachability.md) |
+| [← 03 - Plumbing vs Porcelain Commands Deep Dive](./03-Plumbing-vs-Porcelain-Commands-Deep-Dive.md) | [Index](../../../README.md) | [05 - The Directed Acyclic Graph DAG and Reachability →](./05-The-Directed-Acyclic-Graph-DAG-and-Reachability.md) |

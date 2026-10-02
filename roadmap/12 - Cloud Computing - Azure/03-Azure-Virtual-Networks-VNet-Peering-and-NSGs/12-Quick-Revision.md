@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 04 - Azure VMs](../04-Azure-Virtual-Machines-and-VM-Scale-Sets/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (04-Azure-Virtual-Machines-and-VM-Scale-Sets) →](../04-Azure-Virtual-Machines-and-VM-Scale-Sets/01-Azure-Virtual-Machine-Series-and-Sizing.md) |

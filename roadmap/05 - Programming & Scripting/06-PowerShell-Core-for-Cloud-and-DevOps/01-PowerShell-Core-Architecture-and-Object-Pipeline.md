@@ -89,4 +89,4 @@ $ast.FindAll({ $args[0] -is [System.Management.Automation.Language.CommandAst] }
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Cross-Platform PowerShell on Linux](./02-Cross-Platform-PowerShell-on-Linux-and-Containers.md) |
+| [← Prev Module (05-Automation-Script-Templates)](../05-Automation-Script-Templates/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Cross Platform PowerShell on Linux and Containers →](./02-Cross-Platform-PowerShell-on-Linux-and-Containers.md) |

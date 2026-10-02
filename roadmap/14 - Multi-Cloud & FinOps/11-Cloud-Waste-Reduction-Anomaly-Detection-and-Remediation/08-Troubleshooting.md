@@ -25,3 +25,9 @@ Cloud Custodian serverless policy fails to execute with `ClientError: AccessDeni
 1. **Insufficient Execution IAM Role**: The AWS Lambda execution role assigned to Cloud Custodian lacks `ec2:ReleaseAddress` or `ec2:DeleteVolume` permissions.
 2. **Least Privilege Attachment**: Attach the recommended Cloud Custodian IAM policy specifying exact resource modification permissions.
 3. **Dry-Run Testing**: Run policies in `--dryrun` mode locally to inspect matching resource JSON payloads before enabling automated deletion actions.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 07 - Real World Scenarios](./07-Real-World-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

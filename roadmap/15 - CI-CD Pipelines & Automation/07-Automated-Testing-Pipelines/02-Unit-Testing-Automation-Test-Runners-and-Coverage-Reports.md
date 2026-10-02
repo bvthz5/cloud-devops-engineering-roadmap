@@ -82,3 +82,9 @@ spec:
 ## 🔗 Related Resources
 - [Docker Multi-Stage Build Guide](https://docs.docker.com/build/building/multi-stage/)
 - [Argo Rollouts Documentation](https://argoproj.github.io/argo-rollouts/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - The Testing Pyramid in CI CD Unit Integration E2E Smoke](./01-The-Testing-Pyramid-in-CI-CD-Unit-Integration-E2E-Smoke.md) | [Index](../../../README.md) | [03 - Integration Testing with Testcontainers and Mock Services →](./03-Integration-Testing-with-Testcontainers-and-Mock-Services.md) |

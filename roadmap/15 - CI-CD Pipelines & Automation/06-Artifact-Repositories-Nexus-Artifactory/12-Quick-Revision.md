@@ -22,3 +22,9 @@
 3. **Use Argo Rollouts or Flagger for automated Canary analysis** with Prometheus metric integration.
 4. **Proxy public packages (npm, Maven, Docker) through Artifactory/Nexus** to prevent build breaks from external outages.
 5. **Always implement non-root container users (`USER 10001`)** inside runtime container images.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (07-Automated-Testing-Pipelines) →](../07-Automated-Testing-Pipelines/01-The-Testing-Pyramid-in-CI-CD-Unit-Integration-E2E-Smoke.md) |

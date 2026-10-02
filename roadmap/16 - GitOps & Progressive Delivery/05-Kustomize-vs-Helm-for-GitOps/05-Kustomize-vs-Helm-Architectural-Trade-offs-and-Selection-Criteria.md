@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Managing Environment Variations Dev Staging Prod](./04-Managing-Environment-Variations-Dev-Staging-Prod.md) | [Index](../../../README.md) | [06 - Secret Generator and ConfigMap Generator in Kustomize →](./06-Secret-Generator-and-ConfigMap-Generator-in-Kustomize.md) |

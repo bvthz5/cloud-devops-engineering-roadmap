@@ -38,4 +38,4 @@ Transmission Control Protocol (TCP - RFC 793) provides a reliable, ordered, and 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - TCP Handshake & Teardown](./02-The-TCP-3-Way-Handshake-and-Teardown.md) |
+| [← Prev Module (04-HTTP-HTTPS-and-Web-Protocols)](../04-HTTP-HTTPS-and-Web-Protocols/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - The TCP 3 Way Handshake and Teardown →](./02-The-TCP-3-Way-Handshake-and-Teardown.md) |

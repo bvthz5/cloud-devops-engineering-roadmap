@@ -27,4 +27,4 @@ k8s-manifests/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Secret Management](./04-Secret-Management-in-GitOps-SOPS-and-Vault.md) | [README](./README.md) | [06 - Drift Detection](./06-Drift-Detection-Self-Healing-and-Rollbacks.md) |
+| [← 04 - Secret Management in GitOps SOPS and Vault](./04-Secret-Management-in-GitOps-SOPS-and-Vault.md) | [Index](../../../README.md) | [06 - Drift Detection Self Healing and Rollbacks →](./06-Drift-Detection-Self-Healing-and-Rollbacks.md) |

@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (09-Multi-Cloud-Infrastructure-Automation-Terraform-and-OpenTofu)](../09-Multi-Cloud-Infrastructure-Automation-Terraform-and-OpenTofu/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - OpenTelemetry OTel Collector Architecture and Standards →](./02-OpenTelemetry-OTel-Collector-Architecture-and-Standards.md) |

@@ -102,4 +102,4 @@ function Set-CloudServiceConfiguration {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Advanced Functions](./03-Advanced-Functions-Script-Blocks-and-Modules.md) | [README](./README.md) | [05 - Azure PowerShell Automation](./05-Azure-PowerShell-Az-Module-and-Automation.md) |
+| [← 03 - Advanced Functions Script Blocks and Modules](./03-Advanced-Functions-Script-Blocks-and-Modules.md) | [Index](../../../README.md) | [05 - Azure PowerShell Az Module and Automation →](./05-Azure-PowerShell-Az-Module-and-Automation.md) |

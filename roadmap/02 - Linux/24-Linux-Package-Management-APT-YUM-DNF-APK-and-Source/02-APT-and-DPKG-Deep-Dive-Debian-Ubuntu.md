@@ -139,4 +139,4 @@ Pin-Priority: 1001
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Package Management Fundamentals and Package Types](./01-Package-Management-Fundamentals-and-Package-Types.md) | [README](./README.md) | [03 - YUM DNF and RPM Deep Dive RHEL CentOS Rocky](./03-YUM-DNF-and-RPM-Deep-Dive-RHEL-CentOS-Rocky.md) |
+| [← 01 - Package Management Fundamentals and Package Types](./01-Package-Management-Fundamentals-and-Package-Types.md) | [Index](../../../README.md) | [03 - YUM DNF and RPM Deep Dive RHEL CentOS Rocky →](./03-YUM-DNF-and-RPM-Deep-Dive-RHEL-CentOS-Rocky.md) |

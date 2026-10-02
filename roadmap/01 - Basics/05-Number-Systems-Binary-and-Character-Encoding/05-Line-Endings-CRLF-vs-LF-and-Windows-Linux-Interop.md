@@ -70,4 +70,4 @@ Dockerfile text eol=lf
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Character Encoding](./04-Character-Encoding-ASCII-Unicode-and-UTF8.md) | [README](./README.md) | [06 - Data Encoding Standards](./06-Data-Encoding-Standards-Base64-Hex-URL-Encoding.md) |
+| [← 04 - Character Encoding ASCII Unicode and UTF8](./04-Character-Encoding-ASCII-Unicode-and-UTF8.md) | [Index](../../../README.md) | [06 - Data Encoding Standards Base64 Hex URL Encoding →](./06-Data-Encoding-Standards-Base64-Hex-URL-Encoding.md) |

@@ -64,4 +64,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Pod Architecture](./01-Pod-Architecture-Pause-Container-and-Lifecycle.md) | [README](./README.md) | [03 - Init & Sidecars](./03-Init-Containers-Sidecars-and-Ephemeral-Containers.md) |
+| [← 01 - Pod Architecture Pause Container and Lifecycle](./01-Pod-Architecture-Pause-Container-and-Lifecycle.md) | [Index](../../../README.md) | [03 - Init Containers Sidecars and Ephemeral Containers →](./03-Init-Containers-Sidecars-and-Ephemeral-Containers.md) |

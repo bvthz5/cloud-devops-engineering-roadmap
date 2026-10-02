@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 10 - Azure Monitor](../10-Azure-Monitor-Log-Analytics-and-Application-Insights/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (10-Azure-Monitor-Log-Analytics-and-Application-Insights) →](../10-Azure-Monitor-Log-Analytics-and-Application-Insights/01-Azure-Monitor-Architecture-Metrics-and-Logs.md) |

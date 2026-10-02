@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Cross Cloud Data Replication and Consistency Challenges](./04-Cross-Cloud-Data-Replication-and-Consistency-Challenges.md) | [Index](../../../README.md) | [06 - Enterprise Multi Cloud Governance and Landing Zone Strategy →](./06-Enterprise-Multi-Cloud-Governance-and-Landing-Zone-Strategy.md) |

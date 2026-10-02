@@ -26,4 +26,4 @@ Static Analysis       tflint, fmt, validate, checkov, tfsec
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Static Analysis](./02-Static-Analysis-tflint-terraform-validate-fmt.md) |
+| [← Prev Module (08-Terragrunt-and-DRY-Configurations)](../08-Terragrunt-and-DRY-Configurations/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Static Analysis tflint terraform validate fmt →](./02-Static-Analysis-tflint-terraform-validate-fmt.md) |

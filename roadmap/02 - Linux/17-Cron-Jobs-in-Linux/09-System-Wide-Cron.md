@@ -70,4 +70,4 @@ The supplied source identifies `/etc/crontab`, `/etc/cron.d/`, and the hourly/da
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Testing and Troubleshooting](./08-Testing-and-Troubleshooting.md) | [README](./README.md) | [10 - Security and Best Practices](./10-Security-and-Best-Practices.md) |
+| [← 08 - Testing and Troubleshooting](./08-Testing-and-Troubleshooting.md) | [Index](../../../README.md) | [10 - Security and Best Practices →](./10-Security-and-Best-Practices.md) |

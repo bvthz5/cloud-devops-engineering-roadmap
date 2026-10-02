@@ -9,4 +9,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [22 - Command Reference Cheat Sheet](./22-Command-Reference-Cheat-Sheet.md) | [README](./README.md) | [README (Index)](./README.md) |
+| [← 22 - Command Reference Cheat Sheet](./22-Command-Reference-Cheat-Sheet.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

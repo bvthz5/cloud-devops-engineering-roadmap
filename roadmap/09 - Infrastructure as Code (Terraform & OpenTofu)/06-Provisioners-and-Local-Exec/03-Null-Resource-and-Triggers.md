@@ -46,4 +46,4 @@ resource "terraform_data" "post_deploy" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Connection Blocks](./02-Connection-Blocks-SSH-and-WinRM.md) | [README](./README.md) | [04 - User Data & Cloud-Init](./04-User-Data-and-Cloud-Init-vs-Provisioners.md) |
+| [← 02 - Connection Blocks SSH and WinRM](./02-Connection-Blocks-SSH-and-WinRM.md) | [Index](../../../README.md) | [04 - User Data and Cloud Init vs Provisioners →](./04-User-Data-and-Cloud-Init-vs-Provisioners.md) |

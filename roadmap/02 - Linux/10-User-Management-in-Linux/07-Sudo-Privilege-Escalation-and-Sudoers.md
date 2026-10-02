@@ -125,4 +125,4 @@ sudo visudo -f /etc/sudoers.d/devops
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Group Management](./06-Group-Management.md) | [README](./README.md) | [08 - Practical Command Examples](./08-Practical-Command-Examples.md) |
+| [← 06 - Group Management](./06-Group-Management.md) | [Index](../../../README.md) | [08 - Practical Command Examples →](./08-Practical-Command-Examples.md) |

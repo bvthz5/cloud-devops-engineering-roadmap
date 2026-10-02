@@ -22,4 +22,4 @@ skopeo delete docker://myregistry.com/app:old-tag
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Buildah: Scriptable Builds](./05-Buildah-Scriptable-Daemonless-Image-Building.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Buildah Scriptable Daemonless Image Building](./05-Buildah-Scriptable-Daemonless-Image-Building.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (08-GitOps-Image-Automation-and-Secrets-Management)](../08-GitOps-Image-Automation-and-Secrets-Management/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - ArgoCD RBAC Role Bindings and Project Scoping →](./02-ArgoCD-RBAC-Role-Bindings-and-Project-Scoping.md) |

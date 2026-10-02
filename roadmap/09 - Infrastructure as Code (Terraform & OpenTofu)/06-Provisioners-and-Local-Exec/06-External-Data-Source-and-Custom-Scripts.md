@@ -54,4 +54,4 @@ resource "null_resource" "ansible_playbook" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Packer Image Baking](./05-Packer-Image-Baking-vs-Runtime-Provisioning.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Packer Image Baking vs Runtime Provisioning](./05-Packer-Image-Baking-vs-Runtime-Provisioning.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

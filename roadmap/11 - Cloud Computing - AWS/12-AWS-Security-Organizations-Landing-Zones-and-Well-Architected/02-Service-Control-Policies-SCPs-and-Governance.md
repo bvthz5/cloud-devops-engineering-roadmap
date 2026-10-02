@@ -20,4 +20,4 @@ SCPs specify maximum allowable permissions for accounts in an Organization or OU
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Multi-Account Strategy](./01-AWS-Organizations-Multi-Account-Strategy-and-OUs.md) | [README](./README.md) | [03 - AWS Control Tower](./03-AWS-Control-Tower-and-Landing-Zone-Architecture.md) |
+| [← 01 - AWS Organizations Multi Account Strategy and OUs](./01-AWS-Organizations-Multi-Account-Strategy-and-OUs.md) | [Index](../../../README.md) | [03 - AWS Control Tower and Landing Zone Architecture →](./03-AWS-Control-Tower-and-Landing-Zone-Architecture.md) |

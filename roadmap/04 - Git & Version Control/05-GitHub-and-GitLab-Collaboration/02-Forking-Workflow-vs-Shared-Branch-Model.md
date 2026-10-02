@@ -31,4 +31,4 @@ git push origin main
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Remotes Architecture](./01-Remotes-and-Tracking-Branches-Architecture.md) | [README](./README.md) | [03 - PR & MR Reviews](./03-Pull-Requests-and-Merge-Requests-Review-Excellence.md) |
+| [← 01 - Remotes and Tracking Branches Architecture](./01-Remotes-and-Tracking-Branches-Architecture.md) | [Index](../../../README.md) | [03 - Pull Requests and Merge Requests Review Excellence →](./03-Pull-Requests-and-Merge-Requests-Review-Excellence.md) |

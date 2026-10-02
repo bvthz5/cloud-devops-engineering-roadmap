@@ -27,4 +27,4 @@ The admin set `PasswordAuthentication no` before copying their public key into `
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Agent Forwarding & Security](./06-SSH-Agent-Forwarding-and-Security-Risks.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - SSH Agent Forwarding and Security Risks](./06-SSH-Agent-Forwarding-and-Security-Risks.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

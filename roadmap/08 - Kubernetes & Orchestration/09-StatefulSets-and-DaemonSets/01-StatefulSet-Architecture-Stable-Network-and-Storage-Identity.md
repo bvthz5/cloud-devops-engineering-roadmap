@@ -31,4 +31,4 @@ For a StatefulSet with $N$ replicas, each Pod is assigned an integer ordinal ind
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - VolumeClaimTemplates](./02-VolumeClaimTemplates-and-Per-Replica-Storage.md) |
+| [← Prev Module (08-Storage-PV-PVC-and-StorageClasses)](../08-Storage-PV-PVC-and-StorageClasses/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - VolumeClaimTemplates and Per Replica Storage →](./02-VolumeClaimTemplates-and-Per-Replica-Storage.md) |

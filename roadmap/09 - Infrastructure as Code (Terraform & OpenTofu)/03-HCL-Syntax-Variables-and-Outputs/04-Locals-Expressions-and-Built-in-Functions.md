@@ -79,4 +79,4 @@ fileexists("${path.module}/optional.txt")         # true/false
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Outputs & Data Sources](./03-Outputs-Data-Sources-and-Cross-Module-References.md) | [README](./README.md) | [05 - Dynamic Blocks & Iteration](./05-Dynamic-Blocks-for_each-count-and-Iteration.md) |
+| [← 03 - Outputs Data Sources and Cross Module References](./03-Outputs-Data-Sources-and-Cross-Module-References.md) | [Index](../../../README.md) | [05 - Dynamic Blocks for_each count and Iteration →](./05-Dynamic-Blocks-for_each-count-and-Iteration.md) |

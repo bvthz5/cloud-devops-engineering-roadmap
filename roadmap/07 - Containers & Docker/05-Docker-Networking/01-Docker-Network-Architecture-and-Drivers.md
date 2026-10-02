@@ -21,4 +21,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Bridge Networking & Veth Pairs](./02-Bridge-Networking-and-Veth-Pairs.md) |
+| [← Prev Module (04-Docker-Storage-and-Volumes)](../04-Docker-Storage-and-Volumes/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Bridge Networking and Veth Pairs →](./02-Bridge-Networking-and-Veth-Pairs.md) |

@@ -22,4 +22,4 @@ func (r *UserResource) ImportState(ctx context.Context, req resource.ImportState
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Testing & Publishing](./04-Testing-and-Publishing-Providers.md) | [README](./README.md) | [06 - Community Providers](./06-Community-Providers-and-Contribution.md) |
+| [← 04 - Testing and Publishing Providers](./04-Testing-and-Publishing-Providers.md) | [Index](../../../README.md) | [06 - Community Providers and Contribution →](./06-Community-Providers-and-Contribution.md) |

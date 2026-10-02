@@ -83,4 +83,4 @@ alice     8842 99.0  0.1  12345  4567 pts/0    RN   10:00   1:23 ./heavy_backup.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Detaching Processes nohup tmux](./06-Detaching-Processes-nohup-tmux.md) | [README](./README.md) | [08 - Resource Monitoring CPU Memory IO](./08-Resource-Monitoring-CPU-Memory-IO.md) |
+| [← 06 - Detaching Processes nohup tmux](./06-Detaching-Processes-nohup-tmux.md) | [Index](../../../README.md) | [08 - Resource Monitoring CPU Memory IO →](./08-Resource-Monitoring-CPU-Memory-IO.md) |

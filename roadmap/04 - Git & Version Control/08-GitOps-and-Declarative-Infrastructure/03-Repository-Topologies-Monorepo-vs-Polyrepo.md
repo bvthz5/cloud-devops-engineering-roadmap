@@ -19,4 +19,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Argo CD & Flux](./02-Argo-CD-and-Flux-CD-Architecture.md) | [README](./README.md) | [04 - Secret Management](./04-Secret-Management-in-GitOps-SOPS-and-Vault.md) |
+| [← 02 - Argo CD and Flux CD Architecture](./02-Argo-CD-and-Flux-CD-Architecture.md) | [Index](../../../README.md) | [04 - Secret Management in GitOps SOPS and Vault →](./04-Secret-Management-in-GitOps-SOPS-and-Vault.md) |

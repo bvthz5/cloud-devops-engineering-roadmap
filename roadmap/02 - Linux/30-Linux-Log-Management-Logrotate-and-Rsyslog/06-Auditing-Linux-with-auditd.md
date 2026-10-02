@@ -38,4 +38,4 @@ sudo aureport -s --failed
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Centralized Log Shippers](./05-Centralized-Log-Aggregation-Shippers.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Centralized Log Aggregation Shippers](./05-Centralized-Log-Aggregation-Shippers.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

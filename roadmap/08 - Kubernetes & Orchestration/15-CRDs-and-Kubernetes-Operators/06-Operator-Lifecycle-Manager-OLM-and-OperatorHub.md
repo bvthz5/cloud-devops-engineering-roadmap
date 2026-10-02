@@ -10,4 +10,4 @@ The **Operator Lifecycle Manager (OLM)** manages the installation, automatic upg
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Finalizers & Teardown](./05-Finalizers-and-Safe-Resource-Teardown.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Finalizers and Safe Resource Teardown](./05-Finalizers-and-Safe-Resource-Teardown.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

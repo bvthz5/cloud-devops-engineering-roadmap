@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Cross-Cluster Migration](./05-Cross-Cluster-Migration-and-Cluster-Rebuilding.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Cross Cluster Migration and Cluster Rebuilding](./05-Cross-Cluster-Migration-and-Cluster-Rebuilding.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

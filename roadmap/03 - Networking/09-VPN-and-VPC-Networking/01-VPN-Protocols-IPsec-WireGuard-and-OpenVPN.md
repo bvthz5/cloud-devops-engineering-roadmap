@@ -40,4 +40,4 @@ WireGuard utilizes **Cryptokey Routing**:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Cloud VPC Architecture](./02-Cloud-VPC-Architecture-and-Subnet-Topology.md) |
+| [← Prev Module (08-Load-Balancers-and-Proxies)](../08-Load-Balancers-and-Proxies/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Cloud VPC Architecture and Subnet Topology →](./02-Cloud-VPC-Architecture-and-Subnet-Topology.md) |

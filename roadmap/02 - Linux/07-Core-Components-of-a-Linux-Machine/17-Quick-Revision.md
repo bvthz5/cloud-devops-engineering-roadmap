@@ -23,8 +23,9 @@ A high-density 5-minute reference sheet for Linux system architecture layers and
 1. **`cd` vs `ls`:** `cd` alters parent shell state so it MUST be a shell built-in. `ls` is an external binary utility (`/usr/bin/ls`).
 2. **Ring 0 vs Ring 3:** Kernel runs in Ring 0 (full hardware access); User Space runs in Ring 3 (restricted, uses `syscall` for hardware ops).
 3. **`glibc` Compatibility:** Binaries compiled against newer `glibc` versions fail to run on older `glibc` hosts (`GLIBC_x.xx not found`).
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - MCQ](./16-MCQ.md) | [README](./README.md) | [18 - Related Topics](./18-Related-Topics.md) |
+| [← 16 - MCQ](./16-MCQ.md) | [Index](../../../README.md) | [18 - Related Topics →](./18-Related-Topics.md) |

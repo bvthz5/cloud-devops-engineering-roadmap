@@ -75,3 +75,9 @@ resource "google_storage_bucket" "secure_bucket" {
 ## 🔗 Related Resources
 - [Google Cloud Security Documentation](https://cloud.google.com/security/docs)
 - [GCP FinOps & Cost Management](https://cloud.google.com/cost-management)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - CMEK Customer Managed Encryption Keys vs CSEK](./02-CMEK-Customer-Managed-Encryption-Keys-vs-CSEK.md) | [Index](../../../README.md) | [04 - Security Command Center SCC Asset Discovery Vulnerability Scanning →](./04-Security-Command-Center-SCC-Asset-Discovery-Vulnerability-Scanning.md) |

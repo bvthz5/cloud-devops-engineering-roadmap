@@ -55,4 +55,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - MTU Overhead](./05-MTU-Calculations-Overhead-and-Clamping-in-Overlays.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - MTU Calculations Overhead and Clamping in Overlays](./05-MTU-Calculations-Overhead-and-Clamping-in-Overlays.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

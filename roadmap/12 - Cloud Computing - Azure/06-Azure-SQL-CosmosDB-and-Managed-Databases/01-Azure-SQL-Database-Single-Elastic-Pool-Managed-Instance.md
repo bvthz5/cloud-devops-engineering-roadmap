@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Failover Groups](./02-Azure-SQL-High-Availability-Geo-Replication-and-Failover-Groups.md) |
+| [← Prev Module (05-Azure-Blob-Storage-and-Storage-Accounts)](../05-Azure-Blob-Storage-and-Storage-Accounts/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Azure SQL High Availability Geo Replication and Failover Groups →](./02-Azure-SQL-High-Availability-Geo-Replication-and-Failover-Groups.md) |

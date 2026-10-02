@@ -27,4 +27,4 @@ spec.volumes[*].persistentVolumeClaim                        (AWS EBS, Azure Dis
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - StorageClasses](./02-StorageClasses-and-Dynamic-Provisioning.md) |
+| [← Prev Module (07-ConfigMaps-and-Secrets)](../07-ConfigMaps-and-Secrets/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - StorageClasses and Dynamic Provisioning →](./02-StorageClasses-and-Dynamic-Provisioning.md) |

@@ -20,4 +20,4 @@ git push --force --all
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - File Locking](./04-File-Locking-and-Binary-Conflict-Prevention.md) | [README](./README.md) | [06 - LFS vs Artifact Stores](./06-Git-LFS-vs-Dedicated-Artifact-Repositories.md) |
+| [← 04 - File Locking and Binary Conflict Prevention](./04-File-Locking-and-Binary-Conflict-Prevention.md) | [Index](../../../README.md) | [06 - Git LFS vs Dedicated Artifact Repositories →](./06-Git-LFS-vs-Dedicated-Artifact-Repositories.md) |

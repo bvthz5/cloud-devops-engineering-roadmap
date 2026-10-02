@@ -40,4 +40,4 @@ Configure your web browser to use SOCKS5 proxy `127.0.0.1:1080` to access intern
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Client Config & Bastions](./04-SSH-Client-Configuration-and-Bastion-Jump-Hosts.md) | [README](./README.md) | [06 - Agent Forwarding & Security](./06-SSH-Agent-Forwarding-and-Security-Risks.md) |
+| [← 04 - SSH Client Configuration and Bastion Jump Hosts](./04-SSH-Client-Configuration-and-Bastion-Jump-Hosts.md) | [Index](../../../README.md) | [06 - SSH Agent Forwarding and Security Risks →](./06-SSH-Agent-Forwarding-and-Security-Risks.md) |

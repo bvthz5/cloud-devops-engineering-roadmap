@@ -38,4 +38,4 @@ For critical production SLA (99.99% uptime):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Path Selection](./02-BGP-Path-Selection-Attributes-and-Metrics.md) | [README](./README.md) | [04 - Kubernetes BGP](./04-BGP-Control-Plane-in-Kubernetes-Calico-and-MetalLB.md) |
+| [← 02 - BGP Path Selection Attributes and Metrics](./02-BGP-Path-Selection-Attributes-and-Metrics.md) | [Index](../../../README.md) | [04 - BGP Control Plane in Kubernetes Calico and MetalLB →](./04-BGP-Control-Plane-in-Kubernetes-Calico-and-MetalLB.md) |

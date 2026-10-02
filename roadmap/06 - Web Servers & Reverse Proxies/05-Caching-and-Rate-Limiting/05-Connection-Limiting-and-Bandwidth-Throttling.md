@@ -31,4 +31,4 @@ http {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Rate Limiting Algorithms](./04-Rate-Limiting-Algorithms-Leaky-Bucket-vs-Token-Bucket.md) | [README](./README.md) | [06 - DDoS Mitigation & Security Throttling](./06-DDoS-Mitigation-and-IP-Reputation-Filtering.md) |
+| [← 04 - Rate Limiting Algorithms Leaky Bucket vs Token Bucket](./04-Rate-Limiting-Algorithms-Leaky-Bucket-vs-Token-Bucket.md) | [Index](../../../README.md) | [06 - DDoS Mitigation and IP Reputation Filtering →](./06-DDoS-Mitigation-and-IP-Reputation-Filtering.md) |

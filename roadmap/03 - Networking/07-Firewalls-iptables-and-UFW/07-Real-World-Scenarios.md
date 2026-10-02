@@ -44,4 +44,4 @@ Docker binds to `0.0.0.0:6379` by default and manipulates Netfilter's `PREROUTIN
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Docker & Kubernetes iptables](./06-Docker-and-Kubernetes-iptables-Integration.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Docker and Kubernetes iptables Integration](./06-Docker-and-Kubernetes-iptables-Integration.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

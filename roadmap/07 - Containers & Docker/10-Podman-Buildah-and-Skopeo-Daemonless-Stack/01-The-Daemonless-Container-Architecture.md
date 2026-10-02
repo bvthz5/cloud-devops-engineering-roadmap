@@ -18,4 +18,4 @@ Podman Architecture (Traditional Unix Fork/Exec):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Rootless Podman & User Namespaces](./02-Rootless-Podman-and-User-Namespaces.md) |
+| [← Prev Module (09-OCI-Standards-and-Container-Runtimes)](../09-OCI-Standards-and-Container-Runtimes/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Rootless Podman and User Namespaces →](./02-Rootless-Podman-and-User-Namespaces.md) |

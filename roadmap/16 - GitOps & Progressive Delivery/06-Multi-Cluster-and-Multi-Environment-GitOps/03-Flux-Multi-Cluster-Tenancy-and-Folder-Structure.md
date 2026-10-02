@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - ArgoCD ApplicationSet Generators List Git Cluster](./02-ArgoCD-ApplicationSet-Generators-List-Git-Cluster.md) | [Index](../../../README.md) | [04 - Managing Cross Cluster Secrets and Configs →](./04-Managing-Cross-Cluster-Secrets-and-Configs.md) |

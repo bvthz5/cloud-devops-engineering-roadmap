@@ -33,4 +33,4 @@ Certbot stores active certificates inside `/etc/letsencrypt/live/example.com/`:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Apache SSL Setup](./07-Step-by-Step-Apache-SSL-Setup-with-Certbot.md) | [README](./README.md) | [09 - Verifying HTTPS & TLS Handshakes](./09-Verifying-HTTPS-and-TLS-Handshakes.md) |
+| [← 07 - Step by Step Apache SSL Setup with Certbot](./07-Step-by-Step-Apache-SSL-Setup-with-Certbot.md) | [Index](../../../README.md) | [09 - Verifying HTTPS and TLS Handshakes →](./09-Verifying-HTTPS-and-TLS-Handshakes.md) |

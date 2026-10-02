@@ -24,4 +24,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 07 - Workspaces](../07-Terraform-Workspaces-and-Environments/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (07-Terraform-Workspaces-and-Environments) →](../07-Terraform-Workspaces-and-Environments/01-Terraform-Workspaces-Architecture-and-CLI.md) |

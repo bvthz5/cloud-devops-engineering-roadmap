@@ -41,4 +41,4 @@ if __name__ == "__main__":
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Slack Alert Dispatcher](./05-Slack-and-PagerDuty-Alert-Dispatcher-Template.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Slack and PagerDuty Alert Dispatcher Template](./05-Slack-and-PagerDuty-Alert-Dispatcher-Template.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

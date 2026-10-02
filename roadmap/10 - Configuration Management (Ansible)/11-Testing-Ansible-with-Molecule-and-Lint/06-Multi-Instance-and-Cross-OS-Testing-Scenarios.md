@@ -12,4 +12,4 @@ platforms:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Idempotency Testing](./05-Idempotency-Testing-with-Molecule.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Idempotency Testing with Molecule](./05-Idempotency-Testing-with-Molecule.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -72,4 +72,4 @@ kill -15 4821
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Troubleshooting Mindset](./01-Linux-Troubleshooting-Mindset-and-Workflow.md) | [README](./README.md) | [03 - Memory Leaks & OOM Killer](./03-Memory-Leaks-OOM-Killer-and-Swap-Exhaustion.md) |
+| [← 01 - Linux Troubleshooting Mindset and Workflow](./01-Linux-Troubleshooting-Mindset-and-Workflow.md) | [Index](../../../README.md) | [03 - Memory Leaks OOM Killer and Swap Exhaustion →](./03-Memory-Leaks-OOM-Killer-and-Swap-Exhaustion.md) |

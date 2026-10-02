@@ -32,4 +32,4 @@ echo -1000 | sudo tee /proc/$(pgrep -o sshd)/oom_score_adj
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [19 - Lab 02: High CPU Spike](./19-Hands-On-Lab-02-High-CPU-Spike-Isolation.md) | [README](./README.md) | [21 - Lab 04: Systemd Crash Loop](./21-Hands-On-Lab-04-Systemd-Service-Crash-Loop.md) |
+| [← 19 - Hands On Lab 02 High CPU Spike Isolation](./19-Hands-On-Lab-02-High-CPU-Spike-Isolation.md) | [Index](../../../README.md) | [21 - Hands On Lab 04 Systemd Service Crash Loop →](./21-Hands-On-Lab-04-Systemd-Service-Crash-Loop.md) |

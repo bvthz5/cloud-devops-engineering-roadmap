@@ -20,4 +20,4 @@ Helm stores the release status in a Kubernetes Secret. When the client or runner
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - OCI Registries](./06-OCI-Chart-Registries-and-Enterprise-Distribution.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - OCI Chart Registries and Enterprise Distribution](./06-OCI-Chart-Registries-and-Enterprise-Distribution.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

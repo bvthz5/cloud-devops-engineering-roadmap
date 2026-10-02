@@ -9,4 +9,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Storage Account Types](./01-Azure-Storage-Account-Types-and-Redundancy.md) | [README](./README.md) | [03 - Access Tiers](./03-Blob-Access-Tiers-Hot-Cool-Cold-Archive.md) |
+| [← 01 - Azure Storage Account Types and Redundancy](./01-Azure-Storage-Account-Types-and-Redundancy.md) | [Index](../../../README.md) | [03 - Blob Access Tiers Hot Cool Cold Archive →](./03-Blob-Access-Tiers-Hot-Cool-Cold-Archive.md) |

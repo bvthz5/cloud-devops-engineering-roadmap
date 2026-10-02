@@ -52,4 +52,4 @@ fuser -k -9 80/tcp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Systemd Service Failures](./08-Systemd-Service-Failures-and-Crash-Loops.md) | [README](./README.md) | [10 - SSH Connectivity & Auth Debugging](./10-SSH-Connectivity-Auth-and-Config-Troubleshooting.md) |
+| [← 08 - Systemd Service Failures and Crash Loops](./08-Systemd-Service-Failures-and-Crash-Loops.md) | [Index](../../../README.md) | [10 - SSH Connectivity Auth and Config Troubleshooting →](./10-SSH-Connectivity-Auth-and-Config-Troubleshooting.md) |

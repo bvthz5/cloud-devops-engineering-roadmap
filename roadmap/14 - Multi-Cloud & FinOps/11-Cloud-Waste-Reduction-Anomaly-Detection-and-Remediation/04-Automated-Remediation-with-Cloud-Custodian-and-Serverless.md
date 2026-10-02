@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Cloud Cost Anomaly Detection Machine Learning Alerting](./03-Cloud-Cost-Anomaly-Detection-Machine-Learning-Alerting.md) | [Index](../../../README.md) | [05 - Storage Lifecycle Rules and Automated Data Archiving →](./05-Storage-Lifecycle-Rules-and-Automated-Data-Archiving.md) |

@@ -26,4 +26,4 @@ Kubernetes in-cluster operator that reads secrets directly from **AWS Secrets Ma
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Repo Topologies](./03-Repository-Topologies-Monorepo-vs-Polyrepo.md) | [README](./README.md) | [05 - Environment Promotion](./05-Environment-Promotion-Strategies-Kustomize-and-Helm.md) |
+| [← 03 - Repository Topologies Monorepo vs Polyrepo](./03-Repository-Topologies-Monorepo-vs-Polyrepo.md) | [Index](../../../README.md) | [05 - Environment Promotion Strategies Kustomize and Helm →](./05-Environment-Promotion-Strategies-Kustomize-and-Helm.md) |

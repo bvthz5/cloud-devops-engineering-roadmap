@@ -20,4 +20,4 @@ Layer 7 load balancers must terminate TLS, buffer and parse the complete HTTP re
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Troubleshooting](./08-Troubleshooting.md) | [README](./README.md) | [10 - Hands-On Practice](./10-Hands-On-Practice.md) |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

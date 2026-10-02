@@ -67,4 +67,4 @@ terraform apply -replace=aws_instance.web
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - State Locking](./03-State-Locking-Concurrency-and-Force-Unlock.md) | [README](./README.md) | [05 - Sensitive Data](./05-Sensitive-Data-in-State-and-Encryption.md) |
+| [← 03 - State Locking Concurrency and Force Unlock](./03-State-Locking-Concurrency-and-Force-Unlock.md) | [Index](../../../README.md) | [05 - Sensitive Data in State and Encryption →](./05-Sensitive-Data-in-State-and-Encryption.md) |

@@ -31,4 +31,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Cloudflare Proxy Modes](./13-Cloudflare-Proxy-Integration-and-SSL-Modes.md) | [README](./README.md) | [15 - Security Hardening & HSTS](./15-Security-Hardening-HSTS-TLS13-and-Ciphers.md) |
+| [← 13 - Cloudflare Proxy Integration and SSL Modes](./13-Cloudflare-Proxy-Integration-and-SSL-Modes.md) | [Index](../../../README.md) | [15 - Security Hardening HSTS TLS13 and Ciphers →](./15-Security-Hardening-HSTS-TLS13-and-Ciphers.md) |

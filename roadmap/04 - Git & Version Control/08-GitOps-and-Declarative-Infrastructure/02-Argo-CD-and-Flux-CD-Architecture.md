@@ -37,4 +37,4 @@ Flux CD breaks GitOps into decoupled micro-controllers:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - GitOps Principles](./01-GitOps-Core-Principles-and-Pull-vs-Push.md) | [README](./README.md) | [03 - Repo Topologies](./03-Repository-Topologies-Monorepo-vs-Polyrepo.md) |
+| [← 01 - GitOps Core Principles and Pull vs Push](./01-GitOps-Core-Principles-and-Pull-vs-Push.md) | [Index](../../../README.md) | [03 - Repository Topologies Monorepo vs Polyrepo →](./03-Repository-Topologies-Monorepo-vs-Polyrepo.md) |

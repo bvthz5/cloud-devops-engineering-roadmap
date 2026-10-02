@@ -21,4 +21,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - ConfigMap Creation](./01-ConfigMap-Creation-Environment-and-Volume-Projections.md) | [README](./README.md) | [03 - Encryption at Rest](./03-Secret-Encryption-at-Rest-with-KMS-Providers.md) |
+| [← 01 - ConfigMap Creation Environment and Volume Projections](./01-ConfigMap-Creation-Environment-and-Volume-Projections.md) | [Index](../../../README.md) | [03 - Secret Encryption at Rest with KMS Providers →](./03-Secret-Encryption-at-Rest-with-KMS-Providers.md) |

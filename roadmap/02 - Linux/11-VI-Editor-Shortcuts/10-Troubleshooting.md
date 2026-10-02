@@ -101,4 +101,4 @@ This is caused by running a minimal POSIX-only `vi` (not Vim) in a terminal with
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Practical DevOps Workflows](./09-Practical-DevOps-Workflows.md) | [README](./README.md) | [11 - Interview QA](./11-Interview-QA.md) |
+| [← 09 - Practical DevOps Workflows](./09-Practical-DevOps-Workflows.md) | [Index](../../../README.md) | [11 - Interview QA →](./11-Interview-QA.md) |

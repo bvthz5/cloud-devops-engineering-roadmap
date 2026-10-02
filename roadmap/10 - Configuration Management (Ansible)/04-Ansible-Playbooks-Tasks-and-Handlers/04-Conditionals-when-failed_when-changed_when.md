@@ -18,4 +18,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Handlers](./03-Handlers-and-Event-Driven-Notifications.md) | [README](./README.md) | [05 - Loops & Retries](./05-Loops-loop-with_items-until-and-retries.md) |
+| [← 03 - Handlers and Event Driven Notifications](./03-Handlers-and-Event-Driven-Notifications.md) | [Index](../../../README.md) | [05 - Loops loop with_items until and retries →](./05-Loops-loop-with_items-until-and-retries.md) |

@@ -23,4 +23,4 @@ Caddy is natively configured via a structured **JSON Document**. The popular **C
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Automatic HTTPS & Internal PKI](./02-Automatic-HTTPS-and-Internal-PKI.md) |
+| [← Prev Module (08-Envoy-Proxy-and-Service-Mesh-Data-Plane)](../08-Envoy-Proxy-and-Service-Mesh-Data-Plane/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Automatic HTTPS and Internal PKI →](./02-Automatic-HTTPS-and-Internal-PKI.md) |

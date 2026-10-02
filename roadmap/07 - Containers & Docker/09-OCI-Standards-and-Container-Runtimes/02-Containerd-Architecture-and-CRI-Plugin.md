@@ -33,4 +33,4 @@ nerdctl run -d -p 8080:80 nginx:alpine
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - OCI Specifications](./01-Open-Container-Initiative-OCI-Specifications.md) | [README](./README.md) | [03 - CRI-O: Kubernetes Runtime](./03-CRI-O-The-Lightweight-Kubernetes-Runtime.md) |
+| [← 01 - Open Container Initiative OCI Specifications](./01-Open-Container-Initiative-OCI-Specifications.md) | [Index](../../../README.md) | [03 - CRI O The Lightweight Kubernetes Runtime →](./03-CRI-O-The-Lightweight-Kubernetes-Runtime.md) |

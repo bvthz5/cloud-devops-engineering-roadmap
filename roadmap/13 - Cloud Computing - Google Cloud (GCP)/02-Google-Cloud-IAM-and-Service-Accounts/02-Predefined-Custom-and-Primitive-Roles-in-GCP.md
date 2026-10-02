@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - GCP IAM Architecture Principals Roles and Bindings](./01-GCP-IAM-Architecture-Principals-Roles-and-Bindings.md) | [Index](../../../README.md) | [03 - GCP Service Accounts User Managed vs Default Service Accounts →](./03-GCP-Service-Accounts-User-Managed-vs-Default-Service-Accounts.md) |

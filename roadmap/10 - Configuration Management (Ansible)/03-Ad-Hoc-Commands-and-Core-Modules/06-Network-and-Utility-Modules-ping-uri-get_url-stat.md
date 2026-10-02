@@ -9,4 +9,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Command Execution Modules](./05-Command-Execution-Modules-command-shell-raw-script.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Command Execution Modules command shell raw script](./05-Command-Execution-Modules-command-shell-raw-script.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

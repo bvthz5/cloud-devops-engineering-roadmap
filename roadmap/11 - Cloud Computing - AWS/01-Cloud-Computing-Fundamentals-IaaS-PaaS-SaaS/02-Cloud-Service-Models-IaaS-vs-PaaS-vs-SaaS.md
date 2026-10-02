@@ -14,4 +14,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Cloud Definition](./01-Cloud-Computing-Definition-and-Core-Characteristics.md) | [README](./README.md) | [03 - Deployment Models](./03-Cloud-Deployment-Models-Public-Private-Hybrid-MultiCloud.md) |
+| [← 01 - Cloud Computing Definition and Core Characteristics](./01-Cloud-Computing-Definition-and-Core-Characteristics.md) | [Index](../../../README.md) | [03 - Cloud Deployment Models Public Private Hybrid MultiCloud →](./03-Cloud-Deployment-Models-Public-Private-Hybrid-MultiCloud.md) |

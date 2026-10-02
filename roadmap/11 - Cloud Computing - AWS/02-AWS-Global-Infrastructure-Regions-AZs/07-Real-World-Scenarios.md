@@ -6,4 +6,4 @@ Architecture for a global active-active ecommerce engine spanning `us-east-1` an
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Outposts & Hybrid](./06-AWS-Outposts-and-Hybrid-Cloud-Infrastructure.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - AWS Outposts and Hybrid Cloud Infrastructure](./06-AWS-Outposts-and-Hybrid-Cloud-Infrastructure.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

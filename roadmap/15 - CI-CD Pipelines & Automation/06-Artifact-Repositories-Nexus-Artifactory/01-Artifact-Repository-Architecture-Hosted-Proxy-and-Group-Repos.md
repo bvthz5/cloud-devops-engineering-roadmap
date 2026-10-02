@@ -82,3 +82,9 @@ spec:
 ## 🔗 Related Resources
 - [Docker Multi-Stage Build Guide](https://docs.docker.com/build/building/multi-stage/)
 - [Argo Rollouts Documentation](https://argoproj.github.io/argo-rollouts/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (05-Build-Tools-and-Package-Managers)](../05-Build-Tools-and-Package-Managers/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - JFrog Artifactory Setup Security and Package Format Support →](./02-JFrog-Artifactory-Setup-Security-and-Package-Format-Support.md) |

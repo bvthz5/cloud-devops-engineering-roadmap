@@ -26,4 +26,4 @@ Client (0.0.0.0:68)                                   DHCP Server (67)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Complete DNS Resolution](./03-The-Complete-DNS-Resolution-Walkthrough.md) | [README](./README.md) | [05 - Split-Horizon DNS](./05-Split-Horizon-DNS-and-Private-Hosted-Zones.md) |
+| [← 03 - The Complete DNS Resolution Walkthrough](./03-The-Complete-DNS-Resolution-Walkthrough.md) | [Index](../../../README.md) | [05 - Split Horizon DNS and Private Hosted Zones →](./05-Split-Horizon-DNS-and-Private-Hosted-Zones.md) |

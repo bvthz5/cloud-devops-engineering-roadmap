@@ -34,4 +34,4 @@ resources:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Secret Types & Base64](./02-Kubernetes-Secrets-Types-and-Base64-Encoding-Realities.md) | [README](./README.md) | [04 - Immutable ConfigMaps](./04-Immutable-ConfigMaps-and-Secrets-for-Scale.md) |
+| [← 02 - Kubernetes Secrets Types and Base64 Encoding Realities](./02-Kubernetes-Secrets-Types-and-Base64-Encoding-Realities.md) | [Index](../../../README.md) | [04 - Immutable ConfigMaps and Secrets for Scale →](./04-Immutable-ConfigMaps-and-Secrets-for-Scale.md) |

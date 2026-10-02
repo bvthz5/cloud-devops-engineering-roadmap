@@ -52,4 +52,4 @@ curl -X POST -H "Content-Type: application/json" -d '{"key":"value"}' https://ap
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - wget vs curl Fundamentals](./01-wget-vs-curl-Fundamentals.md) | [README](./README.md) | [03 - File Downloads and Filenames](./03-File-Downloads-and-Filenames.md) |
+| [← 01 - wget vs curl Fundamentals](./01-wget-vs-curl-Fundamentals.md) | [Index](../../../README.md) | [03 - File Downloads and Filenames →](./03-File-Downloads-and-Filenames.md) |

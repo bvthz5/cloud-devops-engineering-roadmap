@@ -31,4 +31,4 @@ On bare metal, Kubernetes `type: LoadBalancer` services remain in `<pending>` st
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Cloud Interconnects](./03-Cloud-Dedicated-Interconnects-DirectConnect-and-ExpressRoute.md) | [README](./README.md) | [05 - BGP Security](./05-BGP-Security-RPKI-Route-Hijacking-and-Flap-Damping.md) |
+| [← 03 - Cloud Dedicated Interconnects DirectConnect and ExpressRoute](./03-Cloud-Dedicated-Interconnects-DirectConnect-and-ExpressRoute.md) | [Index](../../../README.md) | [05 - BGP Security RPKI Route Hijacking and Flap Damping →](./05-BGP-Security-RPKI-Route-Hijacking-and-Flap-Damping.md) |

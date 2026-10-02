@@ -27,4 +27,4 @@ Migrated inter-service REST endpoints to **gRPC with Protocol Buffers**:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Observability](./06-Observability-and-Debugging-for-Modern-Protocols.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Observability and Debugging for Modern Protocols](./06-Observability-and-Debugging-for-Modern-Protocols.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

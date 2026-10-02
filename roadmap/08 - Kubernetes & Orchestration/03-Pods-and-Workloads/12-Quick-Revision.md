@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 04 - Deployments & Rollouts](../04-Deployments-ReplicaSets-and-Rollouts/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (04-Deployments-ReplicaSets-and-Rollouts) →](../04-Deployments-ReplicaSets-and-Rollouts/01-Deployment-Controller-and-ReplicaSet-Reconciliation.md) |

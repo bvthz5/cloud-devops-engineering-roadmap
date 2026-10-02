@@ -55,4 +55,4 @@ inputs = {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Terragrunt Architecture](./01-Terragrunt-Architecture-and-Purpose.md) | [README](./README.md) | [03 - Dependency Management](./03-Dependency-Management-and-Orchestration.md) |
+| [← 01 - Terragrunt Architecture and Purpose](./01-Terragrunt-Architecture-and-Purpose.md) | [Index](../../../README.md) | [03 - Dependency Management and Orchestration →](./03-Dependency-Management-and-Orchestration.md) |

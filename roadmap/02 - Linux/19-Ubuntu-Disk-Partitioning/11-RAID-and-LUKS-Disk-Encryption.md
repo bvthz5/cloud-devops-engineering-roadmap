@@ -30,4 +30,4 @@ sudo mount /dev/mapper/secure_data /mnt/secure
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - LVM Physical Volumes Volume Groups Logical Volumes](./10-LVM-Physical-Volumes-Volume-Groups-Logical-Volumes.md) | [README](./README.md) | [12 - Resizing Filesystem Checks and Fsck](./12-Resizing-Filesystem-Checks-and-Fsck.md) |
+| [← 10 - LVM Physical Volumes Volume Groups Logical Volumes](./10-LVM-Physical-Volumes-Volume-Groups-Logical-Volumes.md) | [Index](../../../README.md) | [12 - Resizing Filesystem Checks and Fsck →](./12-Resizing-Filesystem-Checks-and-Fsck.md) |

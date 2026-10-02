@@ -25,3 +25,9 @@ A enterprise organization operates Kubernetes clusters across GCP (GKE), AWS (EK
 1. **Fleet Registration**: Register all GKE and external Kubernetes clusters to an Anthos Fleet in the GCP console.
 2. **Anthos Config Management**: Connect ACM to a central Git repository containing Kubernetes policy definitions (Gatekeeper OPA constraint templates).
 3. **GitOps Synchronization**: ACM continuously monitors the Git repository and automatically applies policy updates across all registered hybrid clusters within seconds.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 06 - Automating IaC Pipelines with Cloud Build and Terraform](./06-Automating-IaC-Pipelines-with-Cloud-Build-and-Terraform.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

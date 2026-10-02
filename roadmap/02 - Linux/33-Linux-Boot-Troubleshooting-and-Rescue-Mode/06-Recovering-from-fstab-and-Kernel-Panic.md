@@ -42,4 +42,4 @@ Reboot into an earlier kernel version from the GRUB "Advanced options for Ubuntu
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Resetting Root Password](./05-Resetting-Lost-Root-Password-via-GRUB.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Resetting Lost Root Password via GRUB](./05-Resetting-Lost-Root-Password-via-GRUB.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

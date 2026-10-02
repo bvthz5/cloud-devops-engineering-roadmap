@@ -31,4 +31,4 @@ echo "Deployment Complete!"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Secret Scanning](./04-Secret-Scanning-and-Credential-Leak-Prevention.md) | [README](./README.md) | [06 - Bypassing Hooks](./06-Bypassing-Hooks-and-Security-Trade-Offs.md) |
+| [← 04 - Secret Scanning and Credential Leak Prevention](./04-Secret-Scanning-and-Credential-Leak-Prevention.md) | [Index](../../../README.md) | [06 - Bypassing Hooks and Security Trade Offs →](./06-Bypassing-Hooks-and-Security-Trade-Offs.md) |

@@ -43,4 +43,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [24 - Certbot Command Cheat Sheet](./24-Complete-Certbot-Command-Cheat-Sheet.md) | [README](./README.md) | [README (Index)](./README.md) |
+| [← 24 - Complete Certbot Command Cheat Sheet](./24-Complete-Certbot-Command-Cheat-Sheet.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

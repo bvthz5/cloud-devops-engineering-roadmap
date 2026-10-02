@@ -45,4 +45,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Volume Expansion](./05-Volume-Expansion-and-Reclaim-Policies.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Volume Expansion and Reclaim Policies](./05-Volume-Expansion-and-Reclaim-Policies.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

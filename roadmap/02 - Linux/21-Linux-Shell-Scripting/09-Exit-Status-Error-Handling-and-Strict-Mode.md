@@ -11,8 +11,9 @@ set -euo pipefail
 - `-e`: Exit on error.
 - `-u`: Exit on unset variable.
 - `-o pipefail`: Return pipeline failure exit code.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Conditionals If/Else](./08-Conditionals-If-Else-and-Elif.md) | [README](./README.md) | [10 - Script Arguments & Getopts](./10-Script-Arguments-and-Getopts.md) |
+| [← 08 - Conditionals If Else and Elif](./08-Conditionals-If-Else-and-Elif.md) | [Index](../../../README.md) | [10 - Script Arguments and Getopts →](./10-Script-Arguments-and-Getopts.md) |

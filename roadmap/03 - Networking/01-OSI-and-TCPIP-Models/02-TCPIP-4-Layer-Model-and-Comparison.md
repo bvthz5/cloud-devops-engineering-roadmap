@@ -36,4 +36,4 @@ OSI 7-LAYER MODEL                       TCP/IP 4-LAYER MODEL
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - OSI 7-Layer Reference Model](./01-OSI-7-Layer-Reference-Model.md) | [README](./README.md) | [03 - Encapsulation & Decapsulation](./03-Encapsulation-and-Decapsulation-Data-Flow.md) |
+| [← 01 - OSI 7 Layer Reference Model](./01-OSI-7-Layer-Reference-Model.md) | [Index](../../../README.md) | [03 - Encapsulation and Decapsulation Data Flow →](./03-Encapsulation-and-Decapsulation-Data-Flow.md) |

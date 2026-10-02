@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Managing Cross Cluster Secrets and Configs](./04-Managing-Cross-Cluster-Secrets-and-Configs.md) | [Index](../../../README.md) | [06 - Disaster Recovery and Cluster Failover with GitOps →](./06-Disaster-Recovery-and-Cluster-Failover-with-GitOps.md) |

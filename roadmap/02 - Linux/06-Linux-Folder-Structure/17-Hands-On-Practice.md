@@ -51,8 +51,9 @@ Reinforce your understanding of the Linux directory hierarchy with these practic
    ls -ld /mnt/practice_lab
    sudo rmdir /mnt/practice_lab
    ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - Interview QA](./16-Interview-QA.md) | [README](./README.md) | [18 - MCQ](./18-MCQ.md) |
+| [← 16 - Interview QA](./16-Interview-QA.md) | [Index](../../../README.md) | [18 - MCQ →](./18-MCQ.md) |

@@ -99,8 +99,9 @@ These options are passed from the terminal when launching Vim:
 - **`:%s/old/new/g`**: Replace all occurrences of `old` with `new` across the whole file.
 - **`:set nu`**: Enable line numbers.
 - **`:set nonu`**: Disable line numbers.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Nano](./08-Nano.md) | [README](./README.md) | [10 - Echo and Redirection](./10-Echo-and-Redirection.md) |
+| [← 08 - Nano](./08-Nano.md) | [Index](../../../README.md) | [10 - Echo and Redirection →](./10-Echo-and-Redirection.md) |

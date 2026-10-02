@@ -67,4 +67,4 @@ The true power of grep/sed/awk is unlocked when they are piped together with the
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Quick Revision](./12-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |
+| [← 12 - Quick Revision](./12-Quick-Revision.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

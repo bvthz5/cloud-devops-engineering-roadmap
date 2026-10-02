@@ -21,4 +21,4 @@ A `Connection Refused` is Layer 4. A `504 Gateway Timeout` means Layer 4 connect
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - L4 vs L7 in Cloud](./06-Layer-4-vs-Layer-7-Networking-in-Cloud.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Layer 4 vs Layer 7 Networking in Cloud](./06-Layer-4-vs-Layer-7-Networking-in-Cloud.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

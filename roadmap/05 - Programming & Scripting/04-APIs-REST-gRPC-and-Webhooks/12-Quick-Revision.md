@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [05 - Automation Templates](../05-Automation-Script-Templates/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (05-Automation-Script-Templates) →](../05-Automation-Script-Templates/01-Disk-Space-Watchdog-and-Log-Cleaner-Template.md) |

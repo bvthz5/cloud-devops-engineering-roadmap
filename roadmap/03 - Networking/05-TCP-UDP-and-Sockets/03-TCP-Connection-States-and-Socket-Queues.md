@@ -27,4 +27,4 @@ Run `ss -tulpn`:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - TCP Handshake & Teardown](./02-The-TCP-3-Way-Handshake-and-Teardown.md) | [README](./README.md) | [04 - UDP Architecture](./04-UDP-Protocol-Architecture-and-Use-Cases.md) |
+| [← 02 - The TCP 3 Way Handshake and Teardown](./02-The-TCP-3-Way-Handshake-and-Teardown.md) | [Index](../../../README.md) | [04 - UDP Protocol Architecture and Use Cases →](./04-UDP-Protocol-Architecture-and-Use-Cases.md) |

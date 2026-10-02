@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - VM Series](./01-Azure-Virtual-Machine-Series-and-Sizing.md) | [README](./README.md) | [03 - Availability Sets vs Zones](./03-High-Availability-Availability-Sets-vs-Availability-Zones.md) |
+| [← 01 - Azure Virtual Machine Series and Sizing](./01-Azure-Virtual-Machine-Series-and-Sizing.md) | [Index](../../../README.md) | [03 - High Availability Availability Sets vs Availability Zones →](./03-High-Availability-Availability-Sets-vs-Availability-Zones.md) |

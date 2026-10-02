@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Argo Notifications Slack MS Teams PagerDuty Integration](./02-Argo-Notifications-Slack-MS-Teams-PagerDuty-Integration.md) | [Index](../../../README.md) | [04 - Prometheus Metrics for ArgoCD and Flux →](./04-Prometheus-Metrics-for-ArgoCD-and-Flux.md) |

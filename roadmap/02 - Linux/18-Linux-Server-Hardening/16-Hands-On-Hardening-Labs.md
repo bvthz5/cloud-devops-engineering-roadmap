@@ -27,4 +27,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [15 - Time Sync and SELinux AppArmor](./15-Time-Sync-and-SELinux-AppArmor.md) | [README](./README.md) | [17 - Troubleshooting Hardening Scenarios](./17-Troubleshooting-Hardening-Scenarios.md) |
+| [← 15 - Time Sync and SELinux AppArmor](./15-Time-Sync-and-SELinux-AppArmor.md) | [Index](../../../README.md) | [17 - Troubleshooting Hardening Scenarios →](./17-Troubleshooting-Hardening-Scenarios.md) |

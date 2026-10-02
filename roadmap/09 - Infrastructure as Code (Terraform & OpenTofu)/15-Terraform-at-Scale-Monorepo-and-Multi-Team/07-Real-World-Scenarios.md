@@ -8,4 +8,4 @@ By building opinionated Terraform modules with security defaults and publishing 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Platform Engineering](./06-IaC-Platform-Engineering.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - IaC Platform Engineering](./06-IaC-Platform-Engineering.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

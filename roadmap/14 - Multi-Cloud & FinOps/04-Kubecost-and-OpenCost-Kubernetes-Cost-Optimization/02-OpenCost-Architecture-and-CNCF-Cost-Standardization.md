@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Kubernetes Cost Allocation Challenges Shared Clusters and Pods](./01-Kubernetes-Cost-Allocation-Challenges-Shared-Clusters-and-Pods.md) | [Index](../../../README.md) | [03 - Kubecost Installation Architecture and Multi Cluster Monitoring →](./03-Kubecost-Installation-Architecture-and-Multi-Cluster-Monitoring.md) |

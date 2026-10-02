@@ -67,4 +67,4 @@ sda            150.00  950.00      4.20     48.50   45.20  99.80
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Disk Space Leak](./04-Disk-Space-Exhaustion-and-Deleted-Open-Files.md) | [README](./README.md) | [06 - Permissions & PATH Issues](./06-Permissions-Ownership-and-Path-Resolution-Issues.md) |
+| [← 04 - Disk Space Exhaustion and Deleted Open Files](./04-Disk-Space-Exhaustion-and-Deleted-Open-Files.md) | [Index](../../../README.md) | [06 - Permissions Ownership and Path Resolution Issues →](./06-Permissions-Ownership-and-Path-Resolution-Issues.md) |

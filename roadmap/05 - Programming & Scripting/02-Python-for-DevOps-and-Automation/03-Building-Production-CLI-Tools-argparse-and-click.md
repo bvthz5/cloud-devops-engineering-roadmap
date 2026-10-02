@@ -28,4 +28,4 @@ if __name__ == "__main__":
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Subprocess Execution](./02-Subprocess-Execution-and-System-Management.md) | [README](./README.md) | [04 - REST API Automation](./04-REST-API-Automation-requests-and-httpx.md) |
+| [← 02 - Subprocess Execution and System Management](./02-Subprocess-Execution-and-System-Management.md) | [Index](../../../README.md) | [04 - REST API Automation requests and httpx →](./04-REST-API-Automation-requests-and-httpx.md) |

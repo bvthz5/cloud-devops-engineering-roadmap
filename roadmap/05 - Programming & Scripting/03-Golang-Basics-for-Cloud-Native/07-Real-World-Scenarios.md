@@ -29,4 +29,4 @@ defer resp.Body.Close()
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Kubernetes client-go](./06-Kubernetes-API-Interaction-with-client-go.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Kubernetes API Interaction with client go](./06-Kubernetes-API-Interaction-with-client-go.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -40,4 +40,4 @@ dependencies:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Helm v3 Architecture](./01-Helm-v3-Architecture-and-Release-Lifecycle.md) | [README](./README.md) | [03 - Go Templates & Values](./03-Go-Templates-Values-yaml-and-Built-in-Objects.md) |
+| [← 01 - Helm v3 Architecture and Release Lifecycle](./01-Helm-v3-Architecture-and-Release-Lifecycle.md) | [Index](../../../README.md) | [03 - Go Templates Values yaml and Built in Objects →](./03-Go-Templates-Values-yaml-and-Built-in-Objects.md) |

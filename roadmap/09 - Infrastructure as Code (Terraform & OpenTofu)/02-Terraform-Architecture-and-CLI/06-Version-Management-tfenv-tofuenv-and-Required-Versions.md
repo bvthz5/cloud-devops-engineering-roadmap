@@ -68,4 +68,4 @@ Required: >= 1.5.0, < 2.0.0
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - DAG & Parallelism](./05-Terraform-Graph-DAG-and-Parallelism.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Terraform Graph DAG and Parallelism](./05-Terraform-Graph-DAG-and-Parallelism.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

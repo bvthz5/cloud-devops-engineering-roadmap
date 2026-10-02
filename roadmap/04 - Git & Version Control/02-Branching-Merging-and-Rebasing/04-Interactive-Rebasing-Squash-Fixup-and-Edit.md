@@ -35,4 +35,4 @@ pick 3d4e5f6 test: add unit tests for payment processing
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Rebase Mechanics](./03-Git-Rebase-Mechanics-and-The-Golden-Rule.md) | [README](./README.md) | [05 - Cherry-Picking](./05-Cherry-Picking-and-Selective-Commit-Porting.md) |
+| [← 03 - Git Rebase Mechanics and The Golden Rule](./03-Git-Rebase-Mechanics-and-The-Golden-Rule.md) | [Index](../../../README.md) | [05 - Cherry Picking and Selective Commit Porting →](./05-Cherry-Picking-and-Selective-Commit-Porting.md) |

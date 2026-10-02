@@ -144,4 +144,4 @@ User Space Process                               Linux Kernel
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Kernel Parameters Sysctl and Kernel Logs](./11-Kernel-Parameters-Sysctl-and-Kernel-Logs.md) | [README](./README.md) | [13 - Real World Scenarios](./13-Real-World-Scenarios.md) |
+| [← 11 - Kernel Parameters Sysctl and Kernel Logs](./11-Kernel-Parameters-Sysctl-and-Kernel-Logs.md) | [Index](../../../README.md) | [13 - Real World Scenarios →](./13-Real-World-Scenarios.md) |

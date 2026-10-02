@@ -94,8 +94,9 @@ $ sudo modprobe -r overlay
 $ sudo insmod /path/to/module.ko
 $ sudo rmmod module_name
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Filesystem and Storage](./07-Filesystem-and-Storage.md) | [README](./README.md) | [09 - Linux Kernel Architecture](./09-Linux-Kernel-Architecture.md) |
+| [← 07 - Filesystem and Storage](./07-Filesystem-and-Storage.md) | [Index](../../../README.md) | [09 - Linux Kernel Architecture →](./09-Linux-Kernel-Architecture.md) |

@@ -11,4 +11,4 @@ Core Built-in Roles:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Users & Groups](./02-Entra-ID-Users-Groups-and-Administrative-Units.md) | [README](./README.md) | [04 - Custom RBAC Roles](./04-Creating-Custom-RBAC-Roles-JSON-Definitions.md) |
+| [← 02 - Entra ID Users Groups and Administrative Units](./02-Entra-ID-Users-Groups-and-Administrative-Units.md) | [Index](../../../README.md) | [04 - Creating Custom RBAC Roles JSON Definitions →](./04-Creating-Custom-RBAC-Roles-JSON-Definitions.md) |

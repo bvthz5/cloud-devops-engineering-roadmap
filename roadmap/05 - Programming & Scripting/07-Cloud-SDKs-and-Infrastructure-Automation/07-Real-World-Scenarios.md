@@ -50,4 +50,4 @@ Configure AWS Profiles or dynamic credential refreshers using `botocore.credenti
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Security Scanning & Compliance Automation](./06-Security-Scanning-and-Compliance-Automation-with-SDKs.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Security Scanning and Compliance Automation with SDKs](./06-Security-Scanning-and-Compliance-Automation-with-SDKs.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

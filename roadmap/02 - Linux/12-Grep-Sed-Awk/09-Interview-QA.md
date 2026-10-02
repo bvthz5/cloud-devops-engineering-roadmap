@@ -179,4 +179,4 @@ grep "ERROR" app.log | awk '{print $1, $2, $5}'
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Troubleshooting](./08-Troubleshooting.md) | [README](./README.md) | [10 - Hands On Lab](./10-Hands-On-Lab.md) |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Lab →](./10-Hands-On-Lab.md) |

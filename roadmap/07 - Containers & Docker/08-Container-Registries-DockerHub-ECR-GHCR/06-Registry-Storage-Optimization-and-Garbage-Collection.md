@@ -41,4 +41,4 @@ To prevent cloud registries from accumulating terabytes of abandoned test images
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Supply Chain Security with Cosign](./05-Supply-Chain-Security-Cosign-and-Image-Signing.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Supply Chain Security Cosign and Image Signing](./05-Supply-Chain-Security-Cosign-and-Image-Signing.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

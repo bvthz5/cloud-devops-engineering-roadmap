@@ -82,3 +82,9 @@ spec:
 ## 🔗 Related Resources
 - [Docker Multi-Stage Build Guide](https://docs.docker.com/build/building/multi-stage/)
 - [Argo Rollouts Documentation](https://argoproj.github.io/argo-rollouts/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Node js Package Managers npm yarn pnpm and package lock](./02-Node-js-Package-Managers-npm-yarn-pnpm-and-package-lock.md) | [Index](../../../README.md) | [04 - Go and Rust Build Pipelines go mod and cargo →](./04-Go-and-Rust-Build-Pipelines-go-mod-and-cargo.md) |

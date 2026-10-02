@@ -40,4 +40,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Virtual Hosting](./03-Virtual-Hosting-and-Name-Based-Routing.md) | [README](./README.md) | [05 - Reverse Proxying with mod_proxy](./05-Reverse-Proxying-with-mod-proxy.md) |
+| [← 03 - Virtual Hosting and Name Based Routing](./03-Virtual-Hosting-and-Name-Based-Routing.md) | [Index](../../../README.md) | [05 - Reverse Proxying with mod proxy →](./05-Reverse-Proxying-with-mod-proxy.md) |

@@ -68,4 +68,4 @@ server {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - URL Rewriting & Redirection](./04-URL-Rewriting-Redirection-and-Returns.md) | [README](./README.md) | [06 - Nginx Performance Tuning](./06-Nginx-Performance-Tuning-and-Kernel-Directives.md) |
+| [← 04 - URL Rewriting Redirection and Returns](./04-URL-Rewriting-Redirection-and-Returns.md) | [Index](../../../README.md) | [06 - Nginx Performance Tuning and Kernel Directives →](./06-Nginx-Performance-Tuning-and-Kernel-Directives.md) |

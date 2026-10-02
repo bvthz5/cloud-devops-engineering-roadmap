@@ -24,4 +24,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Disk Partition Filesystem Fundamentals](./01-Disk-Partition-Filesystem-Fundamentals.md) | [README](./README.md) | [03 - BIOS vs UEFI and ESP Partition](./03-BIOS-vs-UEFI-and-ESP-Partition.md) |
+| [← 01 - Disk Partition Filesystem Fundamentals](./01-Disk-Partition-Filesystem-Fundamentals.md) | [Index](../../../README.md) | [03 - BIOS vs UEFI and ESP Partition →](./03-BIOS-vs-UEFI-and-ESP-Partition.md) |

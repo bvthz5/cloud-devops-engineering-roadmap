@@ -28,4 +28,4 @@ A fresh TLS 1.3 handshake requires exactly 1-RTT (one round trip). Subsequent re
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Hands-On Practice](./10-Hands-On-Practice.md) | [README](./README.md) | [12 - Quick Revision](./12-Quick-Revision.md) |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

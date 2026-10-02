@@ -25,4 +25,4 @@ Memory footprint per connection dropped from 45MB to ~2MB!
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Security Hardening](./06-Security-Hardening-and-Module-Management.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Security Hardening and Module Management](./06-Security-Hardening-and-Module-Management.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

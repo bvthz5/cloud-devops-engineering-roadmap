@@ -6,4 +6,4 @@ Microsoft Entra ID (formerly Azure Active Directory) is a cloud-native identity 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Users & Groups](./02-Entra-ID-Users-Groups-and-Administrative-Units.md) |
+| [← Prev Module (01-Azure-Fundamentals-Management-Groups-and-Subscriptions)](../01-Azure-Fundamentals-Management-Groups-and-Subscriptions/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Entra ID Users Groups and Administrative Units →](./02-Entra-ID-Users-Groups-and-Administrative-Units.md) |

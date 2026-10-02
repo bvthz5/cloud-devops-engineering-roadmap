@@ -26,4 +26,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 05 - Modules & Reusable Design](../05-Terraform-Modules-and-Reusable-Design/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (05-Terraform-Modules-and-Reusable-Design) →](../05-Terraform-Modules-and-Reusable-Design/01-Module-Architecture-Root-vs-Child-Modules.md) |

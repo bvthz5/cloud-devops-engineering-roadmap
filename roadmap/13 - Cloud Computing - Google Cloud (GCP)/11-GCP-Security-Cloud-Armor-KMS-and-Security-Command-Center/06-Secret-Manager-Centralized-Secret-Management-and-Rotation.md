@@ -75,3 +75,9 @@ resource "google_storage_bucket" "secure_bucket" {
 ## 🔗 Related Resources
 - [Google Cloud Security Documentation](https://cloud.google.com/security/docs)
 - [GCP FinOps & Cost Management](https://cloud.google.com/cost-management)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 05 - VPC Service Controls Security Perimeters and Access Levels](./05-VPC-Service-Controls-Security-Perimeters-and-Access-Levels.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

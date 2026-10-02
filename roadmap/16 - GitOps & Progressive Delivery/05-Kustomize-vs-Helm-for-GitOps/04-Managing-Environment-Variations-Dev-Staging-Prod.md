@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Combining Kustomize and Helm in GitOps](./03-Combining-Kustomize-and-Helm-in-GitOps.md) | [Index](../../../README.md) | [05 - Kustomize vs Helm Architectural Trade offs and Selection Criteria →](./05-Kustomize-vs-Helm-Architectural-Trade-offs-and-Selection-Criteria.md) |

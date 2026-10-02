@@ -34,4 +34,4 @@ def retry_with_jitter(max_attempts=5, base_delay=1.0, max_delay=30.0):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - API Authentication](./05-API-Authentication-OAuth2-JWT-and-mTLS.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - API Authentication OAuth2 JWT and mTLS](./05-API-Authentication-OAuth2-JWT-and-mTLS.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

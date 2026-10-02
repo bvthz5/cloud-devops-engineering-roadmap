@@ -21,3 +21,9 @@
 ### Q3: What is Binary Authorization in GCP?
 **Answer**:
 Binary Authorization is a deploy-time security control for GKE and Cloud Run. It ensures that only trusted container images signed by authorized attestors (e.g., passed CI/CD security vulnerability scans) can be deployed to production environments.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

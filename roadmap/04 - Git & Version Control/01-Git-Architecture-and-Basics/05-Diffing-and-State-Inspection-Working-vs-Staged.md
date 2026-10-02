@@ -41,4 +41,4 @@ git diff --stat
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Basic Workflow](./04-Basic-Workflow-Staging-Committing-and-Status.md) | [README](./README.md) | [06 - Log Mastery](./06-Log-Mastery-Filtering-Formatting-and-Graphing.md) |
+| [← 04 - Basic Workflow Staging Committing and Status](./04-Basic-Workflow-Staging-Committing-and-Status.md) | [Index](../../../README.md) | [06 - Log Mastery Filtering Formatting and Graphing →](./06-Log-Mastery-Filtering-Formatting-and-Graphing.md) |

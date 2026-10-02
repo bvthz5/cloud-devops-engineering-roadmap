@@ -70,4 +70,4 @@ The Kubernetes Control Plane makes global decisions about the cluster (e.g., sch
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Node Components](./02-Node-Components-Kubelet-KubeProxy-and-CRI.md) |
+| [← Prev Section (07 - Containers & Docker)](../../07%20-%20Containers%20%26%20Docker/11-Container-Observability-and-Troubleshooting/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Node Components Kubelet KubeProxy and CRI →](./02-Node-Components-Kubelet-KubeProxy-and-CRI.md) |

@@ -115,4 +115,4 @@ A condensed, high-yield reference guide summarizing Operating System and Kernel 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [17 - MCQ](./17-MCQ.md) | [README](./README.md) | - |
+| [← 17 - MCQ](./17-MCQ.md) | [Index](../../../README.md) | [Next Module (03-CLI-and-Terminal-Basics) →](../03-CLI-and-Terminal-Basics/01-Terminal-vs-Shell-and-Shell-Flavors.md) |

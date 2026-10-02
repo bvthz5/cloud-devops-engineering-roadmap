@@ -18,4 +18,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Node NotReady Diagnostics](./02-Node-NotReady-Troubleshooting-and-Kubelet-Diagnostics.md) |
+| [← Prev Module (15-CRDs-and-Kubernetes-Operators)](../15-CRDs-and-Kubernetes-Operators/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Node NotReady Troubleshooting and Kubelet Diagnostics →](./02-Node-NotReady-Troubleshooting-and-Kubelet-Diagnostics.md) |

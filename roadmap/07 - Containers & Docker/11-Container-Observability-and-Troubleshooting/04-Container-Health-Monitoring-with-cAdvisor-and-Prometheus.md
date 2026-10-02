@@ -17,4 +17,4 @@ container_memory_working_set_bytes / container_spec_memory_limit_bytes > 0.90
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Logging Drivers & Rotation](./03-Logging-Drivers-and-Log-Rotation-Strategies.md) | [README](./README.md) | [05 - Live Debugging with nsenter](./05-Live-Debugging-with-Ephemeral-Containers-and-nsenter.md) |
+| [← 03 - Logging Drivers and Log Rotation Strategies](./03-Logging-Drivers-and-Log-Rotation-Strategies.md) | [Index](../../../README.md) | [05 - Live Debugging with Ephemeral Containers and nsenter →](./05-Live-Debugging-with-Ephemeral-Containers-and-nsenter.md) |

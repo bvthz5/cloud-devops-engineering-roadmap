@@ -122,4 +122,4 @@ port = 5432
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - TOML Deep Dive Syntax Tables and Typing](./05-TOML-Deep-Dive-Syntax-Tables-and-Typing.md) | [README](./README.md) | [07 - Config Management Environments and Templating](./07-Config-Management-Environments-and-Templating.md) |
+| [← 05 - TOML Deep Dive Syntax Tables and Typing](./05-TOML-Deep-Dive-Syntax-Tables-and-Typing.md) | [Index](../../../README.md) | [07 - Config Management Environments and Templating →](./07-Config-Management-Environments-and-Templating.md) |

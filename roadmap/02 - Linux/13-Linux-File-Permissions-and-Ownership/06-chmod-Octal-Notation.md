@@ -91,4 +91,4 @@ chmod u+x script.py
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - chmod Symbolic Notation](./05-chmod-Symbolic-Notation.md) | [README](./README.md) | [07 - Special Permissions setuid setgid sticky bit](./07-Special-Permissions-setuid-setgid-sticky-bit.md) |
+| [← 05 - chmod Symbolic Notation](./05-chmod-Symbolic-Notation.md) | [Index](../../../README.md) | [07 - Special Permissions setuid setgid sticky bit →](./07-Special-Permissions-setuid-setgid-sticky-bit.md) |

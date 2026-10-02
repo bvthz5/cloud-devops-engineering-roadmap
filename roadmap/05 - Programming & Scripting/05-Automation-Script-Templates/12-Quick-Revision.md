@@ -22,4 +22,4 @@ echo "Expiry date: $EXPIRY"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [06 - PowerShell Core](../06-PowerShell-Core-for-Cloud-and-DevOps/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (06-PowerShell-Core-for-Cloud-and-DevOps) →](../06-PowerShell-Core-for-Cloud-and-DevOps/01-PowerShell-Core-Architecture-and-Object-Pipeline.md) |

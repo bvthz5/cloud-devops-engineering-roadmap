@@ -61,4 +61,4 @@ www-data:x:33:33:www-data:/var/www:/usr/sbin/nologin
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Users Groups UID GID](./01-Users-Groups-UID-GID.md) | [README](./README.md) | [03 - etc shadow Deep Dive](./03-etc-shadow-Deep-Dive.md) |
+| [← 01 - Users Groups UID GID](./01-Users-Groups-UID-GID.md) | [Index](../../../README.md) | [03 - etc shadow Deep Dive →](./03-etc-shadow-Deep-Dive.md) |

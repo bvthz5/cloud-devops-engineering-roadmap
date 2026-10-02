@@ -33,4 +33,4 @@ journalctl --vacuum-size=500M # Free log disk space
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 28 - Advanced Storage & LVM](../28-Advanced-Storage-LVM-RAID-and-Filesystems/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (28-Advanced-Storage-LVM-RAID-and-Filesystems) →](../28-Advanced-Storage-LVM-RAID-and-Filesystems/01-Storage-Architecture-Block-Devices-and-Partitions.md) |

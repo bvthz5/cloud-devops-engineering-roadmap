@@ -18,4 +18,4 @@ Improper quorum configuration and aggressive node eviction timers caused `kube-c
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - DaemonSet Updates](./06-DaemonSet-Update-Strategies-and-HostPort-Considerations.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - DaemonSet Update Strategies and HostPort Considerations](./06-DaemonSet-Update-Strategies-and-HostPort-Considerations.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

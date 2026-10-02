@@ -6,4 +6,4 @@ Executing an enterprise cost reduction initiative saving $40k/month via VM right
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Cloud Adoption Framework](./06-Azure-Cloud-Adoption-Framework-CAF-Landing-Zones.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Azure Cloud Adoption Framework CAF Landing Zones](./06-Azure-Cloud-Adoption-Framework-CAF-Landing-Zones.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

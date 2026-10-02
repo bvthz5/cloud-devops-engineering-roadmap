@@ -174,4 +174,4 @@ unalias k
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Command Syntax Paths and Directory Navigation](./02-Command-Syntax-Paths-and-Directory-Navigation.md) | [README](./README.md) | [04 - Variables Environment and Shell Expansions](./04-Variables-Environment-and-Shell-Expansions.md) |
+| [← 02 - Command Syntax Paths and Directory Navigation](./02-Command-Syntax-Paths-and-Directory-Navigation.md) | [Index](../../../README.md) | [04 - Variables Environment and Shell Expansions →](./04-Variables-Environment-and-Shell-Expansions.md) |

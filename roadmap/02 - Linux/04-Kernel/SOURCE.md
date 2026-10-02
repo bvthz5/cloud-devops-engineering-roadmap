@@ -52,3 +52,9 @@ Key architectural extensions include:
 | Back to Index |
 | :---: |
 | [README](./README.md) |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 18 - Related Topics](./18-Related-Topics.md) | [Index](../../../README.md) | [Next Module (05-File-Management-in-Linux) →](../05-File-Management-in-Linux/01-Navigation-ls-cd-pwd.md) |

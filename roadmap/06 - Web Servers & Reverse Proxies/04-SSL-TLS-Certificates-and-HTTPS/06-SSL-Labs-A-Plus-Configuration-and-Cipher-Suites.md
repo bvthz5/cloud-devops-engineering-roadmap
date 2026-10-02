@@ -35,4 +35,4 @@ server {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Mutual TLS (mTLS) & Zero-Trust](./05-Mutual-TLS-mTLS-Architecture-and-Zero-Trust.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Mutual TLS mTLS Architecture and Zero Trust](./05-Mutual-TLS-mTLS-Architecture-and-Zero-Trust.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

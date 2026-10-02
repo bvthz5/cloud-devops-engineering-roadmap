@@ -47,4 +47,4 @@ graph LR
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - Quick Revision](./14-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |
+| [← 14 - Quick Revision](./14-Quick-Revision.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

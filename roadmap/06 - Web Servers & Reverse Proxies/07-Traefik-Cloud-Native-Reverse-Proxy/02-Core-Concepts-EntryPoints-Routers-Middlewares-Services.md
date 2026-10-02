@@ -49,4 +49,4 @@ Middlewares transform the request before it reaches the backend, or modify the r
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Traefik Architecture](./01-Traefik-Architecture-and-Dynamic-Discovery.md) | [README](./README.md) | [03 - Docker & Compose Integration](./03-Docker-and-Docker-Compose-Integration.md) |
+| [← 01 - Traefik Architecture and Dynamic Discovery](./01-Traefik-Architecture-and-Dynamic-Discovery.md) | [Index](../../../README.md) | [03 - Docker and Docker Compose Integration →](./03-Docker-and-Docker-Compose-Integration.md) |

@@ -118,4 +118,4 @@ D) `"+p`
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Hands On Lab](./12-Hands-On-Lab.md) | [README](./README.md) | [14 - Quick Revision](./14-Quick-Revision.md) |
+| [← 12 - Hands On Lab](./12-Hands-On-Lab.md) | [Index](../../../README.md) | [14 - Quick Revision →](./14-Quick-Revision.md) |

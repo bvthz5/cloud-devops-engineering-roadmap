@@ -51,4 +51,4 @@ tshark -r /tmp/capture.pcap -Y "http.response.status_code >= 400"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Path Diagnostics](./02-Path-Diagnostics-traceroute-mtr-and-iproute2.md) |
+| [← Prev Module (09-VPN-and-VPC-Networking)](../09-VPN-and-VPC-Networking/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Path Diagnostics traceroute mtr and iproute2 →](./02-Path-Diagnostics-traceroute-mtr-and-iproute2.md) |

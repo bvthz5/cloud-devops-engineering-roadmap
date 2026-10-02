@@ -22,4 +22,4 @@ git subtree push --prefix=vendor/lib https://github.com/org/lib.git feature-fix
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Submodules](./02-git-submodule-Mechanics-and-Pitfalls.md) | [README](./README.md) | [04 - Sparse Checkout](./04-Sparse-Checkout-and-Monorepo-Scaling.md) |
+| [← 02 - git submodule Mechanics and Pitfalls](./02-git-submodule-Mechanics-and-Pitfalls.md) | [Index](../../../README.md) | [04 - Sparse Checkout and Monorepo Scaling →](./04-Sparse-Checkout-and-Monorepo-Scaling.md) |

@@ -28,4 +28,4 @@ s.mount("https://", HTTPAdapter(max_retries=Retry(total=3, backoff_factor=1)))
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [03 - Golang for Cloud-Native](../03-Golang-Basics-for-Cloud-Native/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (03-Golang-Basics-for-Cloud-Native) →](../03-Golang-Basics-for-Cloud-Native/01-Why-Go-Dominates-Cloud-Native-Infrastructure.md) |

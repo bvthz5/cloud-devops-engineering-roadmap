@@ -56,4 +56,4 @@ Create `.gitattributes` in your repository root directory to force Git to check 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Permissions & PATH](./06-Permissions-Ownership-and-Path-Resolution-Issues.md) | [README](./README.md) | [08 - Systemd Service Failures](./08-Systemd-Service-Failures-and-Crash-Loops.md) |
+| [← 06 - Permissions Ownership and Path Resolution Issues](./06-Permissions-Ownership-and-Path-Resolution-Issues.md) | [Index](../../../README.md) | [08 - Systemd Service Failures and Crash Loops →](./08-Systemd-Service-Failures-and-Crash-Loops.md) |

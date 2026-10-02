@@ -43,4 +43,4 @@ resource "aws_iam_role" "github_actions" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Jenkins Pipeline](./05-Jenkins-Terraform-Pipeline.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Jenkins Terraform Pipeline](./05-Jenkins-Terraform-Pipeline.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

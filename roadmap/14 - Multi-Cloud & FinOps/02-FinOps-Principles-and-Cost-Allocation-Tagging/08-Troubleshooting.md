@@ -25,3 +25,9 @@ Data transfer costs spike unexpectedly between AWS S3 and GCP BigQuery pipelines
 1. **Public Internet Routing**: Data replication is traversing public internet endpoints, incurring standard cloud egress fees (\$0.09/GB).
 2. **Private Interconnect**: Configure Megaport / Equinix Cloud Exchange or dedicated DirectConnect / Partner Interconnect routes to lower data transfer costs by up to 60%.
 3. **Data Compression & Caching**: Compress data batches (e.g., Parquet/Avro) before cross-cloud transmission.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 07 - Real World Scenarios](./07-Real-World-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

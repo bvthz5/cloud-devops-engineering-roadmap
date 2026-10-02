@@ -50,4 +50,4 @@ resource "aws_instance" "app" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - User Data & Cloud-Init](./04-User-Data-and-Cloud-Init-vs-Provisioners.md) | [README](./README.md) | [06 - External Data Source](./06-External-Data-Source-and-Custom-Scripts.md) |
+| [← 04 - User Data and Cloud Init vs Provisioners](./04-User-Data-and-Cloud-Init-vs-Provisioners.md) | [Index](../../../README.md) | [06 - External Data Source and Custom Scripts →](./06-External-Data-Source-and-Custom-Scripts.md) |

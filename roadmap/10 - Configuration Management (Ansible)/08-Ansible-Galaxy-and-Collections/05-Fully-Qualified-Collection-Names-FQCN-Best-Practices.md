@@ -9,4 +9,4 @@ Always use FQCN syntax to prevent module ambiguity:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Custom Collections](./04-Building-Publishing-and-Hosting-Custom-Collections.md) | [README](./README.md) | [06 - Private Galaxy Servers](./06-Private-Galaxy-Servers-and-Red-Hat-Automation-Hub.md) |
+| [← 04 - Building Publishing and Hosting Custom Collections](./04-Building-Publishing-and-Hosting-Custom-Collections.md) | [Index](../../../README.md) | [06 - Private Galaxy Servers and Red Hat Automation Hub →](./06-Private-Galaxy-Servers-and-Red-Hat-Automation-Hub.md) |

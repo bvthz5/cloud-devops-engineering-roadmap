@@ -25,4 +25,4 @@ Public IP addresses are globally routable across the public internet. Because IP
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - IPv4 Addressing](./01-IPv4-Addressing-and-Classful-Architecture.md) | [README](./README.md) | [03 - Subnetting Fundamentals](./03-Subnetting-Fundamentals-and-Netmasks.md) |
+| [← 01 - IPv4 Addressing and Classful Architecture](./01-IPv4-Addressing-and-Classful-Architecture.md) | [Index](../../../README.md) | [03 - Subnetting Fundamentals and Netmasks →](./03-Subnetting-Fundamentals-and-Netmasks.md) |

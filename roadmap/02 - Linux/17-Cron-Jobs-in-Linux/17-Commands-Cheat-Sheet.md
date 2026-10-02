@@ -76,4 +76,4 @@ command -v flock                # Find flock utility path
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - Quick Revision](./16-Quick-Revision.md) | [README](./README.md) | [18 - Related Topics and Learning Map](./18-Related-Topics-and-Learning-Map.md) |
+| [← 16 - Quick Revision](./16-Quick-Revision.md) | [Index](../../../README.md) | [18 - Related Topics and Learning Map →](./18-Related-Topics-and-Learning-Map.md) |

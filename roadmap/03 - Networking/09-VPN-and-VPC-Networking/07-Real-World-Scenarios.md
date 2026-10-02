@@ -33,4 +33,4 @@ Rather than undergoing a 6-month database migration to re-IP Company B's VPC, th
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Zero Trust vs VPN](./06-Zero-Trust-Network-Access-ZTNA-vs-Perimeter-VPN.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Zero Trust Network Access ZTNA vs Perimeter VPN](./06-Zero-Trust-Network-Access-ZTNA-vs-Perimeter-VPN.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

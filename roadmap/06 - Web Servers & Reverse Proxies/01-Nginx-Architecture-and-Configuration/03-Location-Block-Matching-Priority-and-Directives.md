@@ -109,4 +109,4 @@ location /static/ {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Configuration File Hierarchy](./02-Configuration-File-Hierarchy-and-Contexts.md) | [README](./README.md) | [04 - URL Rewriting & Redirection](./04-URL-Rewriting-Redirection-and-Returns.md) |
+| [← 02 - Configuration File Hierarchy and Contexts](./02-Configuration-File-Hierarchy-and-Contexts.md) | [Index](../../../README.md) | [04 - URL Rewriting Redirection and Returns →](./04-URL-Rewriting-Redirection-and-Returns.md) |

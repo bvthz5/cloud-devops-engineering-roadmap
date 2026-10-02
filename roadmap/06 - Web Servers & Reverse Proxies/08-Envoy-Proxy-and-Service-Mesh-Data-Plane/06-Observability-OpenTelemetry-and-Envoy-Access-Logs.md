@@ -34,4 +34,4 @@ tracing:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - HTTP/2 & gRPC Bridging](./05-HTTP2-and-gRPC-Bridging-and-Transcoding.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - HTTP2 and gRPC Bridging and Transcoding](./05-HTTP2-and-gRPC-Bridging-and-Transcoding.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

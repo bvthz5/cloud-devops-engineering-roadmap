@@ -82,4 +82,4 @@ After splitting, move focus between panes using `Ctrl+W` prefix key combinations
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - File Operations Save and Quit](./07-File-Operations-Save-and-Quit.md) | [README](./README.md) | [09 - Practical DevOps Workflows](./09-Practical-DevOps-Workflows.md) |
+| [← 07 - File Operations Save and Quit](./07-File-Operations-Save-and-Quit.md) | [Index](../../../README.md) | [09 - Practical DevOps Workflows →](./09-Practical-DevOps-Workflows.md) |

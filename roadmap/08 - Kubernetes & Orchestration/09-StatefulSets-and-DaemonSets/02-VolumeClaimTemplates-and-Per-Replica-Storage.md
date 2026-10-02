@@ -46,4 +46,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - StatefulSet Architecture](./01-StatefulSet-Architecture-Stable-Network-and-Storage-Identity.md) | [README](./README.md) | [03 - Pod Management Policies](./03-OrderedReady-vs-Parallel-Pod-Management-Policies.md) |
+| [← 01 - StatefulSet Architecture Stable Network and Storage Identity](./01-StatefulSet-Architecture-Stable-Network-and-Storage-Identity.md) | [Index](../../../README.md) | [03 - OrderedReady vs Parallel Pod Management Policies →](./03-OrderedReady-vs-Parallel-Pod-Management-Policies.md) |

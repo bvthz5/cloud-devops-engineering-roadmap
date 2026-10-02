@@ -100,4 +100,4 @@ Leave `777` strictly for explicitly shared scratch spaces like `/tmp` (and alway
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Real World DevOps Scenarios](./09-Real-World-DevOps-Scenarios.md) | [README](./README.md) | [11 - Interview QA](./11-Interview-QA.md) |
+| [← 09 - Real World DevOps Scenarios](./09-Real-World-DevOps-Scenarios.md) | [Index](../../../README.md) | [11 - Interview QA →](./11-Interview-QA.md) |

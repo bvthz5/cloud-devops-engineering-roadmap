@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - OpenTelemetry OTel Collector Architecture and Standards](./02-OpenTelemetry-OTel-Collector-Architecture-and-Standards.md) | [Index](../../../README.md) | [04 - Unified Metrics and Alerting Prometheus Thanos and Cortex →](./04-Unified-Metrics-and-Alerting-Prometheus-Thanos-and-Cortex.md) |

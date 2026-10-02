@@ -12,4 +12,4 @@ Git excels at source code because text lines can be compared, diffed, and packed
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - LFS Architecture](./02-Git-LFS-Architecture-and-Pointer-Files.md) |
+| [← Prev Module (10-Git-Security-Signing-and-Supply-Chain)](../10-Git-Security-Signing-and-Supply-Chain/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Git LFS Architecture and Pointer Files →](./02-Git-LFS-Architecture-and-Pointer-Files.md) |

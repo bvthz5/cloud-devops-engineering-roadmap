@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - AKS Architecture](./01-AKS-Architecture-Managed-Control-Plane-and-Node-Pools.md) | [README](./README.md) | [03 - Workload Identity](./03-AKS-Authentication-Entra-ID-Integration-and-Workload-Identity.md) |
+| [← 01 - AKS Architecture Managed Control Plane and Node Pools](./01-AKS-Architecture-Managed-Control-Plane-and-Node-Pools.md) | [Index](../../../README.md) | [03 - AKS Authentication Entra ID Integration and Workload Identity →](./03-AKS-Authentication-Entra-ID-Integration-and-Workload-Identity.md) |

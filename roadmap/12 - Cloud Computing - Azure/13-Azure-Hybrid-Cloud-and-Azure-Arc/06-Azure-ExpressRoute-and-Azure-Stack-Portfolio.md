@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Arc Data Services](./05-Azure-Arc-Enabled-Data-Services.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Azure Arc Enabled Data Services](./05-Azure-Arc-Enabled-Data-Services.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

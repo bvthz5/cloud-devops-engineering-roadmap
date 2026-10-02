@@ -99,4 +99,4 @@ Kubernetes does not implement networking natively; it delegates networking to a 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Packet Analysis and Diagnostics](./05-Packet-Analysis-and-Diagnostics-tcpdump-traceroute-ping.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Packet Analysis and Diagnostics tcpdump traceroute ping](./05-Packet-Analysis-and-Diagnostics-tcpdump-traceroute-ping.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

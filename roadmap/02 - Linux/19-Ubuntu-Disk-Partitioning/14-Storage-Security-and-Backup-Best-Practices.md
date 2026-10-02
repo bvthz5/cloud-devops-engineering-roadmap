@@ -23,4 +23,4 @@ sudo dd if=/dev/sda status=progress | gzip > /backup/disk_image.img.gz
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Storage Performance and Capacity Troubleshooting](./13-Storage-Performance-and-Capacity-Troubleshooting.md) | [README](./README.md) | [15 - Hands On Partitioning Lab](./15-Hands-On-Partitioning-Lab.md) |
+| [← 13 - Storage Performance and Capacity Troubleshooting](./13-Storage-Performance-and-Capacity-Troubleshooting.md) | [Index](../../../README.md) | [15 - Hands On Partitioning Lab →](./15-Hands-On-Partitioning-Lab.md) |

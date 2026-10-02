@@ -22,3 +22,9 @@
 3. **Separate application source code from Kubernetes environment manifest repos**.
 4. **Use Sync Waves to control resource creation ordering** (CRDs -> Storage -> Apps).
 5. **Automate Canary rollbacks with Argo Rollouts + Prometheus** to limit production outage impact.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (04-Argo-Rollouts-Progressive-Delivery) →](../04-Argo-Rollouts-Progressive-Delivery/01-Argo-Rollouts-Architecture-Rollout-CRD-vs-Deployment.md) |

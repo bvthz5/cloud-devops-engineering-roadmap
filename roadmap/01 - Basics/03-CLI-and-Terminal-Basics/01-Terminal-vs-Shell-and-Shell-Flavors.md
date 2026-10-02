@@ -137,4 +137,4 @@ Shell ────┤
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Command Syntax Paths and Directory Navigation](./02-Command-Syntax-Paths-and-Directory-Navigation.md) |
+| [← Prev Module (02-OS-and-Kernel-Fundamentals)](../02-OS-and-Kernel-Fundamentals/18-Quick-Revision.md) | [Index](../../../README.md) | [02 - Command Syntax Paths and Directory Navigation →](./02-Command-Syntax-Paths-and-Directory-Navigation.md) |

@@ -10,4 +10,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Package & System Modules](./02-System-and-Package-Modules-apt-yum-dnf-service-systemd.md) | [README](./README.md) | [04 - User & Security Modules](./04-User-and-Security-Modules-user-group-authorized_key-copy.md) |
+| [← 02 - System and Package Modules apt yum dnf service systemd](./02-System-and-Package-Modules-apt-yum-dnf-service-systemd.md) | [Index](../../../README.md) | [04 - User and Security Modules user group authorized_key copy →](./04-User-and-Security-Modules-user-group-authorized_key-copy.md) |

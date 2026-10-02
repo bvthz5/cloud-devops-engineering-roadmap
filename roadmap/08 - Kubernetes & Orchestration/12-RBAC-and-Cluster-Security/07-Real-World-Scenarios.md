@@ -20,4 +20,4 @@ A security team deployed a custom validating webhook to enforce image vulnerabil
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Policy as Code](./06-Policy-as-Code-with-Kyverno-and-OPA-Gatekeeper.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Policy as Code with Kyverno and OPA Gatekeeper](./06-Policy-as-Code-with-Kyverno-and-OPA-Gatekeeper.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

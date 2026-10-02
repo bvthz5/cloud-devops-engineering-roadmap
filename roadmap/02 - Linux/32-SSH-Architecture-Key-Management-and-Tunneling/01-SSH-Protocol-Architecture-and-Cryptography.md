@@ -42,4 +42,4 @@ ssh-keygen -R 10.0.1.50
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Modern SSH Keys](./02-Modern-SSH-Key-Types-Ed25519-vs-RSA.md) |
+| [← Prev Module (31-Linux-Backup-Archiving-and-rsync)](../31-Linux-Backup-Archiving-and-rsync/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Modern SSH Key Types Ed25519 vs RSA →](./02-Modern-SSH-Key-Types-Ed25519-vs-RSA.md) |

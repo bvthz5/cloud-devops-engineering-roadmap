@@ -36,4 +36,4 @@ Configuration `/etc/fluent-bit/fluent-bit.conf`:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - copytruncate vs create](./04-copytruncate-vs-create-Signals.md) | [README](./README.md) | [06 - Security Auditing with auditd](./06-Auditing-Linux-with-auditd.md) |
+| [← 04 - copytruncate vs create Signals](./04-copytruncate-vs-create-Signals.md) | [Index](../../../README.md) | [06 - Auditing Linux with auditd →](./06-Auditing-Linux-with-auditd.md) |

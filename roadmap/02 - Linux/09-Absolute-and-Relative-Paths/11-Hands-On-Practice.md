@@ -47,8 +47,9 @@ Practical terminal labs to practice path navigation, relative traversals, and wi
    ```bash
    rm -f /tmp/test_*.log /tmp/data_*.txt
    ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Interview QA](./10-Interview-QA.md) | [README](./README.md) | [12 - MCQ](./12-MCQ.md) |
+| [← 10 - Interview QA](./10-Interview-QA.md) | [Index](../../../README.md) | [12 - MCQ →](./12-MCQ.md) |

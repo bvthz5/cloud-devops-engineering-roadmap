@@ -30,4 +30,4 @@ When cached content expires, the client sends a conditional validation request:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Nginx Microcaching](./02-Nginx-Microcaching-and-FastCGI-Proxy-Cache.md) |
+| [← Prev Module (04-SSL-TLS-Certificates-and-HTTPS)](../04-SSL-TLS-Certificates-and-HTTPS/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Nginx Microcaching and FastCGI Proxy Cache →](./02-Nginx-Microcaching-and-FastCGI-Proxy-Cache.md) |

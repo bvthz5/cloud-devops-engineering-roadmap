@@ -38,4 +38,4 @@ docker compose --profile debug up -d
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Environment & Secrets Management](./04-Environment-Variables-and-Secrets-Management.md) | [README](./README.md) | [06 - Production Deployments & Limits](./06-Production-Deployments-and-Resource-Limits.md) |
+| [← 04 - Environment Variables and Secrets Management](./04-Environment-Variables-and-Secrets-Management.md) | [Index](../../../README.md) | [06 - Production Deployments and Resource Limits →](./06-Production-Deployments-and-Resource-Limits.md) |

@@ -40,4 +40,4 @@ projects:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - GitLab CI](./03-GitLab-CI-for-Terraform.md) | [README](./README.md) | [05 - Jenkins Pipeline](./05-Jenkins-Terraform-Pipeline.md) |
+| [← 03 - GitLab CI for Terraform](./03-GitLab-CI-for-Terraform.md) | [Index](../../../README.md) | [05 - Jenkins Terraform Pipeline →](./05-Jenkins-Terraform-Pipeline.md) |

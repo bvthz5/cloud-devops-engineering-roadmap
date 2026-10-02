@@ -27,4 +27,4 @@ git sparse-checkout add libs/auth
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Subtrees vs Submodules](./03-git-subtree-vs-git-submodule-Comparison.md) | [README](./README.md) | [05 - Partial Clones](./05-Partial-Clones-Blobless-and-Treeless-Clones.md) |
+| [← 03 - git subtree vs git submodule Comparison](./03-git-subtree-vs-git-submodule-Comparison.md) | [Index](../../../README.md) | [05 - Partial Clones Blobless and Treeless Clones →](./05-Partial-Clones-Blobless-and-Treeless-Clones.md) |

@@ -39,4 +39,4 @@ http {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Connection Limiting & Bandwidth](./05-Connection-Limiting-and-Bandwidth-Throttling.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Connection Limiting and Bandwidth Throttling](./05-Connection-Limiting-and-Bandwidth-Throttling.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -30,4 +30,4 @@ docker run -d \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Static Image Vulnerability Scanning](./05-Static-Image-Vulnerability-Scanning.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Static Image Vulnerability Scanning](./05-Static-Image-Vulnerability-Scanning.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

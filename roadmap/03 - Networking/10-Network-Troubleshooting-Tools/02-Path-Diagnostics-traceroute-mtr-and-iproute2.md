@@ -48,4 +48,4 @@ ip route get 8.8.8.8
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Packet Capture](./01-Packet-Capture-tcpdump-and-Wireshark.md) | [README](./README.md) | [03 - Socket Inspection](./03-Socket-and-Connection-Inspection-ss-and-netstat.md) |
+| [← 01 - Packet Capture tcpdump and Wireshark](./01-Packet-Capture-tcpdump-and-Wireshark.md) | [Index](../../../README.md) | [03 - Socket and Connection Inspection ss and netstat →](./03-Socket-and-Connection-Inspection-ss-and-netstat.md) |

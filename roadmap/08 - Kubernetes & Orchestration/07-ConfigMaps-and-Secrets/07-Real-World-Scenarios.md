@@ -17,4 +17,4 @@ No pre-commit scanning was configured on developer workstations, and Secrets wer
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Reloader Automation](./06-Reloader-Automatic-Pod-Rollout-on-Config-Changes.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Reloader Automatic Pod Rollout on Config Changes](./06-Reloader-Automatic-Pod-Rollout-on-Config-Changes.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

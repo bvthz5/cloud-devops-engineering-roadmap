@@ -19,4 +19,4 @@ docker run --network host my_streaming_app
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [06 - Docker Compose](../06-Docker-Compose-Multi-Container-Apps/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (06-Docker-Compose-Multi-Container-Apps) →](../06-Docker-Compose-Multi-Container-Apps/01-Docker-Compose-v2-Specification-and-Architecture.md) |

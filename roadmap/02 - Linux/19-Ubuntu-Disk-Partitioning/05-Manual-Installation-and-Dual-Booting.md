@@ -17,4 +17,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Ubuntu Partition Layouts and Recommended Sizes](./04-Ubuntu-Partition-Layouts-and-Recommended-Sizes.md) | [README](./README.md) | [06 - Disk CLI Tools Lsblk Fdisk Parted Blkid](./06-Disk-CLI-Tools-Lsblk-Fdisk-Parted-Blkid.md) |
+| [← 04 - Ubuntu Partition Layouts and Recommended Sizes](./04-Ubuntu-Partition-Layouts-and-Recommended-Sizes.md) | [Index](../../../README.md) | [06 - Disk CLI Tools Lsblk Fdisk Parted Blkid →](./06-Disk-CLI-Tools-Lsblk-Fdisk-Parted-Blkid.md) |

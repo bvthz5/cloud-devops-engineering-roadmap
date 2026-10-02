@@ -10,4 +10,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - AWS CodeBuild](./02-AWS-CodeBuild-buildspec-yml-and-Build-Environments.md) |
+| [← Prev Module (12-AWS-Security-Organizations-Landing-Zones-and-Well-Architected)](../12-AWS-Security-Organizations-Landing-Zones-and-Well-Architected/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - AWS CodeBuild buildspec yml and Build Environments →](./02-AWS-CodeBuild-buildspec-yml-and-Build-Environments.md) |

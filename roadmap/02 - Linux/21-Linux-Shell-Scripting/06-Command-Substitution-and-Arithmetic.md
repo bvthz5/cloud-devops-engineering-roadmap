@@ -78,8 +78,9 @@ if [[ "$IS_OVERLOAD" -eq 1 ]]; then
   echo "WARNING: Server CPU load ($CURRENT_LOAD) exceeds threshold ($HIGH_LOAD)!"
 fi
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - User Input](./05-User-Input-and-Interactive-Scripts.md) | [README](./README.md) | [07 - File & String Tests](./07-File-String-and-Numeric-Tests.md) |
+| [← 05 - User Input and Interactive Scripts](./05-User-Input-and-Interactive-Scripts.md) | [Index](../../../README.md) | [07 - File String and Numeric Tests →](./07-File-String-and-Numeric-Tests.md) |

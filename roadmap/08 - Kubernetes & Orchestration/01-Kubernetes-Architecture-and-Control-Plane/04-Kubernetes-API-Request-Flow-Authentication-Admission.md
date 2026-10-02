@@ -50,4 +50,4 @@ Kubernetes avoids distributed database locks by implementing **Optimistic Concur
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Etcd Distributed Storage](./03-Etcd-Distributed-Storage-Quorum-and-Raft.md) | [README](./README.md) | [05 - HA Control Plane Topologies](./05-High-Availability-Control-Plane-Topologies.md) |
+| [← 03 - Etcd Distributed Storage Quorum and Raft](./03-Etcd-Distributed-Storage-Quorum-and-Raft.md) | [Index](../../../README.md) | [05 - High Availability Control Plane Topologies →](./05-High-Availability-Control-Plane-Topologies.md) |

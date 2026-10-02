@@ -21,8 +21,9 @@ Mastering path navigation and wildcard expansion is essential for shell scriptin
    Experiment with extended globbing (`extglob` options like `!(pattern)` in Bash).
 2. **Master `find` Path Searching:**
    Combine `find /path -name "*.log" -exec rm {} \;` for powerful path-based search and execution.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Quick Revision](./13-Quick-Revision.md) | [README](./README.md) | — |
+| [← 13 - Quick Revision](./13-Quick-Revision.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

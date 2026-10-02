@@ -77,4 +77,4 @@ static_resources:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - xDS Dynamic Configuration APIs](./02-xDS-Dynamic-Configuration-APIs.md) | [README](./README.md) | [04 - Resilience & Circuit Breaking](./04-Resilience-Circuit-Breaking-and-Outlier-Detection.md) |
+| [← 02 - xDS Dynamic Configuration APIs](./02-xDS-Dynamic-Configuration-APIs.md) | [Index](../../../README.md) | [04 - Resilience Circuit Breaking and Outlier Detection →](./04-Resilience-Circuit-Breaking-and-Outlier-Detection.md) |

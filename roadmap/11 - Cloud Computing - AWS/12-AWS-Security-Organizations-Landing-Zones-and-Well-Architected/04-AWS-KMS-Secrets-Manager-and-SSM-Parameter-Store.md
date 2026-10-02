@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - AWS Control Tower](./03-AWS-Control-Tower-and-Landing-Zone-Architecture.md) | [README](./README.md) | [05 - AWS Security Services](./05-AWS-Security-Services-GuardDuty-SecurityHub-WAF-Shield.md) |
+| [← 03 - AWS Control Tower and Landing Zone Architecture](./03-AWS-Control-Tower-and-Landing-Zone-Architecture.md) | [Index](../../../README.md) | [05 - AWS Security Services GuardDuty SecurityHub WAF Shield →](./05-AWS-Security-Services-GuardDuty-SecurityHub-WAF-Shield.md) |

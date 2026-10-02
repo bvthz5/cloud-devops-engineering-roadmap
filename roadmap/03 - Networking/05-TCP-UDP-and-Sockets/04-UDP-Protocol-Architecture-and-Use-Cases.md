@@ -29,4 +29,4 @@ User Datagram Protocol (UDP - RFC 768) provides lightweight, connectionless data
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - TCP States & Queues](./03-TCP-Connection-States-and-Socket-Queues.md) | [README](./README.md) | [05 - Network Sockets & BSD API](./05-Network-Sockets-and-the-BSD-Socket-API.md) |
+| [← 03 - TCP Connection States and Socket Queues](./03-TCP-Connection-States-and-Socket-Queues.md) | [Index](../../../README.md) | [05 - Network Sockets and the BSD Socket API →](./05-Network-Sockets-and-the-BSD-Socket-API.md) |

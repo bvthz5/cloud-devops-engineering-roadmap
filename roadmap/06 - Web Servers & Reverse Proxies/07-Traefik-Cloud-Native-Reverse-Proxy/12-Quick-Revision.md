@@ -23,4 +23,4 @@ curl http://localhost:8080/api/http/routers
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [08 - Envoy Proxy & Service Mesh](../08-Envoy-Proxy-and-Service-Mesh-Data-Plane/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (08-Envoy-Proxy-and-Service-Mesh-Data-Plane) →](../08-Envoy-Proxy-and-Service-Mesh-Data-Plane/01-Envoy-Architecture-Threading-and-Event-Model.md) |

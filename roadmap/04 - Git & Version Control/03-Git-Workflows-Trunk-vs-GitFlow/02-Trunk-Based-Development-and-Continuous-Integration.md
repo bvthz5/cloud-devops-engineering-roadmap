@@ -21,4 +21,4 @@ main (Trunk) ──► ● ───────► ● ────────
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - GitFlow](./01-GitFlow-Architecture-and-Lifecycle.md) | [README](./README.md) | [03 - GitHub & GitLab Flow](./03-GitHub-Flow-and-GitLab-Flow-Comparison.md) |
+| [← 01 - GitFlow Architecture and Lifecycle](./01-GitFlow-Architecture-and-Lifecycle.md) | [Index](../../../README.md) | [03 - GitHub Flow and GitLab Flow Comparison →](./03-GitHub-Flow-and-GitLab-Flow-Comparison.md) |

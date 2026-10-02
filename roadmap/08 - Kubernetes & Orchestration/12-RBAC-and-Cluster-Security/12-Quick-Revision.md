@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 13 - Helm Package Manager](../13-Helm-Package-Manager-and-Charts/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (13-Helm-Package-Manager-and-Charts) →](../13-Helm-Package-Manager-and-Charts/01-Helm-v3-Architecture-and-Release-Lifecycle.md) |

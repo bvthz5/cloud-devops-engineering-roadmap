@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 13 - Azure Hybrid & Arc](../13-Azure-Hybrid-Cloud-and-Azure-Arc/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (13-Azure-Hybrid-Cloud-and-Azure-Arc) →](../13-Azure-Hybrid-Cloud-and-Azure-Arc/01-Azure-Hybrid-Cloud-Strategy-and-Overview.md) |

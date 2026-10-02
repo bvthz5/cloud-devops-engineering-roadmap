@@ -43,4 +43,4 @@ Avoid handcrafted `MagicMock` objects for cloud APIs. Use **`moto`**, which emul
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Mutation Testing & Resilience](./06-Mutation-Testing-and-Resilience-Validation.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Mutation Testing and Resilience Validation](./06-Mutation-Testing-and-Resilience-Validation.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

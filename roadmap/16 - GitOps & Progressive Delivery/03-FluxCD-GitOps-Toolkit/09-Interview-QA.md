@@ -23,3 +23,9 @@ Sync Waves control the exact phase and order in which ArgoCD applies Kubernetes 
 **Answer**:
 - **Helm**: Parameter-driven templating engine (`values.yaml` + Jinja-like templates) ideal for packaging and distributing third-party off-the-shelf software (e.g., Redis, NGINX).
 - **Kustomize**: Template-free overlay engine that uses base manifests and environment patches (`kustomization.yaml`), ideal for managing first-party internal microservice variations across Dev, Staging, and Prod.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

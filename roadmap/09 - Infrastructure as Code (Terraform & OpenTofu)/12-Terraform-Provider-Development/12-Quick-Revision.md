@@ -14,4 +14,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 13 - Import & Refactoring](../13-Terraform-Import-Move-and-Refactoring/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (13-Terraform-Import-Move-and-Refactoring) →](../13-Terraform-Import-Move-and-Refactoring/01-terraform-import-CLI-and-Import-Block.md) |

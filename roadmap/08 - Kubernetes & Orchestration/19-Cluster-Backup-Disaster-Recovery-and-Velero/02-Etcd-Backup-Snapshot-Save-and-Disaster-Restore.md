@@ -29,4 +29,4 @@ sudo ETCDCTL_API=3 etcdctl   snapshot restore /var/backups/etcd-backup.db   --da
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - DR Strategy](./01-Kubernetes-Disaster-Recovery-Strategy-RTO-and-RPO.md) | [README](./README.md) | [03 - Velero Architecture](./03-Velero-Architecture-and-CSI-VolumeSnapshot-Integration.md) |
+| [← 01 - Kubernetes Disaster Recovery Strategy RTO and RPO](./01-Kubernetes-Disaster-Recovery-Strategy-RTO-and-RPO.md) | [Index](../../../README.md) | [03 - Velero Architecture and CSI VolumeSnapshot Integration →](./03-Velero-Architecture-and-CSI-VolumeSnapshot-Integration.md) |

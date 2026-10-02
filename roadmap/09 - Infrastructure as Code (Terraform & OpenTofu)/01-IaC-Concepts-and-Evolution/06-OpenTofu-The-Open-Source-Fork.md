@@ -84,4 +84,4 @@ terraform {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - IaC in SDLC](./05-IaC-in-the-SDLC-and-DevOps-Pipeline.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - IaC in the SDLC and DevOps Pipeline](./05-IaC-in-the-SDLC-and-DevOps-Pipeline.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

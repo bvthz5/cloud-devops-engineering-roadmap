@@ -42,4 +42,4 @@ To prevent a compromised host from tampering with its own logs, forward logs imm
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Linux Logging Architecture](./01-Linux-Logging-Architecture-and-var-log.md) | [README](./README.md) | [03 - Logrotate Deep Dive](./03-Logrotate-Configuration-and-Retention-Policies.md) |
+| [← 01 - Linux Logging Architecture and var log](./01-Linux-Logging-Architecture-and-var-log.md) | [Index](../../../README.md) | [03 - Logrotate Configuration and Retention Policies →](./03-Logrotate-Configuration-and-Retention-Policies.md) |

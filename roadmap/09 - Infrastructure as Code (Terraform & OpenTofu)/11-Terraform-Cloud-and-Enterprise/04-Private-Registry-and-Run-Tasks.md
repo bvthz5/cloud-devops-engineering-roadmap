@@ -27,4 +27,4 @@ Run Tasks are webhooks triggered before or after a plan, enabling integrations w
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Sentinel Policies](./03-Sentinel-Policy-Enforcement.md) | [README](./README.md) | [05 - Agent Pools](./05-Agent-Pools-and-Self-Hosted-Runners.md) |
+| [← 03 - Sentinel Policy Enforcement](./03-Sentinel-Policy-Enforcement.md) | [Index](../../../README.md) | [05 - Agent Pools and Self Hosted Runners →](./05-Agent-Pools-and-Self-Hosted-Runners.md) |

@@ -24,3 +24,9 @@ DORA (DevOps Research and Assessment) measures performance using 4 core metrics:
 ### Q3: Why is Kaniko preferred over Docker-in-Docker for building container images in Kubernetes CI pipelines?
 **Answer**:
 Docker-in-Docker requires running the build container in **privileged mode** (`--privileged`), which creates severe security vulnerabilities on shared Kubernetes nodes. **Kaniko** builds container images from a Dockerfile inside a container or Kubernetes pod without relying on a Docker daemon or privileged host access.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

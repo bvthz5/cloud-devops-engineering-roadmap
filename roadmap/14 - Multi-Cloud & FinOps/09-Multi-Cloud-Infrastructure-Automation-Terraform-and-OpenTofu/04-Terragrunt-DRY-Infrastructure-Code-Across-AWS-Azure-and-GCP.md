@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - OpenTofu Open Source Fork and Migration Strategies](./03-OpenTofu-Open-Source-Fork-and-Migration-Strategies.md) | [Index](../../../README.md) | [05 - Cross Cloud Dependency Management Data Sources and Outputs →](./05-Cross-Cloud-Dependency-Management-Data-Sources-and-Outputs.md) |

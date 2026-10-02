@@ -80,4 +80,4 @@ vpc_id = module.networking.vpc_id
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Variables](./02-Variables-Types-Validation-and-Precedence.md) |
+| [← Prev Module (02-Terraform-Architecture-and-CLI)](../02-Terraform-Architecture-and-CLI/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Variables Types Validation and Precedence →](./02-Variables-Types-Validation-and-Precedence.md) |

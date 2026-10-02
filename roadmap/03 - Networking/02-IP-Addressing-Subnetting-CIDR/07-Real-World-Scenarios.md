@@ -22,4 +22,4 @@ A Kubernetes EKS cluster uses AWS VPC CNI. During a major deployment, newly crea
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - IPv6 Architecture](./06-IPv6-Architecture-and-Migration.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - IPv6 Architecture and Migration](./06-IPv6-Architecture-and-Migration.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

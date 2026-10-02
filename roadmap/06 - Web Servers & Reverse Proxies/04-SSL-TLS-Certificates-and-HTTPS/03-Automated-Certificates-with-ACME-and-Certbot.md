@@ -38,4 +38,4 @@ sudo certbot renew --dry-run
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Certificate Authorities & PKI](./02-Certificate-Authorities-Chains-and-Trust-Stores.md) | [README](./README.md) | [04 - High-Performance TLS Tuning](./04-High-Performance-TLS-Tuning-and-Session-Resumption.md) |
+| [← 02 - Certificate Authorities Chains and Trust Stores](./02-Certificate-Authorities-Chains-and-Trust-Stores.md) | [Index](../../../README.md) | [04 - High Performance TLS Tuning and Session Resumption →](./04-High-Performance-TLS-Tuning-and-Session-Resumption.md) |

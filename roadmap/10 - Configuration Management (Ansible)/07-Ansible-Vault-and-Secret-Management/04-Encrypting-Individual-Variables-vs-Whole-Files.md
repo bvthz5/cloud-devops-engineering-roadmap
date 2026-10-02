@@ -15,4 +15,4 @@ db_password: !vault |
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Vault IDs](./03-Vault-Passwords-Vault-ID-and-Multiple-Vault-Keys.md) | [README](./README.md) | [05 - External Secret Stores](./05-Integrating-Ansible-with-External-Secret-Stores.md) |
+| [← 03 - Vault Passwords Vault ID and Multiple Vault Keys](./03-Vault-Passwords-Vault-ID-and-Multiple-Vault-Keys.md) | [Index](../../../README.md) | [05 - Integrating Ansible with External Secret Stores →](./05-Integrating-Ansible-with-External-Secret-Stores.md) |

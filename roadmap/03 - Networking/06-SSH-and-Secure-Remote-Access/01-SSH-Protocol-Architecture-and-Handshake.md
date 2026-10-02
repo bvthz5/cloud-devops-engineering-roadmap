@@ -14,4 +14,4 @@ SSH-2 is a three-tier architecture providing encrypted remote terminal sessions 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Modern SSH Keys](./02-Modern-SSH-Keys-Ed25519-vs-RSA.md) |
+| [← Prev Module (05-TCP-UDP-and-Sockets)](../05-TCP-UDP-and-Sockets/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Modern SSH Keys Ed25519 vs RSA →](./02-Modern-SSH-Keys-Ed25519-vs-RSA.md) |

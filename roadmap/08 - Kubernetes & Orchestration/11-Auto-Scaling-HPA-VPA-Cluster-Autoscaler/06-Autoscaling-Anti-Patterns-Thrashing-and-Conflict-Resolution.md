@@ -22,4 +22,4 @@ The HPA status will display: `TARGETS: <unknown>/50%` and will fail to scale.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Karpenter Autoscaling](./05-Karpenter-Next-Generation-Just-in-Time-Node-Autoscaling.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Karpenter Next Generation Just in Time Node Autoscaling](./05-Karpenter-Next-Generation-Just-in-Time-Node-Autoscaling.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

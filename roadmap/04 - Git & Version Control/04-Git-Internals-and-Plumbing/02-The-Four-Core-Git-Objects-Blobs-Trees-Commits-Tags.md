@@ -45,4 +45,4 @@ Git is fundamentally a **Content-Addressable Key-Value Store**.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Inside .git](./01-Inside-the-dot-git-Directory-Anatomy.md) | [README](./README.md) | [03 - Plumbing vs Porcelain](./03-Plumbing-vs-Porcelain-Commands-Deep-Dive.md) |
+| [← 01 - Inside the dot git Directory Anatomy](./01-Inside-the-dot-git-Directory-Anatomy.md) | [Index](../../../README.md) | [03 - Plumbing vs Porcelain Commands Deep Dive →](./03-Plumbing-vs-Porcelain-Commands-Deep-Dive.md) |

@@ -70,4 +70,4 @@ control_path      = %(directory)s/ansible-ssh-%%h-%%p-%%r
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Execution Flow](./03-Ansible-Execution-Flow-and-Module-Transport.md) | [README](./README.md) | [05 - SSH Keys & Sudo](./05-SSH-Key-Management-Sudo-and-Privilege-Escalation.md) |
+| [← 03 - Ansible Execution Flow and Module Transport](./03-Ansible-Execution-Flow-and-Module-Transport.md) | [Index](../../../README.md) | [05 - SSH Key Management Sudo and Privilege Escalation →](./05-SSH-Key-Management-Sudo-and-Privilege-Escalation.md) |

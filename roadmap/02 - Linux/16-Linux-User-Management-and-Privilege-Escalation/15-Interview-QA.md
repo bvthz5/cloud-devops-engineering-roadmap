@@ -78,4 +78,4 @@ User management and privilege escalation are core topics in any Linux security, 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - Troubleshooting](./14-Troubleshooting.md) | [README](./README.md) | [16 - Hands On Terminal Practice](./16-Hands-On-Terminal-Practice.md) |
+| [← 14 - Troubleshooting](./14-Troubleshooting.md) | [Index](../../../README.md) | [16 - Hands On Terminal Practice →](./16-Hands-On-Terminal-Practice.md) |

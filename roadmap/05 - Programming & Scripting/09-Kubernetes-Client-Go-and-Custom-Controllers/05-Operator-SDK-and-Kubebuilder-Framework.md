@@ -62,4 +62,4 @@ Beyond reconciliation, operators frequently inject mutating defaults or enforce 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Writing a Controller Reconcile Loop](./04-Writing-a-Kubernetes-Controller-The-Reconcile-Loop.md) | [README](./README.md) | [06 - Building CLIs with Cobra and Viper](./06-Building-Enterprise-CLIs-with-Cobra-and-Viper.md) |
+| [← 04 - Writing a Kubernetes Controller The Reconcile Loop](./04-Writing-a-Kubernetes-Controller-The-Reconcile-Loop.md) | [Index](../../../README.md) | [06 - Building Enterprise CLIs with Cobra and Viper →](./06-Building-Enterprise-CLIs-with-Cobra-and-Viper.md) |

@@ -5,3 +5,9 @@ Deep architectural overview for SCA: Software Composition Analysis with Trivy & 
 - System Topology & Component Interactions
 - High Availability, Resilience, and Deployment Topologies
 - Integration points with DevOps pipelines
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Core Concepts](./01-Core-Concepts.md) | [Index](../../../README.md) | [03 - Installation and Setup →](./03-Installation-and-Setup.md) |

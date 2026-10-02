@@ -27,4 +27,4 @@ During migration from local backend to S3, an engineer ran `terraform init` with
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Version Management](./06-Version-Management-tfenv-tofuenv-and-Required-Versions.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Version Management tfenv tofuenv and Required Versions](./06-Version-Management-tfenv-tofuenv-and-Required-Versions.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

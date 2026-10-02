@@ -18,4 +18,4 @@ Compose automatically detects configuration files in the following order:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Service Definitions & Networks](./02-Service-Definitions-Networks-and-Volumes.md) |
+| [← Prev Module (05-Docker-Networking)](../05-Docker-Networking/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Service Definitions Networks and Volumes →](./02-Service-Definitions-Networks-and-Volumes.md) |

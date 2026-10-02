@@ -163,4 +163,4 @@ yq -p=toml -o=json config.toml
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - XML Deep Dive Syntax Namespaces and Schemas](./04-XML-Deep-Dive-Syntax-Namespaces-and-Schemas.md) | [README](./README.md) | [06 - Comparison Matrices JSON YAML XML TOML](./06-Comparison-Matrices-JSON-YAML-XML-TOML.md) |
+| [← 04 - XML Deep Dive Syntax Namespaces and Schemas](./04-XML-Deep-Dive-Syntax-Namespaces-and-Schemas.md) | [Index](../../../README.md) | [06 - Comparison Matrices JSON YAML XML TOML →](./06-Comparison-Matrices-JSON-YAML-XML-TOML.md) |

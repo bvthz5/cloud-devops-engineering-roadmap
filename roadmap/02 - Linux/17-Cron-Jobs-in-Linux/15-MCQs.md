@@ -109,4 +109,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - Interview Questions](./14-Interview-Questions.md) | [README](./README.md) | [16 - Quick Revision](./16-Quick-Revision.md) |
+| [← 14 - Interview Questions](./14-Interview-Questions.md) | [Index](../../../README.md) | [16 - Quick Revision →](./16-Quick-Revision.md) |

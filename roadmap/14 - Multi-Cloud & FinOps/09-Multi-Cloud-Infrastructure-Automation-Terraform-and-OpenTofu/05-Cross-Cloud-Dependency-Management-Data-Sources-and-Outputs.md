@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Terragrunt DRY Infrastructure Code Across AWS Azure and GCP](./04-Terragrunt-DRY-Infrastructure-Code-Across-AWS-Azure-and-GCP.md) | [Index](../../../README.md) | [06 - Automating Multi Cloud Pipelines with HCP Terraform and Spacelift →](./06-Automating-Multi-Cloud-Pipelines-with-HCP-Terraform-and-Spacelift.md) |

@@ -31,4 +31,4 @@ echo "[$(date -u +'%Y-%m-%dT%H:%M:%SZ')] Backup finished successfully!" >> "$LOG
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - rsync Synchronization](./02-rsync-Remote-Synchronization-Deep-Dive.md) | [README](./README.md) | [04 - Snapshot-Based Backups](./04-Snapshot-Based-Backups-LVM-and-Btrfs.md) |
+| [← 02 - rsync Remote Synchronization Deep Dive](./02-rsync-Remote-Synchronization-Deep-Dive.md) | [Index](../../../README.md) | [04 - Snapshot Based Backups LVM and Btrfs →](./04-Snapshot-Based-Backups-LVM-and-Btrfs.md) |

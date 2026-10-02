@@ -30,4 +30,4 @@ Because TLS handshake occurs **before** HTTP headers are sent, the server wouldn
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - HTTP Request & Response](./02-HTTP-Request-and-Response-Anatomy.md) | [README](./README.md) | [04 - HTTP Caching](./04-HTTP-Caching-and-Conditional-Requests.md) |
+| [← 02 - HTTP Request and Response Anatomy](./02-HTTP-Request-and-Response-Anatomy.md) | [Index](../../../README.md) | [04 - HTTP Caching and Conditional Requests →](./04-HTTP-Caching-and-Conditional-Requests.md) |

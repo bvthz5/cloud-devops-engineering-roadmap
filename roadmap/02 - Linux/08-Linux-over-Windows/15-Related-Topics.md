@@ -23,8 +23,9 @@ Understanding why Linux is preferred over Windows forms the operational foundati
    Learn variables, conditionals, loops, functions, and error handling for automated server administration.
 2. **Explore Container Runtimes (Docker / Podman):**
    Build minimal Linux container images and inspect container namespaces and resource caps.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - Quick Revision](./14-Quick-Revision.md) | [README](./README.md) | — |
+| [← 14 - Quick Revision](./14-Quick-Revision.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

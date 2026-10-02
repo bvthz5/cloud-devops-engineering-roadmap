@@ -33,4 +33,4 @@ An **Autonomous System (AS)** is a collection of connected IP routing prefixes u
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Path Selection](./02-BGP-Path-Selection-Attributes-and-Metrics.md) |
+| [← Prev Module (10-Network-Troubleshooting-Tools)](../10-Network-Troubleshooting-Tools/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - BGP Path Selection Attributes and Metrics →](./02-BGP-Path-Selection-Attributes-and-Metrics.md) |

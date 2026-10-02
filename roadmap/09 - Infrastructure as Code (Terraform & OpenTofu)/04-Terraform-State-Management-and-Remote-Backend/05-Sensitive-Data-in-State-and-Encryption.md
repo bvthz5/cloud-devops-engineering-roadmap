@@ -46,4 +46,4 @@ output "db_connection_string" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - State Commands](./04-State-Commands-mv-rm-import-taint-untaint.md) | [README](./README.md) | [06 - State Splitting](./06-State-Splitting-and-Multi-State-Architecture.md) |
+| [← 04 - State Commands mv rm import taint untaint](./04-State-Commands-mv-rm-import-taint-untaint.md) | [Index](../../../README.md) | [06 - State Splitting and Multi State Architecture →](./06-State-Splitting-and-Multi-State-Architecture.md) |

@@ -36,4 +36,4 @@ A standard IPv4 header is 20 bytes long:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Layer 2 Data Link](./04-Layer-2-Data-Link-MAC-and-Switches.md) | [README](./README.md) | [06 - L4 vs L7 in Cloud](./06-Layer-4-vs-Layer-7-Networking-in-Cloud.md) |
+| [← 04 - Layer 2 Data Link MAC and Switches](./04-Layer-2-Data-Link-MAC-and-Switches.md) | [Index](../../../README.md) | [06 - Layer 4 vs Layer 7 Networking in Cloud →](./06-Layer-4-vs-Layer-7-Networking-in-Cloud.md) |

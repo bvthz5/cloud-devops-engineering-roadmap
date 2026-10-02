@@ -69,4 +69,4 @@ systemctl list-timers
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Hardening & Sandboxing](./03-Hardening-and-Sandboxing-Services.md) | [README](./README.md) | [05 - journald Structured Logging](./05-journald-Deep-Dive-and-Structured-Logging.md) |
+| [← 03 - Hardening and Sandboxing Services](./03-Hardening-and-Sandboxing-Services.md) | [Index](../../../README.md) | [05 - journald Deep Dive and Structured Logging →](./05-journald-Deep-Dive-and-Structured-Logging.md) |

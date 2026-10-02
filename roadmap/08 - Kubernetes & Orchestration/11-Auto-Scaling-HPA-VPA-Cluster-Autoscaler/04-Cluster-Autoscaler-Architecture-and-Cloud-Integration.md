@@ -25,4 +25,4 @@ The **Cluster Autoscaler** adjusts the size of the worker node pool when:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Vertical Pod Autoscaler](./03-Vertical-Pod-Autoscaler-VPA-Modes-and-Recommender.md) | [README](./README.md) | [05 - Karpenter Autoscaling](./05-Karpenter-Next-Generation-Just-in-Time-Node-Autoscaling.md) |
+| [← 03 - Vertical Pod Autoscaler VPA Modes and Recommender](./03-Vertical-Pod-Autoscaler-VPA-Modes-and-Recommender.md) | [Index](../../../README.md) | [05 - Karpenter Next Generation Just in Time Node Autoscaling →](./05-Karpenter-Next-Generation-Just-in-Time-Node-Autoscaling.md) |

@@ -63,4 +63,4 @@ vmstat 1 5
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - High CPU Usage](./02-High-CPU-Usage-and-Load-Average-Diagnosis.md) | [README](./README.md) | [04 - Disk Space Leak & Deleted Open Files](./04-Disk-Space-Exhaustion-and-Deleted-Open-Files.md) |
+| [← 02 - High CPU Usage and Load Average Diagnosis](./02-High-CPU-Usage-and-Load-Average-Diagnosis.md) | [Index](../../../README.md) | [04 - Disk Space Exhaustion and Deleted Open Files →](./04-Disk-Space-Exhaustion-and-Deleted-Open-Files.md) |

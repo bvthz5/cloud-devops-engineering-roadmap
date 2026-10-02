@@ -50,3 +50,9 @@ aws iam create-role     --role-name MultiCloudGcpAccessRole     --assume-role-po
 # Attach S3 Read Only Access
 aws iam attach-role-policy     --role-name MultiCloudGcpAccessRole     --policy-arn arn:aws:iam::aws:policy/AmazonS3ReadOnlyAccess
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 09 - Interview QA](./09-Interview-QA.md) | [Index](../../../README.md) | [11 - MCQ →](./11-MCQ.md) |

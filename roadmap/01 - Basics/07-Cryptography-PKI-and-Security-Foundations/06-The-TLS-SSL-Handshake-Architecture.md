@@ -42,4 +42,4 @@ In legacy TLS with static RSA key exchange, if an attacker recorded encrypted ne
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - PKI & X.509](./05-Public-Key-Infrastructure-PKI-and-X509.md) | [README](./README.md) | [07 - Password Security & KDFs](./07-Password-Security-Salts-and-KDFs.md) |
+| [← 05 - Public Key Infrastructure PKI and X509](./05-Public-Key-Infrastructure-PKI-and-X509.md) | [Index](../../../README.md) | [07 - Password Security Salts and KDFs →](./07-Password-Security-Salts-and-KDFs.md) |

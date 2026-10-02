@@ -42,4 +42,4 @@ Collections use Fully Qualified Collection Names (FQCN):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - SSH Keys & Sudo](./05-SSH-Key-Management-Sudo-and-Privilege-Escalation.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - SSH Key Management Sudo and Privilege Escalation](./05-SSH-Key-Management-Sudo-and-Privilege-Escalation.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

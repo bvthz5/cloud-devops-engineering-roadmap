@@ -93,4 +93,4 @@ help export
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - History Completion Prompt and Shell Config Files](./08-History-Completion-Prompt-and-Shell-Config-Files.md) | [README](./README.md) | [10 - Text Processing Pipelines and Data Wrangling](./10-Text-Processing-Pipelines-and-Data-Wrangling.md) |
+| [← 08 - History Completion Prompt and Shell Config Files](./08-History-Completion-Prompt-and-Shell-Config-Files.md) | [Index](../../../README.md) | [10 - Text Processing Pipelines and Data Wrangling →](./10-Text-Processing-Pipelines-and-Data-Wrangling.md) |

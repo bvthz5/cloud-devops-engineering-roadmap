@@ -34,8 +34,9 @@ findmnt /boot
 # 4. Check if /var/log is a separate partition
 df -h /var/log
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - FHS Mental Model](./12-FHS-Mental-Model.md) | [README](./README.md) | [14 - Real World Scenarios](./14-Real-World-Scenarios.md) |
+| [← 12 - FHS Mental Model](./12-FHS-Mental-Model.md) | [Index](../../../README.md) | [14 - Real World Scenarios →](./14-Real-World-Scenarios.md) |

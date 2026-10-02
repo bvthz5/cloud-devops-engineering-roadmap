@@ -36,4 +36,4 @@ A custom CI/CD automation script polled `kube-apiserver` every 5 seconds executi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Cloud Controller Manager](./06-Cloud-Controller-Manager-and-Provider-Integrations.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Cloud Controller Manager and Provider Integrations](./06-Cloud-Controller-Manager-and-Provider-Integrations.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Edge Locations](./03-Edge-Locations-CloudFront-and-AWS-Global-Accelerator.md) | [README](./README.md) | [05 - Data Sovereignty](./05-Data-Sovereignty-Compliance-and-Latency-Optimization.md) |
+| [← 03 - Edge Locations CloudFront and AWS Global Accelerator](./03-Edge-Locations-CloudFront-and-AWS-Global-Accelerator.md) | [Index](../../../README.md) | [05 - Data Sovereignty Compliance and Latency Optimization →](./05-Data-Sovereignty-Compliance-and-Latency-Optimization.md) |

@@ -55,3 +55,9 @@ kubectl delete svc guestbook-ui
 # Verify ArgoCD recreates service automatically within seconds
 kubectl get svc guestbook-ui
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 09 - Interview QA](./09-Interview-QA.md) | [Index](../../../README.md) | [11 - MCQ →](./11-MCQ.md) |

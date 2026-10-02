@@ -48,4 +48,4 @@ sudo partprobe /dev/sdb
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - LVM Architecture](./02-LVM-Logical-Volume-Manager-Architecture.md) |
+| [← Prev Module (27-systemd-Service-Management-and-Journald)](../27-systemd-Service-Management-and-Journald/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - LVM Logical Volume Manager Architecture →](./02-LVM-Logical-Volume-Manager-Architecture.md) |

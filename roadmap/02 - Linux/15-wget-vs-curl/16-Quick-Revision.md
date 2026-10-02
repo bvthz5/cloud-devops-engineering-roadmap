@@ -75,4 +75,4 @@ wget -m -k -p https://example.com
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [15 - MCQs](./15-MCQs.md) | [README](./README.md) | [17 - Related Topics](./17-Related-Topics.md) |
+| [← 15 - MCQs](./15-MCQs.md) | [Index](../../../README.md) | [17 - Related Topics →](./17-Related-Topics.md) |

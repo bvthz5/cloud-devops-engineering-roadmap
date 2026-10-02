@@ -23,3 +23,9 @@ The FinOps Lifecycle is an iterative management framework consisting of:
 ### Q3: How does Kubecost calculate resource costs on shared Kubernetes clusters?
 **Answer**:
 Kubecost integrates with cloud provider billing APIs (AWS, Azure, GCP) to get exact node and disk pricing. It then tracks individual Pod container CPU/Memory **requests and actual usage** over time, calculating exact monetary cost per Pod, Namespace, Service, or Label.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

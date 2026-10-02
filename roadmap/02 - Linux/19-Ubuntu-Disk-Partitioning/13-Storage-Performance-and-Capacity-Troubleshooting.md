@@ -32,4 +32,4 @@ If `df -h` shows space available but files cannot be written:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Resizing Filesystem Checks and Fsck](./12-Resizing-Filesystem-Checks-and-Fsck.md) | [README](./README.md) | [14 - Storage Security and Backup Best Practices](./14-Storage-Security-and-Backup-Best-Practices.md) |
+| [← 12 - Resizing Filesystem Checks and Fsck](./12-Resizing-Filesystem-Checks-and-Fsck.md) | [Index](../../../README.md) | [14 - Storage Security and Backup Best Practices →](./14-Storage-Security-and-Backup-Best-Practices.md) |

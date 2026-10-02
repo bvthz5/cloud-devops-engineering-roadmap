@@ -45,4 +45,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - VCS-Driven Runs](./02-VCS-Driven-Runs-and-Speculative-Plans.md) |
+| [← Prev Module (10-Terraform-Best-Practices-and-Security)](../10-Terraform-Best-Practices-and-Security/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - VCS Driven Runs and Speculative Plans →](./02-VCS-Driven-Runs-and-Speculative-Plans.md) |

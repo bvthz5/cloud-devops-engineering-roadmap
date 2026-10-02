@@ -51,4 +51,4 @@ apk add wget curl
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - When to use each](./02-When-to-use-each.md) |
+| [← Prev Module (14-Process-Management-in-Linux)](../14-Process-Management-in-Linux/SOURCE.md) | [Index](../../../README.md) | [02 - When to use each →](./02-When-to-use-each.md) |

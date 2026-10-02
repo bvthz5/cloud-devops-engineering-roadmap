@@ -19,4 +19,4 @@ IAM Roles issue **short-lived temporary credentials** (`sts:AssumeRole`).
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Users & Groups](./02-IAM-Users-Groups-and-Access-Keys.md) | [README](./README.md) | [04 - Policy JSON Structure](./04-IAM-Policies-JSON-Structure-Identity-vs-Resource.md) |
+| [← 02 - IAM Users Groups and Access Keys](./02-IAM-Users-Groups-and-Access-Keys.md) | [Index](../../../README.md) | [04 - IAM Policies JSON Structure Identity vs Resource →](./04-IAM-Policies-JSON-Structure-Identity-vs-Resource.md) |

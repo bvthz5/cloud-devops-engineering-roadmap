@@ -46,8 +46,9 @@ type ls
 type -t ls
 # Output: file (meaning an external executable file on disk)
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Command Flow ls cat networking](./09-Command-Flow-ls-cat-networking.md) | [README](./README.md) | [11 - Practical Commands](./11-Practical-Commands.md) |
+| [← 09 - Command Flow ls cat networking](./09-Command-Flow-ls-cat-networking.md) | [Index](../../../README.md) | [11 - Practical Commands →](./11-Practical-Commands.md) |

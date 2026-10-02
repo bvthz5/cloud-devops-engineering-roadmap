@@ -48,4 +48,4 @@ if __name__ == "__main__":
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Disk Watchdog](./01-Disk-Space-Watchdog-and-Log-Cleaner-Template.md) | [README](./README.md) | [03 - K8s Auto-Remediator](./03-Kubernetes-Pod-Health-Auto-Remediator-Template.md) |
+| [← 01 - Disk Space Watchdog and Log Cleaner Template](./01-Disk-Space-Watchdog-and-Log-Cleaner-Template.md) | [Index](../../../README.md) | [03 - Kubernetes Pod Health Auto Remediator Template →](./03-Kubernetes-Pod-Health-Auto-Remediator-Template.md) |

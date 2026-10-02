@@ -6,4 +6,4 @@ Project Azure ARM management plane to non-Azure physical or virtual servers (AWS
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Hybrid Cloud Overview](./01-Azure-Hybrid-Cloud-Strategy-and-Overview.md) | [README](./README.md) | [03 - Azure Arc Kubernetes](./03-Azure-Arc-Enabled-Kubernetes-Clusters.md) |
+| [← 01 - Azure Hybrid Cloud Strategy and Overview](./01-Azure-Hybrid-Cloud-Strategy-and-Overview.md) | [Index](../../../README.md) | [03 - Azure Arc Enabled Kubernetes Clusters →](./03-Azure-Arc-Enabled-Kubernetes-Clusters.md) |

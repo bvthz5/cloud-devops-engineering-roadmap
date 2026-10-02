@@ -19,4 +19,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [09 - VPN & VPC](../09-VPN-and-VPC-Networking/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (09-VPN-and-VPC-Networking) →](../09-VPN-and-VPC-Networking/01-VPN-Protocols-IPsec-WireGuard-and-OpenVPN.md) |

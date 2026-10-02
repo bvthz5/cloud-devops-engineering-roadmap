@@ -41,4 +41,4 @@ In ultra-scale Layer 4 load balancing (used by Google Maglev, Cloudflare Unimog,
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Proxies & Gateways](./02-Reverse-Proxies-Forward-Proxies-and-Gateways.md) |
+| [← Prev Module (07-Firewalls-iptables-and-UFW)](../07-Firewalls-iptables-and-UFW/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Reverse Proxies Forward Proxies and Gateways →](./02-Reverse-Proxies-Forward-Proxies-and-Gateways.md) |

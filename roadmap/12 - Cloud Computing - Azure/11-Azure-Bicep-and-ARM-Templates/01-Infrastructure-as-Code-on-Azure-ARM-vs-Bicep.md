@@ -10,4 +10,4 @@ Bicep is a domain-specific language (DSL) for deploying Azure resources declarat
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Bicep Syntax](./02-Bicep-Language-Syntax-Parameters-Variables-and-Outputs.md) |
+| [← Prev Module (10-Azure-Monitor-Log-Analytics-and-Application-Insights)](../10-Azure-Monitor-Log-Analytics-and-Application-Insights/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Bicep Language Syntax Parameters Variables and Outputs →](./02-Bicep-Language-Syntax-Parameters-Variables-and-Outputs.md) |

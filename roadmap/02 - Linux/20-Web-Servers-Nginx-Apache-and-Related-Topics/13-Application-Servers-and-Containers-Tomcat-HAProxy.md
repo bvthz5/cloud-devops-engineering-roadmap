@@ -33,4 +33,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Modern Web Servers Caddy IIS lighttpd](./12-Modern-Web-Servers-Caddy-IIS-lighttpd.md) | [README](./README.md) | [14 - Static vs Dynamic App Execution PHP FPM Node Python](./14-Static-vs-Dynamic-App-Execution-PHP-FPM-Node-Python.md) |
+| [← 12 - Modern Web Servers Caddy IIS lighttpd](./12-Modern-Web-Servers-Caddy-IIS-lighttpd.md) | [Index](../../../README.md) | [14 - Static vs Dynamic App Execution PHP FPM Node Python →](./14-Static-vs-Dynamic-App-Execution-PHP-FPM-Node-Python.md) |

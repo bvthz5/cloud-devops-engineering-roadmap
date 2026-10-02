@@ -16,4 +16,4 @@ cdktf synth compiles your TypeScript/Python/Go code into Terraform-compatible JS
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Hands-On Practice](./10-Hands-On-Practice.md) | [README](./README.md) | [12 - Quick Revision](./12-Quick-Revision.md) |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

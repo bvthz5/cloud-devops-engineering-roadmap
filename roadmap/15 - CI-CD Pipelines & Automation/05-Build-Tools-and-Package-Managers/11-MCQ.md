@@ -34,3 +34,9 @@ Which database migration pattern allows deploying new application code without b
 - [ ] D) Lock-Table Pattern
 
 *Explanation: Expand-Contract introduces schema changes incrementally to ensure backward compatibility during deployments.*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

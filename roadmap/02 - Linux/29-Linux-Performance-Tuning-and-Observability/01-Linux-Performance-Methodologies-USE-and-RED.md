@@ -37,4 +37,4 @@ Formulated by Tom Wilkie, the **RED Method** applies to services and microservic
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - CPU Profiling](./02-CPU-Profiling-and-Bottleneck-Analysis.md) |
+| [← Prev Module (28-Advanced-Storage-LVM-RAID-and-Filesystems)](../28-Advanced-Storage-LVM-RAID-and-Filesystems/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - CPU Profiling and Bottleneck Analysis →](./02-CPU-Profiling-and-Bottleneck-Analysis.md) |

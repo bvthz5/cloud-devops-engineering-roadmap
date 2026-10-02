@@ -6,4 +6,4 @@ Provisioning AWS EKS cluster infrastructure and deploying application Helm chart
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Cloud IAM Authentication](./06-Cloud-Credentials-Handling-and-IAM-Authentication.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Cloud Credentials Handling and IAM Authentication](./06-Cloud-Credentials-Handling-and-IAM-Authentication.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

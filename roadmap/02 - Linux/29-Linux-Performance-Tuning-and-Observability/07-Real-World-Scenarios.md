@@ -29,4 +29,4 @@ A thread enters `D` state when waiting for an uninterruptible kernel system call
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Kernel Tuning with sysctl](./06-Linux-Kernel-Tuning-with-sysctl.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Linux Kernel Tuning with sysctl](./06-Linux-Kernel-Tuning-with-sysctl.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

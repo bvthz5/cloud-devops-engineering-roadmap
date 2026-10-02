@@ -51,8 +51,9 @@ Wrap paths containing spaces in double quotes or escape spaces with backslashes:
 cd "/home/user/my documents"
 cd /home/user/my\ documents
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Real World Production Scenarios](./08-Real-World-Production-Scenarios.md) | [README](./README.md) | [10 - Interview QA](./10-Interview-QA.md) |
+| [← 08 - Real World Production Scenarios](./08-Real-World-Production-Scenarios.md) | [Index](../../../README.md) | [10 - Interview QA →](./10-Interview-QA.md) |

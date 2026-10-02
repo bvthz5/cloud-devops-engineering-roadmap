@@ -75,4 +75,4 @@ rpm -qpl package.rpm
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 25 - Linux Networking and DNS Troubleshooting](../25-Linux-Networking-and-DNS-Troubleshooting/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (25-Linux-Networking-and-DNS-Troubleshooting) →](../25-Linux-Networking-and-DNS-Troubleshooting/01-Linux-Network-Stack-and-Device-Model.md) |

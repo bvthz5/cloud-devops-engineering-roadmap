@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Pod Resource Rightsizing CPU Memory Requests vs Limits](./04-Pod-Resource-Rightsizing-CPU-Memory-Requests-vs-Limits.md) | [Index](../../../README.md) | [06 - Kubecost Savings Recommendations and CI CD Integration →](./06-Kubecost-Savings-Recommendations-and-CI-CD-Integration.md) |

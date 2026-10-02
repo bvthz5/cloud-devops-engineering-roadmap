@@ -44,4 +44,4 @@ cgroupDriver: systemd
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - K3s & MicroK8s](./05-Lightweight-Edge-Kubernetes-with-K3s-and-MicroK8s.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Lightweight Edge Kubernetes with K3s and MicroK8s](./05-Lightweight-Edge-Kubernetes-with-K3s-and-MicroK8s.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

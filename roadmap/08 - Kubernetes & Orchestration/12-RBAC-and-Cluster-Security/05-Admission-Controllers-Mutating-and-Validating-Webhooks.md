@@ -17,4 +17,4 @@ API Request ──► Mutating Webhook (Modifies YAML) ──► Schema Validati
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Pod Security Admission](./04-Pod-Security-Admission-PSA-Privileged-Baseline-Restricted.md) | [README](./README.md) | [06 - Policy as Code](./06-Policy-as-Code-with-Kyverno-and-OPA-Gatekeeper.md) |
+| [← 04 - Pod Security Admission PSA Privileged Baseline Restricted](./04-Pod-Security-Admission-PSA-Privileged-Baseline-Restricted.md) | [Index](../../../README.md) | [06 - Policy as Code with Kyverno and OPA Gatekeeper →](./06-Policy-as-Code-with-Kyverno-and-OPA-Gatekeeper.md) |

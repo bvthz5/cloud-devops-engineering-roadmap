@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Git Commit Signing GPG SSH Keys and Enforcement](./04-Git-Commit-Signing-GPG-SSH-Keys-and-Enforcement.md) | [Index](../../../README.md) | [06 - Audit Logging Compliance and SOC2 Controls →](./06-Audit-Logging-Compliance-and-SOC2-Controls.md) |

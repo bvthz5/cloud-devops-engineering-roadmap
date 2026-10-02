@@ -25,4 +25,4 @@ Publish to private registry     Pin module versions
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Monorepo vs Polyrepo](./01-Monorepo-vs-Polyrepo-for-IaC.md) | [README](./README.md) | [03 - State Architecture](./03-State-Architecture-at-Scale.md) |
+| [← 01 - Monorepo vs Polyrepo for IaC](./01-Monorepo-vs-Polyrepo-for-IaC.md) | [Index](../../../README.md) | [03 - State Architecture at Scale →](./03-State-Architecture-at-Scale.md) |

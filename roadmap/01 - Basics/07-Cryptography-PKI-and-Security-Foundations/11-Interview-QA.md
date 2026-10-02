@@ -19,4 +19,4 @@ PFS is a feature of secure communication protocols where a compromise of the ser
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Troubleshooting](./10-Troubleshooting.md) | [README](./README.md) | [12 - Hands-On Practice](./12-Hands-On-Practice.md) |
+| [← 10 - Troubleshooting](./10-Troubleshooting.md) | [Index](../../../README.md) | [12 - Hands On Practice →](./12-Hands-On-Practice.md) |

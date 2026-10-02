@@ -22,4 +22,4 @@ sudo update-ca-certificates
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Entropy & Randomness](./08-Entropy-Randomness-and-dev-urandom.md) | [README](./README.md) | [10 - Troubleshooting](./10-Troubleshooting.md) |
+| [← 08 - Entropy Randomness and dev urandom](./08-Entropy-Randomness-and-dev-urandom.md) | [Index](../../../README.md) | [10 - Troubleshooting →](./10-Troubleshooting.md) |

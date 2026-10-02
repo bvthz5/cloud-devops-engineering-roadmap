@@ -11,4 +11,4 @@ Using HashiCorp Vault lookup plugin:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Inline Encrypted Variables](./04-Encrypting-Individual-Variables-vs-Whole-Files.md) | [README](./README.md) | [06 - Vault Keys in CI/CD](./06-Securing-Vault-Keys-in-CI-CD-Pipelines.md) |
+| [← 04 - Encrypting Individual Variables vs Whole Files](./04-Encrypting-Individual-Variables-vs-Whole-Files.md) | [Index](../../../README.md) | [06 - Securing Vault Keys in CI CD Pipelines →](./06-Securing-Vault-Keys-in-CI-CD-Pipelines.md) |

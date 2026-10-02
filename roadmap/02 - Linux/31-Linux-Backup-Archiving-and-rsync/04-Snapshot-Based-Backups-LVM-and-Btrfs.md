@@ -32,4 +32,4 @@ sudo lvremove -y /dev/vg_production/lv_db_snap
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Automated Backups over SSH](./03-Automated-Backups-over-SSH.md) | [README](./README.md) | [05 - Disaster Recovery RPO & RTO](./05-Disaster-Recovery-Strategies-RPO-and-RTO.md) |
+| [← 03 - Automated Backups over SSH](./03-Automated-Backups-over-SSH.md) | [Index](../../../README.md) | [05 - Disaster Recovery Strategies RPO and RTO →](./05-Disaster-Recovery-Strategies-RPO-and-RTO.md) |

@@ -80,4 +80,4 @@ Process management is a core competency tested heavily in DevOps and SysAdmin in
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Troubleshooting Checklists](./13-Troubleshooting-Checklists.md) | [README](./README.md) | [15 - Hands On Terminal Practice](./15-Hands-On-Terminal-Practice.md) |
+| [← 13 - Troubleshooting Checklists](./13-Troubleshooting-Checklists.md) | [Index](../../../README.md) | [15 - Hands On Terminal Practice →](./15-Hands-On-Terminal-Practice.md) |

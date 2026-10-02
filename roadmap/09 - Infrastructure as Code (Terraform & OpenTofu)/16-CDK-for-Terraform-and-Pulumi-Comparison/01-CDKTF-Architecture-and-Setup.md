@@ -44,4 +44,4 @@ app.synth();
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Constructs & Stacks](./02-CDKTF-Constructs-and-Stacks.md) |
+| [← Prev Module (15-Terraform-at-Scale-Monorepo-and-Multi-Team)](../15-Terraform-at-Scale-Monorepo-and-Multi-Team/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - CDKTF Constructs and Stacks →](./02-CDKTF-Constructs-and-Stacks.md) |

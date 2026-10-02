@@ -23,4 +23,4 @@ openssl rsa -noout -modulus -in server.key | openssl md5
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Real-World Scenarios](./09-Real-World-Scenarios.md) | [README](./README.md) | [11 - Interview Q&A](./11-Interview-QA.md) |
+| [← 09 - Real World Scenarios](./09-Real-World-Scenarios.md) | [Index](../../../README.md) | [11 - Interview QA →](./11-Interview-QA.md) |

@@ -88,4 +88,4 @@ provisioner "local-exec" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Connection Blocks](./02-Connection-Blocks-SSH-and-WinRM.md) |
+| [← Prev Module (05-Terraform-Modules-and-Reusable-Design)](../05-Terraform-Modules-and-Reusable-Design/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Connection Blocks SSH and WinRM →](./02-Connection-Blocks-SSH-and-WinRM.md) |

@@ -38,4 +38,4 @@ A startup managed ALL infrastructure (networking, compute, databases, monitoring
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - OpenTofu](./06-OpenTofu-The-Open-Source-Fork.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - OpenTofu The Open Source Fork](./06-OpenTofu-The-Open-Source-Fork.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -87,4 +87,4 @@ foreach ($b in $allBuckets) {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Azure PowerShell Automation](./05-Azure-PowerShell-Az-Module-and-Automation.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Azure PowerShell Az Module and Automation](./05-Azure-PowerShell-Az-Module-and-Automation.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -12,4 +12,4 @@ fields @timestamp, @message, status
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - CloudWatch Metrics](./01-Amazon-CloudWatch-Metrics-Alarms-and-Dashboards.md) | [README](./README.md) | [03 - AWS CloudTrail](./03-AWS-CloudTrail-Management-and-Data-Events.md) |
+| [← 01 - Amazon CloudWatch Metrics Alarms and Dashboards](./01-Amazon-CloudWatch-Metrics-Alarms-and-Dashboards.md) | [Index](../../../README.md) | [03 - AWS CloudTrail Management and Data Events →](./03-AWS-CloudTrail-Management-and-Data-Events.md) |

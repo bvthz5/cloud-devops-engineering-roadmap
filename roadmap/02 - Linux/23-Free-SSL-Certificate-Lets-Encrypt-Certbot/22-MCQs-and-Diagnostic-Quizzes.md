@@ -54,4 +54,4 @@ What command tests automated renewal without modifying live certificates?
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [21 - Interview Q&A](./21-DevOps-SSL-Interview-Questions-and-Answers.md) | [README](./README.md) | [23 - Quick Revision Notes](./23-Quick-Revision-Notes.md) |
+| [← 21 - DevOps SSL Interview Questions and Answers](./21-DevOps-SSL-Interview-Questions-and-Answers.md) | [Index](../../../README.md) | [23 - Quick Revision Notes →](./23-Quick-Revision-Notes.md) |

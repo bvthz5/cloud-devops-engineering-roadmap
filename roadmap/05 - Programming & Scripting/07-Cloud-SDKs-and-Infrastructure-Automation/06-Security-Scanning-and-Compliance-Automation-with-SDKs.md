@@ -54,4 +54,4 @@ if __name__ == "__main__":
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Automated Cloud Cost Optimization](./05-Automated-Cloud-Cost-Optimization-and-Janitor-Scripts.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Automated Cloud Cost Optimization and Janitor Scripts](./05-Automated-Cloud-Cost-Optimization-and-Janitor-Scripts.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

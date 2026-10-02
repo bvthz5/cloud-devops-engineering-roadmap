@@ -33,4 +33,4 @@ metadata:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Rewrite & Custom Headers](./05-Rewrite-Target-Custom-Headers-and-CORS-Policies.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Rewrite Target Custom Headers and CORS Policies](./05-Rewrite-Target-Custom-Headers-and-CORS-Policies.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

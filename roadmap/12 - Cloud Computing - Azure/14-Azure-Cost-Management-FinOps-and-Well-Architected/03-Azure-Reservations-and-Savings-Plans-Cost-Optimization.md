@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Tagging Governance](./02-Resource-Tagging-Governance-and-Cost-Allocation.md) | [README](./README.md) | [04 - Azure Advisor](./04-Azure-Advisor-Cost-Recommendations-and-Right-Sizing.md) |
+| [← 02 - Resource Tagging Governance and Cost Allocation](./02-Resource-Tagging-Governance-and-Cost-Allocation.md) | [Index](../../../README.md) | [04 - Azure Advisor Cost Recommendations and Right Sizing →](./04-Azure-Advisor-Cost-Recommendations-and-Right-Sizing.md) |

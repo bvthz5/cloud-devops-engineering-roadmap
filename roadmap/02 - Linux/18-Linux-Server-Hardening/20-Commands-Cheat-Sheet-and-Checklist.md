@@ -42,4 +42,4 @@ sudo sysctl --system
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [19 - MCQs and Quick Revision](./19-MCQs-and-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |
+| [← 19 - MCQs and Quick Revision](./19-MCQs-and-Quick-Revision.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

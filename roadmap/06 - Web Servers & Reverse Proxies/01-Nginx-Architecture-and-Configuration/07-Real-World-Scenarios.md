@@ -57,4 +57,4 @@ Operating system user limits defaulted `nofile` to 1024, while `worker_connectio
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Nginx Performance Tuning](./06-Nginx-Performance-Tuning-and-Kernel-Directives.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Nginx Performance Tuning and Kernel Directives](./06-Nginx-Performance-Tuning-and-Kernel-Directives.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

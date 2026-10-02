@@ -56,4 +56,4 @@ sudo sysctl --system
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Historical Monitoring](./05-Historical-System-Activity-Monitoring-sysstat-sar.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Historical System Activity Monitoring sysstat sar](./05-Historical-System-Activity-Monitoring-sysstat-sar.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

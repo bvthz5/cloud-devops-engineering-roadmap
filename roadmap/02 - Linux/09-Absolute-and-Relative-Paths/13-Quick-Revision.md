@@ -18,8 +18,9 @@ A 5-minute high-density reference sheet for Linux path syntax, directory symbols
 | **Single Wildcard** | `?` | Matches exactly 1 character. | `ls log?.txt` |
 | **Range Match** | `[a-z]` | Matches 1 character in range. | `ls file[1-5].txt` |
 | **Brace Expansion** | `{a,b}` | Generates literal comma strings. | `mkdir -p {bin,src}` |
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - MCQ](./12-MCQ.md) | [README](./README.md) | [14 - Related Topics](./14-Related-Topics.md) |
+| [← 12 - MCQ](./12-MCQ.md) | [Index](../../../README.md) | [14 - Related Topics →](./14-Related-Topics.md) |

@@ -43,4 +43,4 @@ dig -x 8.8.8.8 +short
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Port Testing](./04-Port-Scanning-and-Testing-nc-socat-and-nmap.md) | [README](./README.md) | [06 - Bandwidth & MTU Testing](./06-Bandwidth-and-Latency-Testing-iperf3-and-ping.md) |
+| [← 04 - Port Scanning and Testing nc socat and nmap](./04-Port-Scanning-and-Testing-nc-socat-and-nmap.md) | [Index](../../../README.md) | [06 - Bandwidth and Latency Testing iperf3 and ping →](./06-Bandwidth-and-Latency-Testing-iperf3-and-ping.md) |

@@ -25,4 +25,4 @@ While `kube-scheduler` makes decisions when pods are created, node utilization c
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Topology Spread Constraints](./05-Topology-Spread-Constraints-Multi-AZ-High-Availability.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Topology Spread Constraints Multi AZ High Availability](./05-Topology-Spread-Constraints-Multi-AZ-High-Availability.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

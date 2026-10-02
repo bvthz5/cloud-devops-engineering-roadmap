@@ -18,4 +18,4 @@ stages:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Repos & Branch Policies](./02-Azure-Repos-and-Branch-Policies.md) | [README](./README.md) | [04 - Agent Pools](./04-Agent-Pools-Microsoft-Hosted-vs-Self-Hosted-Agents.md) |
+| [← 02 - Azure Repos and Branch Policies](./02-Azure-Repos-and-Branch-Policies.md) | [Index](../../../README.md) | [04 - Agent Pools Microsoft Hosted vs Self Hosted Agents →](./04-Agent-Pools-Microsoft-Hosted-vs-Self-Hosted-Agents.md) |

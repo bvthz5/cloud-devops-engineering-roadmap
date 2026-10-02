@@ -98,4 +98,4 @@ Use this only when automatic restarts are intentionally part of the design.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Cron Syntax](./03-Cron-Syntax.md) | [README](./README.md) | [05 - Special Shortcuts](./05-Special-Shortcuts.md) |
+| [← 03 - Cron Syntax](./03-Cron-Syntax.md) | [Index](../../../README.md) | [05 - Special Shortcuts →](./05-Special-Shortcuts.md) |

@@ -23,3 +23,9 @@ The Expand-Contract pattern breaks breaking database changes into multi-step, ba
 ### Q3: Why are Multi-Stage Docker builds critical in enterprise CI/CD pipelines?
 **Answer**:
 Multi-stage builds allow separating build-time dependencies (compilers, SDKs, dev dependencies) from runtime artifacts. The final production image copies only compiled binaries or dist folders into a minimal base image (like Alpine or Distroless), reducing image size by up to 90% and drastically shrinking the security attack surface.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

@@ -42,4 +42,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Parallel Jobs](./02-Parallel-Jobs-and-Work-Queue-Processing.md) |
+| [← Prev Module (09-StatefulSets-and-DaemonSets)](../09-StatefulSets-and-DaemonSets/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Parallel Jobs and Work Queue Processing →](./02-Parallel-Jobs-and-Work-Queue-Processing.md) |

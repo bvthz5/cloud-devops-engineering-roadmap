@@ -68,4 +68,4 @@ sudo certbot renew --dry-run
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Nginx Load Balancing Algorithms and Health Checks](./05-Nginx-Load-Balancing-Algorithms-and-Health-Checks.md) | [README](./README.md) | [07 - Caching Compression Gzip Brotli and HTTP Headers](./07-Caching-Compression-Gzip-Brotli-and-HTTP-Headers.md) |
+| [← 05 - Nginx Load Balancing Algorithms and Health Checks](./05-Nginx-Load-Balancing-Algorithms-and-Health-Checks.md) | [Index](../../../README.md) | [07 - Caching Compression Gzip Brotli and HTTP Headers →](./07-Caching-Compression-Gzip-Brotli-and-HTTP-Headers.md) |

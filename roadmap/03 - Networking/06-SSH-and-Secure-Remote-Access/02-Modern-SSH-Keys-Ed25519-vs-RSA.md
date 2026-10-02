@@ -25,4 +25,4 @@ chmod 644 ~/.ssh/id_ed25519.pub
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - SSH Protocol Architecture](./01-SSH-Protocol-Architecture-and-Handshake.md) | [README](./README.md) | [03 - Hardening OpenSSH Server](./03-Hardening-OpenSSH-Server-sshd_config.md) |
+| [← 01 - SSH Protocol Architecture and Handshake](./01-SSH-Protocol-Architecture-and-Handshake.md) | [Index](../../../README.md) | [03 - Hardening OpenSSH Server sshd_config →](./03-Hardening-OpenSSH-Server-sshd_config.md) |

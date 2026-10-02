@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - State Architecture](./03-State-Architecture-at-Scale.md) | [README](./README.md) | [05 - Performance Optimization](./05-Performance-Optimization-Large-States.md) |
+| [← 03 - State Architecture at Scale](./03-State-Architecture-at-Scale.md) | [Index](../../../README.md) | [05 - Performance Optimization Large States →](./05-Performance-Optimization-Large-States.md) |

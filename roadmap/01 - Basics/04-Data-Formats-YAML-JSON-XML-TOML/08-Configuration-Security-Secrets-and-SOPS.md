@@ -149,4 +149,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Config Management Environments and Templating](./07-Config-Management-Environments-and-Templating.md) | [README](./README.md) | [09 - Real World Scenarios](./09-Real-World-Scenarios.md) |
+| [← 07 - Config Management Environments and Templating](./07-Config-Management-Environments-and-Templating.md) | [Index](../../../README.md) | [09 - Real World Scenarios →](./09-Real-World-Scenarios.md) |

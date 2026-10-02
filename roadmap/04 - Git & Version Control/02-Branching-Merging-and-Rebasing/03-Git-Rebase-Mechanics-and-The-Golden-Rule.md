@@ -33,4 +33,4 @@ Rebasing replaces existing commits with **completely new commit hashes**. If tea
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Merge Strategies](./02-Merge-Strategies-Fast-Forward-vs-3-Way.md) | [README](./README.md) | [04 - Interactive Rebasing](./04-Interactive-Rebasing-Squash-Fixup-and-Edit.md) |
+| [← 02 - Merge Strategies Fast Forward vs 3 Way](./02-Merge-Strategies-Fast-Forward-vs-3-Way.md) | [Index](../../../README.md) | [04 - Interactive Rebasing Squash Fixup and Edit →](./04-Interactive-Rebasing-Squash-Fixup-and-Edit.md) |

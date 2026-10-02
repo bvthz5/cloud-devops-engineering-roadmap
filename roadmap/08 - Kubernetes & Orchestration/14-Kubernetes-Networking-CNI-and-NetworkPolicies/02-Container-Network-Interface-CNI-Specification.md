@@ -12,4 +12,4 @@ When a Pod is scheduled, `kubelet` calls the configured CNI binary:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Networking Model](./01-Kubernetes-Networking-Model-and-IP-per-Pod-Rule.md) | [README](./README.md) | [03 - Calico CNI & BGP](./03-Calico-CNI-BGP-Routing-and-IP-Pools.md) |
+| [← 01 - Kubernetes Networking Model and IP per Pod Rule](./01-Kubernetes-Networking-Model-and-IP-per-Pod-Rule.md) | [Index](../../../README.md) | [03 - Calico CNI BGP Routing and IP Pools →](./03-Calico-CNI-BGP-Routing-and-IP-Pools.md) |

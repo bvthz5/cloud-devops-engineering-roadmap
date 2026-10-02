@@ -111,4 +111,4 @@ The shell provides a built-in **Job Control** subsystem to suspend, resume, and 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Streams Redirection Pipes and FDs](./06-Streams-Redirection-Pipes-and-FDs.md) | [README](./README.md) | [08 - History Completion Prompt and Shell Config Files](./08-History-Completion-Prompt-and-Shell-Config-Files.md) |
+| [← 06 - Streams Redirection Pipes and FDs](./06-Streams-Redirection-Pipes-and-FDs.md) | [Index](../../../README.md) | [08 - History Completion Prompt and Shell Config Files →](./08-History-Completion-Prompt-and-Shell-Config-Files.md) |

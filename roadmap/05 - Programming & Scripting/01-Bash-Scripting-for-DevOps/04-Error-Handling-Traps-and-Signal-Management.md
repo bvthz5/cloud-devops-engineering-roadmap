@@ -40,4 +40,4 @@ trap 'echo "ERROR: Command failed at line $LINENO with exit code $?" >&2' ERR
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Argument Parsing](./03-CLI-Argument-Parsing-with-getopts.md) | [README](./README.md) | [05 - Stream Processing](./05-Stream-Processing-with-jq-awk-and-sed.md) |
+| [← 03 - CLI Argument Parsing with getopts](./03-CLI-Argument-Parsing-with-getopts.md) | [Index](../../../README.md) | [05 - Stream Processing with jq awk and sed →](./05-Stream-Processing-with-jq-awk-and-sed.md) |

@@ -25,4 +25,4 @@ caddy validate
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [10 - Web Security, WAF & Hardening](../10-Web-Security-WAF-and-Hardening/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (10-Web-Security-WAF-and-Hardening) →](../10-Web-Security-WAF-and-Hardening/01-Web-Application-Firewall-WAF-Architecture.md) |

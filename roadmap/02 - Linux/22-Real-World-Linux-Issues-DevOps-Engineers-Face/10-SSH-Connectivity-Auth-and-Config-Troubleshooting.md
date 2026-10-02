@@ -46,4 +46,4 @@ Permission denied (publickey).
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Port Conflicts](./09-Port-Conflicts-and-Socket-Binding-Failures.md) | [README](./README.md) | [11 - Firewall & Security Groups](./11-Firewall-Security-Groups-and-Network-Blocking.md) |
+| [← 09 - Port Conflicts and Socket Binding Failures](./09-Port-Conflicts-and-Socket-Binding-Failures.md) | [Index](../../../README.md) | [11 - Firewall Security Groups and Network Blocking →](./11-Firewall-Security-Groups-and-Network-Blocking.md) |

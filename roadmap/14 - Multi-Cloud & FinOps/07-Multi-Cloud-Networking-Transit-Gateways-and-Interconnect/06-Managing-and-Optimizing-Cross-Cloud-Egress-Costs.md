@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 05 - Multi Cloud DNS Routing and Global Traffic Management](./05-Multi-Cloud-DNS-Routing-and-Global-Traffic-Management.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

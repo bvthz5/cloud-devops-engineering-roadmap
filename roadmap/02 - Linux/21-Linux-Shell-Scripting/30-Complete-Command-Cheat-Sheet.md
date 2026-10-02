@@ -42,8 +42,9 @@ awk '{print $1}' log.txt          # Print 1st column
 sort -nr                          # Numeric reverse sort
 uniq -c                           # Count unique occurrences
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [29 - Quick Revision Notes](./29-Quick-Revision-Notes.md) | [README](./README.md) | [31 - Production Scripting Checklist](./31-Production-Scripting-Checklist.md) |
+| [← 29 - Quick Revision Notes](./29-Quick-Revision-Notes.md) | [Index](../../../README.md) | [31 - Production Scripting Checklist →](./31-Production-Scripting-Checklist.md) |

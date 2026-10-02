@@ -91,3 +91,9 @@ pipeline {
 - [GitHub Actions Official Documentation](https://docs.github.com/en/actions)
 - [GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)
 - [Jenkins User Handbook](https://www.jenkins.io/doc/book/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (01-CI-CD-Foundations-and-Best-Practices)](../01-CI-CD-Foundations-and-Best-Practices/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - GitHub Actions Workflow Syntax Triggers and Matrix Builds →](./02-GitHub-Actions-Workflow-Syntax-Triggers-and-Matrix-Builds.md) |

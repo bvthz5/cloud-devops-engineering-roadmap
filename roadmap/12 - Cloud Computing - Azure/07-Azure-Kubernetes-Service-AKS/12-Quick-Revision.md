@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 08 - App Services & Functions](../08-Azure-App-Services-and-Azure-Functions-Serverless/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (08-Azure-App-Services-and-Azure-Functions-Serverless) →](../08-Azure-App-Services-and-Azure-Functions-Serverless/01-Azure-App-Service-Architecture-and-App-Service-Plans.md) |

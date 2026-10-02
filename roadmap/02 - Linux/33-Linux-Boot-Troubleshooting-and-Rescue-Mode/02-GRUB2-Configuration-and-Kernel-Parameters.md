@@ -43,4 +43,4 @@ At the GRUB boot menu, pressing `e` allows you to temporarily edit the kernel bo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Linux Boot Process](./01-Linux-Boot-Process-Deep-Dive-UEFI-GRUB2-Initrd.md) | [README](./README.md) | [03 - Initramfs & Dracut](./03-Initramfs-and-Dracut-Internals.md) |
+| [← 01 - Linux Boot Process Deep Dive UEFI GRUB2 Initrd](./01-Linux-Boot-Process-Deep-Dive-UEFI-GRUB2-Initrd.md) | [Index](../../../README.md) | [03 - Initramfs and Dracut Internals →](./03-Initramfs-and-Dracut-Internals.md) |

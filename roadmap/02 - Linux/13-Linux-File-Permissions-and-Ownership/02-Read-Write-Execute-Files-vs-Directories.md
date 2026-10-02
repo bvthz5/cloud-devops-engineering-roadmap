@@ -69,4 +69,4 @@ The `/tmp` directory is unique. Everyone needs to create files there, so it has 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Permission Fundamentals](./01-Permission-Fundamentals.md) | [README](./README.md) | [03 - Ownership and Groups](./03-Ownership-and-Groups.md) |
+| [← 01 - Permission Fundamentals](./01-Permission-Fundamentals.md) | [Index](../../../README.md) | [03 - Ownership and Groups →](./03-Ownership-and-Groups.md) |

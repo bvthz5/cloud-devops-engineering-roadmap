@@ -52,3 +52,9 @@ custodian run --dryrun -s ./output-logs policy.yml
 # Inspect identified unattached volumes
 cat ./output-logs/ebs-unattached-waste-cleanup/resources.json | jq .
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 09 - Interview QA](./09-Interview-QA.md) | [Index](../../../README.md) | [11 - MCQ →](./11-MCQ.md) |

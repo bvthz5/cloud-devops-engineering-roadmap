@@ -73,4 +73,4 @@ Without idempotency, the imperative script would create 3 instances.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - IaC Tooling Landscape](./02-IaC-Tooling-Landscape-Terraform-Pulumi-CloudFormation.md) |
+| [← Prev Section (08 - Kubernetes & Orchestration)](../../08%20-%20Kubernetes%20%26%20Orchestration/19-Cluster-Backup-Disaster-Recovery-and-Velero/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - IaC Tooling Landscape Terraform Pulumi CloudFormation →](./02-IaC-Tooling-Landscape-Terraform-Pulumi-CloudFormation.md) |

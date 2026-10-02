@@ -6,4 +6,4 @@ Routing unauthorized security group changes from CloudTrail via EventBridge to S
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - CloudWatch Synthetics](./06-CloudWatch-Synthetics-Canaries-and-Service-Lens.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - CloudWatch Synthetics Canaries and Service Lens](./06-CloudWatch-Synthetics-Canaries-and-Service-Lens.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

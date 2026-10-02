@@ -94,4 +94,4 @@ This spawns a sub-shell where `devops` becomes the user's active primary group f
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - User Modification and Deletion](./05-User-Modification-and-Deletion.md) | [README](./README.md) | [07 - Sudo Privilege Escalation and Sudoers](./07-Sudo-Privilege-Escalation-and-Sudoers.md) |
+| [← 05 - User Modification and Deletion](./05-User-Modification-and-Deletion.md) | [Index](../../../README.md) | [07 - Sudo Privilege Escalation and Sudoers →](./07-Sudo-Privilege-Escalation-and-Sudoers.md) |

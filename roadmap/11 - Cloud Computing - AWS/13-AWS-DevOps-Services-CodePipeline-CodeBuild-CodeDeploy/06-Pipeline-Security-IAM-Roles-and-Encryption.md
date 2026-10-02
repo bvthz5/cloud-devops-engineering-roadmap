@@ -6,4 +6,4 @@ Configuring CodePipeline service roles and KMS artifact bucket encryption.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - AWS AppConfig](./05-AWS-AppConfig-Parameter-Store-and-Feature-Flags.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - AWS AppConfig Parameter Store and Feature Flags](./05-AWS-AppConfig-Parameter-Store-and-Feature-Flags.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

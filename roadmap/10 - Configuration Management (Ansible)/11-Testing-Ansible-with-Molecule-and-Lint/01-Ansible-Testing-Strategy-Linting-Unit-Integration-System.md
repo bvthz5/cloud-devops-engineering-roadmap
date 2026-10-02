@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Static Analysis & ansible-lint](./02-Static-Analysis-with-ansible-lint-and-yamllint.md) |
+| [← Prev Module (10-AWX-Ansible-Automation-Platform-and-Tower)](../10-AWX-Ansible-Automation-Platform-and-Tower/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Static Analysis with ansible lint and yamllint →](./02-Static-Analysis-with-ansible-lint-and-yamllint.md) |

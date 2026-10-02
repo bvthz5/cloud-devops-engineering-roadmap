@@ -73,8 +73,9 @@ $ sudo find /var/www/app -type f -exec chmod 644 {} +
 # 3. Grant execute permission strictly to shell scripts:
 $ sudo find /var/www/app -type f -name "*.sh" -exec chmod +x {} +
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - Archives and Compression](./16-Archives-and-Compression.md) | [README](./README.md) | [18 - Troubleshooting](./18-Troubleshooting.md) |
+| [← 16 - Archives and Compression](./16-Archives-and-Compression.md) | [Index](../../../README.md) | [18 - Troubleshooting →](./18-Troubleshooting.md) |

@@ -20,4 +20,4 @@ kubectl patch database test-db -p '{"metadata":{"finalizers":null}}' --type=merg
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - OLM & OperatorHub](./06-Operator-Lifecycle-Manager-OLM-and-OperatorHub.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Operator Lifecycle Manager OLM and OperatorHub](./06-Operator-Lifecycle-Manager-OLM-and-OperatorHub.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

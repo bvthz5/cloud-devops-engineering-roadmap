@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 12 - RBAC & Security](../12-RBAC-and-Cluster-Security/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (12-RBAC-and-Cluster-Security) →](../12-RBAC-and-Cluster-Security/01-Kubernetes-Authentication-X509-OIDC-and-Tokens.md) |

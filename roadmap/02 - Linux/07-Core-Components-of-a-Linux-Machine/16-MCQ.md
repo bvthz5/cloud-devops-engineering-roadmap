@@ -69,8 +69,9 @@ In Linux, process execution isolation prevents a child process from altering its
 **Explanation:**
 `glibc` is the C standard library in Linux systems providing standard system call wrappers (`open`, `read`, `printf`, `malloc`).
 </details>
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [15 - Hands On Practice](./15-Hands-On-Practice.md) | [README](./README.md) | [17 - Quick Revision](./17-Quick-Revision.md) |
+| [← 15 - Hands On Practice](./15-Hands-On-Practice.md) | [Index](../../../README.md) | [17 - Quick Revision →](./17-Quick-Revision.md) |

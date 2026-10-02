@@ -104,4 +104,4 @@ Alpine uses **`musl libc`** instead of the GNU C Library (**`glibc`**) used by U
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - YUM DNF and RPM Deep Dive RHEL CentOS Rocky](./03-YUM-DNF-and-RPM-Deep-Dive-RHEL-CentOS-Rocky.md) | [README](./README.md) | [05 - Compiling and Installing Software from Source](./05-Compiling-and-Installing-Software-from-Source.md) |
+| [← 03 - YUM DNF and RPM Deep Dive RHEL CentOS Rocky](./03-YUM-DNF-and-RPM-Deep-Dive-RHEL-CentOS-Rocky.md) | [Index](../../../README.md) | [05 - Compiling and Installing Software from Source →](./05-Compiling-and-Installing-Software-from-Source.md) |

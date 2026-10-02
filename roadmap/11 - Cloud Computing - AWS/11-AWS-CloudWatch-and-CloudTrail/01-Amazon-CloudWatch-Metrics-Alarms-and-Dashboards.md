@@ -9,4 +9,4 @@ CloudWatch collects raw performance metrics from AWS services (CPU, Network, Dis
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - CloudWatch Logs](./02-CloudWatch-Logs-Log-Groups-Log-Streams-and-Insights.md) |
+| [← Prev Module (10-AWS-Route53-and-CloudFront)](../10-AWS-Route53-and-CloudFront/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - CloudWatch Logs Log Groups Log Streams and Insights →](./02-CloudWatch-Logs-Log-Groups-Log-Streams-and-Insights.md) |

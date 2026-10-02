@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (03-Google-Cloud-VPC-Subnets-and-Cloud-Router)](../03-Google-Cloud-VPC-Subnets-and-Cloud-Router/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Persistent Disks Standard Balanced SSD Extreme and Local SSDs →](./02-Persistent-Disks-Standard-Balanced-SSD-Extreme-and-Local-SSDs.md) |

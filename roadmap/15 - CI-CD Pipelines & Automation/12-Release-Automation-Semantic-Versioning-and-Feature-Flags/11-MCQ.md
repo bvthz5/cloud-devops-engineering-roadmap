@@ -34,3 +34,9 @@ What is the primary benefit of OpenID Connect (OIDC) authentication in CI/CD pip
 - [ ] D) It automatically updates Helm chart dependencies
 
 *Explanation: OIDC allows CI/CD runners to authenticate to AWS/Azure/GCP dynamically using short-lived tokens.*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

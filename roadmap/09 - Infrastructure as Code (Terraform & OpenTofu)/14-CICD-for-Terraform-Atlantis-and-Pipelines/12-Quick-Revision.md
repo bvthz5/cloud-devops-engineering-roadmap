@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 15 - Terraform at Scale](../15-Terraform-at-Scale-Monorepo-and-Multi-Team/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (15-Terraform-at-Scale-Monorepo-and-Multi-Team) →](../15-Terraform-at-Scale-Monorepo-and-Multi-Team/01-Monorepo-vs-Polyrepo-for-IaC.md) |

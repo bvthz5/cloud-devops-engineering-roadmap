@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Building a FinOps Culture Engineering Finance and Business Alignment](./02-Building-a-FinOps-Culture-Engineering-Finance-and-Business-Alignment.md) | [Index](../../../README.md) | [04 - Enforcing Tagging Policies with IaC and Policy as Code →](./04-Enforcing-Tagging-Policies-with-IaC-and-Policy-as-Code.md) |

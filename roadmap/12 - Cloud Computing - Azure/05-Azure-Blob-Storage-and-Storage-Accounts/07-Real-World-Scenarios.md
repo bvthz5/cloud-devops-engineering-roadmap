@@ -6,4 +6,4 @@ Designing a secure analytics data lake with ADLS Gen2, Private Endpoints, User D
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Azure Files](./06-Azure-Files-Azure-Disks-and-Storage-Sync.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Azure Files Azure Disks and Storage Sync](./06-Azure-Files-Azure-Disks-and-Storage-Sync.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

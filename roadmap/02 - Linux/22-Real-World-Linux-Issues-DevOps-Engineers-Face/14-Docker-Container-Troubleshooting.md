@@ -38,4 +38,4 @@ docker logs --tail 100 -f container_name
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Deployment Failures & Rollback](./13-Production-Deployment-Failures-and-Rollback.md) | [README](./README.md) | [15 - Kubernetes Pod CrashLoopBackOff](./15-Kubernetes-Pod-CrashLoopBackOff-Troubleshooting.md) |
+| [← 13 - Production Deployment Failures and Rollback](./13-Production-Deployment-Failures-and-Rollback.md) | [Index](../../../README.md) | [15 - Kubernetes Pod CrashLoopBackOff Troubleshooting →](./15-Kubernetes-Pod-CrashLoopBackOff-Troubleshooting.md) |

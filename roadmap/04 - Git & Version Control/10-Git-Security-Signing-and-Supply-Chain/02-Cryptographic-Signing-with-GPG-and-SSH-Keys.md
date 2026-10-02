@@ -47,4 +47,4 @@ git log --show-signature
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Spoofing Threat](./01-Commit-Spoofing-Threat-Model-and-Identity.md) | [README](./README.md) | [03 - Enforcing Signed Commits](./03-Enforcing-Signed-Commits-in-Branch-Protection.md) |
+| [← 01 - Commit Spoofing Threat Model and Identity](./01-Commit-Spoofing-Threat-Model-and-Identity.md) | [Index](../../../README.md) | [03 - Enforcing Signed Commits in Branch Protection →](./03-Enforcing-Signed-Commits-in-Branch-Protection.md) |

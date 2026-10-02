@@ -34,4 +34,4 @@ In **Anycast**:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - CDN Architecture](./02-CDN-Architecture-PoPs-and-Edge-Caching.md) |
+| [← Prev Module (12-Overlay-Networks-VXLAN-and-Container-CNI)](../12-Overlay-Networks-VXLAN-and-Container-CNI/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - CDN Architecture PoPs and Edge Caching →](./02-CDN-Architecture-PoPs-and-Edge-Caching.md) |

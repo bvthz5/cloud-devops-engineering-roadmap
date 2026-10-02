@@ -77,4 +77,4 @@ resource "aws_instance" "app" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - State Purpose](./01-Terraform-State-Purpose-Structure-and-Internals.md) | [README](./README.md) | [03 - State Locking](./03-State-Locking-Concurrency-and-Force-Unlock.md) |
+| [← 01 - Terraform State Purpose Structure and Internals](./01-Terraform-State-Purpose-Structure-and-Internals.md) | [Index](../../../README.md) | [03 - State Locking Concurrency and Force Unlock →](./03-State-Locking-Concurrency-and-Force-Unlock.md) |

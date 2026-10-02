@@ -59,4 +59,4 @@ print(f"VM {vm_name} successfully restarted!")
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - AWS Boto3 Deep Dive](./02-AWS-Boto3-Deep-Dive-Paginators-Waiters-and-Config.md) | [README](./README.md) | [04 - Google Cloud Client Libraries](./04-Google-Cloud-Client-Libraries-and-Service-Accounts.md) |
+| [← 02 - AWS Boto3 Deep Dive Paginators Waiters and Config](./02-AWS-Boto3-Deep-Dive-Paginators-Waiters-and-Config.md) | [Index](../../../README.md) | [04 - Google Cloud Client Libraries and Service Accounts →](./04-Google-Cloud-Client-Libraries-and-Service-Accounts.md) |

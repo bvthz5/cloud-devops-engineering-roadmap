@@ -134,4 +134,4 @@ sudo rpm -ivh package.rpm
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - APT and DPKG Deep Dive Debian Ubuntu](./02-APT-and-DPKG-Deep-Dive-Debian-Ubuntu.md) | [README](./README.md) | [04 - APK Package Manager Alpine Linux and Containers](./04-APK-Package-Manager-Alpine-Linux-and-Containers.md) |
+| [← 02 - APT and DPKG Deep Dive Debian Ubuntu](./02-APT-and-DPKG-Deep-Dive-Debian-Ubuntu.md) | [Index](../../../README.md) | [04 - APK Package Manager Alpine Linux and Containers →](./04-APK-Package-Manager-Alpine-Linux-and-Containers.md) |

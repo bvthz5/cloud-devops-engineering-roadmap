@@ -25,4 +25,4 @@ output storageEndpoint string = storageAccount.properties.primaryEndpoints.blob
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - ARM vs Bicep](./01-Infrastructure-as-Code-on-Azure-ARM-vs-Bicep.md) | [README](./README.md) | [03 - Bicep Modules](./03-Bicep-Modules-and-Code-Reusability.md) |
+| [← 01 - Infrastructure as Code on Azure ARM vs Bicep](./01-Infrastructure-as-Code-on-Azure-ARM-vs-Bicep.md) | [Index](../../../README.md) | [03 - Bicep Modules and Code Reusability →](./03-Bicep-Modules-and-Code-Reusability.md) |

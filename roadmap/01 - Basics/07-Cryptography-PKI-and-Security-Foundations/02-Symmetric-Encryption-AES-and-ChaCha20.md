@@ -26,4 +26,4 @@ A modern stream cipher designed by Daniel J. Bernstein:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Cryptography Fundamentals](./01-Cryptography-Fundamentals-and-CIA-Triad.md) | [README](./README.md) | [03 - Asymmetric Encryption](./03-Asymmetric-Encryption-RSA-and-Elliptic-Curves.md) |
+| [← 01 - Cryptography Fundamentals and CIA Triad](./01-Cryptography-Fundamentals-and-CIA-Triad.md) | [Index](../../../README.md) | [03 - Asymmetric Encryption RSA and Elliptic Curves →](./03-Asymmetric-Encryption-RSA-and-Elliptic-Curves.md) |

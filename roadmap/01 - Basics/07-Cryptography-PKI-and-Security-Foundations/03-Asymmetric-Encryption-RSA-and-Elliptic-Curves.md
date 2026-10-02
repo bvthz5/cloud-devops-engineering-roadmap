@@ -31,4 +31,4 @@ Asymmetric cryptography uses a mathematically linked **Key Pair**:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Symmetric Encryption](./02-Symmetric-Encryption-AES-and-ChaCha20.md) | [README](./README.md) | [04 - Cryptographic Hashes & HMAC](./04-Cryptographic-Hash-Functions-and-HMAC.md) |
+| [← 02 - Symmetric Encryption AES and ChaCha20](./02-Symmetric-Encryption-AES-and-ChaCha20.md) | [Index](../../../README.md) | [04 - Cryptographic Hash Functions and HMAC →](./04-Cryptographic-Hash-Functions-and-HMAC.md) |

@@ -22,4 +22,4 @@ In an enterprise work queue architecture:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Job Controller](./01-Kubernetes-Job-Controller-and-Completion-Guarantees.md) | [README](./README.md) | [03 - Failure Handling](./03-Failure-Handling-BackoffLimit-and-Pod-Failure-Policy.md) |
+| [← 01 - Kubernetes Job Controller and Completion Guarantees](./01-Kubernetes-Job-Controller-and-Completion-Guarantees.md) | [Index](../../../README.md) | [03 - Failure Handling BackoffLimit and Pod Failure Policy →](./03-Failure-Handling-BackoffLimit-and-Pod-Failure-Policy.md) |

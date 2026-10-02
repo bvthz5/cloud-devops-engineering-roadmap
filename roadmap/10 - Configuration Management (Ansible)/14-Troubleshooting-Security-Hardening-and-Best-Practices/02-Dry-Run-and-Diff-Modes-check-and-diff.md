@@ -15,4 +15,4 @@ To force a task to run even during `--check`:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Debugging Techniques](./01-Ansible-Debugging-Techniques-and-Verbosity-Levels.md) | [README](./README.md) | [03 - Security Hardening](./03-Security-Hardening-and-CIS-Benchmark-Automation.md) |
+| [← 01 - Ansible Debugging Techniques and Verbosity Levels](./01-Ansible-Debugging-Techniques-and-Verbosity-Levels.md) | [Index](../../../README.md) | [03 - Security Hardening and CIS Benchmark Automation →](./03-Security-Hardening-and-CIS-Benchmark-Automation.md) |

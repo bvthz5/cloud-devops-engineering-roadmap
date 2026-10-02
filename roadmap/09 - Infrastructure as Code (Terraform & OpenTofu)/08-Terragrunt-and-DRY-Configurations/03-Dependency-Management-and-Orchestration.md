@@ -39,4 +39,4 @@ Mock outputs allow `terragrunt plan` to work even when dependencies haven't been
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - DRY Backend](./02-DRY-Backend-and-Provider-Configuration.md) | [README](./README.md) | [04 - Inputs & Include](./04-Terragrunt-Inputs-and-Include-Blocks.md) |
+| [← 02 - DRY Backend and Provider Configuration](./02-DRY-Backend-and-Provider-Configuration.md) | [Index](../../../README.md) | [04 - Terragrunt Inputs and Include Blocks →](./04-Terragrunt-Inputs-and-Include-Blocks.md) |

@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Multi Cloud Deployment Patterns Active Passive Active Active Distributed](./02-Multi-Cloud-Deployment-Patterns-Active-Passive-Active-Active-Distributed.md) | [Index](../../../README.md) | [04 - Cross Cloud Data Replication and Consistency Challenges →](./04-Cross-Cloud-Data-Replication-and-Consistency-Challenges.md) |

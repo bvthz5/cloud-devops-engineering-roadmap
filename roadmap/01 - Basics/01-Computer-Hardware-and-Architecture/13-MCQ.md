@@ -186,4 +186,4 @@ Test your mastery of Computer Hardware and Architecture. Each question contains 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Hands On Practice](./12-Hands-On-Practice.md) | [README](./README.md) | [14 - Quick Revision](./14-Quick-Revision.md) |
+| [← 12 - Hands On Practice](./12-Hands-On-Practice.md) | [Index](../../../README.md) | [14 - Quick Revision →](./14-Quick-Revision.md) |

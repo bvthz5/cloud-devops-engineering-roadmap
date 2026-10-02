@@ -13,8 +13,9 @@
 - Single Quotes `'...'`: Hard quote (preserves literal text).
 - Double Quotes `"..."`: Soft quote (allows `$VAR` and `$(cmd)` expansion).
 - Unquoted: Subject to word splitting and globbing (AVOID).
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Commands & Syntax](./03-Commands-Comments-and-Syntax.md) | [README](./README.md) | [05 - User Input](./05-User-Input-and-Interactive-Scripts.md) |
+| [← 03 - Commands Comments and Syntax](./03-Commands-Comments-and-Syntax.md) | [Index](../../../README.md) | [05 - User Input and Interactive Scripts →](./05-User-Input-and-Interactive-Scripts.md) |

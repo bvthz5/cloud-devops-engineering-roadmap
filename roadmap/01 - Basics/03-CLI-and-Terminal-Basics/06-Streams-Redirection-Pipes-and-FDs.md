@@ -179,4 +179,4 @@ echo "deb https://download.docker.com/linux/ubuntu ..." | sudo tee /etc/apt/sour
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Wildcards Globbing and Quoting Mechanics](./05-Wildcards-Globbing-and-Quoting-Mechanics.md) | [README](./README.md) | [07 - Command Chaining Exit Codes and Job Control](./07-Command-Chaining-Exit-Codes-and-Job-Control.md) |
+| [← 05 - Wildcards Globbing and Quoting Mechanics](./05-Wildcards-Globbing-and-Quoting-Mechanics.md) | [Index](../../../README.md) | [07 - Command Chaining Exit Codes and Job Control →](./07-Command-Chaining-Exit-Codes-and-Job-Control.md) |

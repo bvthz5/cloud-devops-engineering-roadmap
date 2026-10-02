@@ -9,4 +9,4 @@ ASG automatically maintains desired instance capacity across multiple AZs based 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Elastic Load Balancers](./05-Elastic-Load-Balancers-ALB-NLB-GWLB.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Elastic Load Balancers ALB NLB GWLB](./05-Elastic-Load-Balancers-ALB-NLB-GWLB.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

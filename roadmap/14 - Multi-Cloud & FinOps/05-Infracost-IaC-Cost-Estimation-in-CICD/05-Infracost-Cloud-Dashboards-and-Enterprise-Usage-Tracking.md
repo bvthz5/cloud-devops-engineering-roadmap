@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Setting Up Cost Guardrails and Pull Request Blockers](./04-Setting-Up-Cost-Guardrails-and-Pull-Request-Blockers.md) | [Index](../../../README.md) | [06 - Custom Resource Pricing and Private Terraform Module Mapping →](./06-Custom-Resource-Pricing-and-Private-Terraform-Module-Mapping.md) |

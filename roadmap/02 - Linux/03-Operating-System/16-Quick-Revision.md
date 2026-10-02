@@ -83,8 +83,9 @@ ps aux | grep -E "Z|defunct"
 # Inspect active hardware interrupts:
 cat /proc/interrupts
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [15 - MCQ](./15-MCQ.md) | [README](./README.md) | [17 - Related Topics](./17-Related-Topics.md) |
+| [← 15 - MCQ](./15-MCQ.md) | [Index](../../../README.md) | [17 - Related Topics →](./17-Related-Topics.md) |

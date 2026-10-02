@@ -79,3 +79,9 @@ cosign verify --key cosign.pub us-central1-docker.pkg.dev/my-project/app:v1.2.0
 - [ArgoCD Documentation](https://argo-cd.readthedocs.io/)
 - [Sigstore / Cosign Documentation](https://docs.sigstore.dev/cosign/overview/)
 - [OpenFeature Standard](https://openfeature.dev/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Secret Scanning Automated Pre Commit Hooks and TruffleHog](./02-Secret-Scanning-Automated-Pre-Commit-Hooks-and-TruffleHog.md) | [Index](../../../README.md) | [04 - Integrating HashiCorp Vault with GitHub Actions and GitLab →](./04-Integrating-HashiCorp-Vault-with-GitHub-Actions-and-GitLab.md) |

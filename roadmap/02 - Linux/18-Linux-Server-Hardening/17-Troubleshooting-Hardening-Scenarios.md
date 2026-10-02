@@ -21,4 +21,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - Hands On Hardening Labs](./16-Hands-On-Hardening-Labs.md) | [README](./README.md) | [18 - Interview Questions and Answers](./18-Interview-Questions-and-Answers.md) |
+| [← 16 - Hands On Hardening Labs](./16-Hands-On-Hardening-Labs.md) | [Index](../../../README.md) | [18 - Interview Questions and Answers →](./18-Interview-Questions-and-Answers.md) |

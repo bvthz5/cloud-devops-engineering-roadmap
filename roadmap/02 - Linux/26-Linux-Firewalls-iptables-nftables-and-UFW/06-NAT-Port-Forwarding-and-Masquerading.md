@@ -54,4 +54,4 @@ sudo iptables -A FORWARD -p tcp -d 10.0.0.25 --dport 80 -m conntrack --ctstate N
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - firewalld for RHEL & Rocky](./05-firewalld-Dynamic-Firewall-for-RHEL-Rocky.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - firewalld Dynamic Firewall for RHEL Rocky](./05-firewalld-Dynamic-Firewall-for-RHEL-Rocky.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

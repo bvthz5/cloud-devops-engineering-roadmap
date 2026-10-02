@@ -6,3 +6,9 @@ Top technical interview questions for Database Replication, High Availability & 
 2. How do you perform a zero-downtime database major version upgrade?
 3. Compare synchronous vs asynchronous database replication.
 4. How do you recover a database to a specific timestamp using PITR?
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

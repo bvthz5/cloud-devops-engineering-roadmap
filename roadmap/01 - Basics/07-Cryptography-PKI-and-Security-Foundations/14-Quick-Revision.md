@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Multiple Choice Questions](./13-MCQ.md) | [README](./README.md) | [Next Submodule: 08 - Data Structures & Algorithms](../08-Data-Structures-Algorithms-and-System-Design/README.md) |
+| [← 13 - MCQ](./13-MCQ.md) | [Index](../../../README.md) | [Next Module (08-Data-Structures-Algorithms-and-System-Design) →](../08-Data-Structures-Algorithms-and-System-Design/01-Algorithmic-Complexity-and-Big-O-Notation.md) |

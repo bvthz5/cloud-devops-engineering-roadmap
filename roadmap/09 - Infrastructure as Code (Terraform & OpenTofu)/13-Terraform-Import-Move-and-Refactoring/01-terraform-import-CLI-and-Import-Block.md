@@ -39,4 +39,4 @@ This creates `generated.tf` with the full resource configuration derived from th
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - moved Block](./02-moved-Block-Refactoring.md) |
+| [← Prev Module (12-Terraform-Provider-Development)](../12-Terraform-Provider-Development/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - moved Block Refactoring →](./02-moved-Block-Refactoring.md) |

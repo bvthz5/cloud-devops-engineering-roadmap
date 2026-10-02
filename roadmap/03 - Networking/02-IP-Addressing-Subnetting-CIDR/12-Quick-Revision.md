@@ -18,4 +18,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 03 - DNS & DHCP](../03-DNS-and-DHCP/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (03-DNS-and-DHCP) →](../03-DNS-and-DHCP/01-DNS-Architecture-and-Hierarchical-Tree.md) |

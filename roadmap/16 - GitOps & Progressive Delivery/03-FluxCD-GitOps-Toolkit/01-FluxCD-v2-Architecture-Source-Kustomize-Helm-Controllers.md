@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (02-ArgoCD-Architecture-Setup-and-Applications)](../02-ArgoCD-Architecture-Setup-and-Applications/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Bootstrapping Flux on Kubernetes with GitHub GitLab →](./02-Bootstrapping-Flux-on-Kubernetes-with-GitHub-GitLab.md) |

@@ -8,4 +8,4 @@ A company rotated CI/CD AWS keys quarterly across 30 repos. Migrating to OIDC el
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Pipeline Security](./06-Pipeline-Security-OIDC-and-Ephemeral-Credentials.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Pipeline Security OIDC and Ephemeral Credentials](./06-Pipeline-Security-OIDC-and-Ephemeral-Credentials.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

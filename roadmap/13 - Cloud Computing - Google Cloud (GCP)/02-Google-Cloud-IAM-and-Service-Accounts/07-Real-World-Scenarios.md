@@ -25,3 +25,9 @@ A global e-commerce application running on GCP needs multi-region failover capab
 1. Deploy active-active compute workloads in `us-central1` and `us-east4` using Global HTTP(S) Load Balancing.
 2. Utilize Multi-Region Cloud Storage buckets and Cloud Spanner / Cloud SQL with cross-region read replicas for continuous data replication.
 3. Automate health checks and DNS failover policies to route user traffic seamlessly in under 30 seconds.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 06 - IAM Recommender Context Aware Access and PIM in GCP](./06-IAM-Recommender-Context-Aware-Access-and-PIM-in-GCP.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

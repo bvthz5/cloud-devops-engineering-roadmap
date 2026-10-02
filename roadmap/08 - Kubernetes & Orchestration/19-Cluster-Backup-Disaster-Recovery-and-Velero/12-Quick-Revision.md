@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Master Index](../../00-Master-Index.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (09 - Infrastructure as Code (Terraform & OpenTofu)) →](../../09%20-%20Infrastructure%20as%20Code%20(Terraform%20%26%20OpenTofu)/01-IaC-Concepts-and-Evolution/01-What-Is-IaC-Declarative-vs-Imperative.md) |

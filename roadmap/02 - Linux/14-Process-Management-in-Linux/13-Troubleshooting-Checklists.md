@@ -75,4 +75,4 @@ When responding to an incident, follow these checklists to systematically isolat
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Real World DevOps Scenarios](./12-Real-World-DevOps-Scenarios.md) | [README](./README.md) | [14 - Interview QA](./14-Interview-QA.md) |
+| [← 12 - Real World DevOps Scenarios](./12-Real-World-DevOps-Scenarios.md) | [Index](../../../README.md) | [14 - Interview QA →](./14-Interview-QA.md) |

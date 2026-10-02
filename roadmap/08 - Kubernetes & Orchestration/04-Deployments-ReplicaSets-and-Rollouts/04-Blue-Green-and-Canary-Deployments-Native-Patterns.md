@@ -39,4 +39,4 @@ Deploying two separate Deployments behind a single Service with a ratio of pod r
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Rollbacks & Revision History](./03-Rollbacks-Revision-History-and-Change-Cause.md) | [README](./README.md) | [05 - Pausing & Scaling](./05-Pausing-Resuming-and-Scaling-Deployments.md) |
+| [← 03 - Rollbacks Revision History and Change Cause](./03-Rollbacks-Revision-History-and-Change-Cause.md) | [Index](../../../README.md) | [05 - Pausing Resuming and Scaling Deployments →](./05-Pausing-Resuming-and-Scaling-Deployments.md) |

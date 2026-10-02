@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 11 - AWS Observability](../11-AWS-CloudWatch-and-CloudTrail/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (11-AWS-CloudWatch-and-CloudTrail) →](../11-AWS-CloudWatch-and-CloudTrail/01-Amazon-CloudWatch-Metrics-Alarms-and-Dashboards.md) |

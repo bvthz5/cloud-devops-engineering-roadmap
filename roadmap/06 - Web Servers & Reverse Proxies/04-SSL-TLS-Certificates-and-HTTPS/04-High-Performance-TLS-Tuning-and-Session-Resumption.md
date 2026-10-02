@@ -37,4 +37,4 @@ ssl_session_tickets off;
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Automated Certificates with ACME & Certbot](./03-Automated-Certificates-with-ACME-and-Certbot.md) | [README](./README.md) | [05 - Mutual TLS (mTLS) & Zero-Trust](./05-Mutual-TLS-mTLS-Architecture-and-Zero-Trust.md) |
+| [← 03 - Automated Certificates with ACME and Certbot](./03-Automated-Certificates-with-ACME-and-Certbot.md) | [Index](../../../README.md) | [05 - Mutual TLS mTLS Architecture and Zero Trust →](./05-Mutual-TLS-mTLS-Architecture-and-Zero-Trust.md) |

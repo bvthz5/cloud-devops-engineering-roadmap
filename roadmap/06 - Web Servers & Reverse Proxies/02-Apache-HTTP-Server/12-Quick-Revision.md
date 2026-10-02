@@ -21,4 +21,4 @@ AllowOverride None
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [03 - Reverse Proxy & Load Balancing](../03-Reverse-Proxy-and-Load-Balancing/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (03-Reverse-Proxy-and-Load-Balancing) →](../03-Reverse-Proxy-and-Load-Balancing/01-Forward-Proxy-vs-Reverse-Proxy-Architecture.md) |

@@ -29,4 +29,4 @@ VPC Peering strictly forbids connecting VPCs that share identical or overlapping
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Cloud VPC Architecture](./02-Cloud-VPC-Architecture-and-Subnet-Topology.md) | [README](./README.md) | [04 - Transit Gateways](./04-Transit-Gateways-and-Cloud-Interconnects.md) |
+| [← 02 - Cloud VPC Architecture and Subnet Topology](./02-Cloud-VPC-Architecture-and-Subnet-Topology.md) | [Index](../../../README.md) | [04 - Transit Gateways and Cloud Interconnects →](./04-Transit-Gateways-and-Cloud-Interconnects.md) |

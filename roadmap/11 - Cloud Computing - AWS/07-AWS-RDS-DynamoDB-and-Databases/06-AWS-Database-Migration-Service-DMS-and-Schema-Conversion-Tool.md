@@ -6,4 +6,4 @@ AWS DMS performs homogeneous and heterogeneous database migrations with Continuo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - ElastiCache Caching](./05-ElastiCache-Redis-Memcached-and-Database-Caching.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - ElastiCache Redis Memcached and Database Caching](./05-ElastiCache-Redis-Memcached-and-Database-Caching.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

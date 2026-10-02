@@ -19,4 +19,4 @@ Because QUIC streams can arrive out of order, HTTP/3 uses **QPACK**:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - QUIC Internals](./02-QUIC-Protocol-Internals-0-RTT-and-Connection-Migration.md) | [README](./README.md) | [04 - gRPC Architecture](./04-gRPC-Architecture-Protocol-Buffers-and-Streaming.md) |
+| [← 02 - QUIC Protocol Internals 0 RTT and Connection Migration](./02-QUIC-Protocol-Internals-0-RTT-and-Connection-Migration.md) | [Index](../../../README.md) | [04 - gRPC Architecture Protocol Buffers and Streaming →](./04-gRPC-Architecture-Protocol-Buffers-and-Streaming.md) |

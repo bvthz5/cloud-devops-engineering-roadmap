@@ -48,4 +48,4 @@ git config --list --show-origin
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - The Three Trees](./02-The-Three-Trees-Working-Directory-Index-and-HEAD.md) | [README](./README.md) | [04 - Basic Workflow](./04-Basic-Workflow-Staging-Committing-and-Status.md) |
+| [← 02 - The Three Trees Working Directory Index and HEAD](./02-The-Three-Trees-Working-Directory-Index-and-HEAD.md) | [Index](../../../README.md) | [04 - Basic Workflow Staging Committing and Status →](./04-Basic-Workflow-Staging-Committing-and-Status.md) |

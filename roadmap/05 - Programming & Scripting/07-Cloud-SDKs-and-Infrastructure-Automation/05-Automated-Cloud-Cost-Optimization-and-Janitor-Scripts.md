@@ -68,4 +68,4 @@ if __name__ == "__main__":
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Google Cloud Client Libraries](./04-Google-Cloud-Client-Libraries-and-Service-Accounts.md) | [README](./README.md) | [06 - Security Scanning & Compliance Automation](./06-Security-Scanning-and-Compliance-Automation-with-SDKs.md) |
+| [← 04 - Google Cloud Client Libraries and Service Accounts](./04-Google-Cloud-Client-Libraries-and-Service-Accounts.md) | [Index](../../../README.md) | [06 - Security Scanning and Compliance Automation with SDKs →](./06-Security-Scanning-and-Compliance-Automation-with-SDKs.md) |

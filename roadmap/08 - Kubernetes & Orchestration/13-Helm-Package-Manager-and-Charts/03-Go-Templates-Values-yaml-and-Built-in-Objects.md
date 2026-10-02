@@ -29,4 +29,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Chart Directory Structure](./02-Helm-Chart-Directory-Structure-and-Chart-yaml.md) | [README](./README.md) | [04 - Subcharts & Library Charts](./04-Subcharts-Chart-Dependencies-and-Library-Charts.md) |
+| [← 02 - Helm Chart Directory Structure and Chart yaml](./02-Helm-Chart-Directory-Structure-and-Chart-yaml.md) | [Index](../../../README.md) | [04 - Subcharts Chart Dependencies and Library Charts →](./04-Subcharts-Chart-Dependencies-and-Library-Charts.md) |

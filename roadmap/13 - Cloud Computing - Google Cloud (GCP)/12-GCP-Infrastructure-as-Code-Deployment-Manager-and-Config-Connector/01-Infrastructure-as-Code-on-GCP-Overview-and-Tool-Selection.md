@@ -75,3 +75,9 @@ resource "google_storage_bucket" "secure_bucket" {
 ## 🔗 Related Resources
 - [Google Cloud Security Documentation](https://cloud.google.com/security/docs)
 - [GCP FinOps & Cost Management](https://cloud.google.com/cost-management)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (11-GCP-Security-Cloud-Armor-KMS-and-Security-Command-Center)](../11-GCP-Security-Cloud-Armor-KMS-and-Security-Command-Center/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Google Cloud Deployment Manager YAML Templates and Jinja2 →](./02-Google-Cloud-Deployment-Manager-YAML-Templates-and-Jinja2.md) |

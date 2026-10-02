@@ -25,3 +25,9 @@ ApplicationSet controller fails to generate target Applications across 50 cluste
 1. **Git Polling Rate Limits**: Polling 50 target directories in a single repository triggers GitHub API rate limits.
 2. **Enable Git Webhooks**: Configure GitHub/GitLab webhooks to notify ArgoCD on push events, avoiding high-frequency polling.
 3. **Increase Controller Replicas**: Scale ArgoCD ApplicationSet controller replicas and increase `--app-resync` intervals.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 07 - Real World Scenarios](./07-Real-World-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

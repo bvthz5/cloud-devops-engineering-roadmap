@@ -47,4 +47,4 @@ An **Atomic Commit** encapsulates a single logical change. If an issue requires 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Git Configuration](./03-Git-Configuration-System-Global-and-Local.md) | [README](./README.md) | [05 - Diffing & Inspection](./05-Diffing-and-State-Inspection-Working-vs-Staged.md) |
+| [← 03 - Git Configuration System Global and Local](./03-Git-Configuration-System-Global-and-Local.md) | [Index](../../../README.md) | [05 - Diffing and State Inspection Working vs Staged →](./05-Diffing-and-State-Inspection-Working-vs-Staged.md) |

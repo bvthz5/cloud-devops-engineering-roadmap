@@ -30,4 +30,4 @@ When a node is being terminated (autoscaling scale-in or rolling deployment):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Balancing Algorithms](./03-Load-Balancing-Algorithms-Deep-Dive.md) | [README](./README.md) | [05 - TLS Termination](./05-TLS-SSL-Termination-Passthrough-and-mTLS.md) |
+| [← 03 - Load Balancing Algorithms Deep Dive](./03-Load-Balancing-Algorithms-Deep-Dive.md) | [Index](../../../README.md) | [05 - TLS SSL Termination Passthrough and mTLS →](./05-TLS-SSL-Termination-Passthrough-and-mTLS.md) |

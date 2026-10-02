@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Pricing Models](./02-EC2-Pricing-Models-OnDemand-Spot-Reserved-SavingsPlans.md) | [README](./README.md) | [04 - AMI & Image Baking](./04-AMI-Creation-Management-and-Packer-Baking.md) |
+| [← 02 - EC2 Pricing Models OnDemand Spot Reserved SavingsPlans](./02-EC2-Pricing-Models-OnDemand-Spot-Reserved-SavingsPlans.md) | [Index](../../../README.md) | [04 - AMI Creation Management and Packer Baking →](./04-AMI-Creation-Management-and-Packer-Baking.md) |

@@ -31,4 +31,4 @@ ENTRYPOINT ["/app/app"]
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Layer Caching Optimization](./02-Layer-Caching-Optimization-and-Build-Order.md) | [README](./README.md) | [04 - Distroless, Alpine & Scratch](./04-Distroless-Alpine-and-Scratch-Base-Images.md) |
+| [← 02 - Layer Caching Optimization and Build Order](./02-Layer-Caching-Optimization-and-Build-Order.md) | [Index](../../../README.md) | [04 - Distroless Alpine and Scratch Base Images →](./04-Distroless-Alpine-and-Scratch-Base-Images.md) |

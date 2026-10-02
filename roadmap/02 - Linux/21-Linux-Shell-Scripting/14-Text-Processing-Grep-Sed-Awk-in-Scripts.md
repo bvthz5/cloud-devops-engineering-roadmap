@@ -104,8 +104,9 @@ awk '{print $1}' /var/log/nginx/access.log | sort | uniq -c | sort -nr | head -n
 # 3. Process CSV file with comma delimiter (-F","):
 awk -F"," '$3 == "ACTIVE" {print "User: " $1 ", Email: " $2}' users.csv
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Functions & Arrays](./13-Functions-Scope-and-Arrays.md) | [README](./README.md) | [15 - Safe File Ops & Locking](./15-Safe-File-Operations-Mktemp-and-Locking.md) |
+| [← 13 - Functions Scope and Arrays](./13-Functions-Scope-and-Arrays.md) | [Index](../../../README.md) | [15 - Safe File Operations Mktemp and Locking →](./15-Safe-File-Operations-Mktemp-and-Locking.md) |

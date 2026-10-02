@@ -47,4 +47,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Native NetworkPolicies](./05-Native-NetworkPolicies-Ingress-Egress-and-Namespaces.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Native NetworkPolicies Ingress Egress and Namespaces](./05-Native-NetworkPolicies-Ingress-Egress-and-Namespaces.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

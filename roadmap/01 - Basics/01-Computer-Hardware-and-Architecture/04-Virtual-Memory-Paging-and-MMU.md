@@ -110,4 +110,4 @@ Every page table entry stores hardware permission control flags enforced directl
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - CPU Cache Hierarchy and Memory Subsystems](./03-CPU-Cache-Hierarchy-and-Memory-Subsystems.md) | [README](./README.md) | [05 - Storage Technologies and IO Subsystems](./05-Storage-Technologies-and-IO-Subsystems.md) |
+| [← 03 - CPU Cache Hierarchy and Memory Subsystems](./03-CPU-Cache-Hierarchy-and-Memory-Subsystems.md) | [Index](../../../README.md) | [05 - Storage Technologies and IO Subsystems →](./05-Storage-Technologies-and-IO-Subsystems.md) |

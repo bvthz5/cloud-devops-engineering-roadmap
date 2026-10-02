@@ -6,4 +6,4 @@ Subscriptions serve as a billing and access control boundary. Quotas (e.g., max 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Resource Groups](./02-Resource-Groups-Architecture-and-Lifecycle.md) | [README](./README.md) | [04 - Global Infrastructure](./04-Azure-Global-Infrastructure-Regions-Availability-Zones-Geos.md) |
+| [← 02 - Resource Groups Architecture and Lifecycle](./02-Resource-Groups-Architecture-and-Lifecycle.md) | [Index](../../../README.md) | [04 - Azure Global Infrastructure Regions Availability Zones Geos →](./04-Azure-Global-Infrastructure-Regions-Availability-Zones-Geos.md) |

@@ -89,4 +89,4 @@ sudo chown -R nginx:nginx /var/www → Recursively change user and group
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - MCQs](./13-MCQs.md) | [README](./README.md) | [15 - Related Topics](./15-Related-Topics.md) |
+| [← 13 - MCQs](./13-MCQs.md) | [Index](../../../README.md) | [15 - Related Topics →](./15-Related-Topics.md) |

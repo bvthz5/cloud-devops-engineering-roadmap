@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Managing Multi Cloud State Files Remote Backends and Locking](./02-Managing-Multi-Cloud-State-Files-Remote-Backends-and-Locking.md) | [Index](../../../README.md) | [04 - Terragrunt DRY Infrastructure Code Across AWS Azure and GCP →](./04-Terragrunt-DRY-Infrastructure-Code-Across-AWS-Azure-and-GCP.md) |

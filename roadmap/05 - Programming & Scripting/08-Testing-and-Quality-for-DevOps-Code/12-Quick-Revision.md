@@ -21,4 +21,4 @@ pre-commit run --all-files
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [09 - Kubernetes Client-Go & Custom Controllers](../09-Kubernetes-Client-Go-and-Custom-Controllers/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (09-Kubernetes-Client-Go-and-Custom-Controllers) →](../09-Kubernetes-Client-Go-and-Custom-Controllers/01-Kubernetes-API-Machinery-and-client-go-Architecture.md) |

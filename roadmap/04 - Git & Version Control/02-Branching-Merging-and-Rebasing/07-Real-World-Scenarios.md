@@ -26,4 +26,4 @@ This rewrote the remote `main` branch history, wiping out 18 production commits 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Git Stash](./06-Git-Stash-Deep-Dive-and-Work-in-Progress.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Git Stash Deep Dive and Work in Progress](./06-Git-Stash-Deep-Dive-and-Work-in-Progress.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

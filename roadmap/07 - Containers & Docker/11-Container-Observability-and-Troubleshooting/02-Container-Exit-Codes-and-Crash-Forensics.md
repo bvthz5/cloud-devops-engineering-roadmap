@@ -19,4 +19,4 @@ When a container exits, its return code communicates the exact cause of failure:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - cgroups v2 Metrics](./01-cgroups-v2-Resource-Accounting-and-Metrics.md) | [README](./README.md) | [03 - Logging Drivers & Rotation](./03-Logging-Drivers-and-Log-Rotation-Strategies.md) |
+| [← 01 - cgroups v2 Resource Accounting and Metrics](./01-cgroups-v2-Resource-Accounting-and-Metrics.md) | [Index](../../../README.md) | [03 - Logging Drivers and Log Rotation Strategies →](./03-Logging-Drivers-and-Log-Rotation-Strategies.md) |

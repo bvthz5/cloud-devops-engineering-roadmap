@@ -20,4 +20,4 @@ verifier:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Molecule Framework](./03-Molecule-Framework-Architecture-and-Drivers.md) | [README](./README.md) | [05 - Idempotency Testing](./05-Idempotency-Testing-with-Molecule.md) |
+| [← 03 - Molecule Framework Architecture and Drivers](./03-Molecule-Framework-Architecture-and-Drivers.md) | [Index](../../../README.md) | [05 - Idempotency Testing with Molecule →](./05-Idempotency-Testing-with-Molecule.md) |

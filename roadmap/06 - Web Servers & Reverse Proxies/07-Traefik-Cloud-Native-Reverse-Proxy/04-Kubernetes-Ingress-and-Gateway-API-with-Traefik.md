@@ -50,4 +50,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Docker & Compose Integration](./03-Docker-and-Docker-Compose-Integration.md) | [README](./README.md) | [05 - Automated Let's Encrypt TLS](./05-Automated-Lets-Encrypt-TLS-Management.md) |
+| [← 03 - Docker and Docker Compose Integration](./03-Docker-and-Docker-Compose-Integration.md) | [Index](../../../README.md) | [05 - Automated Lets Encrypt TLS Management →](./05-Automated-Lets-Encrypt-TLS-Management.md) |

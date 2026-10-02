@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Cloud SQL High Availability Read Replicas and Automated Backups](./02-Cloud-SQL-High-Availability-Read-Replicas-and-Automated-Backups.md) | [Index](../../../README.md) | [04 - Firestore NoSQL Document Database Architecture →](./04-Firestore-NoSQL-Document-Database-Architecture.md) |

@@ -41,4 +41,4 @@ In **Consistent Hashing**:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Proxies & Gateways](./02-Reverse-Proxies-Forward-Proxies-and-Gateways.md) | [README](./README.md) | [04 - Health Checks](./04-Health-Checks-Flapping-and-Graceful-Drain.md) |
+| [← 02 - Reverse Proxies Forward Proxies and Gateways](./02-Reverse-Proxies-Forward-Proxies-and-Gateways.md) | [Index](../../../README.md) | [04 - Health Checks Flapping and Graceful Drain →](./04-Health-Checks-Flapping-and-Graceful-Drain.md) |

@@ -46,4 +46,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Failure Handling](./03-Failure-Handling-BackoffLimit-and-Pod-Failure-Policy.md) | [README](./README.md) | [05 - Concurrency Policies](./05-Concurrency-Policies-Allow-Forbid-and-Replace.md) |
+| [← 03 - Failure Handling BackoffLimit and Pod Failure Policy](./03-Failure-Handling-BackoffLimit-and-Pod-Failure-Policy.md) | [Index](../../../README.md) | [05 - Concurrency Policies Allow Forbid and Replace →](./05-Concurrency-Policies-Allow-Forbid-and-Replace.md) |

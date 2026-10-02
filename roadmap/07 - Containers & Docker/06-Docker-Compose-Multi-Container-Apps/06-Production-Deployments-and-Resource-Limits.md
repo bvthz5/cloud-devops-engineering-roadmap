@@ -26,4 +26,4 @@ services:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Compose Profiles & Overrides](./05-Compose-Profiles-and-Multi-Environment-Overrides.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Compose Profiles and Multi Environment Overrides](./05-Compose-Profiles-and-Multi-Environment-Overrides.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

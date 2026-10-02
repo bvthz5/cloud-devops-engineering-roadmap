@@ -10,4 +10,4 @@ Strong ──> Bounded Staleness ──> Session ──> Consistent Prefix ─�
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Cosmos DB Architecture](./03-Azure-Cosmos-DB-Multi-Model-NoSQL-Architecture.md) | [README](./README.md) | [05 - PostgreSQL & MySQL Flexible Server](./05-Azure-Database-for-PostgreSQL-and-MySQL-Flexible-Server.md) |
+| [← 03 - Azure Cosmos DB Multi Model NoSQL Architecture](./03-Azure-Cosmos-DB-Multi-Model-NoSQL-Architecture.md) | [Index](../../../README.md) | [05 - Azure Database for PostgreSQL and MySQL Flexible Server →](./05-Azure-Database-for-PostgreSQL-and-MySQL-Flexible-Server.md) |

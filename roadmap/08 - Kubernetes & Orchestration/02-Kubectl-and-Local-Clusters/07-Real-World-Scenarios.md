@@ -17,4 +17,4 @@ The engineer had multiple terminal tabs open. In one tab, they had switched to `
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Bootstrap with Kubeadm](./06-Production-Bootstrap-with-Kubeadm.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Production Bootstrap with Kubeadm](./06-Production-Bootstrap-with-Kubeadm.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

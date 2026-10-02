@@ -34,4 +34,4 @@ A **`veth` (Virtual Ethernet) pair** acts as a virtual network cable: packets en
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - VXLAN & Geneve](./02-VXLAN-and-Geneve-Protocol-Deep-Dive.md) | [README](./README.md) | [04 - Major CNIs Compared](./04-Comparing-Major-CNIs-Flannel-Calico-Cilium-AWS-VPC-CNI.md) |
+| [← 02 - VXLAN and Geneve Protocol Deep Dive](./02-VXLAN-and-Geneve-Protocol-Deep-Dive.md) | [Index](../../../README.md) | [04 - Comparing Major CNIs Flannel Calico Cilium AWS VPC CNI →](./04-Comparing-Major-CNIs-Flannel-Calico-Cilium-AWS-VPC-CNI.md) |

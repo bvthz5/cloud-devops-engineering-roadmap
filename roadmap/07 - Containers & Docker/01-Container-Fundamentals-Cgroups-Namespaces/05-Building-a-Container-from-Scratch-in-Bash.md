@@ -45,4 +45,4 @@ Inside this shell:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Union Filesystems & OverlayFS](./04-Union-Filesystems-and-OverlayFS-Internals.md) | [README](./README.md) | [06 - Container Security Boundaries](./06-Container-Security-Boundaries-and-Kernel-Surface.md) |
+| [← 04 - Union Filesystems and OverlayFS Internals](./04-Union-Filesystems-and-OverlayFS-Internals.md) | [Index](../../../README.md) | [06 - Container Security Boundaries and Kernel Surface →](./06-Container-Security-Boundaries-and-Kernel-Surface.md) |

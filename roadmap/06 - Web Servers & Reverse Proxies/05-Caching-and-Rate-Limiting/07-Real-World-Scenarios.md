@@ -25,4 +25,4 @@ Because `/api/account/summary` took the user's identity from the `Authorization:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - DDoS Mitigation & Security Throttling](./06-DDoS-Mitigation-and-IP-Reputation-Filtering.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - DDoS Mitigation and IP Reputation Filtering](./06-DDoS-Mitigation-and-IP-Reputation-Filtering.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

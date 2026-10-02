@@ -34,3 +34,9 @@ What open-source tool uses GPG or KMS keys to encrypt specific value fields insi
 - [ ] D) OpenTelemetry
 
 *Explanation: SOPS selectively encrypts YAML/JSON value fields using KMS or GPG keys while leaving keys human-readable.*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

@@ -184,4 +184,4 @@ sed 's/Engineering/Tech/g; s/Marketing/Sales/g' employees.txt
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - grep Pattern Searching](./03-grep-Pattern-Searching.md) | [README](./README.md) | [05 - awk Fields and Reports](./05-awk-Fields-and-Reports.md) |
+| [← 03 - grep Pattern Searching](./03-grep-Pattern-Searching.md) | [Index](../../../README.md) | [05 - awk Fields and Reports →](./05-awk-Fields-and-Reports.md) |

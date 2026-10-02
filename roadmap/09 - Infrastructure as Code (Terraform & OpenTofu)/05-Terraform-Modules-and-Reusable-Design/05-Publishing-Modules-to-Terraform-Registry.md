@@ -43,4 +43,4 @@ git push origin v1.0.0
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Design Patterns](./04-Module-Design-Patterns-and-Best-Practices.md) | [README](./README.md) | [06 - Module Testing](./06-Module-Testing-with-Terratest-and-terraform-test.md) |
+| [← 04 - Module Design Patterns and Best Practices](./04-Module-Design-Patterns-and-Best-Practices.md) | [Index](../../../README.md) | [06 - Module Testing with Terratest and terraform test →](./06-Module-Testing-with-Terratest-and-terraform-test.md) |

@@ -71,4 +71,4 @@ resource "aws_instance" "app" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Variables](./02-Variables-Types-Validation-and-Precedence.md) | [README](./README.md) | [04 - Locals & Functions](./04-Locals-Expressions-and-Built-in-Functions.md) |
+| [← 02 - Variables Types Validation and Precedence](./02-Variables-Types-Validation-and-Precedence.md) | [Index](../../../README.md) | [04 - Locals Expressions and Built in Functions →](./04-Locals-Expressions-and-Built-in-Functions.md) |

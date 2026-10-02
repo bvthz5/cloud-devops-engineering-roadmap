@@ -85,4 +85,4 @@ type DatabaseInstanceStatus struct {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Informers, Listers & Workqueue](./02-Informers-Listers-and-the-Workqueue-Pattern.md) | [README](./README.md) | [04 - Writing a Controller Reconcile Loop](./04-Writing-a-Kubernetes-Controller-The-Reconcile-Loop.md) |
+| [← 02 - Informers Listers and the Workqueue Pattern](./02-Informers-Listers-and-the-Workqueue-Pattern.md) | [Index](../../../README.md) | [04 - Writing a Kubernetes Controller The Reconcile Loop →](./04-Writing-a-Kubernetes-Controller-The-Reconcile-Loop.md) |

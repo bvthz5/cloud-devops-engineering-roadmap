@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - ArgoCD Architecture Server RepoServer ApplicationController](./01-ArgoCD-Architecture-Server-RepoServer-ApplicationController.md) | [Index](../../../README.md) | [03 - ArgoCD Application CRD Sync Policies and Options →](./03-ArgoCD-Application-CRD-Sync-Policies-and-Options.md) |

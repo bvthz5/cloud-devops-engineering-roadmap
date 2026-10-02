@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Cloud Run Networking VPC Connector Custom Domains and IAM](./03-Cloud-Run-Networking-VPC-Connector-Custom-Domains-and-IAM.md) | [Index](../../../README.md) | [05 - Eventarc Event Driven Architecture Integration →](./05-Eventarc-Event-Driven-Architecture-Integration.md) |

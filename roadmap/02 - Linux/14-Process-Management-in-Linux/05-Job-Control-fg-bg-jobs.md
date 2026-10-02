@@ -91,4 +91,4 @@ To run processes that survive a disconnect, you need tools like `nohup` or `tmux
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Signals and Killing Processes](./04-Signals-and-Killing-Processes.md) | [README](./README.md) | [06 - Detaching Processes nohup tmux](./06-Detaching-Processes-nohup-tmux.md) |
+| [← 04 - Signals and Killing Processes](./04-Signals-and-Killing-Processes.md) | [Index](../../../README.md) | [06 - Detaching Processes nohup tmux →](./06-Detaching-Processes-nohup-tmux.md) |

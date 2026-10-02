@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - CDKTF Architecture](./01-CDKTF-Architecture-and-Setup.md) | [README](./README.md) | [03 - Pulumi Architecture](./03-Pulumi-Architecture-and-State.md) |
+| [← 01 - CDKTF Architecture and Setup](./01-CDKTF-Architecture-and-Setup.md) | [Index](../../../README.md) | [03 - Pulumi Architecture and State →](./03-Pulumi-Architecture-and-State.md) |

@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 11 - Autoscaling](../11-Auto-Scaling-HPA-VPA-Cluster-Autoscaler/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (11-Auto-Scaling-HPA-VPA-Cluster-Autoscaler) →](../11-Auto-Scaling-HPA-VPA-Cluster-Autoscaler/01-Horizontal-Pod-Autoscaler-HPA-v2-and-Metrics-APIs.md) |

@@ -54,4 +54,4 @@ Low Memory (0x0000000000000000)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - glibc vs musl libc](./03-C-Standard-Libraries-glibc-vs-musl.md) | [README](./README.md) | [05 - Execution Models](./05-Execution-Models-Compiled-Interpreted-and-JIT.md) |
+| [← 03 - C Standard Libraries glibc vs musl](./03-C-Standard-Libraries-glibc-vs-musl.md) | [Index](../../../README.md) | [05 - Execution Models Compiled Interpreted and JIT →](./05-Execution-Models-Compiled-Interpreted-and-JIT.md) |

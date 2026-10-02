@@ -18,4 +18,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [Git Track Index](../README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (05 - Programming & Scripting) →](../../05%20-%20Programming%20%26%20Scripting/01-Bash-Scripting-for-DevOps/01-Bash-Strict-Mode-and-Script-Anatomy.md) |

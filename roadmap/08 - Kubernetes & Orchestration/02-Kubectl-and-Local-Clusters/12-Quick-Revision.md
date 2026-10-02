@@ -21,4 +21,4 @@ kubectl explain pod.spec.containers.resources
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 03 - Pods & Workloads](../03-Pods-and-Workloads/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (03-Pods-and-Workloads) →](../03-Pods-and-Workloads/01-Pod-Architecture-Pause-Container-and-Lifecycle.md) |

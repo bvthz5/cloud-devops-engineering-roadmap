@@ -19,4 +19,4 @@ findmnt /var/lib/mysql
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [18 - MCQs and Quick Revision](./18-MCQs-and-Quick-Revision.md) | [README](./README.md) | [20 - Quick Revision Notes](./20-Quick-Revision-Notes.md) |
+| [← 18 - MCQs and Quick Revision](./18-MCQs-and-Quick-Revision.md) | [Index](../../../README.md) | [20 - Quick Revision Notes →](./20-Quick-Revision-Notes.md) |

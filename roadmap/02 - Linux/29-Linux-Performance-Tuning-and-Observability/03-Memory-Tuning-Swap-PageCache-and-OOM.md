@@ -47,4 +47,4 @@ sudo dmesg -T | grep -i -E 'killed process|oom_reaper'
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - CPU Profiling](./02-CPU-Profiling-and-Bottleneck-Analysis.md) | [README](./README.md) | [04 - Disk I/O Analysis](./04-Disk-IO-Analysis-and-Storage-Bottlenecks.md) |
+| [← 02 - CPU Profiling and Bottleneck Analysis](./02-CPU-Profiling-and-Bottleneck-Analysis.md) | [Index](../../../README.md) | [04 - Disk IO Analysis and Storage Bottlenecks →](./04-Disk-IO-Analysis-and-Storage-Bottlenecks.md) |

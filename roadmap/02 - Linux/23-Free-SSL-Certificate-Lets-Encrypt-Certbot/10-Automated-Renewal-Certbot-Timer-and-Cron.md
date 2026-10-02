@@ -33,4 +33,4 @@ sudo certbot renew --deploy-hook "systemctl reload nginx"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Verifying HTTPS](./09-Verifying-HTTPS-and-TLS-Handshakes.md) | [README](./README.md) | [11 - Validation Challenges (HTTP-01 vs DNS-01)](./11-Validation-Challenges-HTTP-01-vs-DNS-01.md) |
+| [← 09 - Verifying HTTPS and TLS Handshakes](./09-Verifying-HTTPS-and-TLS-Handshakes.md) | [Index](../../../README.md) | [11 - Validation Challenges HTTP 01 vs DNS 01 →](./11-Validation-Challenges-HTTP-01-vs-DNS-01.md) |

@@ -51,4 +51,4 @@ sudo systemctl reload sshd
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Modern SSH Keys](./02-Modern-SSH-Key-Types-Ed25519-vs-RSA.md) | [README](./README.md) | [04 - Client Config & Bastions](./04-SSH-Client-Configuration-and-Bastion-Jump-Hosts.md) |
+| [← 02 - Modern SSH Key Types Ed25519 vs RSA](./02-Modern-SSH-Key-Types-Ed25519-vs-RSA.md) | [Index](../../../README.md) | [04 - SSH Client Configuration and Bastion Jump Hosts →](./04-SSH-Client-Configuration-and-Bastion-Jump-Hosts.md) |

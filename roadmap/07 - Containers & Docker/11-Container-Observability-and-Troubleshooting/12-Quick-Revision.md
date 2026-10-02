@@ -22,4 +22,4 @@ sudo nsenter -t <PID> -n -m /bin/sh
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [01 - Container Fundamentals](../01-Container-Fundamentals-Cgroups-Namespaces/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (08 - Kubernetes & Orchestration) →](../../08%20-%20Kubernetes%20%26%20Orchestration/01-Kubernetes-Architecture-and-Control-Plane/01-Control-Plane-Components-API-etcd-Scheduler-ControllerManager.md) |

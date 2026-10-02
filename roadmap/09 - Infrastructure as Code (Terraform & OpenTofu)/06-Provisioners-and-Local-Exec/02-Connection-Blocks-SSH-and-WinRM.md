@@ -46,4 +46,4 @@ connection {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Provisioner Types](./01-Provisioner-Types-local-exec-remote-exec-file.md) | [README](./README.md) | [03 - Null Resource](./03-Null-Resource-and-Triggers.md) |
+| [← 01 - Provisioner Types local exec remote exec file](./01-Provisioner-Types-local-exec-remote-exec-file.md) | [Index](../../../README.md) | [03 - Null Resource and Triggers →](./03-Null-Resource-and-Triggers.md) |

@@ -16,4 +16,4 @@ The HPA calculates desired replicas by multiplying current replicas by the ratio
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Hands-On Practice](./10-Hands-On-Practice.md) | [README](./README.md) | [12 - Quick Revision](./12-Quick-Revision.md) |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

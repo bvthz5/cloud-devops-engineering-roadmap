@@ -25,4 +25,4 @@ Established in 2015 by Docker and industry leaders under the Linux Foundation, t
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - containerd Architecture & CRI](./02-Containerd-Architecture-and-CRI-Plugin.md) |
+| [← Prev Module (08-Container-Registries-DockerHub-ECR-GHCR)](../08-Container-Registries-DockerHub-ECR-GHCR/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Containerd Architecture and CRI Plugin →](./02-Containerd-Architecture-and-CRI-Plugin.md) |

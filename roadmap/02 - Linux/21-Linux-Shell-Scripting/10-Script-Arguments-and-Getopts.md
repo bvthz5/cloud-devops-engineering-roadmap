@@ -15,8 +15,9 @@ while getopts "e:v" opt; do
   esac
 done
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Exit Status & Error Handling](./09-Exit-Status-Error-Handling-and-Strict-Mode.md) | [README](./README.md) | [11 - I/O Redirection & Pipes](./11-IO-Redirection-Pipes-and-Process-Substitution.md) |
+| [← 09 - Exit Status Error Handling and Strict Mode](./09-Exit-Status-Error-Handling-and-Strict-Mode.md) | [Index](../../../README.md) | [11 - IO Redirection Pipes and Process Substitution →](./11-IO-Redirection-Pipes-and-Process-Substitution.md) |

@@ -6,4 +6,4 @@ Cloud-native Security Information and Event Management (SIEM) and Security Orche
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Defender for Cloud](./04-Microsoft-Defender-for-Cloud-and-Secure-Score.md) | [README](./README.md) | [06 - Azure WAF & DDoS](./06-Azure-Web-Application-Firewall-WAF-and-DDoS-Protection.md) |
+| [← 04 - Microsoft Defender for Cloud and Secure Score](./04-Microsoft-Defender-for-Cloud-and-Secure-Score.md) | [Index](../../../README.md) | [06 - Azure Web Application Firewall WAF and DDoS Protection →](./06-Azure-Web-Application-Firewall-WAF-and-DDoS-Protection.md) |

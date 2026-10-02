@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 05 - AWS EC2](../05-AWS-EC2-Compute-and-Auto-Scaling/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (05-AWS-EC2-Compute-and-Auto-Scaling) →](../05-AWS-EC2-Compute-and-Auto-Scaling/01-EC2-Instance-Types-Families-and-Generations.md) |

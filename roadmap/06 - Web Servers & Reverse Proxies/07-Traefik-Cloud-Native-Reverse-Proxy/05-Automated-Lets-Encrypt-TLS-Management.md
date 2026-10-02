@@ -39,4 +39,4 @@ chmod 600 /etc/traefik/acme.json # Strict 0600 permissions mandatory!
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Kubernetes Ingress & Gateway API](./04-Kubernetes-Ingress-and-Gateway-API-with-Traefik.md) | [README](./README.md) | [06 - Observability & Dashboard](./06-Observability-Tracing-and-Dashboard.md) |
+| [← 04 - Kubernetes Ingress and Gateway API with Traefik](./04-Kubernetes-Ingress-and-Gateway-API-with-Traefik.md) | [Index](../../../README.md) | [06 - Observability Tracing and Dashboard →](./06-Observability-Tracing-and-Dashboard.md) |

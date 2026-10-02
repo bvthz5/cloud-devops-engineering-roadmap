@@ -20,4 +20,4 @@ An `initContainer` checks the Pod ordinal from the hostname (`hostname | awk -F'
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Pod Management Policies](./03-OrderedReady-vs-Parallel-Pod-Management-Policies.md) | [README](./README.md) | [05 - DaemonSet Architecture](./05-DaemonSet-Architecture-and-Node-Level-Agents.md) |
+| [← 03 - OrderedReady vs Parallel Pod Management Policies](./03-OrderedReady-vs-Parallel-Pod-Management-Policies.md) | [Index](../../../README.md) | [05 - DaemonSet Architecture and Node Level Agents →](./05-DaemonSet-Architecture-and-Node-Level-Agents.md) |

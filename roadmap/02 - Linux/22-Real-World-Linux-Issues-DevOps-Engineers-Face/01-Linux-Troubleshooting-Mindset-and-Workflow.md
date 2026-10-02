@@ -72,4 +72,4 @@ journalctl -p err..emerg -n 30
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - High CPU Usage & Load Average](./02-High-CPU-Usage-and-Load-Average-Diagnosis.md) |
+| [← Prev Module (21-Linux-Shell-Scripting)](../21-Linux-Shell-Scripting/SOURCE.md) | [Index](../../../README.md) | [02 - High CPU Usage and Load Average Diagnosis →](./02-High-CPU-Usage-and-Load-Average-Diagnosis.md) |

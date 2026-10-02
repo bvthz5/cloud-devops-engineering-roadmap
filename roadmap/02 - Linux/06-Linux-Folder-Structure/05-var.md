@@ -51,8 +51,9 @@ cat /etc/logrotate.conf
 ```
 
 In production architectures, `/var` (or `/var/log`) is often mounted on a **separate disk volume** so log exhaustion does not freeze the root partition (`/`).
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - etc](./04-etc.md) | [README](./README.md) | [06 - home and root](./06-home-and-root.md) |
+| [← 04 - etc](./04-etc.md) | [Index](../../../README.md) | [06 - home and root →](./06-home-and-root.md) |

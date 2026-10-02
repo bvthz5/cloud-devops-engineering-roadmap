@@ -114,4 +114,4 @@ This produces an **OCI Image Index (Manifest List)** that enables Docker/Kuberne
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Computer Architecture and CPU Fundamentals](./01-Computer-Architecture-and-CPU-Fundamentals.md) | [README](./README.md) | [03 - CPU Cache Hierarchy and Memory Subsystems](./03-CPU-Cache-Hierarchy-and-Memory-Subsystems.md) |
+| [← 01 - Computer Architecture and CPU Fundamentals](./01-Computer-Architecture-and-CPU-Fundamentals.md) | [Index](../../../README.md) | [03 - CPU Cache Hierarchy and Memory Subsystems →](./03-CPU-Cache-Hierarchy-and-Memory-Subsystems.md) |

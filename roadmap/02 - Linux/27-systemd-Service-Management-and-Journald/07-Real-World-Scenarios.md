@@ -50,4 +50,4 @@ When running `sudo systemctl reload nginx`:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - cgroups v2 Resource Limits](./06-cgroups-v2-Resource-Limits-in-systemd.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - cgroups v2 Resource Limits in systemd](./06-cgroups-v2-Resource-Limits-in-systemd.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

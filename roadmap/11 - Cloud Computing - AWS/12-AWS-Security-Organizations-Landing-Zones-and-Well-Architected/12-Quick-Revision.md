@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 13 - AWS Native CI/CD](../13-AWS-DevOps-Services-CodePipeline-CodeBuild-CodeDeploy/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (13-AWS-DevOps-Services-CodePipeline-CodeBuild-CodeDeploy) →](../13-AWS-DevOps-Services-CodePipeline-CodeBuild-CodeDeploy/01-AWS-DevOps-Services-Overview.md) |

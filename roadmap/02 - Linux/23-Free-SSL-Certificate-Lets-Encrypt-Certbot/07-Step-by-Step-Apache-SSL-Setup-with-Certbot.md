@@ -35,4 +35,4 @@ sudo certbot --apache -d example.com -d www.example.com
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Nginx SSL Setup](./06-Step-by-Step-Nginx-SSL-Setup-with-Certbot.md) | [README](./README.md) | [08 - SSL File Structure & Permissions](./08-SSL-Certificate-Files-Structure-and-Permissions.md) |
+| [← 06 - Step by Step Nginx SSL Setup with Certbot](./06-Step-by-Step-Nginx-SSL-Setup-with-Certbot.md) | [Index](../../../README.md) | [08 - SSL Certificate Files Structure and Permissions →](./08-SSL-Certificate-Files-Structure-and-Permissions.md) |

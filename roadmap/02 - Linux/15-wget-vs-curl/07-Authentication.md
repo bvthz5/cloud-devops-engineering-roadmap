@@ -71,4 +71,4 @@ curl -b cookies.txt -O https://example.com/secure_report.pdf
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Headers and Debugging](./06-Headers-and-Debugging.md) | [README](./README.md) | [08 - File Uploads](./08-File-Uploads.md) |
+| [← 06 - Headers and Debugging](./06-Headers-and-Debugging.md) | [Index](../../../README.md) | [08 - File Uploads →](./08-File-Uploads.md) |

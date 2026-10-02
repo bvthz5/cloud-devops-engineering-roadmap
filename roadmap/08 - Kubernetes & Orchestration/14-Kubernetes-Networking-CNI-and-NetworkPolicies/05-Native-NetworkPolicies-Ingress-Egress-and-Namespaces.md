@@ -47,4 +47,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Cilium & eBPF](./04-Cilium-CNI-eBPF-Datapath-and-High-Performance-Networking.md) | [README](./README.md) | [06 - Advanced L7 Policies](./06-Advanced-L7-Network-Policies-and-DNS-Filtering.md) |
+| [← 04 - Cilium CNI eBPF Datapath and High Performance Networking](./04-Cilium-CNI-eBPF-Datapath-and-High-Performance-Networking.md) | [Index](../../../README.md) | [06 - Advanced L7 Network Policies and DNS Filtering →](./06-Advanced-L7-Network-Policies-and-DNS-Filtering.md) |

@@ -8,4 +8,4 @@ Azure Policy enforces organizational standards and assesses compliance at scale 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Access Policies vs RBAC](./02-Key-Vault-Access-Policies-vs-Azure-RBAC-Control.md) | [README](./README.md) | [04 - Defender for Cloud](./04-Microsoft-Defender-for-Cloud-and-Secure-Score.md) |
+| [← 02 - Key Vault Access Policies vs Azure RBAC Control](./02-Key-Vault-Access-Policies-vs-Azure-RBAC-Control.md) | [Index](../../../README.md) | [04 - Microsoft Defender for Cloud and Secure Score →](./04-Microsoft-Defender-for-Cloud-and-Secure-Score.md) |

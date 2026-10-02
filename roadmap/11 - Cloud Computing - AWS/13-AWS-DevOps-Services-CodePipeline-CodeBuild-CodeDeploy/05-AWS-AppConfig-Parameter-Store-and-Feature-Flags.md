@@ -6,4 +6,4 @@ Safely deploy application configuration changes at runtime without requiring app
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - AWS CodePipeline](./04-AWS-CodePipeline-Orchestration-and-Stage-Artifacts.md) | [README](./README.md) | [06 - Pipeline Security](./06-Pipeline-Security-IAM-Roles-and-Encryption.md) |
+| [← 04 - AWS CodePipeline Orchestration and Stage Artifacts](./04-AWS-CodePipeline-Orchestration-and-Stage-Artifacts.md) | [Index](../../../README.md) | [06 - Pipeline Security IAM Roles and Encryption →](./06-Pipeline-Security-IAM-Roles-and-Encryption.md) |

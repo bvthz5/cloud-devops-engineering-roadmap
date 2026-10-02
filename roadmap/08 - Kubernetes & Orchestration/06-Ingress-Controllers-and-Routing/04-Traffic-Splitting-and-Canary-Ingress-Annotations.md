@@ -38,4 +38,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - SSL Termination & Cert-Manager](./03-SSL-TLS-Termination-and-Cert-Manager-Integration.md) | [README](./README.md) | [05 - Rewrite & Custom Headers](./05-Rewrite-Target-Custom-Headers-and-CORS-Policies.md) |
+| [← 03 - SSL TLS Termination and Cert Manager Integration](./03-SSL-TLS-Termination-and-Cert-Manager-Integration.md) | [Index](../../../README.md) | [05 - Rewrite Target Custom Headers and CORS Policies →](./05-Rewrite-Target-Custom-Headers-and-CORS-Policies.md) |

@@ -23,4 +23,4 @@ A high-throughput e-commerce catalog service crashed completely across all 20 re
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Security Contexts](./06-Security-Contexts-RunAsUser-and-Privilege-Escalation.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Security Contexts RunAsUser and Privilege Escalation](./06-Security-Contexts-RunAsUser-and-Privilege-Escalation.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

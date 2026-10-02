@@ -22,4 +22,4 @@ make run
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - The Operator Pattern](./02-The-Kubernetes-Operator-Pattern-and-Control-Loop.md) | [README](./README.md) | [04 - Reconciliation Loops](./04-Operator-Reconciliation-Loops-and-Event-Handling.md) |
+| [← 02 - The Kubernetes Operator Pattern and Control Loop](./02-The-Kubernetes-Operator-Pattern-and-Control-Loop.md) | [Index](../../../README.md) | [04 - Operator Reconciliation Loops and Event Handling →](./04-Operator-Reconciliation-Loops-and-Event-Handling.md) |

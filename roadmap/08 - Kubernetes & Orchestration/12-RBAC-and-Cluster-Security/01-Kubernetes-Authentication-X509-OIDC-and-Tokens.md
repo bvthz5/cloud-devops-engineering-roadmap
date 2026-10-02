@@ -17,4 +17,4 @@ Request ──► kube-apiserver
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - RBAC Roles & Bindings](./02-Role-ClusterRole-RoleBinding-and-ClusterRoleBinding.md) |
+| [← Prev Module (11-Auto-Scaling-HPA-VPA-Cluster-Autoscaler)](../11-Auto-Scaling-HPA-VPA-Cluster-Autoscaler/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Role ClusterRole RoleBinding and ClusterRoleBinding →](./02-Role-ClusterRole-RoleBinding-and-ClusterRoleBinding.md) |

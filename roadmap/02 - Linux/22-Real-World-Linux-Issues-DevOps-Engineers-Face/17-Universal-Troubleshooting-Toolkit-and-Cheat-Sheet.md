@@ -25,4 +25,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - Suspicious Processes](./16-Suspicious-Processes-and-Security-Incident-Response.md) | [README](./README.md) | [18 - Lab 01: Unlinked File Leak](./18-Hands-On-Lab-01-Unlinked-Open-File-Disk-Leak.md) |
+| [← 16 - Suspicious Processes and Security Incident Response](./16-Suspicious-Processes-and-Security-Incident-Response.md) | [Index](../../../README.md) | [18 - Hands On Lab 01 Unlinked Open File Disk Leak →](./18-Hands-On-Lab-01-Unlinked-Open-File-Disk-Leak.md) |

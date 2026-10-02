@@ -25,4 +25,4 @@ COPY . .                     <-- Fast layer copy at the end!
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Dockerfile Instruction Anatomy](./01-Dockerfile-Instruction-Anatomy-and-Execution.md) | [README](./README.md) | [03 - Multi-Stage Builds Architecture](./03-Multi-Stage-Builds-Architecture.md) |
+| [← 01 - Dockerfile Instruction Anatomy and Execution](./01-Dockerfile-Instruction-Anatomy-and-Execution.md) | [Index](../../../README.md) | [03 - Multi Stage Builds Architecture →](./03-Multi-Stage-Builds-Architecture.md) |

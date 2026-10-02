@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Cloud Abstraction Layers Kubernetes Terraform and Containers](./03-Cloud-Abstraction-Layers-Kubernetes-Terraform-and-Containers.md) | [Index](../../../README.md) | [05 - Cloud Egress Cost Mitigation and Data Gravity →](./05-Cloud-Egress-Cost-Mitigation-and-Data-Gravity.md) |

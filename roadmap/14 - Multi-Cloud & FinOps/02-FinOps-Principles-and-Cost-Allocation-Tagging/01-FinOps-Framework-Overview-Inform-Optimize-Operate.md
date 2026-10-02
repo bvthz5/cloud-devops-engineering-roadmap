@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (01-Multi-Cloud-Architecture-Strategy-and-Patterns)](../01-Multi-Cloud-Architecture-Strategy-and-Patterns/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Building a FinOps Culture Engineering Finance and Business Alignment →](./02-Building-a-FinOps-Culture-Engineering-Finance-and-Business-Alignment.md) |

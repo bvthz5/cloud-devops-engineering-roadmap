@@ -44,4 +44,4 @@ sudo systemd-resolve --statistics
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Firewall & Security Groups](./11-Firewall-Security-Groups-and-Network-Blocking.md) | [README](./README.md) | [13 - Deployment Failures & Rollback](./13-Production-Deployment-Failures-and-Rollback.md) |
+| [← 11 - Firewall Security Groups and Network Blocking](./11-Firewall-Security-Groups-and-Network-Blocking.md) | [Index](../../../README.md) | [13 - Production Deployment Failures and Rollback →](./13-Production-Deployment-Failures-and-Rollback.md) |

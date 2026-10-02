@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (06-Spot-Instances-Savings-Plans-and-Reserved-Capacity)](../06-Spot-Instances-Savings-Plans-and-Reserved-Capacity/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - AWS Transit Gateway Azure Virtual WAN and GCP Network Connectivity Center →](./02-AWS-Transit-Gateway-Azure-Virtual-WAN-and-GCP-Network-Connectivity-Center.md) |

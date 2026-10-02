@@ -22,4 +22,4 @@ helm install payment-service oci://my-registry.azurecr.io/helm-charts/payment-se
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Helm Hooks](./05-Helm-Hooks-and-Lifecycle-Management.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Helm Hooks and Lifecycle Management](./05-Helm-Hooks-and-Lifecycle-Management.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

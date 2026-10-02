@@ -6,3 +6,9 @@ Top technical interview questions for Distributed Tracing with Service Mesh Tele
 2. How do you troubleshoot mTLS connection failures?
 3. Compare Distributed Tracing with Service Mesh Telemetry with alternative service mesh implementations.
 4. Describe a scenario where circuit breaking saved a production outage.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

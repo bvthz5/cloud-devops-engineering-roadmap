@@ -37,4 +37,4 @@ When a Deployment is created or updated, the Deployment Controller computes a 32
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Rolling Update Strategy](./02-Rolling-Update-Strategy-MaxSurge-and-MaxUnavailable.md) |
+| [← Prev Module (03-Pods-and-Workloads)](../03-Pods-and-Workloads/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Rolling Update Strategy MaxSurge and MaxUnavailable →](./02-Rolling-Update-Strategy-MaxSurge-and-MaxUnavailable.md) |

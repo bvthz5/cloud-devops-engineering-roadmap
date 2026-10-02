@@ -50,4 +50,4 @@ server {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Nginx Microcaching](./02-Nginx-Microcaching-and-FastCGI-Proxy-Cache.md) | [README](./README.md) | [04 - Rate Limiting Algorithms](./04-Rate-Limiting-Algorithms-Leaky-Bucket-vs-Token-Bucket.md) |
+| [← 02 - Nginx Microcaching and FastCGI Proxy Cache](./02-Nginx-Microcaching-and-FastCGI-Proxy-Cache.md) | [Index](../../../README.md) | [04 - Rate Limiting Algorithms Leaky Bucket vs Token Bucket →](./04-Rate-Limiting-Algorithms-Leaky-Bucket-vs-Token-Bucket.md) |

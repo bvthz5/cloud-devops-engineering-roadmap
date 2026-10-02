@@ -29,4 +29,4 @@ A **DaemonSet** ensures that all (or some) worker nodes run exactly **one copy o
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Clustered DB Patterns](./04-Clustered-Database-Deployment-Patterns-MySQL-Postgres.md) | [README](./README.md) | [06 - DaemonSet Updates](./06-DaemonSet-Update-Strategies-and-HostPort-Considerations.md) |
+| [← 04 - Clustered Database Deployment Patterns MySQL Postgres](./04-Clustered-Database-Deployment-Patterns-MySQL-Postgres.md) | [Index](../../../README.md) | [06 - DaemonSet Update Strategies and HostPort Considerations →](./06-DaemonSet-Update-Strategies-and-HostPort-Considerations.md) |

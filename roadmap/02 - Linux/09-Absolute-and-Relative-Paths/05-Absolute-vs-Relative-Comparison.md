@@ -28,8 +28,9 @@ Is the path used in an automated system script (Cron, Systemd, CI/CD)?
         ├── YES ➔ Use RELATIVE PATH (../data/file.csv)
         └── NO  ➔ Default to ABSOLUTE PATH for safety
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Dot and DotDot Mechanics](./04-Dot-and-DotDot-Mechanics.md) | [README](./README.md) | [06 - Wildcards and Shell Globbing](./06-Wildcards-and-Shell-Globbing.md) |
+| [← 04 - Dot and DotDot Mechanics](./04-Dot-and-DotDot-Mechanics.md) | [Index](../../../README.md) | [06 - Wildcards and Shell Globbing →](./06-Wildcards-and-Shell-Globbing.md) |

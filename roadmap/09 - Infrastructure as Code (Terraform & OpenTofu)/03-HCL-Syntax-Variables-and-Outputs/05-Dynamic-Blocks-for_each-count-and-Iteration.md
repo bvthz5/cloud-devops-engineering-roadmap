@@ -95,4 +95,4 @@ resource "aws_cloudwatch_log_group" "app" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Locals & Functions](./04-Locals-Expressions-and-Built-in-Functions.md) | [README](./README.md) | [06 - Type Constraints](./06-Type-Constraints-Complex-Types-and-any.md) |
+| [← 04 - Locals Expressions and Built in Functions](./04-Locals-Expressions-and-Built-in-Functions.md) | [Index](../../../README.md) | [06 - Type Constraints Complex Types and any →](./06-Type-Constraints-Complex-Types-and-any.md) |

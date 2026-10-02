@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Azure Functions Architecture](./04-Azure-Functions-Architecture-Triggers-and-Bindings.md) | [README](./README.md) | [06 - Event Grid & Service Bus](./06-Azure-Event-Grid-and-Azure-Service-Bus.md) |
+| [← 04 - Azure Functions Architecture Triggers and Bindings](./04-Azure-Functions-Architecture-Triggers-and-Bindings.md) | [Index](../../../README.md) | [06 - Azure Event Grid and Azure Service Bus →](./06-Azure-Event-Grid-and-Azure-Service-Bus.md) |

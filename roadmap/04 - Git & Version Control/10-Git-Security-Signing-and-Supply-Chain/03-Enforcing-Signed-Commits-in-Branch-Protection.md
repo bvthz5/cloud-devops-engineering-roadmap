@@ -20,4 +20,4 @@ To prevent spoofed commits from entering production:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Cryptographic Signing](./02-Cryptographic-Signing-with-GPG-and-SSH-Keys.md) | [README](./README.md) | [04 - Purging Secrets](./04-Purging-Leaked-Secrets-with-git-filter-repo.md) |
+| [← 02 - Cryptographic Signing with GPG and SSH Keys](./02-Cryptographic-Signing-with-GPG-and-SSH-Keys.md) | [Index](../../../README.md) | [04 - Purging Leaked Secrets with git filter repo →](./04-Purging-Leaked-Secrets-with-git-filter-repo.md) |

@@ -12,4 +12,4 @@ aws sts get-caller-identity
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Capex vs Opex](./05-Capex-vs-Opex-and-Cloud-Economics.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Capex vs Opex and Cloud Economics](./05-Capex-vs-Opex-and-Cloud-Economics.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

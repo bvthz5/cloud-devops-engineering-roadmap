@@ -27,3 +27,9 @@ Executing `terraform apply` fails with `Error acquiring the state lock: GCS obje
    ```bash
    terraform force-unlock LOCK_ID
    ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 07 - Real World Scenarios](./07-Real-World-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

@@ -50,4 +50,4 @@ server {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Nginx Configuration Structure and Server Blocks](./03-Nginx-Configuration-Structure-and-Server-Blocks.md) | [README](./README.md) | [05 - Nginx Load Balancing Algorithms and Health Checks](./05-Nginx-Load-Balancing-Algorithms-and-Health-Checks.md) |
+| [← 03 - Nginx Configuration Structure and Server Blocks](./03-Nginx-Configuration-Structure-and-Server-Blocks.md) | [Index](../../../README.md) | [05 - Nginx Load Balancing Algorithms and Health Checks →](./05-Nginx-Load-Balancing-Algorithms-and-Health-Checks.md) |

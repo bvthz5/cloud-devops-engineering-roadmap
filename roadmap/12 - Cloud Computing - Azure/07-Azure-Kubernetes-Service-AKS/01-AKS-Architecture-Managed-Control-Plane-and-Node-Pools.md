@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Kubenet vs Azure CNI](./02-AKS-Networking-Kubenet-vs-Azure-CNI.md) |
+| [← Prev Module (06-Azure-SQL-CosmosDB-and-Managed-Databases)](../06-Azure-SQL-CosmosDB-and-Managed-Databases/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - AKS Networking Kubenet vs Azure CNI →](./02-AKS-Networking-Kubenet-vs-Azure-CNI.md) |

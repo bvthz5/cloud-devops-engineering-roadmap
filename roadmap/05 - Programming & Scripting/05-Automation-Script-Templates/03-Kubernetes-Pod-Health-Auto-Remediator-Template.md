@@ -35,4 +35,4 @@ if __name__ == "__main__":
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Cloud Snapshots](./02-Cloud-Snapshot-and-Backup-Retention-Template.md) | [README](./README.md) | [04 - SSL Cert Scanner](./04-SSL-TLS-Certificate-Expiration-Scanner-Template.md) |
+| [← 02 - Cloud Snapshot and Backup Retention Template](./02-Cloud-Snapshot-and-Backup-Retention-Template.md) | [Index](../../../README.md) | [04 - SSL TLS Certificate Expiration Scanner Template →](./04-SSL-TLS-Certificate-Expiration-Scanner-Template.md) |

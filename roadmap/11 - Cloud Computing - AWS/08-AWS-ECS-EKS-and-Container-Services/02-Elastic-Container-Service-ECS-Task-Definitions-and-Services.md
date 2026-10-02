@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - ECR Overview](./01-Amazon-Elastic-Container-Registry-ECR.md) | [README](./README.md) | [03 - AWS Fargate](./03-AWS-Fargate-Serverless-Container-Compute.md) |
+| [← 01 - Amazon Elastic Container Registry ECR](./01-Amazon-Elastic-Container-Registry-ECR.md) | [Index](../../../README.md) | [03 - AWS Fargate Serverless Container Compute →](./03-AWS-Fargate-Serverless-Container-Compute.md) |

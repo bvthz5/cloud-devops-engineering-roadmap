@@ -16,4 +16,4 @@ While HPA scales the *quantity* of pods, the **Vertical Pod Autoscaler (VPA)** a
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Custom Metrics](./02-Custom-and-External-Metrics-with-Prometheus-Adapter.md) | [README](./README.md) | [04 - Cluster Autoscaler](./04-Cluster-Autoscaler-Architecture-and-Cloud-Integration.md) |
+| [← 02 - Custom and External Metrics with Prometheus Adapter](./02-Custom-and-External-Metrics-with-Prometheus-Adapter.md) | [Index](../../../README.md) | [04 - Cluster Autoscaler Architecture and Cloud Integration →](./04-Cluster-Autoscaler-Architecture-and-Cloud-Integration.md) |

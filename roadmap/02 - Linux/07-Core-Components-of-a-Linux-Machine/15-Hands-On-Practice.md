@@ -47,8 +47,9 @@ Practical terminal labs for inspecting system libraries, shell built-ins, and ha
    ```bash
    strace -e trace=openat cat /etc/issue
    ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - Interview QA](./14-Interview-QA.md) | [README](./README.md) | [16 - MCQ](./16-MCQ.md) |
+| [← 14 - Interview QA](./14-Interview-QA.md) | [Index](../../../README.md) | [16 - MCQ →](./16-MCQ.md) |

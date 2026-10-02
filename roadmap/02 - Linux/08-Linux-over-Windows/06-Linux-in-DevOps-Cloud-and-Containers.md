@@ -33,8 +33,9 @@ Windows Container Execution (Linux Containers on Windows):
 
 - **GitHub Actions / GitLab CI / Jenkins Runners:** The vast majority of CI/CD build agents execute on Linux nodes because dependencies compile faster and tools run natively.
 - **Terraform & Ansible:** Ansible uses agentless SSH to configure Linux nodes natively without requiring WinRM setup.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Linux vs Windows Comparison Matrix](./05-Linux-vs-Windows-Comparison-Matrix.md) | [README](./README.md) | [07 - CLI vs GUI Philosophies](./07-CLI-vs-GUI-Philosophies.md) |
+| [← 05 - Linux vs Windows Comparison Matrix](./05-Linux-vs-Windows-Comparison-Matrix.md) | [Index](../../../README.md) | [07 - CLI vs GUI Philosophies →](./07-CLI-vs-GUI-Philosophies.md) |

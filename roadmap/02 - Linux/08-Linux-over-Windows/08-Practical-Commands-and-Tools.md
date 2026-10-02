@@ -22,8 +22,9 @@ A comparative guide showing equivalent operations between Linux Bash commands an
 | **Active Network Sockets** | `ss -tulpn` / `netstat` | `Get-NetTCPConnection` / `netstat -ano` |
 | **System Uptime** | `uptime` | `(Get-CimInstance Win32_OperatingSystem).LastBootUpTime` |
 | **Package Manager** | `apt install pkg` / `dnf` | `winget install pkg` / `choco install` |
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - CLI vs GUI Philosophies](./07-CLI-vs-GUI-Philosophies.md) | [README](./README.md) | [09 - Real World Production Scenarios](./09-Real-World-Production-Scenarios.md) |
+| [← 07 - CLI vs GUI Philosophies](./07-CLI-vs-GUI-Philosophies.md) | [Index](../../../README.md) | [09 - Real World Production Scenarios →](./09-Real-World-Production-Scenarios.md) |

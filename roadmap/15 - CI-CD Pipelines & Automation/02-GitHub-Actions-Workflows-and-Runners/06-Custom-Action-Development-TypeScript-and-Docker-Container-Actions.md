@@ -91,3 +91,9 @@ pipeline {
 - [GitHub Actions Official Documentation](https://docs.github.com/en/actions)
 - [GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)
 - [Jenkins User Handbook](https://www.jenkins.io/doc/book/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 05 - GitHub Actions Secrets Environments and Approval Gates](./05-GitHub-Actions-Secrets-Environments-and-Approval-Gates.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

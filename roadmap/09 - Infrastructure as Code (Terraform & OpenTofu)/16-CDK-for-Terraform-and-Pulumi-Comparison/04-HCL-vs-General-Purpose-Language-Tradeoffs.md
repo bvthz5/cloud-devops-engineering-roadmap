@@ -14,4 +14,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Pulumi Architecture](./03-Pulumi-Architecture-and-State.md) | [README](./README.md) | [05 - Migration](./05-Migration-Between-Tools.md) |
+| [← 03 - Pulumi Architecture and State](./03-Pulumi-Architecture-and-State.md) | [Index](../../../README.md) | [05 - Migration Between Tools →](./05-Migration-Between-Tools.md) |

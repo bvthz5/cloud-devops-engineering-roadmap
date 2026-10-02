@@ -16,4 +16,4 @@ merged: "{{ dict_a | combine(dict_b) }}"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Jinja2 Templating](./04-Jinja2-Templating-Syntax-Filters-and-Control-Structures.md) | [README](./README.md) | [06 - Variable Scoping](./06-Variable-Scoping-Play-Host-Role-and-Extra-Vars.md) |
+| [← 04 - Jinja2 Templating Syntax Filters and Control Structures](./04-Jinja2-Templating-Syntax-Filters-and-Control-Structures.md) | [Index](../../../README.md) | [06 - Variable Scoping Play Host Role and Extra Vars →](./06-Variable-Scoping-Play-Host-Role-and-Extra-Vars.md) |

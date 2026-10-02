@@ -25,3 +25,9 @@ A healthcare cloud platform must guarantee that no unauthorized or modified cont
 1. **CI Signing**: In the GitHub Actions pipeline, after Trivy vulnerability scanning passes, container images are signed using `cosign` and Sigstore KMS key pairs.
 2. **Policy-as-Code Enforcement**: Deploy **Kyverno** admission controller on production Kubernetes clusters with an `image-verify` policy.
 3. **Admission Control**: Kyverno intercept pod creation requests; if an image signature is unverified or modified, Kubernetes rejects the deployment pod immediately.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 06 - Secret Rotation Automation and Short Lived Credentials](./06-Secret-Rotation-Automation-and-Short-Lived-Credentials.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

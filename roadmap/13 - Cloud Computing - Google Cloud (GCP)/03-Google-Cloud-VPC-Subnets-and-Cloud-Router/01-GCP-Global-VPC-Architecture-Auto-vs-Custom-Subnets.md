@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (02-Google-Cloud-IAM-and-Service-Accounts)](../02-Google-Cloud-IAM-and-Service-Accounts/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Firewall Rules Target Tags and Service Account Filtering →](./02-Firewall-Rules-Target-Tags-and-Service-Account-Filtering.md) |

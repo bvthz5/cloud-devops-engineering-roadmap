@@ -9,4 +9,4 @@ A Shared Access Signature (SAS) provides delegated URI access to storage resourc
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Access Tiers](./03-Blob-Access-Tiers-Hot-Cool-Cold-Archive.md) | [README](./README.md) | [05 - Storage Networking](./05-Storage-Networking-Private-Endpoints-and-Firewalls.md) |
+| [← 03 - Blob Access Tiers Hot Cool Cold Archive](./03-Blob-Access-Tiers-Hot-Cool-Cold-Archive.md) | [Index](../../../README.md) | [05 - Storage Networking Private Endpoints and Firewalls →](./05-Storage-Networking-Private-Endpoints-and-Firewalls.md) |

@@ -22,3 +22,9 @@
 3. **Maintain DRY IaC using Terragrunt or OpenTofu modules**.
 4. **Use Memory Limiter processors in OTel Collectors** to prevent OOMKilled crashes during log spikes.
 5. **Schedule automated weekend shutdowns for dev/test environments** to achieve immediate 65% compute savings.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (15 - CI-CD Pipelines & Automation) →](../../15%20-%20CI-CD%20Pipelines%20%26%20Automation/01-CI-CD-Foundations-and-Best-Practices/01-Continuous-Integration-vs-Continuous-Delivery-vs-Continuous-Deployment.md) |

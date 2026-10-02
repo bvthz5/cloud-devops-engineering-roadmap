@@ -31,4 +31,4 @@ buildah rm $container
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Systemd & Podman Quadlets](./04-Systemd-Integration-and-Podman-Quadlets.md) | [README](./README.md) | [06 - Skopeo: Remote Registry Operations](./06-Skopeo-Remote-Registry-Operations-Without-Pulling.md) |
+| [← 04 - Systemd Integration and Podman Quadlets](./04-Systemd-Integration-and-Podman-Quadlets.md) | [Index](../../../README.md) | [06 - Skopeo Remote Registry Operations Without Pulling →](./06-Skopeo-Remote-Registry-Operations-Without-Pulling.md) |

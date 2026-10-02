@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Section (15 - CI-CD Pipelines & Automation)](../../15%20-%20CI-CD%20Pipelines%20%26%20Automation/12-Release-Automation-Semantic-Versioning-and-Feature-Flags/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Push Based vs Pull Based Deployment Models →](./02-Push-Based-vs-Pull-Based-Deployment-Models.md) |

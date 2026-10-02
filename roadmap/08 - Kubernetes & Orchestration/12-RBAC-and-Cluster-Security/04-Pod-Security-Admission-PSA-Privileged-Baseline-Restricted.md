@@ -32,4 +32,4 @@ metadata:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - ServiceAccounts & Bound Tokens](./03-ServiceAccounts-and-Bound-Token-Projection.md) | [README](./README.md) | [05 - Admission Controllers](./05-Admission-Controllers-Mutating-and-Validating-Webhooks.md) |
+| [← 03 - ServiceAccounts and Bound Token Projection](./03-ServiceAccounts-and-Bound-Token-Projection.md) | [Index](../../../README.md) | [05 - Admission Controllers Mutating and Validating Webhooks →](./05-Admission-Controllers-Mutating-and-Validating-Webhooks.md) |

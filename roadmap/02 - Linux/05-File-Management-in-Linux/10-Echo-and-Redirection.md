@@ -78,8 +78,9 @@ bash: /proc/sys/net/ipv4/ip_forward: Permission denied
 # CORRECT SOLUTION using tee:
 $ echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward > /dev/null
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Vi and Vim](./09-Vi-and-Vim.md) | [README](./README.md) | [11 - All Flags Cheat Sheet](./11-All-Flags-Cheat-Sheet.md) |
+| [← 09 - Vi and Vim](./09-Vi-and-Vim.md) | [Index](../../../README.md) | [11 - All Flags Cheat Sheet →](./11-All-Flags-Cheat-Sheet.md) |

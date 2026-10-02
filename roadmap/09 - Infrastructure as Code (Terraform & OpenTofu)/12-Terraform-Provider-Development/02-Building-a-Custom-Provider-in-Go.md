@@ -55,4 +55,4 @@ func (r *UserResource) Create(ctx context.Context, req resource.CreateRequest, r
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Plugin Framework](./01-Provider-Plugin-Framework-and-SDK.md) | [README](./README.md) | [03 - Resource Implementation](./03-Resource-and-Data-Source-Implementation.md) |
+| [← 01 - Provider Plugin Framework and SDK](./01-Provider-Plugin-Framework-and-SDK.md) | [Index](../../../README.md) | [03 - Resource and Data Source Implementation →](./03-Resource-and-Data-Source-Implementation.md) |

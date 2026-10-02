@@ -14,4 +14,4 @@ module vnetModule 'modules/vnet.bicep' = {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Bicep Syntax](./02-Bicep-Language-Syntax-Parameters-Variables-and-Outputs.md) | [README](./README.md) | [04 - Target Scopes](./04-Target-Scopes-ResourceGroup-Subscription-ManagementGroup.md) |
+| [← 02 - Bicep Language Syntax Parameters Variables and Outputs](./02-Bicep-Language-Syntax-Parameters-Variables-and-Outputs.md) | [Index](../../../README.md) | [04 - Target Scopes ResourceGroup Subscription ManagementGroup →](./04-Target-Scopes-ResourceGroup-Subscription-ManagementGroup.md) |

@@ -38,4 +38,4 @@ tar -tvf backup-data.tar.gz
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - rsync Synchronization](./02-rsync-Remote-Synchronization-Deep-Dive.md) |
+| [← Prev Module (30-Linux-Log-Management-Logrotate-and-Rsyslog)](../30-Linux-Log-Management-Logrotate-and-Rsyslog/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - rsync Remote Synchronization Deep Dive →](./02-rsync-Remote-Synchronization-Deep-Dive.md) |

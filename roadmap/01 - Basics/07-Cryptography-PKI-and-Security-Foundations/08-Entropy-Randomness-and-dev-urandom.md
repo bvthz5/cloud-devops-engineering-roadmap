@@ -28,4 +28,4 @@ The Linux kernel gathers environmental noise from unpredictable hardware events:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Password Security & KDFs](./07-Password-Security-Salts-and-KDFs.md) | [README](./README.md) | [09 - Real-World Scenarios](./09-Real-World-Scenarios.md) |
+| [← 07 - Password Security Salts and KDFs](./07-Password-Security-Salts-and-KDFs.md) | [Index](../../../README.md) | [09 - Real World Scenarios →](./09-Real-World-Scenarios.md) |

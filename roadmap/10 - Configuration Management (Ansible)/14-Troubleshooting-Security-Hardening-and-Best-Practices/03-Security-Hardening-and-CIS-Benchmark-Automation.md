@@ -6,4 +6,4 @@ Automating Center for Internet Security (CIS) OS hardening benchmarks via commun
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Dry Run & Diff Modes](./02-Dry-Run-and-Diff-Modes-check-and-diff.md) | [README](./README.md) | [04 - Privilege Escalation Hardening](./04-Privilege-Escalation-Hardening-and-Sudoers-Security.md) |
+| [← 02 - Dry Run and Diff Modes check and diff](./02-Dry-Run-and-Diff-Modes-check-and-diff.md) | [Index](../../../README.md) | [04 - Privilege Escalation Hardening and Sudoers Security →](./04-Privilege-Escalation-Hardening-and-Sudoers-Security.md) |

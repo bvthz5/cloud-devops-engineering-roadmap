@@ -36,4 +36,4 @@ Consistent Hashing maps both **nodes** and **keys** to a 360-degree circle (e.g.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Core Data Structures](./02-Core-Data-Structures-Arrays-Lists-and-Hash-Tables.md) | [README](./README.md) | [04 - Stacks, Queues & Brokers](./04-Stacks-Queues-and-Message-Brokers.md) |
+| [← 02 - Core Data Structures Arrays Lists and Hash Tables](./02-Core-Data-Structures-Arrays-Lists-and-Hash-Tables.md) | [Index](../../../README.md) | [04 - Stacks Queues and Message Brokers →](./04-Stacks-Queues-and-Message-Brokers.md) |

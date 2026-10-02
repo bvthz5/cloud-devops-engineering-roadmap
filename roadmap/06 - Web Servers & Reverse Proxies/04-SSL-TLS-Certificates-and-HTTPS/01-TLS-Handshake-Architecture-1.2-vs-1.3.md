@@ -41,4 +41,4 @@ In modern TLS (and mandated by TLS 1.3), **Diffie-Hellman Ephemeral (ECDHE)** ke
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Certificate Authorities & PKI](./02-Certificate-Authorities-Chains-and-Trust-Stores.md) |
+| [← Prev Module (03-Reverse-Proxy-and-Load-Balancing)](../03-Reverse-Proxy-and-Load-Balancing/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Certificate Authorities Chains and Trust Stores →](./02-Certificate-Authorities-Chains-and-Trust-Stores.md) |

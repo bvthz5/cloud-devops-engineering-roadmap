@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 17 - Advanced Scheduling](../17-Advanced-Scheduling-Taints-Tolerations-and-Affinity/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (17-Advanced-Scheduling-Taints-Tolerations-and-Affinity) →](../17-Advanced-Scheduling-Taints-Tolerations-and-Affinity/01-Kubernetes-Scheduler-Architecture-and-Scoring-Phases.md) |

@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 09 - StatefulSets & DaemonSets](../09-StatefulSets-and-DaemonSets/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (09-StatefulSets-and-DaemonSets) →](../09-StatefulSets-and-DaemonSets/01-StatefulSet-Architecture-Stable-Network-and-Storage-Identity.md) |

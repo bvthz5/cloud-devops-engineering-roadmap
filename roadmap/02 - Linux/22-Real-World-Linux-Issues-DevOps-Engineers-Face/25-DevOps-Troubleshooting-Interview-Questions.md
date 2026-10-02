@@ -49,4 +49,4 @@ Files have been deleted (`rm`) from directory indexes, but active processes stil
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [24 - Scenario Drills](./24-Real-World-Scenario-Drills-01-to-07.md) | [README](./README.md) | [26 - Scenario MCQs](./26-Scenario-Based-MCQs-and-Diagnostic-Quizzes.md) |
+| [← 24 - Real World Scenario Drills 01 to 07](./24-Real-World-Scenario-Drills-01-to-07.md) | [Index](../../../README.md) | [26 - Scenario Based MCQs and Scenario Quizzes →](./26-Scenario-Based-MCQs-and-Scenario-Quizzes.md) |

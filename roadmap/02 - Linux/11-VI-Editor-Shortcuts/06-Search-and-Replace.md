@@ -80,4 +80,4 @@ Vim's substitution uses the `:s` (substitute) command with the standard Ex forma
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Yank Copy and Paste](./05-Yank-Copy-and-Paste.md) | [README](./README.md) | [07 - File Operations Save and Quit](./07-File-Operations-Save-and-Quit.md) |
+| [← 05 - Yank Copy and Paste](./05-Yank-Copy-and-Paste.md) | [Index](../../../README.md) | [07 - File Operations Save and Quit →](./07-File-Operations-Save-and-Quit.md) |

@@ -34,3 +34,9 @@ How does Infracost help DevOps teams practice Shift-Left FinOps?
 - [ ] D) By encrypting S3 buckets at rest
 
 *Explanation: Infracost estimates cost impacts of IaC changes during code review in CI/CD pipelines.*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

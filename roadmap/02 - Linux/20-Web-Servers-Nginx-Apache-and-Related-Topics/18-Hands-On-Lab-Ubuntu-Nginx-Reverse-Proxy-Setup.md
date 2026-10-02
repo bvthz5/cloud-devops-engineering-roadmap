@@ -49,4 +49,4 @@ Configure Nginx on Ubuntu as a TLS-terminated reverse proxy forwarding web traff
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [17 - Web Server Security Hardening Best Practices](./17-Web-Server-Security-Hardening-Best-Practices.md) | [README](./README.md) | [19 - Hands On Lab Ubuntu Apache Virtual Hosts Setup](./19-Hands-On-Lab-Ubuntu-Apache-Virtual-Hosts-Setup.md) |
+| [← 17 - Web Server Security Hardening Best Practices](./17-Web-Server-Security-Hardening-Best-Practices.md) | [Index](../../../README.md) | [19 - Hands On Lab Ubuntu Apache Virtual Hosts Setup →](./19-Hands-On-Lab-Ubuntu-Apache-Virtual-Hosts-Setup.md) |

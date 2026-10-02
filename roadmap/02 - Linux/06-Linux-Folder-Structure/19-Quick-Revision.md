@@ -25,8 +25,9 @@ A 5-minute high-density reference sheet for Linux directory paths and FHS defini
 | **`/mnt`** | Temporary mount point location for SysAdmins. | Disk mount target. |
 | **`/media`** | Automount location for removable media (USB drives, CDs). | Disk mount target. |
 | **`/bin`** | Symlink to `/usr/bin` under modern Usr-Merge architecture. | Symlink. |
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [18 - MCQ](./18-MCQ.md) | [README](./README.md) | [20 - Related Topics](./20-Related-Topics.md) |
+| [← 18 - MCQ](./18-MCQ.md) | [Index](../../../README.md) | [20 - Related Topics →](./20-Related-Topics.md) |

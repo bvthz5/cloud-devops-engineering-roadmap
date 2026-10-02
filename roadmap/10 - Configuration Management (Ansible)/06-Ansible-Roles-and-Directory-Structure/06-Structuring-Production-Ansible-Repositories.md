@@ -18,4 +18,4 @@ ansible-repo/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Import vs Include](./05-Reusing-Content-include_role-import_role-include_tasks-import_tasks.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Reusing Content include_role import_role include_tasks import_tasks](./05-Reusing-Content-include_role-import_role-include_tasks-import_tasks.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

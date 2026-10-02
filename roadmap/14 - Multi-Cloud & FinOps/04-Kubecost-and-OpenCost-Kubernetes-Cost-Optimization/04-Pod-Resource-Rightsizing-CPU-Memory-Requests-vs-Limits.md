@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Kubecost Installation Architecture and Multi Cluster Monitoring](./03-Kubecost-Installation-Architecture-and-Multi-Cluster-Monitoring.md) | [Index](../../../README.md) | [05 - K8s Node Rightsizing Auto scaling and Karpenter Integration →](./05-K8s-Node-Rightsizing-Auto-scaling-and-Karpenter-Integration.md) |

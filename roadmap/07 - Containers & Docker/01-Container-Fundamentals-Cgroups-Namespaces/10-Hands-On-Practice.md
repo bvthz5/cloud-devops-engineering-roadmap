@@ -35,4 +35,4 @@ sudo ip netns exec red ping -c 3 192.168.1.2
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Interview Questions](./09-Interview-QA.md) | [README](./README.md) | [11 - Multiple-Choice Assessment](./11-MCQ.md) |
+| [← 09 - Interview QA](./09-Interview-QA.md) | [Index](../../../README.md) | [11 - MCQ →](./11-MCQ.md) |

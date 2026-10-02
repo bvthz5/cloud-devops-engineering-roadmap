@@ -57,4 +57,4 @@ sudo systemctl daemon-reload
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [20 - Lab 03: OOM Killer](./20-Hands-On-Lab-03-OOM-Killer-Analysis.md) | [README](./README.md) | [22 - Lab 05: Port Conflict](./22-Hands-On-Lab-05-Port-Binding-Conflict.md) |
+| [← 20 - Hands On Lab 03 OOM Killer Analysis](./20-Hands-On-Lab-03-OOM-Killer-Analysis.md) | [Index](../../../README.md) | [22 - Hands On Lab 05 Port Binding Conflict →](./22-Hands-On-Lab-05-Port-Binding-Conflict.md) |

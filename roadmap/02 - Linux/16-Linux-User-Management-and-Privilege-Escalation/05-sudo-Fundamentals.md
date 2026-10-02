@@ -69,4 +69,4 @@ sudo -u postgres psql
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Creating Managing Users](./04-Creating-Managing-Users.md) | [README](./README.md) | [06 - etc sudoers and visudo](./06-etc-sudoers-and-visudo.md) |
+| [← 04 - Creating Managing Users](./04-Creating-Managing-Users.md) | [Index](../../../README.md) | [06 - etc sudoers and visudo →](./06-etc-sudoers-and-visudo.md) |

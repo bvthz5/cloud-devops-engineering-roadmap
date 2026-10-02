@@ -78,4 +78,4 @@ backend web_servers
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - HAProxy Architecture](./01-HAProxy-Architecture-and-Event-Driven-Engine.md) | [README](./README.md) | [03 - Layer 4 vs Layer 7 Proxying & ACLs](./03-Layer-4-vs-Layer-7-Proxying-and-ACLs.md) |
+| [← 01 - HAProxy Architecture and Event Driven Engine](./01-HAProxy-Architecture-and-Event-Driven-Engine.md) | [Index](../../../README.md) | [03 - Layer 4 vs Layer 7 Proxying and ACLs →](./03-Layer-4-vs-Layer-7-Proxying-and-ACLs.md) |

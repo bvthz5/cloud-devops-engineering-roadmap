@@ -61,4 +61,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Secret Types & Base64](./02-Kubernetes-Secrets-Types-and-Base64-Encoding-Realities.md) |
+| [← Prev Module (06-Ingress-Controllers-and-Routing)](../06-Ingress-Controllers-and-Routing/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Kubernetes Secrets Types and Base64 Encoding Realities →](./02-Kubernetes-Secrets-Types-and-Base64-Encoding-Realities.md) |

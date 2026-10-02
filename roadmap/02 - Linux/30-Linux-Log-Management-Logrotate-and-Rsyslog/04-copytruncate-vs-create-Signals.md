@@ -31,4 +31,4 @@ Used for applications (such as Node.js, Go, or Java apps) that **do not support 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Logrotate Deep Dive](./03-Logrotate-Configuration-and-Retention-Policies.md) | [README](./README.md) | [05 - Centralized Log Shippers](./05-Centralized-Log-Aggregation-Shippers.md) |
+| [← 03 - Logrotate Configuration and Retention Policies](./03-Logrotate-Configuration-and-Retention-Policies.md) | [Index](../../../README.md) | [05 - Centralized Log Aggregation Shippers →](./05-Centralized-Log-Aggregation-Shippers.md) |

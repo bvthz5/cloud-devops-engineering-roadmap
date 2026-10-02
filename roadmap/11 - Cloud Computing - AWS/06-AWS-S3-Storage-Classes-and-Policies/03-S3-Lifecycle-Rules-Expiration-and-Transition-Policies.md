@@ -9,4 +9,4 @@ Standard ──(30 days)──> Standard-IA ──(90 days)──> Glacier Deep 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Storage Classes](./02-S3-Storage-Classes-Standard-IA-Glacier-Deep-Archive.md) | [README](./README.md) | [04 - Bucket Policies & Security](./04-S3-Security-Bucket-Policies-ACLs-and-Block-Public-Access.md) |
+| [← 02 - S3 Storage Classes Standard IA Glacier Deep Archive](./02-S3-Storage-Classes-Standard-IA-Glacier-Deep-Archive.md) | [Index](../../../README.md) | [04 - S3 Security Bucket Policies ACLs and Block Public Access →](./04-S3-Security-Bucket-Policies-ACLs-and-Block-Public-Access.md) |

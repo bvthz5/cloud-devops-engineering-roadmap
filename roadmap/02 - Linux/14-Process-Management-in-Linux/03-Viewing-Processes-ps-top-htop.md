@@ -122,4 +122,4 @@ htop
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Process States](./02-Process-States.md) | [README](./README.md) | [04 - Signals and Killing Processes](./04-Signals-and-Killing-Processes.md) |
+| [← 02 - Process States](./02-Process-States.md) | [Index](../../../README.md) | [04 - Signals and Killing Processes →](./04-Signals-and-Killing-Processes.md) |

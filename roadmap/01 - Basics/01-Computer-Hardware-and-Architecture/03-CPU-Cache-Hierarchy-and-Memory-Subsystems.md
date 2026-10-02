@@ -118,4 +118,4 @@ In modern multi-socket enterprise servers (e.g., dual Intel Xeon or AMD EPYC ser
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - ISA x86 ARM RISCV and Microarchitecture](./02-ISA-x86-ARM-RISCV-and-Microarchitecture.md) | [README](./README.md) | [04 - Virtual Memory Paging and MMU](./04-Virtual-Memory-Paging-and-MMU.md) |
+| [← 02 - ISA x86 ARM RISCV and Microarchitecture](./02-ISA-x86-ARM-RISCV-and-Microarchitecture.md) | [Index](../../../README.md) | [04 - Virtual Memory Paging and MMU →](./04-Virtual-Memory-Paging-and-MMU.md) |

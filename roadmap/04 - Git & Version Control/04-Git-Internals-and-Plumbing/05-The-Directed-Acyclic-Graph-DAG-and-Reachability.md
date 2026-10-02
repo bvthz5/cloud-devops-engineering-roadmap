@@ -26,4 +26,4 @@ When you delete a branch (`git branch -D feature`), Git does **NOT delete the co
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Packfiles & GC](./04-Packfiles-Delta-Compression-and-Garbage-Collection.md) | [README](./README.md) | [06 - SHA-1 to SHA-256](./06-Cryptographic-Integrity-SHA1-to-SHA256-Migration.md) |
+| [← 04 - Packfiles Delta Compression and Garbage Collection](./04-Packfiles-Delta-Compression-and-Garbage-Collection.md) | [Index](../../../README.md) | [06 - Cryptographic Integrity SHA1 to SHA256 Migration →](./06-Cryptographic-Integrity-SHA1-to-SHA256-Migration.md) |

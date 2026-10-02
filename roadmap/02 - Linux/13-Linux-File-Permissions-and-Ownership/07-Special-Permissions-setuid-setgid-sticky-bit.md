@@ -83,4 +83,4 @@ find / -perm -2000 -type f 2>/dev/null  # Find SGID files
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - chmod Octal Notation](./06-chmod-Octal-Notation.md) | [README](./README.md) | [08 - Changing Ownership chown chgrp](./08-Changing-Ownership-chown-chgrp.md) |
+| [← 06 - chmod Octal Notation](./06-chmod-Octal-Notation.md) | [Index](../../../README.md) | [08 - Changing Ownership chown chgrp →](./08-Changing-Ownership-chown-chgrp.md) |

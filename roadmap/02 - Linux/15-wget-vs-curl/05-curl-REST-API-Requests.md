@@ -84,4 +84,4 @@ curl -sSL -X PUT \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Redirects and Resumes](./04-Redirects-and-Resumes.md) | [README](./README.md) | [06 - Headers and Debugging](./06-Headers-and-Debugging.md) |
+| [← 04 - Redirects and Resumes](./04-Redirects-and-Resumes.md) | [Index](../../../README.md) | [06 - Headers and Debugging →](./06-Headers-and-Debugging.md) |

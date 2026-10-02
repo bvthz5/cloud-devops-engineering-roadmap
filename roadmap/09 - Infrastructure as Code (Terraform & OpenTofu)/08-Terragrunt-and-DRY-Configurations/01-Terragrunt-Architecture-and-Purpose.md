@@ -53,4 +53,4 @@ live/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - DRY Backend](./02-DRY-Backend-and-Provider-Configuration.md) |
+| [← Prev Module (07-Terraform-Workspaces-and-Environments)](../07-Terraform-Workspaces-and-Environments/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - DRY Backend and Provider Configuration →](./02-DRY-Backend-and-Provider-Configuration.md) |

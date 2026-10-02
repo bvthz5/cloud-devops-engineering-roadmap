@@ -33,4 +33,4 @@ diff <(kubectl get pods -n dev -o jsonpath='{.items[*].metadata.name}' | tr ' ' 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Stream Processing](./05-Stream-Processing-with-jq-awk-and-sed.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Stream Processing with jq awk and sed](./05-Stream-Processing-with-jq-awk-and-sed.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

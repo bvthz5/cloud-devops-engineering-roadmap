@@ -24,4 +24,4 @@ docker tag myapp:build myregistry.com/myapp:v1.4.2
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Enterprise Registries](./02-Enterprise-Registries-ECR-GHCR-and-Harbor.md) | [README](./README.md) | [04 - Authentication & IAM](./04-Authentication-IAM-Roles-and-Token-Exchanges.md) |
+| [← 02 - Enterprise Registries ECR GHCR and Harbor](./02-Enterprise-Registries-ECR-GHCR-and-Harbor.md) | [Index](../../../README.md) | [04 - Authentication IAM Roles and Token Exchanges →](./04-Authentication-IAM-Roles-and-Token-Exchanges.md) |

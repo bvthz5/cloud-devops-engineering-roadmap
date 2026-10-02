@@ -58,4 +58,4 @@ Filesystems have a fixed number of inodes created at format time. If an applicat
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Online Expansion](./06-Online-Filesystem-Expansion-and-Maintenance.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Online Filesystem Expansion and Maintenance](./06-Online-Filesystem-Expansion-and-Maintenance.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

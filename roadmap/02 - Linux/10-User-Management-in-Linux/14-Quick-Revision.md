@@ -60,4 +60,4 @@ sudo userdel -r alice                        # Delete account + home directory
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - MCQ](./13-MCQ.md) | [README](./README.md) | [15 - Related Topics](./15-Related-Topics.md) |
+| [← 13 - MCQ](./13-MCQ.md) | [Index](../../../README.md) | [15 - Related Topics →](./15-Related-Topics.md) |

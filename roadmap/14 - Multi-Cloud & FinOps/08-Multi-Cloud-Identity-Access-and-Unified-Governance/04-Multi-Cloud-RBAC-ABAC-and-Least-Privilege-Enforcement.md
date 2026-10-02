@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Cross Cloud Trust Workload Identity Federation SPIFFE SPIRE](./03-Cross-Cloud-Trust-Workload-Identity-Federation-SPIFFE-SPIRE.md) | [Index](../../../README.md) | [05 - Cloud Privileged Access Management PAM and Just in Time JIT →](./05-Cloud-Privileged-Access-Management-PAM-and-Just-in-Time-JIT.md) |

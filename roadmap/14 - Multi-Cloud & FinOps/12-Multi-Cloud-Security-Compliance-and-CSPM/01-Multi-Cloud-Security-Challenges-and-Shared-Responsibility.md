@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (11-Cloud-Waste-Reduction-Anomaly-Detection-and-Remediation)](../11-Cloud-Waste-Reduction-Anomaly-Detection-and-Remediation/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Cloud Security Posture Management CSPM Wiz Prisma Orca →](./02-Cloud-Security-Posture-Management-CSPM-Wiz-Prisma-Orca.md) |

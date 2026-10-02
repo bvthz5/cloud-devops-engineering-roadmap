@@ -35,8 +35,9 @@ dmesg -T | grep -iE 'net|eth0|ena|error'
 # Unload and reload network driver module (if accessible via out-of-band console)
 sudo modprobe -r ena && sudo modprobe ena
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Practical Commands](./11-Practical-Commands.md) | [README](./README.md) | [13 - Troubleshooting](./13-Troubleshooting.md) |
+| [← 11 - Practical Commands](./11-Practical-Commands.md) | [Index](../../../README.md) | [13 - Troubleshooting →](./13-Troubleshooting.md) |

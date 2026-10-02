@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - OpenCost Architecture and CNCF Cost Standardization](./02-OpenCost-Architecture-and-CNCF-Cost-Standardization.md) | [Index](../../../README.md) | [04 - Pod Resource Rightsizing CPU Memory Requests vs Limits →](./04-Pod-Resource-Rightsizing-CPU-Memory-Requests-vs-Limits.md) |

@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Artifact Registry Docker Helm Maven npm Package Management](./03-Artifact-Registry-Docker-Helm-Maven-npm-Package-Management.md) | [Index](../../../README.md) | [05 - Binary Authorization Supply Chain Security and Attestations →](./05-Binary-Authorization-Supply-Chain-Security-and-Attestations.md) |

@@ -15,3 +15,9 @@ Key concepts covered:
 - Security access control (/etc/cron.allow, /etc/cron.deny, least privilege)
 - Cron alternatives (anacron, systemd timers, Kubernetes CronJobs)
 - Troubleshooting, hands-on labs, interview QA, and MCQs
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 18 - Related Topics and Learning Map](./18-Related-Topics-and-Learning-Map.md) | [Index](../../../README.md) | [Next Module (18-Linux-Server-Hardening) →](../18-Linux-Server-Hardening/01-Hardening-Fundamentals.md) |

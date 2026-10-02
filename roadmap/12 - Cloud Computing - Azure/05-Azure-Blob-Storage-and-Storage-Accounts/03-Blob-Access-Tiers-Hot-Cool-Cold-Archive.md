@@ -9,4 +9,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Blob Storage Architecture](./02-Azure-Blob-Storage-Architecture-and-Blob-Types.md) | [README](./README.md) | [04 - SAS Tokens & Keys](./04-Storage-Security-Shared-Access-Signatures-SAS-and-Keys.md) |
+| [← 02 - Azure Blob Storage Architecture and Blob Types](./02-Azure-Blob-Storage-Architecture-and-Blob-Types.md) | [Index](../../../README.md) | [04 - Storage Security Shared Access Signatures SAS and Keys →](./04-Storage-Security-Shared-Access-Signatures-SAS-and-Keys.md) |

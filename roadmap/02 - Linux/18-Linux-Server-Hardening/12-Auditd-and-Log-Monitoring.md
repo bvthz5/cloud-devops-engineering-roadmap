@@ -34,4 +34,4 @@ sudo aureport --summary
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Kernel Hardening with Sysctl](./11-Kernel-Hardening-with-Sysctl.md) | [README](./README.md) | [13 - File Integrity AIDE Rootkit Checkers](./13-File-Integrity-AIDE-Rootkit-Checkers.md) |
+| [← 11 - Kernel Hardening with Sysctl](./11-Kernel-Hardening-with-Sysctl.md) | [Index](../../../README.md) | [13 - File Integrity AIDE Rootkit Checkers →](./13-File-Integrity-AIDE-Rootkit-Checkers.md) |

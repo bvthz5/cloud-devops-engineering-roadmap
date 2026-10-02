@@ -91,3 +91,9 @@ pipeline {
 - [GitHub Actions Official Documentation](https://docs.github.com/en/actions)
 - [GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)
 - [Jenkins User Handbook](https://www.jenkins.io/doc/book/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Reusable Workflows Composite Actions and Organization Templates](./04-Reusable-Workflows-Composite-Actions-and-Organization-Templates.md) | [Index](../../../README.md) | [06 - Custom Action Development TypeScript and Docker Container Actions →](./06-Custom-Action-Development-TypeScript-and-Docker-Container-Actions.md) |

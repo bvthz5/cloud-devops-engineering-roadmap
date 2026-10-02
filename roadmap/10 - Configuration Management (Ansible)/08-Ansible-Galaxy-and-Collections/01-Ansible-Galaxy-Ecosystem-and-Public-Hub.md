@@ -6,4 +6,4 @@ Ansible Galaxy is the public repository for community-contributed roles and coll
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Collections Architecture](./02-Ansible-Collections-Namespace-Collection-Name-Structure.md) |
+| [← Prev Module (07-Ansible-Vault-and-Secret-Management)](../07-Ansible-Vault-and-Secret-Management/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Ansible Collections Namespace Collection Name Structure →](./02-Ansible-Collections-Namespace-Collection-Name-Structure.md) |

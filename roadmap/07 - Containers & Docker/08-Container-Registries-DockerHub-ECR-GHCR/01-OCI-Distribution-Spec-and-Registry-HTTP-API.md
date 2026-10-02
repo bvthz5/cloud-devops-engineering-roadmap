@@ -24,4 +24,4 @@ docker pull mycompany/api@sha256:4b9123456789abcdef...
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Enterprise Registries ECR, GHCR & Harbor](./02-Enterprise-Registries-ECR-GHCR-and-Harbor.md) |
+| [← Prev Module (07-Container-Security-and-Image-Scanning)](../07-Container-Security-and-Image-Scanning/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Enterprise Registries ECR GHCR and Harbor →](./02-Enterprise-Registries-ECR-GHCR-and-Harbor.md) |

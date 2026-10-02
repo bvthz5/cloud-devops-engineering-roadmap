@@ -35,8 +35,9 @@ By understanding the FHS matrix:
 - Engineers mount `/var/log` on local NVMe storage for maximum logging write speeds.
 - Engineers export `/srv/www` or `/home` over NFS for central web server fleets.
 - Engineers mount `/usr` as Read-Only (`ro`) in container security hardening profiles to prevent malware from modifying system binaries.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Symbolic Links bin sbin lib](./11-Symbolic-Links-bin-sbin-lib.md) | [README](./README.md) | [13 - Useful Commands](./13-Useful-Commands.md) |
+| [← 11 - Symbolic Links bin sbin lib](./11-Symbolic-Links-bin-sbin-lib.md) | [Index](../../../README.md) | [13 - Useful Commands →](./13-Useful-Commands.md) |

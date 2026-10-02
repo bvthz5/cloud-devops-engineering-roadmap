@@ -75,3 +75,9 @@ resource "google_storage_bucket" "secure_bucket" {
 ## 🔗 Related Resources
 - [Google Cloud Security Documentation](https://cloud.google.com/security/docs)
 - [GCP FinOps & Cost Management](https://cloud.google.com/cost-management)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (12-GCP-Infrastructure-as-Code-Deployment-Manager-and-Config-Connector)](../12-GCP-Infrastructure-as-Code-Deployment-Manager-and-Config-Connector/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Anthos Architecture GKE Enterprise Overview →](./02-Anthos-Architecture-GKE-Enterprise-Overview.md) |

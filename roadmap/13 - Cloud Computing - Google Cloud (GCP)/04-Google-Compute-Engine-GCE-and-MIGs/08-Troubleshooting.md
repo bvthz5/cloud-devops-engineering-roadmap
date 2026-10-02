@@ -33,3 +33,9 @@ VMs without external IP addresses fail to download package updates or access GCP
    ```
 2. **Missing Cloud NAT**: For external internet outbound traffic, ensure Cloud Router and Cloud NAT are configured for the VPC region.
 3. **Firewall Egress Rule**: Check if custom egress firewall rules are blocking outbound traffic on port 443.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 07 - Real World Scenarios](./07-Real-World-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

@@ -18,4 +18,4 @@ Enabled **Custom Networking in AWS VPC CNI**: Configured Pods to receive IPs fro
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Network Policies](./06-Network-Policies-and-Micro-Segmentation.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Network Policies and Micro Segmentation](./06-Network-Policies-and-Micro-Segmentation.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

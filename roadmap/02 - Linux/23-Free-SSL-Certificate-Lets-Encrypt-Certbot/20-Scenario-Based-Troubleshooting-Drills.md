@@ -24,4 +24,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [19 - Hands-On Labs 04-10](./19-Hands-On-Labs-04-to-10-Renewal-Hardening-Cloudflare.md) | [README](./README.md) | [21 - Senior DevOps Interview Q&A](./21-DevOps-SSL-Interview-Questions-and-Answers.md) |
+| [← 19 - Hands On Labs 04 to 10 Renewal Hardening Cloudflare](./19-Hands-On-Labs-04-to-10-Renewal-Hardening-Cloudflare.md) | [Index](../../../README.md) | [21 - DevOps SSL Interview Questions and Answers →](./21-DevOps-SSL-Interview-Questions-and-Answers.md) |

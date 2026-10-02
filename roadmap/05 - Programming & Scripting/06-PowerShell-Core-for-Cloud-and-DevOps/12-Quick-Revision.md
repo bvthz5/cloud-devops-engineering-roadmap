@@ -27,4 +27,4 @@ if ($LASTEXITCODE -ne 0) { throw "Docker build failed with code $LASTEXITCODE" }
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [07 - Cloud SDKs & Infrastructure Automation](../07-Cloud-SDKs-and-Infrastructure-Automation/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (07-Cloud-SDKs-and-Infrastructure-Automation) →](../07-Cloud-SDKs-and-Infrastructure-Automation/01-Cloud-SDK-Architecture-Client-vs-Resource-Models.md) |

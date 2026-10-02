@@ -94,4 +94,4 @@ So, `-rwxr-xr--` translates to the octal permission `754`.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Read Write Execute Files vs Directories](./02-Read-Write-Execute-Files-vs-Directories.md) |
+| [← Prev Module (12-Grep-Sed-Awk)](../12-Grep-Sed-Awk/SOURCE.md) | [Index](../../../README.md) | [02 - Read Write Execute Files vs Directories →](./02-Read-Write-Execute-Files-vs-Directories.md) |

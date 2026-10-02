@@ -28,4 +28,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - DaemonSet Architecture](./05-DaemonSet-Architecture-and-Node-Level-Agents.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - DaemonSet Architecture and Node Level Agents](./05-DaemonSet-Architecture-and-Node-Level-Agents.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

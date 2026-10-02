@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Custom RBAC Roles](./04-Creating-Custom-RBAC-Roles-JSON-Definitions.md) | [README](./README.md) | [06 - Service Principals & PIM](./06-Service-Principals-App-Registrations-and-PIM.md) |
+| [← 04 - Creating Custom RBAC Roles JSON Definitions](./04-Creating-Custom-RBAC-Roles-JSON-Definitions.md) | [Index](../../../README.md) | [06 - Service Principals App Registrations and PIM →](./06-Service-Principals-App-Registrations-and-PIM.md) |

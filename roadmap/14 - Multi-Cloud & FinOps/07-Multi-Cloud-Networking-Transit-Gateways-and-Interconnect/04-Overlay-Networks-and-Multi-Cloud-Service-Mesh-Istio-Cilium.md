@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Cross Cloud Private Connectivity Equinix Megaport DirectConnect](./03-Cross-Cloud-Private-Connectivity-Equinix-Megaport-DirectConnect.md) | [Index](../../../README.md) | [05 - Multi Cloud DNS Routing and Global Traffic Management →](./05-Multi-Cloud-DNS-Routing-and-Global-Traffic-Management.md) |

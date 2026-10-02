@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - GitOps Observability Metrics Logs and Traces](./01-GitOps-Observability-Metrics-Logs-and-Traces.md) | [Index](../../../README.md) | [03 - Flux Alert and Provider Controllers →](./03-Flux-Alert-and-Provider-Controllers.md) |

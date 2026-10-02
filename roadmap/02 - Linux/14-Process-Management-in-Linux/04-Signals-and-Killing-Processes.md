@@ -86,4 +86,4 @@ If you use `kill -9` on a database like PostgreSQL or MySQL, you risk severe dat
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Viewing Processes ps top htop](./03-Viewing-Processes-ps-top-htop.md) | [README](./README.md) | [05 - Job Control fg bg jobs](./05-Job-Control-fg-bg-jobs.md) |
+| [← 03 - Viewing Processes ps top htop](./03-Viewing-Processes-ps-top-htop.md) | [Index](../../../README.md) | [05 - Job Control fg bg jobs →](./05-Job-Control-fg-bg-jobs.md) |

@@ -73,4 +73,4 @@ variable "subnets" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - HCL Fundamentals](./01-HCL-Language-Fundamentals-Blocks-Arguments-Expressions.md) | [README](./README.md) | [03 - Outputs & Data Sources](./03-Outputs-Data-Sources-and-Cross-Module-References.md) |
+| [← 01 - HCL Language Fundamentals Blocks Arguments Expressions](./01-HCL-Language-Fundamentals-Blocks-Arguments-Expressions.md) | [Index](../../../README.md) | [03 - Outputs Data Sources and Cross Module References →](./03-Outputs-Data-Sources-and-Cross-Module-References.md) |

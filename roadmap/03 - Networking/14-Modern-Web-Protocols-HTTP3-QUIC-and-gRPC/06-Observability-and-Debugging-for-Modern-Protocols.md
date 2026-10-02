@@ -24,4 +24,4 @@ curl --http3 -Iv https://cloudflare-quic.com
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Real-Time Protocols](./05-Real-Time-Protocols-WebSockets-vs-SSE-vs-gRPC-Web.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Real Time Protocols WebSockets vs SSE vs gRPC Web](./05-Real-Time-Protocols-WebSockets-vs-SSE-vs-gRPC-Web.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

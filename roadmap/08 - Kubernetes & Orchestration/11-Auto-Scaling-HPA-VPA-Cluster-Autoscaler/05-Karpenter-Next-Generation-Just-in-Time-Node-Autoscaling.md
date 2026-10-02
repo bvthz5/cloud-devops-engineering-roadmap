@@ -29,4 +29,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Cluster Autoscaler](./04-Cluster-Autoscaler-Architecture-and-Cloud-Integration.md) | [README](./README.md) | [06 - Anti-Patterns & Flapping](./06-Autoscaling-Anti-Patterns-Thrashing-and-Conflict-Resolution.md) |
+| [← 04 - Cluster Autoscaler Architecture and Cloud Integration](./04-Cluster-Autoscaler-Architecture-and-Cloud-Integration.md) | [Index](../../../README.md) | [06 - Autoscaling Anti Patterns Thrashing and Conflict Resolution →](./06-Autoscaling-Anti-Patterns-Thrashing-and-Conflict-Resolution.md) |

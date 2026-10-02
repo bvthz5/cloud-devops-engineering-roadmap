@@ -34,3 +34,9 @@ How do Committed Use Discounts (CUDs) provide cost savings in GCP?
 - [ ] D) By routing network traffic over public internet peering
 
 *Explanation: CUDs offer deeply discounted rates for committed compute and database usage over 1 to 3 years.*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

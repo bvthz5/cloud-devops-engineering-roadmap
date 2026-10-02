@@ -23,4 +23,4 @@ Caddy enables HTTP/3 **by default** on all HTTPS listeners.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Automatic HTTPS & Internal PKI](./02-Automatic-HTTPS-and-Internal-PKI.md) | [README](./README.md) | [04 - Caddyfile Syntax & Directives](./04-Caddyfile-Syntax-Directives-and-Snippets.md) |
+| [← 02 - Automatic HTTPS and Internal PKI](./02-Automatic-HTTPS-and-Internal-PKI.md) | [Index](../../../README.md) | [04 - Caddyfile Syntax Directives and Snippets →](./04-Caddyfile-Syntax-Directives-and-Snippets.md) |

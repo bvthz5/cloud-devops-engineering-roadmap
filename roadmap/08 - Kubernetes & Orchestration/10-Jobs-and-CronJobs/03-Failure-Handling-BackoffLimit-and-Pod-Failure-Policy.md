@@ -30,4 +30,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Parallel Jobs](./02-Parallel-Jobs-and-Work-Queue-Processing.md) | [README](./README.md) | [04 - CronJob Architecture](./04-CronJob-Architecture-and-Schedule-Syntax.md) |
+| [← 02 - Parallel Jobs and Work Queue Processing](./02-Parallel-Jobs-and-Work-Queue-Processing.md) | [Index](../../../README.md) | [04 - CronJob Architecture and Schedule Syntax →](./04-CronJob-Architecture-and-Schedule-Syntax.md) |

@@ -114,8 +114,9 @@ $ sudo chmod 1777 /shared_tmp/
 # OR:
 $ sudo chmod +t /shared_tmp/
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Paths Wildcards and Expansion](./12-Paths-Wildcards-and-Expansion.md) | [README](./README.md) | [14 - Links and Metadata](./14-Links-and-Metadata.md) |
+| [← 12 - Paths Wildcards and Expansion](./12-Paths-Wildcards-and-Expansion.md) | [Index](../../../README.md) | [14 - Links and Metadata →](./14-Links-and-Metadata.md) |

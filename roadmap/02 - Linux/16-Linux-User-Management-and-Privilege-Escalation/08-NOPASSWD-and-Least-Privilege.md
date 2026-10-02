@@ -73,4 +73,4 @@ alice   ALL=(ALL)   ALL, !/usr/bin/passwd root, !/usr/sbin/visudo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - sudoers d Modular Rules](./07-sudoers-d-Modular-Rules.md) | [README](./README.md) | [09 - Password Management and Aging](./09-Password-Management-and-Aging.md) |
+| [← 07 - sudoers d Modular Rules](./07-sudoers-d-Modular-Rules.md) | [Index](../../../README.md) | [09 - Password Management and Aging →](./09-Password-Management-and-Aging.md) |

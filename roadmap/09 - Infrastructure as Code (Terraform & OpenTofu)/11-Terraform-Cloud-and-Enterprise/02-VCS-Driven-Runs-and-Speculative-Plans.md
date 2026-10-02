@@ -52,4 +52,4 @@ Workspace: monitoring (auto-plan)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - TFC Architecture](./01-Terraform-Cloud-Architecture-and-Pricing-Tiers.md) | [README](./README.md) | [03 - Sentinel Policies](./03-Sentinel-Policy-Enforcement.md) |
+| [← 01 - Terraform Cloud Architecture and Pricing Tiers](./01-Terraform-Cloud-Architecture-and-Pricing-Tiers.md) | [Index](../../../README.md) | [03 - Sentinel Policy Enforcement →](./03-Sentinel-Policy-Enforcement.md) |

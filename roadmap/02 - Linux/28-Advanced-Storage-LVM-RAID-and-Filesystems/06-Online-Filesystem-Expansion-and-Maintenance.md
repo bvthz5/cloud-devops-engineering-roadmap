@@ -46,4 +46,4 @@ sudo xfs_growfs /opt/app
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Network Storage](./05-Network-Storage-NFS-and-iSCSI-in-Cloud.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Network Storage NFS and iSCSI in Cloud](./05-Network-Storage-NFS-and-iSCSI-in-Cloud.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

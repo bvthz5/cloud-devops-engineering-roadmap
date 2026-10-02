@@ -64,4 +64,4 @@ jobs:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Pipeline Architecture](./01-Terraform-CI-CD-Pipeline-Architecture.md) | [README](./README.md) | [03 - GitLab CI](./03-GitLab-CI-for-Terraform.md) |
+| [← 01 - Terraform CI CD Pipeline Architecture](./01-Terraform-CI-CD-Pipeline-Architecture.md) | [Index](../../../README.md) | [03 - GitLab CI for Terraform →](./03-GitLab-CI-for-Terraform.md) |

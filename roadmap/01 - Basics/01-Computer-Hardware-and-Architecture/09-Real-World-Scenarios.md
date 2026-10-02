@@ -199,4 +199,4 @@ nvme1n1  0.00 3000.00      0.00 125000.00   45.20  82.10 100.00
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Virtualization Hypervisors and Containers](./08-Virtualization-Hypervisors-and-Containers.md) | [README](./README.md) | [10 - Troubleshooting](./10-Troubleshooting.md) |
+| [← 08 - Virtualization Hypervisors and Containers](./08-Virtualization-Hypervisors-and-Containers.md) | [Index](../../../README.md) | [10 - Troubleshooting →](./10-Troubleshooting.md) |

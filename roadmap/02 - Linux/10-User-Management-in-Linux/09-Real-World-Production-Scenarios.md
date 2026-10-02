@@ -90,4 +90,4 @@ CMD ["node", "server.js"]
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Practical Command Examples](./08-Practical-Command-Examples.md) | [README](./README.md) | [10 - Troubleshooting](./10-Troubleshooting.md) |
+| [← 08 - Practical Command Examples](./08-Practical-Command-Examples.md) | [Index](../../../README.md) | [10 - Troubleshooting →](./10-Troubleshooting.md) |

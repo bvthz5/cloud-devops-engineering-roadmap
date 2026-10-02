@@ -25,4 +25,4 @@ else:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - GitHub & GitLab Flow](./03-GitHub-Flow-and-GitLab-Flow-Comparison.md) | [README](./README.md) | [05 - SemVer & Git Tags](./05-Semantic-Versioning-and-Git-Tags.md) |
+| [← 03 - GitHub Flow and GitLab Flow Comparison](./03-GitHub-Flow-and-GitLab-Flow-Comparison.md) | [Index](../../../README.md) | [05 - Semantic Versioning and Git Tags →](./05-Semantic-Versioning-and-Git-Tags.md) |

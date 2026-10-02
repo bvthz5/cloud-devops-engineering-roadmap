@@ -54,4 +54,4 @@ export PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:$PATH"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Inode Exhaustion & I/O](./05-Inode-Exhaustion-and-Disk-IO-Bottlenecks.md) | [README](./README.md) | [07 - Windows CRLF Bugs](./07-Windows-CRLF-Line-Ending-Problems.md) |
+| [← 05 - Inode Exhaustion and Disk IO Bottlenecks](./05-Inode-Exhaustion-and-Disk-IO-Bottlenecks.md) | [Index](../../../README.md) | [07 - Windows CRLF Line Ending Problems →](./07-Windows-CRLF-Line-Ending-Problems.md) |

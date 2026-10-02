@@ -37,4 +37,4 @@ pulumi.export("vpc_id", vpc.id)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Constructs & Stacks](./02-CDKTF-Constructs-and-Stacks.md) | [README](./README.md) | [04 - HCL vs GPL Tradeoffs](./04-HCL-vs-General-Purpose-Language-Tradeoffs.md) |
+| [← 02 - CDKTF Constructs and Stacks](./02-CDKTF-Constructs-and-Stacks.md) | [Index](../../../README.md) | [04 - HCL vs General Purpose Language Tradeoffs →](./04-HCL-vs-General-Purpose-Language-Tradeoffs.md) |

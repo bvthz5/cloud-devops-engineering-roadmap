@@ -9,4 +9,4 @@ CloudTrail records API calls made by users, roles, or AWS services (**Who did Wh
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - CloudWatch Logs](./02-CloudWatch-Logs-Log-Groups-Log-Streams-and-Insights.md) | [README](./README.md) | [04 - AWS Config](./04-AWS-Config-Compliance-Rules-and-Remediation.md) |
+| [← 02 - CloudWatch Logs Log Groups Log Streams and Insights](./02-CloudWatch-Logs-Log-Groups-Log-Streams-and-Insights.md) | [Index](../../../README.md) | [04 - AWS Config Compliance Rules and Remediation →](./04-AWS-Config-Compliance-Rules-and-Remediation.md) |

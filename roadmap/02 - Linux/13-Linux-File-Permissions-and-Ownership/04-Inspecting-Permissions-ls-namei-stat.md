@@ -92,4 +92,4 @@ f: /var/www/html/index.html
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Ownership and Groups](./03-Ownership-and-Groups.md) | [README](./README.md) | [05 - chmod Symbolic Notation](./05-chmod-Symbolic-Notation.md) |
+| [← 03 - Ownership and Groups](./03-Ownership-and-Groups.md) | [Index](../../../README.md) | [05 - chmod Symbolic Notation →](./05-chmod-Symbolic-Notation.md) |

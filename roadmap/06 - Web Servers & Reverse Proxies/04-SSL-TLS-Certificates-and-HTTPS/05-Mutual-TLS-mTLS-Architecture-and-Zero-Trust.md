@@ -45,4 +45,4 @@ server {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - High-Performance TLS Tuning](./04-High-Performance-TLS-Tuning-and-Session-Resumption.md) | [README](./README.md) | [06 - SSL Labs A+ Hardening](./06-SSL-Labs-A-Plus-Configuration-and-Cipher-Suites.md) |
+| [← 04 - High Performance TLS Tuning and Session Resumption](./04-High-Performance-TLS-Tuning-and-Session-Resumption.md) | [Index](../../../README.md) | [06 - SSL Labs A Plus Configuration and Cipher Suites →](./06-SSL-Labs-A-Plus-Configuration-and-Cipher-Suites.md) |

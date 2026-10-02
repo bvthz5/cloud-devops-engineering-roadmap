@@ -24,4 +24,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Idempotency & Changed Status](./02-Idempotency-Principles-and-Changed-Status.md) |
+| [← Prev Module (03-Ad-Hoc-Commands-and-Core-Modules)](../03-Ad-Hoc-Commands-and-Core-Modules/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Idempotency Principles and Changed Status →](./02-Idempotency-Principles-and-Changed-Status.md) |

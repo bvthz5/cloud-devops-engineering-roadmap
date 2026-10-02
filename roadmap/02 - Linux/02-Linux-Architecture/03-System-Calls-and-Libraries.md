@@ -118,8 +118,9 @@ if (fd == -1) {
     // Prints: "Error opening file: No such file or directory" (ENOENT = 2)
 }
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Kernel Deep Dive](./02-Kernel-Deep-Dive.md) | [README](./README.md) | [04 - Utilities and User Applications](./04-Utilities-and-User-Applications.md) |
+| [← 02 - Kernel Deep Dive](./02-Kernel-Deep-Dive.md) | [Index](../../../README.md) | [04 - Utilities and User Applications →](./04-Utilities-and-User-Applications.md) |

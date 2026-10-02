@@ -35,4 +35,4 @@ Suppose you have `10.0.1.0/24` (256 IPs) and need 4 subnets:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Subnetting Fundamentals](./03-Subnetting-Fundamentals-and-Netmasks.md) | [README](./README.md) | [05 - Cloud VPC Subnet Design](./05-Cloud-VPC-Subnet-Design-Best-Practices.md) |
+| [← 03 - Subnetting Fundamentals and Netmasks](./03-Subnetting-Fundamentals-and-Netmasks.md) | [Index](../../../README.md) | [05 - Cloud VPC Subnet Design Best Practices →](./05-Cloud-VPC-Subnet-Design-Best-Practices.md) |

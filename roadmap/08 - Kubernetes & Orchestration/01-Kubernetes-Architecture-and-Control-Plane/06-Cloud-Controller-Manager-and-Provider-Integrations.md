@@ -28,4 +28,4 @@ The **Cloud Controller Manager (CCM)** decouples core Kubernetes from cloud APIs
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - HA Control Plane Topologies](./05-High-Availability-Control-Plane-Topologies.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - High Availability Control Plane Topologies](./05-High-Availability-Control-Plane-Topologies.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

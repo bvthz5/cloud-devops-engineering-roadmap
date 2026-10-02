@@ -30,4 +30,4 @@ IFS=$'\n\t'
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Variables & Arrays](./02-Variables-Arrays-and-Parameter-Expansion.md) |
+| [← Prev Section (04 - Git & Version Control)](../../04%20-%20Git%20%26%20Version%20Control/11-Git-LFS-and-Artifact-Management/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Variables Arrays and Parameter Expansion →](./02-Variables-Arrays-and-Parameter-Expansion.md) |

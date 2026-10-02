@@ -6,4 +6,4 @@ Application Performance Management (APM) monitoring request rates, response time
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Log Analytics & KQL](./02-Log-Analytics-Workspace-and-Kusto-Query-Language-KQL.md) | [README](./README.md) | [04 - Alerts & Action Groups](./04-Azure-Monitor-Alerts-and-Action-Groups.md) |
+| [← 02 - Log Analytics Workspace and Kusto Query Language KQL](./02-Log-Analytics-Workspace-and-Kusto-Query-Language-KQL.md) | [Index](../../../README.md) | [04 - Azure Monitor Alerts and Action Groups →](./04-Azure-Monitor-Alerts-and-Action-Groups.md) |

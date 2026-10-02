@@ -47,4 +47,4 @@ Terraform Cloud runs "apply" automatically
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Variable Files](./04-Variable-Files-and-tfvars-per-Environment.md) | [README](./README.md) | [06 - Multi-Account Deployment](./06-Multi-Account-Multi-Region-Deployment.md) |
+| [← 04 - Variable Files and tfvars per Environment](./04-Variable-Files-and-tfvars-per-Environment.md) | [Index](../../../README.md) | [06 - Multi Account Multi Region Deployment →](./06-Multi-Account-Multi-Region-Deployment.md) |

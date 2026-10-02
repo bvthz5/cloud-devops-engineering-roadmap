@@ -6,4 +6,4 @@ Enforcing mandatory resource tags and blocking unapproved VM sizes across enterp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Azure WAF & DDoS](./06-Azure-Web-Application-Firewall-WAF-and-DDoS-Protection.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Azure Web Application Firewall WAF and DDoS Protection](./06-Azure-Web-Application-Firewall-WAF-and-DDoS-Protection.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 07 - AWS RDS & Databases](../07-AWS-RDS-DynamoDB-and-Databases/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (07-AWS-RDS-DynamoDB-and-Databases) →](../07-AWS-RDS-DynamoDB-and-Databases/01-Relational-Database-Service-RDS-Architecture.md) |

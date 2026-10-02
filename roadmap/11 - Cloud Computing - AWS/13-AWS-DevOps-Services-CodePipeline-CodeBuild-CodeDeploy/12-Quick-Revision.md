@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 14 - Cost Optimization](../14-AWS-Cost-Optimization-FinOps-and-Migration-Strategies/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (14-AWS-Cost-Optimization-FinOps-and-Migration-Strategies) →](../14-AWS-Cost-Optimization-FinOps-and-Migration-Strategies/01-AWS-Cost-Management-Tools-Cost-Explorer-and-CUR.md) |

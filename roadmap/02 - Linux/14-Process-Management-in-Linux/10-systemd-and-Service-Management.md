@@ -100,4 +100,4 @@ journalctl -u my-app --since "1 hour ago"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - The proc Filesystem](./09-The-proc-Filesystem.md) | [README](./README.md) | [11 - Job Scheduling cron at](./11-Job-Scheduling-cron-at.md) |
+| [← 09 - The proc Filesystem](./09-The-proc-Filesystem.md) | [Index](../../../README.md) | [11 - Job Scheduling cron at →](./11-Job-Scheduling-cron-at.md) |

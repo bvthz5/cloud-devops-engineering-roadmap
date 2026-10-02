@@ -24,4 +24,4 @@ Resolutions are cached in `.git/rr-cache/`. If you rebase a 20-commit branch aga
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Conflict Anatomy](./01-Merge-Conflict-Anatomy-and-diff3-Visualization.md) | [README](./README.md) | [03 - Detached HEAD](./03-Detached-HEAD-State-Anatomy-and-Safe-Recovery.md) |
+| [← 01 - Merge Conflict Anatomy and diff3 Visualization](./01-Merge-Conflict-Anatomy-and-diff3-Visualization.md) | [Index](../../../README.md) | [03 - Detached HEAD State Anatomy and Safe Recovery →](./03-Detached-HEAD-State-Anatomy-and-Safe-Recovery.md) |

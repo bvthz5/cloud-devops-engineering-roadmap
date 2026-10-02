@@ -73,4 +73,4 @@ def test_purge_empty_s3_buckets():
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Testing Bash with Bats](./02-Testing-Bash-Scripts-with-Bats-and-ShellCheck.md) | [README](./README.md) | [04 - Golang Testing & Testcontainers](./04-Golang-Testing-and-Testcontainers.md) |
+| [← 02 - Testing Bash Scripts with Bats and ShellCheck](./02-Testing-Bash-Scripts-with-Bats-and-ShellCheck.md) | [Index](../../../README.md) | [04 - Golang Testing and Testcontainers →](./04-Golang-Testing-and-Testcontainers.md) |

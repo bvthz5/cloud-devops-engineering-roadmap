@@ -82,3 +82,9 @@ spec:
 ## 🔗 Related Resources
 - [Docker Multi-Stage Build Guide](https://docs.docker.com/build/building/multi-stage/)
 - [Argo Rollouts Documentation](https://argoproj.github.io/argo-rollouts/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Go and Rust Build Pipelines go mod and cargo](./04-Go-and-Rust-Build-Pipelines-go-mod-and-cargo.md) | [Index](../../../README.md) | [06 - Build Caching Strategies and Dependency Mirrors →](./06-Build-Caching-Strategies-and-Dependency-Mirrors.md) |

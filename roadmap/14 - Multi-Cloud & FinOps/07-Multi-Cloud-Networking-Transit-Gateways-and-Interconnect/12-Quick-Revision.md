@@ -22,3 +22,9 @@
 3. **Handle 2-minute Spot termination notices gracefully** using termination handlers and checkpointing.
 4. **Use private interconnects (DirectConnect / ExpressRoute / Interconnect)** to avoid high public egress rates.
 5. **Enforce Infracost guardrails in CI/CD** to gain cost visibility before infrastructure is provisioned.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (08-Multi-Cloud-Identity-Access-and-Unified-Governance) →](../08-Multi-Cloud-Identity-Access-and-Unified-Governance/01-Multi-Cloud-Identity-Architecture-AWS-IAM-Entra-ID-GCP-IAM.md) |

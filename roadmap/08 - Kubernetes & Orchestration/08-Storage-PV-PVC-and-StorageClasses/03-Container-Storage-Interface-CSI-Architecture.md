@@ -23,4 +23,4 @@ The **Container Storage Interface (CSI)** is an industry-standard gRPC specifica
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - StorageClasses](./02-StorageClasses-and-Dynamic-Provisioning.md) | [README](./README.md) | [04 - Access Modes](./04-Access-Modes-ReadWriteOnce-ReadWriteMany-and-Block-Volumes.md) |
+| [← 02 - StorageClasses and Dynamic Provisioning](./02-StorageClasses-and-Dynamic-Provisioning.md) | [Index](../../../README.md) | [04 - Access Modes ReadWriteOnce ReadWriteMany and Block Volumes →](./04-Access-Modes-ReadWriteOnce-ReadWriteMany-and-Block-Volumes.md) |

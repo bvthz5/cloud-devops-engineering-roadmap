@@ -10,4 +10,4 @@ Multitenant access control hierarchy:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Job Templates & Workflows](./03-Job-Templates-Workflow-Job-Templates-and-Inventories.md) | [README](./README.md) | [05 - AWX REST API & Webhooks](./05-AWX-REST-API-Webhooks-and-External-Integrations.md) |
+| [← 03 - Job Templates Workflow Job Templates and Inventories](./03-Job-Templates-Workflow-Job-Templates-and-Inventories.md) | [Index](../../../README.md) | [05 - AWX REST API Webhooks and External Integrations →](./05-AWX-REST-API-Webhooks-and-External-Integrations.md) |

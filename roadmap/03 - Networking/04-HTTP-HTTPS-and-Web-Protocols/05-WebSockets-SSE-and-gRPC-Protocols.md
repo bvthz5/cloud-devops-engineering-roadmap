@@ -27,4 +27,4 @@ Built on top of **HTTP/2**:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - HTTP Caching](./04-HTTP-Caching-and-Conditional-Requests.md) | [README](./README.md) | [06 - CORS & Security Headers](./06-CORS-and-Web-Security-Headers.md) |
+| [← 04 - HTTP Caching and Conditional Requests](./04-HTTP-Caching-and-Conditional-Requests.md) | [Index](../../../README.md) | [06 - CORS and Web Security Headers →](./06-CORS-and-Web-Security-Headers.md) |

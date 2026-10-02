@@ -13,4 +13,4 @@ A Junior DevOps engineer deployed a disk space cleanup template configured with 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - DB Latency Prober](./06-Database-Latency-and-Connection-Prober-Template.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Database Latency and Connection Prober Template](./06-Database-Latency-and-Connection-Prober-Template.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -37,4 +37,4 @@ git log -S "AWS_SECRET_ACCESS_KEY"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Diffing & Inspection](./05-Diffing-and-State-Inspection-Working-vs-Staged.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Diffing and State Inspection Working vs Staged](./05-Diffing-and-State-Inspection-Working-vs-Staged.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -220,8 +220,9 @@ while IFS=',' read -r USERNAME GROUP USER_SHELL || [[ -n "$USERNAME" ]]; do
   echo "[CREATED] User '$USERNAME' added to group '$GROUP'. Temp Pass: $TEMP_PASS"
 done < "$CSV_FILE"
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [17 - Cron & Systemd Timers](./17-Cron-Jobs-and-Systemd-Timers-Setup-and-Fixes.md) | [README](./README.md) | [19 - DevOps Case Studies 06-10](./19-DevOps-Case-Studies-06-to-10.md) |
+| [← 17 - Cron Jobs and Systemd Timers Setup and Fixes](./17-Cron-Jobs-and-Systemd-Timers-Setup-and-Fixes.md) | [Index](../../../README.md) | [19 - DevOps Case Studies 06 to 10 →](./19-DevOps-Case-Studies-06-to-10.md) |

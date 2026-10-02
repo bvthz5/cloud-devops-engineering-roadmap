@@ -10,8 +10,9 @@
 ```bash
 diff -u <(cmd1) <(cmd2)
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Script Arguments & Getopts](./10-Script-Arguments-and-Getopts.md) | [README](./README.md) | [12 - Loops & Case](./12-Loops-For-While-Until-and-Case.md) |
+| [← 10 - Script Arguments and Getopts](./10-Script-Arguments-and-Getopts.md) | [Index](../../../README.md) | [12 - Loops For While Until and Case →](./12-Loops-For-While-Until-and-Case.md) |

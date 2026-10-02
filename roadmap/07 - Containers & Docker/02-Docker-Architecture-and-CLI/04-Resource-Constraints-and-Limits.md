@@ -30,4 +30,4 @@ docker run -m 512m --memory-swap 512m redis:alpine
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Essential Docker CLI Commands](./03-Essential-Docker-CLI-Commands.md) | [README](./README.md) | [05 - Daemon Configuration & Tuning](./05-Daemon-Configuration-and-Production-Tuning.md) |
+| [← 03 - Essential Docker CLI Commands](./03-Essential-Docker-CLI-Commands.md) | [Index](../../../README.md) | [05 - Daemon Configuration and Production Tuning →](./05-Daemon-Configuration-and-Production-Tuning.md) |

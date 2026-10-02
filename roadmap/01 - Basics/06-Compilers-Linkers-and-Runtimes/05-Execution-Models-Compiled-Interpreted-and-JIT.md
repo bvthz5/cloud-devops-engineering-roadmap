@@ -38,4 +38,4 @@ Different programming languages execute code through different runtime architect
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Process Memory Layout](./04-Process-Memory-Layout-Heap-Stack-and-Segments.md) | [README](./README.md) | [06 - Dynamic Linker](./06-Dynamic-Linker-and-Symbol-Resolution.md) |
+| [← 04 - Process Memory Layout Heap Stack and Segments](./04-Process-Memory-Layout-Heap-Stack-and-Segments.md) | [Index](../../../README.md) | [06 - Dynamic Linker and Symbol Resolution →](./06-Dynamic-Linker-and-Symbol-Resolution.md) |

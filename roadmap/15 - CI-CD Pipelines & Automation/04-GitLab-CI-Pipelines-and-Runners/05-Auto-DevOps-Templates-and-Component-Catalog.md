@@ -91,3 +91,9 @@ pipeline {
 - [GitHub Actions Official Documentation](https://docs.github.com/en/actions)
 - [GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)
 - [Jenkins User Handbook](https://www.jenkins.io/doc/book/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - GitLab CI Variables Masked Protected and File Variables](./04-GitLab-CI-Variables-Masked-Protected-and-File-Variables.md) | [Index](../../../README.md) | [06 - Deploying to Kubernetes with GitLab Agent for Kubernetes →](./06-Deploying-to-Kubernetes-with-GitLab-Agent-for-Kubernetes.md) |

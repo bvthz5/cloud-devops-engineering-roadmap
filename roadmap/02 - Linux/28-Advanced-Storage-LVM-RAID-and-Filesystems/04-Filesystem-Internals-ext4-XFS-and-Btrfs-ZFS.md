@@ -37,4 +37,4 @@ stat /etc/passwd
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Software RAID with mdadm](./03-Software-RAID-with-mdadm.md) | [README](./README.md) | [05 - Network Storage](./05-Network-Storage-NFS-and-iSCSI-in-Cloud.md) |
+| [← 03 - Software RAID with mdadm](./03-Software-RAID-with-mdadm.md) | [Index](../../../README.md) | [05 - Network Storage NFS and iSCSI in Cloud →](./05-Network-Storage-NFS-and-iSCSI-in-Cloud.md) |

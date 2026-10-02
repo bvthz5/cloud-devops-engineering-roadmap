@@ -6,4 +6,4 @@ Action Groups route alert notifications via Email, SMS, Webhook, or Azure Automa
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Application Insights APM](./03-Application-Insights-APM-and-Distributed-Tracing.md) | [README](./README.md) | [05 - Workbooks & Dashboards](./05-Workbooks-and-Dashboards.md) |
+| [← 03 - Application Insights APM and Distributed Tracing](./03-Application-Insights-APM-and-Distributed-Tracing.md) | [Index](../../../README.md) | [05 - Workbooks and Dashboards →](./05-Workbooks-and-Dashboards.md) |

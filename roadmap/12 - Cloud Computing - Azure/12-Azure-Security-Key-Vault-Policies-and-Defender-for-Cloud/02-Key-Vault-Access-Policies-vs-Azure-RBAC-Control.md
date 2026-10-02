@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Key Vault Architecture](./01-Azure-Key-Vault-Architecture-Secrets-Keys-Certificates.md) | [README](./README.md) | [03 - Azure Policy Architecture](./03-Azure-Policy-Architecture-Definitions-Initiatives-Assignments.md) |
+| [← 01 - Azure Key Vault Architecture Secrets Keys Certificates](./01-Azure-Key-Vault-Architecture-Secrets-Keys-Certificates.md) | [Index](../../../README.md) | [03 - Azure Policy Architecture Definitions Initiatives Assignments →](./03-Azure-Policy-Architecture-Definitions-Initiatives-Assignments.md) |

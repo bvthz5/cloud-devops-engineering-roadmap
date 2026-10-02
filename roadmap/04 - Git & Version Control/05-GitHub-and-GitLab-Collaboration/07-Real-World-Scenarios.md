@@ -15,4 +15,4 @@ A critical zero-day vulnerability required an emergency 1-line update to a Terra
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Releases & Automation](./06-GitHub-Releases-and-Release-Automation.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - GitHub Releases and Release Automation](./06-GitHub-Releases-and-Release-Automation.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -6,4 +6,4 @@ Trigger Lambda functions or Systems Manager Run Commands automatically when Clou
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - AWS Config](./04-AWS-Config-Compliance-Rules-and-Remediation.md) | [README](./README.md) | [06 - CloudWatch Synthetics](./06-CloudWatch-Synthetics-Canaries-and-Service-Lens.md) |
+| [← 04 - AWS Config Compliance Rules and Remediation](./04-AWS-Config-Compliance-Rules-and-Remediation.md) | [Index](../../../README.md) | [06 - CloudWatch Synthetics Canaries and Service Lens →](./06-CloudWatch-Synthetics-Canaries-and-Service-Lens.md) |

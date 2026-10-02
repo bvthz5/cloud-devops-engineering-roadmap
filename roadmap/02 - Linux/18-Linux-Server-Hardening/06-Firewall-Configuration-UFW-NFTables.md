@@ -46,4 +46,4 @@ sudo nft list ruleset
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - SSH Hardening](./05-SSH-Hardening.md) | [README](./README.md) | [07 - Fail2Ban Intrusion Prevention](./07-Fail2Ban-Intrusion-Prevention.md) |
+| [← 05 - SSH Hardening](./05-SSH-Hardening.md) | [Index](../../../README.md) | [07 - Fail2Ban Intrusion Prevention →](./07-Fail2Ban-Intrusion-Prevention.md) |

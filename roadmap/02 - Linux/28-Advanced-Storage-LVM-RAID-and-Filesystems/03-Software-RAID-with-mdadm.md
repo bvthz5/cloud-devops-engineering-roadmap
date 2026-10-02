@@ -42,4 +42,4 @@ sudo mdadm /dev/md0 --add /dev/sdd
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - LVM Architecture](./02-LVM-Logical-Volume-Manager-Architecture.md) | [README](./README.md) | [04 - Filesystem Internals](./04-Filesystem-Internals-ext4-XFS-and-Btrfs-ZFS.md) |
+| [← 02 - LVM Logical Volume Manager Architecture](./02-LVM-Logical-Volume-Manager-Architecture.md) | [Index](../../../README.md) | [04 - Filesystem Internals ext4 XFS and Btrfs ZFS →](./04-Filesystem-Internals-ext4-XFS-and-Btrfs-ZFS.md) |

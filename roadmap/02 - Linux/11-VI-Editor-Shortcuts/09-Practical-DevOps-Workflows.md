@@ -96,4 +96,4 @@ The `c` flag prompts for confirmation before each replacement — safe for produ
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Multiple Files and Splits](./08-Multiple-Files-and-Splits.md) | [README](./README.md) | [10 - Troubleshooting](./10-Troubleshooting.md) |
+| [← 08 - Multiple Files and Splits](./08-Multiple-Files-and-Splits.md) | [Index](../../../README.md) | [10 - Troubleshooting →](./10-Troubleshooting.md) |

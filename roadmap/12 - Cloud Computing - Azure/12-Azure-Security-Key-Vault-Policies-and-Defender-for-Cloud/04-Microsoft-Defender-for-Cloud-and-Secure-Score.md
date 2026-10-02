@@ -6,4 +6,4 @@ Provides Cloud Security Posture Management (CSPM) and calculates a **Secure Scor
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Azure Policy Architecture](./03-Azure-Policy-Architecture-Definitions-Initiatives-Assignments.md) | [README](./README.md) | [05 - Microsoft Sentinel](./05-Azure-Sentinel-Cloud-Native-SIEM-and-SOAR.md) |
+| [← 03 - Azure Policy Architecture Definitions Initiatives Assignments](./03-Azure-Policy-Architecture-Definitions-Initiatives-Assignments.md) | [Index](../../../README.md) | [05 - Azure Sentinel Cloud Native SIEM and SOAR →](./05-Azure-Sentinel-Cloud-Native-SIEM-and-SOAR.md) |

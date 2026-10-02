@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - GitOps Repository Structure Monorepo vs Polyrepo](./03-GitOps-Repository-Structure-Monorepo-vs-Polyrepo.md) | [Index](../../../README.md) | [05 - Developer Experience PR Workflows and Feedback Loops →](./05-Developer-Experience-PR-Workflows-and-Feedback-Loops.md) |

@@ -37,4 +37,4 @@ all:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Host Groups & Nested Groups](./02-Host-Groups-Nested-Groups-and-Group-Vars.md) |
+| [← Prev Module (01-Ansible-Architecture-Agentless-Push)](../01-Ansible-Architecture-Agentless-Push/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Host Groups Nested Groups and Group Vars →](./02-Host-Groups-Nested-Groups-and-Group-Vars.md) |

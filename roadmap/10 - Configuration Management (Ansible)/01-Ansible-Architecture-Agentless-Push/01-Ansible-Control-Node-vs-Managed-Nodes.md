@@ -65,4 +65,4 @@ timeout        = 30
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Agentless Push Model](./02-Agentless-Architecture-and-SSH-Push-Model.md) |
+| [← Prev Section (09 - Infrastructure as Code (Terraform & OpenTofu))](../../09%20-%20Infrastructure%20as%20Code%20(Terraform%20%26%20OpenTofu)/16-CDK-for-Terraform-and-Pulumi-Comparison/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Agentless Architecture and SSH Push Model →](./02-Agentless-Architecture-and-SSH-Push-Model.md) |

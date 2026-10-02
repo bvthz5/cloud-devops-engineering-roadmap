@@ -14,4 +14,4 @@ Lifecycle stages:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Static Analysis](./02-Static-Analysis-with-ansible-lint-and-yamllint.md) | [README](./README.md) | [04 - Writing Molecule Scenarios](./04-Writing-Molecule-Test-Scenarios-and-Verifiers.md) |
+| [← 02 - Static Analysis with ansible lint and yamllint](./02-Static-Analysis-with-ansible-lint-and-yamllint.md) | [Index](../../../README.md) | [04 - Writing Molecule Test Scenarios and Verifiers →](./04-Writing-Molecule-Test-Scenarios-and-Verifiers.md) |

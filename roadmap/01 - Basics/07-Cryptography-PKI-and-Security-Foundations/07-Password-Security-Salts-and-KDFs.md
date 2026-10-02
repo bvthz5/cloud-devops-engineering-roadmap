@@ -33,4 +33,4 @@ Secure password hashes are **intentionally slow and memory-intensive**:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - The TLS 1.3 Handshake](./06-The-TLS-SSL-Handshake-Architecture.md) | [README](./README.md) | [08 - Entropy & Randomness](./08-Entropy-Randomness-and-dev-urandom.md) |
+| [← 06 - The TLS SSL Handshake Architecture](./06-The-TLS-SSL-Handshake-Architecture.md) | [Index](../../../README.md) | [08 - Entropy Randomness and dev urandom →](./08-Entropy-Randomness-and-dev-urandom.md) |

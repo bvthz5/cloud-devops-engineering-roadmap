@@ -23,4 +23,4 @@ Modern `ingress-nginx` uses **Lua shared memory dictionaries (`lua_shared_dict`)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Ingress Specification](./01-Ingress-Resource-Specification-and-Path-Routing.md) | [README](./README.md) | [03 - SSL Termination & Cert-Manager](./03-SSL-TLS-Termination-and-Cert-Manager-Integration.md) |
+| [← 01 - Ingress Resource Specification and Path Routing](./01-Ingress-Resource-Specification-and-Path-Routing.md) | [Index](../../../README.md) | [03 - SSL TLS Termination and Cert Manager Integration →](./03-SSL-TLS-Termination-and-Cert-Manager-Integration.md) |

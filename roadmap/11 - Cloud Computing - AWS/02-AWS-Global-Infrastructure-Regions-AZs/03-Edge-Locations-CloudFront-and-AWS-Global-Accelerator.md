@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Regions & AZs](./02-AWS-Regions-and-Availability-Zones-Architecture.md) | [README](./README.md) | [04 - Resiliency & DR](./04-Resiliency-High-Availability-and-Disaster-Recovery.md) |
+| [← 02 - AWS Regions and Availability Zones Architecture](./02-AWS-Regions-and-Availability-Zones-Architecture.md) | [Index](../../../README.md) | [04 - Resiliency High Availability and Disaster Recovery →](./04-Resiliency-High-Availability-and-Disaster-Recovery.md) |

@@ -31,4 +31,4 @@ PSI measures how much time a container spends starved for hardware:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Container Exit Codes & Forensics](./02-Container-Exit-Codes-and-Crash-Forensics.md) |
+| [← Prev Module (10-Podman-Buildah-and-Skopeo-Daemonless-Stack)](../10-Podman-Buildah-and-Skopeo-Daemonless-Stack/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Container Exit Codes and Crash Forensics →](./02-Container-Exit-Codes-and-Crash-Forensics.md) |

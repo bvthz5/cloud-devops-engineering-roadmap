@@ -70,4 +70,4 @@ Need Kubernetes-native control plane?
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - What Is IaC](./01-What-Is-IaC-Declarative-vs-Imperative.md) | [README](./README.md) | [03 - Mutable vs Immutable](./03-Mutable-vs-Immutable-Infrastructure.md) |
+| [← 01 - What Is IaC Declarative vs Imperative](./01-What-Is-IaC-Declarative-vs-Imperative.md) | [Index](../../../README.md) | [03 - Mutable vs Immutable Infrastructure →](./03-Mutable-vs-Immutable-Infrastructure.md) |

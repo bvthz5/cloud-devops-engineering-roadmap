@@ -105,4 +105,4 @@ sudo canonical-livepatch status
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Compiling and Installing Software from Source](./05-Compiling-and-Installing-Software-from-Source.md) | [README](./README.md) | [07 - Real World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Compiling and Installing Software from Source](./05-Compiling-and-Installing-Software-from-Source.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

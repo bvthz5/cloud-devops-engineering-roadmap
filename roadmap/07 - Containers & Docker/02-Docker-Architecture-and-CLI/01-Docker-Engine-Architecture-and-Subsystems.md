@@ -40,4 +40,4 @@ When `runc` finishes setting up kernel namespaces, it exits. The **`containerd-s
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Container Lifecycle & States](./02-Container-Lifecycle-and-Process-States.md) |
+| [← Prev Module (01-Container-Fundamentals-Cgroups-Namespaces)](../01-Container-Fundamentals-Cgroups-Namespaces/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Container Lifecycle and Process States →](./02-Container-Lifecycle-and-Process-States.md) |

@@ -48,4 +48,4 @@ sudo systemctl reload apache2
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Configuration Hierarchy](./02-Configuration-Hierarchy-and-Directive-Scopes.md) | [README](./README.md) | [04 - URL Rewriting with mod_rewrite](./04-URL-Rewriting-with-mod-rewrite.md) |
+| [← 02 - Configuration Hierarchy and Directive Scopes](./02-Configuration-Hierarchy-and-Directive-Scopes.md) | [Index](../../../README.md) | [04 - URL Rewriting with mod rewrite →](./04-URL-Rewriting-with-mod-rewrite.md) |

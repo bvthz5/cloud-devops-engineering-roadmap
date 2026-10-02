@@ -50,4 +50,4 @@ A **Pod** is the smallest deployable compute unit in Kubernetes. It encapsulates
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Health Probes](./02-Liveness-Readiness-and-Startup-Probes.md) |
+| [← Prev Module (02-Kubectl-and-Local-Clusters)](../02-Kubectl-and-Local-Clusters/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Liveness Readiness and Startup Probes →](./02-Liveness-Readiness-and-Startup-Probes.md) |

@@ -17,4 +17,4 @@ docker pull myregistry.com/app@sha256:<digest>
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [09 - OCI Standards & Container Runtimes](../09-OCI-Standards-and-Container-Runtimes/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (09-OCI-Standards-and-Container-Runtimes) →](../09-OCI-Standards-and-Container-Runtimes/01-Open-Container-Initiative-OCI-Specifications.md) |

@@ -6,4 +6,4 @@ Managed relational database service supporting PostgreSQL, MySQL, MariaDB, Oracl
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Multi-AZ & Read Replicas](./02-RDS-High-Availability-Multi-AZ-and-Read-Replicas.md) |
+| [← Prev Module (06-AWS-S3-Storage-Classes-and-Policies)](../06-AWS-S3-Storage-Classes-and-Policies/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - RDS High Availability Multi AZ and Read Replicas →](./02-RDS-High-Availability-Multi-AZ-and-Read-Replicas.md) |

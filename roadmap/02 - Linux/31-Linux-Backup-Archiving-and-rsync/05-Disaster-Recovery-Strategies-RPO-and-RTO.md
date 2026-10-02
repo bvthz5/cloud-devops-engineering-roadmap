@@ -30,4 +30,4 @@ Last Backup             Disaster Strikes            Service Restored
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Snapshot-Based Backups](./04-Snapshot-Based-Backups-LVM-and-Btrfs.md) | [README](./README.md) | [06 - Deduplicated Backups](./06-Deduplicated-and-Encrypted-Backups-Borg-Restic.md) |
+| [← 04 - Snapshot Based Backups LVM and Btrfs](./04-Snapshot-Based-Backups-LVM-and-Btrfs.md) | [Index](../../../README.md) | [06 - Deduplicated and Encrypted Backups Borg Restic →](./06-Deduplicated-and-Encrypted-Backups-Borg-Restic.md) |

@@ -96,8 +96,9 @@ $ cat /proc/sys/fs/file-nr
 # For systemd service units, add to service override:
 LimitNOFILE=65535
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Real World Scenarios](./11-Real-World-Scenarios.md) | [README](./README.md) | [13 - Interview QA](./13-Interview-QA.md) |
+| [← 11 - Real World Scenarios](./11-Real-World-Scenarios.md) | [Index](../../../README.md) | [13 - Interview QA →](./13-Interview-QA.md) |

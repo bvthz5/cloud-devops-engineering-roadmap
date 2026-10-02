@@ -61,8 +61,9 @@ find /var/spool -xdev -printf '%h\n' | sort | uniq -c | sort -nr | head -n 10
 # Find all broken symbolic links starting from /
 find / -xtype l -ls 2>/dev/null
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - Real World Scenarios](./14-Real-World-Scenarios.md) | [README](./README.md) | [16 - Interview QA](./16-Interview-QA.md) |
+| [← 14 - Real World Scenarios](./14-Real-World-Scenarios.md) | [Index](../../../README.md) | [16 - Interview QA →](./16-Interview-QA.md) |

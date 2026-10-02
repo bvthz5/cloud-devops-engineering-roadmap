@@ -24,4 +24,4 @@ Subsequent backups succeeded at maximum wire speed.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Bandwidth & MTU Testing](./06-Bandwidth-and-Latency-Testing-iperf3-and-ping.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Bandwidth and Latency Testing iperf3 and ping](./06-Bandwidth-and-Latency-Testing-iperf3-and-ping.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

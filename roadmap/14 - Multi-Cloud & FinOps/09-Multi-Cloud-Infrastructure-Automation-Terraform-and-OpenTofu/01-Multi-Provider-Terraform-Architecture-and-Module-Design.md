@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (08-Multi-Cloud-Identity-Access-and-Unified-Governance)](../08-Multi-Cloud-Identity-Access-and-Unified-Governance/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Managing Multi Cloud State Files Remote Backends and Locking →](./02-Managing-Multi-Cloud-State-Files-Remote-Backends-and-Locking.md) |

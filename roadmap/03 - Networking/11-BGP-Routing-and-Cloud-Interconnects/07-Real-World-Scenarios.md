@@ -16,4 +16,4 @@ During routine backbone maintenance, a command was issued to evaluate global bac
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - OSPF vs BGP](./06-Dynamic-Routing-Protocols-OSPF-vs-BGP.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Dynamic Routing Protocols OSPF vs BGP](./06-Dynamic-Routing-Protocols-OSPF-vs-BGP.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

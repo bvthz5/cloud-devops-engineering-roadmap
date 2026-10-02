@@ -23,4 +23,4 @@ gitleaks protect --staged
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - pre-commit Framework](./03-The-pre-commit-Framework-Standardization.md) | [README](./README.md) | [05 - Server-Side Hooks](./05-Server-Side-Hooks-pre-receive-and-post-receive.md) |
+| [← 03 - The pre commit Framework Standardization](./03-The-pre-commit-Framework-Standardization.md) | [Index](../../../README.md) | [05 - Server Side Hooks pre receive and post receive →](./05-Server-Side-Hooks-pre-receive-and-post-receive.md) |

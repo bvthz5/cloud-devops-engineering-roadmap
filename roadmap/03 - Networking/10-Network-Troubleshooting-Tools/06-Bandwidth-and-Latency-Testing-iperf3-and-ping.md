@@ -41,4 +41,4 @@ ping -c 2 -M do -s 1472 10.100.0.1
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - HTTP & DNS Diagnostics](./05-HTTP-and-API-Diagnostics-curl-and-dig.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - HTTP and API Diagnostics curl and dig](./05-HTTP-and-API-Diagnostics-curl-and-dig.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

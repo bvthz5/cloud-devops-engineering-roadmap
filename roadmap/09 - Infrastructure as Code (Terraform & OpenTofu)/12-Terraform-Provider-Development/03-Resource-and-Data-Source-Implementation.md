@@ -32,4 +32,4 @@ func (d *UserDataSource) Read(ctx context.Context, req datasource.ReadRequest, r
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Building a Provider](./02-Building-a-Custom-Provider-in-Go.md) | [README](./README.md) | [04 - Testing & Publishing](./04-Testing-and-Publishing-Providers.md) |
+| [← 02 - Building a Custom Provider in Go](./02-Building-a-Custom-Provider-in-Go.md) | [Index](../../../README.md) | [04 - Testing and Publishing Providers →](./04-Testing-and-Publishing-Providers.md) |

@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Artifact Registry Integration and Container Security](./04-Artifact-Registry-Integration-and-Container-Security.md) | [Index](../../../README.md) | [06 - GKE Storage CSI Drivers Persistent Disks and Filestore Integration →](./06-GKE-Storage-CSI-Drivers-Persistent-Disks-and-Filestore-Integration.md) |

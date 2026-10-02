@@ -21,4 +21,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 09 - Testing IaC](../09-Testing-Terraform-and-Drift-Detection/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (09-Testing-Terraform-and-Drift-Detection) →](../09-Testing-Terraform-and-Drift-Detection/01-IaC-Testing-Pyramid-Static-Unit-Integration-E2E.md) |

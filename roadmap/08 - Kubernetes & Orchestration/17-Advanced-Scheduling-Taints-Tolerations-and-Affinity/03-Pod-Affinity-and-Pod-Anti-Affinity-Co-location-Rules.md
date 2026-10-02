@@ -21,4 +21,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Node Selection & Affinity](./02-Node-Selection-NodeName-NodeSelector-and-NodeAffinity.md) | [README](./README.md) | [04 - Taints & Tolerations](./04-Taints-and-Tolerations-Node-Cordon-and-Drain-Mechanics.md) |
+| [← 02 - Node Selection NodeName NodeSelector and NodeAffinity](./02-Node-Selection-NodeName-NodeSelector-and-NodeAffinity.md) | [Index](../../../README.md) | [04 - Taints and Tolerations Node Cordon and Drain Mechanics →](./04-Taints-and-Tolerations-Node-Cordon-and-Drain-Mechanics.md) |

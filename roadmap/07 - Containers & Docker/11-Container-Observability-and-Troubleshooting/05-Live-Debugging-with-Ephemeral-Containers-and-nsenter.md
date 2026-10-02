@@ -19,4 +19,4 @@ sudo nsenter -t $PID -m -u -i -n -p /bin/bash
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - cAdvisor & Prometheus](./04-Container-Health-Monitoring-with-cAdvisor-and-Prometheus.md) | [README](./README.md) | [06 - eBPF Container Tracing](./06-eBPF-Based-Container-Tracing-and-Security-Auditing.md) |
+| [← 04 - Container Health Monitoring with cAdvisor and Prometheus](./04-Container-Health-Monitoring-with-cAdvisor-and-Prometheus.md) | [Index](../../../README.md) | [06 - eBPF Based Container Tracing and Security Auditing →](./06-eBPF-Based-Container-Tracing-and-Security-Auditing.md) |

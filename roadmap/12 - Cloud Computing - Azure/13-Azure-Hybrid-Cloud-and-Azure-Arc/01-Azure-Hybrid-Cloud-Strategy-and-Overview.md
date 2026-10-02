@@ -6,4 +6,4 @@ Extending Azure governance, security, and cloud services to on-premises data cen
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Azure Arc Enabled Servers](./02-Azure-Arc-Enabled-Servers-Architecture-and-Onboarding.md) |
+| [← Prev Module (12-Azure-Security-Key-Vault-Policies-and-Defender-for-Cloud)](../12-Azure-Security-Key-Vault-Policies-and-Defender-for-Cloud/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Azure Arc Enabled Servers Architecture and Onboarding →](./02-Azure-Arc-Enabled-Servers-Architecture-and-Onboarding.md) |

@@ -69,4 +69,4 @@ kubectl config set-context --current --namespace=monitoring
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Essential Kubectl Commands](./02-Essential-Kubectl-Commands-and-Output-Formatting.md) |
+| [← Prev Module (01-Kubernetes-Architecture-and-Control-Plane)](../01-Kubernetes-Architecture-and-Control-Plane/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Essential Kubectl Commands and Output Formatting →](./02-Essential-Kubectl-Commands-and-Output-Formatting.md) |

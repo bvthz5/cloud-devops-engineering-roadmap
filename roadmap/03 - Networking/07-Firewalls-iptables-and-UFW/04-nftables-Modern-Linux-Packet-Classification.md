@@ -70,4 +70,4 @@ nft list ruleset
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Stateful Inspection](./03-Stateful-Firewall-Inspection-and-Conntrack.md) | [README](./README.md) | [05 - Host Firewalls](./05-Host-Firewalls-UFW-and-firewalld-Management.md) |
+| [← 03 - Stateful Firewall Inspection and Conntrack](./03-Stateful-Firewall-Inspection-and-Conntrack.md) | [Index](../../../README.md) | [05 - Host Firewalls UFW and firewalld Management →](./05-Host-Firewalls-UFW-and-firewalld-Management.md) |

@@ -6,4 +6,4 @@ Continuously monitors resource configuration history and evaluates compliance ag
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - AWS CloudTrail](./03-AWS-CloudTrail-Management-and-Data-Events.md) | [README](./README.md) | [05 - EventBridge Rules](./05-Amazon-EventBridge-Rules-and-Automated-Operations.md) |
+| [← 03 - AWS CloudTrail Management and Data Events](./03-AWS-CloudTrail-Management-and-Data-Events.md) | [Index](../../../README.md) | [05 - Amazon EventBridge Rules and Automated Operations →](./05-Amazon-EventBridge-Rules-and-Automated-Operations.md) |

@@ -13,4 +13,4 @@ AppRequests
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Azure Monitor Architecture](./01-Azure-Monitor-Architecture-Metrics-and-Logs.md) | [README](./README.md) | [03 - Application Insights APM](./03-Application-Insights-APM-and-Distributed-Tracing.md) |
+| [← 01 - Azure Monitor Architecture Metrics and Logs](./01-Azure-Monitor-Architecture-Metrics-and-Logs.md) | [Index](../../../README.md) | [03 - Application Insights APM and Distributed Tracing →](./03-Application-Insights-APM-and-Distributed-Tracing.md) |

@@ -22,3 +22,9 @@
 3. **Generate SBOMs for all build artifacts** to enable instant vulnerability impact tracing.
 4. **Use OIDC for passwordless authentication** to AWS, Azure, and GCP in CI runners.
 5. **Decouple deployments from business releases using Feature Flags**.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (16 - GitOps & Progressive Delivery) →](../../16%20-%20GitOps%20%26%20Progressive%20Delivery/01-GitOps-Principles-and-Workflow/01-GitOps-Core-Principles-and-OpenGitOps-Standards.md) |

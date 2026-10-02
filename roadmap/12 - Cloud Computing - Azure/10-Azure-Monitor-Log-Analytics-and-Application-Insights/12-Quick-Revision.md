@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 11 - Azure Bicep](../11-Azure-Bicep-and-ARM-Templates/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (11-Azure-Bicep-and-ARM-Templates) →](../11-Azure-Bicep-and-ARM-Templates/01-Infrastructure-as-Code-on-Azure-ARM-vs-Bicep.md) |

@@ -43,4 +43,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Deployment Controller](./01-Deployment-Controller-and-ReplicaSet-Reconciliation.md) | [README](./README.md) | [03 - Rollbacks & Revision History](./03-Rollbacks-Revision-History-and-Change-Cause.md) |
+| [← 01 - Deployment Controller and ReplicaSet Reconciliation](./01-Deployment-Controller-and-ReplicaSet-Reconciliation.md) | [Index](../../../README.md) | [03 - Rollbacks Revision History and Change Cause →](./03-Rollbacks-Revision-History-and-Change-Cause.md) |

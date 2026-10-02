@@ -6,4 +6,4 @@ Designing a subscription hierarchy separating Core Infrastructure, Shared Servic
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - ARM Engine](./06-Azure-Resource-Manager-ARM-Engine-Architecture.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Azure Resource Manager ARM Engine Architecture](./06-Azure-Resource-Manager-ARM-Engine-Architecture.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

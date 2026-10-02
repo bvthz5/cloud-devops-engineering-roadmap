@@ -58,4 +58,4 @@ terraform test -verbose   # Detailed output
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Static Analysis](./02-Static-Analysis-tflint-terraform-validate-fmt.md) | [README](./README.md) | [04 - Integration Testing](./04-Integration-Testing-Terratest-and-Kitchen-Terraform.md) |
+| [← 02 - Static Analysis tflint terraform validate fmt](./02-Static-Analysis-tflint-terraform-validate-fmt.md) | [Index](../../../README.md) | [04 - Integration Testing Terratest and Kitchen Terraform →](./04-Integration-Testing-Terratest-and-Kitchen-Terraform.md) |

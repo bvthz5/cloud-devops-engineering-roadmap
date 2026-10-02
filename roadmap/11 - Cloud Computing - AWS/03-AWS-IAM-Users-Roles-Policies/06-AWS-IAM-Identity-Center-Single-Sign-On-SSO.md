@@ -6,4 +6,4 @@ Centralized SSO authentication for multi-account AWS Organizations integrated wi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Policy Evaluation Logic](./05-IAM-Policy-Evaluation-Logic-Explicit-Deny-Rule.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - IAM Policy Evaluation Logic Explicit Deny Rule](./05-IAM-Policy-Evaluation-Logic-Explicit-Deny-Rule.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

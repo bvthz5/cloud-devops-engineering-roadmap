@@ -6,4 +6,4 @@ Deploying microservices on EKS with AWS Load Balancer Controller and IRSA for S3
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Container Observability](./06-Container-Observability-Container-Insights-and-App-Mesh.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Container Observability Container Insights and App Mesh](./06-Container-Observability-Container-Insights-and-App-Mesh.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

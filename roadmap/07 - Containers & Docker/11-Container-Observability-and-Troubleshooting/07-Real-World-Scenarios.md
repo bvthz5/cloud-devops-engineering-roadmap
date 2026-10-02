@@ -15,4 +15,4 @@ Remove CPU limits on latency-critical services or configure CPU limit-less nodes
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - eBPF Container Tracing](./06-eBPF-Based-Container-Tracing-and-Security-Auditing.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - eBPF Based Container Tracing and Security Auditing](./06-eBPF-Based-Container-Tracing-and-Security-Auditing.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 02 - Kubectl & Local Clusters](../02-Kubectl-and-Local-Clusters/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (02-Kubectl-and-Local-Clusters) →](../02-Kubectl-and-Local-Clusters/01-Kubectl-Architecture-Kubeconfig-and-Contexts.md) |

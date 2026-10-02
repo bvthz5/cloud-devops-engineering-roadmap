@@ -37,8 +37,9 @@ sudo modprobe -r wireguard
 # Inspect information about a specific kernel module
 modinfo e1000e
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Linux Kernel Core](./03-Linux-Kernel-Core.md) | [README](./README.md) | [05 - System Libraries and Glibc](./05-System-Libraries-and-Glibc.md) |
+| [← 03 - Linux Kernel Core](./03-Linux-Kernel-Core.md) | [Index](../../../README.md) | [05 - System Libraries and Glibc →](./05-System-Libraries-and-Glibc.md) |

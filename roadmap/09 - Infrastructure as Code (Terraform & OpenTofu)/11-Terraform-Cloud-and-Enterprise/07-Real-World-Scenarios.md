@@ -11,4 +11,4 @@ A company with 200 engineers migrated from local Terraform workflows to Terrafor
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Cost Estimation](./06-Cost-Estimation-and-Audit-Logging.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Cost Estimation and Audit Logging](./06-Cost-Estimation-and-Audit-Logging.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

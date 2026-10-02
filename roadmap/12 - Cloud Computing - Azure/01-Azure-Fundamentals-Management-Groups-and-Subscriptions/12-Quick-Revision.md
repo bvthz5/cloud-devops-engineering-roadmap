@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 02 - Azure Entra ID & RBAC](../02-Azure-Entra-ID-and-Role-Based-Access-Control-RBAC/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (02-Azure-Entra-ID-and-Role-Based-Access-Control-RBAC) →](../02-Azure-Entra-ID-and-Role-Based-Access-Control-RBAC/01-Microsoft-Entra-ID-Architecture-vs-Active-Directory.md) |

@@ -32,4 +32,4 @@ Wildcard certificates require the **DNS-01 challenge**. Use Certbot with a DNS p
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [20 - Scenario Drills](./20-Scenario-Based-Troubleshooting-Drills.md) | [README](./README.md) | [22 - Scenario MCQs](./22-MCQs-and-Diagnostic-Quizzes.md) |
+| [← 20 - Scenario Based Troubleshooting Drills](./20-Scenario-Based-Troubleshooting-Drills.md) | [Index](../../../README.md) | [22 - MCQs and Diagnostic Quizzes →](./22-MCQs-and-Diagnostic-Quizzes.md) |

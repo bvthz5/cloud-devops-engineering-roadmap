@@ -13,4 +13,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 06 - SSH & Remote Access](../06-SSH-and-Secure-Remote-Access/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (06-SSH-and-Secure-Remote-Access) →](../06-SSH-and-Secure-Remote-Access/01-SSH-Protocol-Architecture-and-Handshake.md) |

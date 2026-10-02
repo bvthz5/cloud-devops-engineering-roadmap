@@ -65,4 +65,4 @@ Job B must start only after Job A succeeds.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Hands On Practice](./12-Hands-On-Practice.md) | [README](./README.md) | [14 - Interview Questions](./14-Interview-Questions.md) |
+| [← 12 - Hands On Practice](./12-Hands-On-Practice.md) | [Index](../../../README.md) | [14 - Interview Questions →](./14-Interview-Questions.md) |

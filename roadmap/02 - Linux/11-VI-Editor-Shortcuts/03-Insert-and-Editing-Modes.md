@@ -48,4 +48,4 @@ Change commands delete target text and **immediately drop you into Insert Mode**
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Navigation Shortcuts](./02-Navigation-Shortcuts.md) | [README](./README.md) | [04 - Delete Undo Redo Operations](./04-Delete-Undo-Redo-Operations.md) |
+| [← 02 - Navigation Shortcuts](./02-Navigation-Shortcuts.md) | [Index](../../../README.md) | [04 - Delete Undo Redo Operations →](./04-Delete-Undo-Redo-Operations.md) |

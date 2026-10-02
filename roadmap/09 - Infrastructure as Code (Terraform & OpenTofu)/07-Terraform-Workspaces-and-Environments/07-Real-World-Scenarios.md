@@ -25,4 +25,4 @@ Migrated to directory-based structure with shared modules. Each environment has 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Multi-Account](./06-Multi-Account-Multi-Region-Deployment.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Multi Account Multi Region Deployment](./06-Multi-Account-Multi-Region-Deployment.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

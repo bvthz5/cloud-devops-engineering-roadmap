@@ -46,4 +46,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [15 - Logging Formats Log Analysis Access and Error Logs](./15-Logging-Formats-Log-Analysis-Access-and-Error-Logs.md) | [README](./README.md) | [17 - Web Server Security Hardening Best Practices](./17-Web-Server-Security-Hardening-Best-Practices.md) |
+| [← 15 - Logging Formats Log Analysis Access and Error Logs](./15-Logging-Formats-Log-Analysis-Access-and-Error-Logs.md) | [Index](../../../README.md) | [17 - Web Server Security Hardening Best Practices →](./17-Web-Server-Security-Hardening-Best-Practices.md) |

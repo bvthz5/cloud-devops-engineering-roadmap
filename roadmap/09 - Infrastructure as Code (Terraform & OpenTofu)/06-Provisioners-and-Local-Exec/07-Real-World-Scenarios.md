@@ -36,4 +36,4 @@ resource "null_resource" "db_migration" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - External Data Source](./06-External-Data-Source-and-Custom-Scripts.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - External Data Source and Custom Scripts](./06-External-Data-Source-and-Custom-Scripts.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

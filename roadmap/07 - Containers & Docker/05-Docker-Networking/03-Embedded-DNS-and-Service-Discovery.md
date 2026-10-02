@@ -36,4 +36,4 @@ docker run -d --net internal_net --net-alias worker worker_image
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Bridge Networking & Veth Pairs](./02-Bridge-Networking-and-Veth-Pairs.md) | [README](./README.md) | [04 - Port Publishing vs Exposing](./04-Port-Publishing-vs-Exposing-and-iptables.md) |
+| [← 02 - Bridge Networking and Veth Pairs](./02-Bridge-Networking-and-Veth-Pairs.md) | [Index](../../../README.md) | [04 - Port Publishing vs Exposing and iptables →](./04-Port-Publishing-vs-Exposing-and-iptables.md) |

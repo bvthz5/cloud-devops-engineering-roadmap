@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (07-Flagger-Progressive-Delivery-and-Service-Mesh)](../07-Flagger-Progressive-Delivery-and-Service-Mesh/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Flux Image Automation Controller ImageRepository and ImagePolicy →](./02-Flux-Image-Automation-Controller-ImageRepository-and-ImagePolicy.md) |

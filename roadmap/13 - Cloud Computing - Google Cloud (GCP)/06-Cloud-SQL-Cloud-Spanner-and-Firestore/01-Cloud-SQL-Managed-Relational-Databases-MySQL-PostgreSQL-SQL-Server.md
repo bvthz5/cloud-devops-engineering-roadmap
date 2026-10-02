@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (05-Google-Cloud-Storage-GCS-and-Cloud-Filestore)](../05-Google-Cloud-Storage-GCS-and-Cloud-Filestore/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Cloud SQL High Availability Read Replicas and Automated Backups →](./02-Cloud-SQL-High-Availability-Read-Replicas-and-Automated-Backups.md) |

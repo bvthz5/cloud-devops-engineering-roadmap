@@ -38,4 +38,4 @@ Availability Zone A (AZ-1)               Availability Zone B (AZ-2)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - CIDR](./04-CIDR-Classless-Inter-Domain-Routing.md) | [README](./README.md) | [06 - IPv6 Architecture](./06-IPv6-Architecture-and-Migration.md) |
+| [← 04 - CIDR Classless Inter Domain Routing](./04-CIDR-Classless-Inter-Domain-Routing.md) | [Index](../../../README.md) | [06 - IPv6 Architecture and Migration →](./06-IPv6-Architecture-and-Migration.md) |

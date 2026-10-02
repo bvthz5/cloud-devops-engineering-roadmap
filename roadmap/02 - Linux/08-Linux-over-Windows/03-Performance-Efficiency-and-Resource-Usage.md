@@ -35,8 +35,9 @@ The Linux Kernel features an aggressive **Page Cache** algorithm. Unused physica
 # View active Page Cache & Buffer memory utilization
 free -h
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Cost Effectiveness and Licensing](./02-Cost-Effectiveness-and-Licensing.md) | [README](./README.md) | [04 - Security Permissions and Reliability](./04-Security-Permissions-and-Reliability.md) |
+| [← 02 - Cost Effectiveness and Licensing](./02-Cost-Effectiveness-and-Licensing.md) | [Index](../../../README.md) | [04 - Security Permissions and Reliability →](./04-Security-Permissions-and-Reliability.md) |

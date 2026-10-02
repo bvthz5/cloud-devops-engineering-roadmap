@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - GCP Folders Structuring Environments and Business Units](./03-GCP-Folders-Structuring-Environments-and-Business-Units.md) | [Index](../../../README.md) | [05 - GCP Organization Policies Constraints and Inheritance →](./05-GCP-Organization-Policies-Constraints-and-Inheritance.md) |

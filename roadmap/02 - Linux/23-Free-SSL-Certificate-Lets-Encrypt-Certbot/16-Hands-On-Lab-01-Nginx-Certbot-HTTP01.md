@@ -52,4 +52,4 @@ curl -Iv https://demo.example.com
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [15 - Security Hardening](./15-Security-Hardening-HSTS-TLS13-and-Ciphers.md) | [README](./README.md) | [17 - Lab 02: Apache Certbot Setup](./17-Hands-On-Lab-02-Apache-Certbot-Setup.md) |
+| [← 15 - Security Hardening HSTS TLS13 and Ciphers](./15-Security-Hardening-HSTS-TLS13-and-Ciphers.md) | [Index](../../../README.md) | [17 - Hands On Lab 02 Apache Certbot Setup →](./17-Hands-On-Lab-02-Apache-Certbot-Setup.md) |

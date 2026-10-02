@@ -15,4 +15,4 @@ ssh -J user@jumpbox user@dest         # Jump through bastion
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 07 - Firewalls & iptables](../07-Firewalls-iptables-and-UFW/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (07-Firewalls-iptables-and-UFW) →](../07-Firewalls-iptables-and-UFW/01-Linux-Netfilter-Architecture-and-Hooks.md) |

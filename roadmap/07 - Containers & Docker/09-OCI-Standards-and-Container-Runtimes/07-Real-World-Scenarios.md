@@ -16,4 +16,4 @@ Modern logging agents (Fluent Bit, Promtail) must read standard OCI container lo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Dockershim Deprecation Story](./06-The-Dockershim-Deprecation-Story.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - The Dockershim Deprecation Story](./06-The-Dockershim-Deprecation-Story.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

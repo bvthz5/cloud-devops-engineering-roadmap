@@ -186,4 +186,4 @@ Test your understanding of Operating System and Kernel Fundamentals. Each questi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - Hands On Practice](./16-Hands-On-Practice.md) | [README](./README.md) | [18 - Quick Revision](./18-Quick-Revision.md) |
+| [← 16 - Hands On Practice](./16-Hands-On-Practice.md) | [Index](../../../README.md) | [18 - Quick Revision →](./18-Quick-Revision.md) |

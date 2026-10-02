@@ -62,4 +62,4 @@ Every IP packet traversing a Linux machine hits specific kernel hooks depending 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - iptables Architecture](./02-iptables-Tables-Chains-and-Rule-Syntax.md) |
+| [← Prev Module (06-SSH-and-Secure-Remote-Access)](../06-SSH-and-Secure-Remote-Access/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - iptables Tables Chains and Rule Syntax →](./02-iptables-Tables-Chains-and-Rule-Syntax.md) |

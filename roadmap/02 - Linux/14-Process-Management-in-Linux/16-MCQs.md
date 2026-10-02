@@ -275,4 +275,4 @@ This usually indicates a disk or network storage bottleneck. The process cannot 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [15 - Hands On Terminal Practice](./15-Hands-On-Terminal-Practice.md) | [README](./README.md) | [17 - Quick Revision](./17-Quick-Revision.md) |
+| [← 15 - Hands On Terminal Practice](./15-Hands-On-Terminal-Practice.md) | [Index](../../../README.md) | [17 - Quick Revision →](./17-Quick-Revision.md) |

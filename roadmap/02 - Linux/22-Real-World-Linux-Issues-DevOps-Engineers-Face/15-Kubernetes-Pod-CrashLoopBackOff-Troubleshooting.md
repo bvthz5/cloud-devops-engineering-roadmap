@@ -42,4 +42,4 @@ kubectl logs web-app-7f58d9-x9z21 -c web-container --previous -n production
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - Docker Troubleshooting](./14-Docker-Container-Troubleshooting.md) | [README](./README.md) | [16 - Suspicious Processes & Security Incidents](./16-Suspicious-Processes-and-Security-Incident-Response.md) |
+| [← 14 - Docker Container Troubleshooting](./14-Docker-Container-Troubleshooting.md) | [Index](../../../README.md) | [16 - Suspicious Processes and Security Incident Response →](./16-Suspicious-Processes-and-Security-Incident-Response.md) |

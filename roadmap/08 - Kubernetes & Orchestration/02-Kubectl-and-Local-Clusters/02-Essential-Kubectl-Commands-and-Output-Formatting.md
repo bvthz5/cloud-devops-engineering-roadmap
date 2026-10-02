@@ -37,4 +37,4 @@ kubectl get pods -A --sort-by='.status.containerStatuses[0].restartCount'
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Kubectl Architecture](./01-Kubectl-Architecture-Kubeconfig-and-Contexts.md) | [README](./README.md) | [03 - Kubectl Plugins & Krew](./03-Kubectl-Plugins-and-Krew-Ecosystem.md) |
+| [← 01 - Kubectl Architecture Kubeconfig and Contexts](./01-Kubectl-Architecture-Kubeconfig-and-Contexts.md) | [Index](../../../README.md) | [03 - Kubectl Plugins and Krew Ecosystem →](./03-Kubectl-Plugins-and-Krew-Ecosystem.md) |

@@ -22,4 +22,4 @@ The Kubernetes networking model enforces three strict rules:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - CNI Specification](./02-Container-Network-Interface-CNI-Specification.md) |
+| [← Prev Module (13-Helm-Package-Manager-and-Charts)](../13-Helm-Package-Manager-and-Charts/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Container Network Interface CNI Specification →](./02-Container-Network-Interface-CNI-Specification.md) |

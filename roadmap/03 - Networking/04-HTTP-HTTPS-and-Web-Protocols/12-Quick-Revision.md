@@ -13,4 +13,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 05 - TCP, UDP & Sockets](../05-TCP-UDP-and-Sockets/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (05-TCP-UDP-and-Sockets) →](../05-TCP-UDP-and-Sockets/01-TCP-Architecture-and-Reliability-Guarantees.md) |

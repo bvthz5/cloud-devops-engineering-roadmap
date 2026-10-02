@@ -102,4 +102,4 @@ host = "localhost"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - MCQ](./13-MCQ.md) | [README](./README.md) | [Submodule 05: Number Systems](../05-Number-Systems-Binary-and-Character-Encoding/README.md) |
+| [← 13 - MCQ](./13-MCQ.md) | [Index](../../../README.md) | [Next Module (05-Number-Systems-Binary-and-Character-Encoding) →](../05-Number-Systems-Binary-and-Character-Encoding/01-Number-Systems-Decimal-Binary-Octal-Hexadecimal.md) |

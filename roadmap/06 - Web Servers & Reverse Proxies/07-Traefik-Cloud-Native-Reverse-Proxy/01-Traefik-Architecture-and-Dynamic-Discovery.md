@@ -57,4 +57,4 @@ log:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Core Concepts](./02-Core-Concepts-EntryPoints-Routers-Middlewares-Services.md) |
+| [← Prev Module (06-HAProxy-High-Performance-Load-Balancing)](../06-HAProxy-High-Performance-Load-Balancing/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Core Concepts EntryPoints Routers Middlewares Services →](./02-Core-Concepts-EntryPoints-Routers-Middlewares-Services.md) |

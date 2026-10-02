@@ -30,4 +30,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Canary & Mirroring](./04-Canary-Traffic-Splitting-and-Mirroring-with-HTTPRoute.md) | [README](./README.md) | [06 - Gateway Implementations](./06-Gateway-API-Implementations-Envoy-Gateway-Cilium-Traefik.md) |
+| [← 04 - Canary Traffic Splitting and Mirroring with HTTPRoute](./04-Canary-Traffic-Splitting-and-Mirroring-with-HTTPRoute.md) | [Index](../../../README.md) | [06 - Gateway API Implementations Envoy Gateway Cilium Traefik →](./06-Gateway-API-Implementations-Envoy-Gateway-Cilium-Traefik.md) |

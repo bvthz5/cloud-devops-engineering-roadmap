@@ -23,4 +23,4 @@ DNSSEC adds cryptographic authentication to DNS responses using digital signatur
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Split-Horizon DNS](./05-Split-Horizon-DNS-and-Private-Hosted-Zones.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Split Horizon DNS and Private Hosted Zones](./05-Split-Horizon-DNS-and-Private-Hosted-Zones.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

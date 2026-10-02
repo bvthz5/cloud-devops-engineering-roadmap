@@ -18,4 +18,4 @@ docker run -d -p 127.0.0.1:5432:5432 postgres
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Overlay Networks & VXLAN](./06-Overlay-Networks-and-Multi-Host-VXLAN.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Overlay Networks and Multi Host VXLAN](./06-Overlay-Networks-and-Multi-Host-VXLAN.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

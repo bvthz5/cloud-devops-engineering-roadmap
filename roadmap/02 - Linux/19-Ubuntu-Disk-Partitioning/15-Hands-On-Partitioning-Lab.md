@@ -39,4 +39,4 @@ Create a GPT partition table, format an `ext4` filesystem, set up permanent UUID
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - Storage Security and Backup Best Practices](./14-Storage-Security-and-Backup-Best-Practices.md) | [README](./README.md) | [16 - Troubleshooting Partitioning Scenarios](./16-Troubleshooting-Partitioning-Scenarios.md) |
+| [← 14 - Storage Security and Backup Best Practices](./14-Storage-Security-and-Backup-Best-Practices.md) | [Index](../../../README.md) | [16 - Troubleshooting Partitioning Scenarios →](./16-Troubleshooting-Partitioning-Scenarios.md) |

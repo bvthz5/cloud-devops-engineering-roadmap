@@ -69,4 +69,4 @@ Command-line networking tools are guaranteed to appear in technical assessments.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Troubleshooting](./12-Troubleshooting.md) | [README](./README.md) | [14 - Hands On Terminal Practice](./14-Hands-On-Terminal-Practice.md) |
+| [← 12 - Troubleshooting](./12-Troubleshooting.md) | [Index](../../../README.md) | [14 - Hands On Terminal Practice →](./14-Hands-On-Terminal-Practice.md) |

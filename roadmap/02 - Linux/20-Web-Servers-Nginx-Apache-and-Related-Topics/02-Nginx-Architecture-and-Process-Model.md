@@ -46,4 +46,4 @@ Nginx uses a non-threaded, event-driven master-worker process architecture desig
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Web Server Fundamentals HTTP HTTPS DNS Ports](./01-Web-Server-Fundamentals-HTTP-HTTPS-DNS-Ports.md) | [README](./README.md) | [03 - Nginx Configuration Structure and Server Blocks](./03-Nginx-Configuration-Structure-and-Server-Blocks.md) |
+| [← 01 - Web Server Fundamentals HTTP HTTPS DNS Ports](./01-Web-Server-Fundamentals-HTTP-HTTPS-DNS-Ports.md) | [Index](../../../README.md) | [03 - Nginx Configuration Structure and Server Blocks →](./03-Nginx-Configuration-Structure-and-Server-Blocks.md) |

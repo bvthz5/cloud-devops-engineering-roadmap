@@ -19,4 +19,4 @@ Argo CD was configured with `selfHeal: true`. When the SRE modified live memory 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Drift Detection](./06-Drift-Detection-Self-Healing-and-Rollbacks.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Drift Detection Self Healing and Rollbacks](./06-Drift-Detection-Self-Healing-and-Rollbacks.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

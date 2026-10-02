@@ -22,4 +22,4 @@ The webhook handler treated every incoming POST request as a unique transaction 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Rate Limiting & Jitter](./06-Rate-Limiting-Exponential-Backoff-and-Jitter.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Rate Limiting Exponential Backoff and Jitter](./06-Rate-Limiting-Exponential-Backoff-and-Jitter.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

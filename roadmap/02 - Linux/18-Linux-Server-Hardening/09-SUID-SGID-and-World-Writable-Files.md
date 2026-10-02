@@ -35,4 +35,4 @@ sudo chmod o-w /path/to/file
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - File Permissions and Umask](./08-File-Permissions-and-Umask.md) | [README](./README.md) | [10 - Services and Port Hardening](./10-Services-and-Port-Hardening.md) |
+| [← 08 - File Permissions and Umask](./08-File-Permissions-and-Umask.md) | [Index](../../../README.md) | [10 - Services and Port Hardening →](./10-Services-and-Port-Hardening.md) |

@@ -20,4 +20,4 @@ When you use `ssh -A` or `ForwardAgent yes` to jump through a bastion host:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - SSH Tunneling](./05-SSH-Tunneling-and-Port-Forwarding.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - SSH Tunneling and Port Forwarding](./05-SSH-Tunneling-and-Port-Forwarding.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

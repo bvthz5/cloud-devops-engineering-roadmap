@@ -25,4 +25,4 @@ In Helm v2, an in-cluster pod named **Tiller** ran with `cluster-admin` privileg
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Chart Directory Structure](./02-Helm-Chart-Directory-Structure-and-Chart-yaml.md) |
+| [← Prev Module (12-RBAC-and-Cluster-Security)](../12-RBAC-and-Cluster-Security/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Helm Chart Directory Structure and Chart yaml →](./02-Helm-Chart-Directory-Structure-and-Chart-yaml.md) |

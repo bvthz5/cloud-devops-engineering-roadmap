@@ -35,4 +35,4 @@ This is essential for clustered databases (Kafka, Cassandra, MongoDB, Elasticsea
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Service Types](./02-Service-Types-ClusterIP-NodePort-and-LoadBalancer.md) | [README](./README.md) | [04 - CoreDNS Architecture](./04-CoreDNS-Architecture-and-Name-Resolution-Flow.md) |
+| [← 02 - Service Types ClusterIP NodePort and LoadBalancer](./02-Service-Types-ClusterIP-NodePort-and-LoadBalancer.md) | [Index](../../../README.md) | [04 - CoreDNS Architecture and Name Resolution Flow →](./04-CoreDNS-Architecture-and-Name-Resolution-Flow.md) |

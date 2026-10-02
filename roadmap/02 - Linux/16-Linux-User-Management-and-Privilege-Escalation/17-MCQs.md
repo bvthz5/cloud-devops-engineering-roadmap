@@ -276,4 +276,4 @@ This lists all commands the current user is allowed (or denied) to run via sudo 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - Hands On Terminal Practice](./16-Hands-On-Terminal-Practice.md) | [README](./README.md) | [18 - Quick Revision](./18-Quick-Revision.md) |
+| [← 16 - Hands On Terminal Practice](./16-Hands-On-Terminal-Practice.md) | [Index](../../../README.md) | [18 - Quick Revision →](./18-Quick-Revision.md) |

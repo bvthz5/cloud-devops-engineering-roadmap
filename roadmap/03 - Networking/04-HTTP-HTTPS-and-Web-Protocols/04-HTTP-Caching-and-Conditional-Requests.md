@@ -26,4 +26,4 @@ An **ETag** is a cryptographic hash of a resource representation:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - HTTPS & TLS Termination](./03-HTTPS-TLS-Termination-and-Certificates.md) | [README](./README.md) | [05 - WebSockets & gRPC](./05-WebSockets-SSE-and-gRPC-Protocols.md) |
+| [← 03 - HTTPS TLS Termination and Certificates](./03-HTTPS-TLS-Termination-and-Certificates.md) | [Index](../../../README.md) | [05 - WebSockets SSE and gRPC Protocols →](./05-WebSockets-SSE-and-gRPC-Protocols.md) |

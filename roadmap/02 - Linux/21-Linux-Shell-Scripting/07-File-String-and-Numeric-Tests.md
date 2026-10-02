@@ -15,8 +15,9 @@
 - `-n str`: Non-empty string.
 - `str1 == str2`: Equal strings.
 - `-eq`, `-ne`, `-gt`, `-ge`, `-lt`, `-le`: Integer comparisons.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Command Substitution & Arithmetic](./06-Command-Substitution-and-Arithmetic.md) | [README](./README.md) | [08 - Conditionals If/Else](./08-Conditionals-If-Else-and-Elif.md) |
+| [← 06 - Command Substitution and Arithmetic](./06-Command-Substitution-and-Arithmetic.md) | [Index](../../../README.md) | [08 - Conditionals If Else and Elif →](./08-Conditionals-If-Else-and-Elif.md) |

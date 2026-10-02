@@ -22,3 +22,9 @@ An SBOM is a formal, machine-readable inventory of all third-party libraries, mo
 - **Deployment**: The technical action of pushing code to production servers or Kubernetes Pods.
 - **Release**: The business action of making features accessible to end users.
 Feature flags wrap new code branches in conditional toggles. Developers can deploy code to production daily while keeping the feature flag turned OFF, enabling safe testing in production and instant instant feature rollouts without redeploying code.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

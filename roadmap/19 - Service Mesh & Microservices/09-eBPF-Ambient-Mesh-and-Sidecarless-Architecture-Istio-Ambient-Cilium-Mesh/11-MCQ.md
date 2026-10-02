@@ -5,3 +5,9 @@ Practice questions to test your knowledge on eBPF Ambient Mesh & Sidecarless Arc
 1. What is the primary role of the sidecar proxy in eBPF Ambient Mesh & Sidecarless Architecture: Istio Ambient & Cilium Mesh?
 2. Which CRD controls ingress traffic routing?
 3. How is certificate rotation handled in mTLS?
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

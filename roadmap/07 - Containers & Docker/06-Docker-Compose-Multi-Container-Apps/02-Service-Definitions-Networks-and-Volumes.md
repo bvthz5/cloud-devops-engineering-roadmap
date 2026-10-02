@@ -61,4 +61,4 @@ secrets:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Compose v2 Specification](./01-Docker-Compose-v2-Specification-and-Architecture.md) | [README](./README.md) | [03 - Dependency Management & Healthchecks](./03-Dependency-Management-and-Healthchecks.md) |
+| [← 01 - Docker Compose v2 Specification and Architecture](./01-Docker-Compose-v2-Specification-and-Architecture.md) | [Index](../../../README.md) | [03 - Dependency Management and Healthchecks →](./03-Dependency-Management-and-Healthchecks.md) |

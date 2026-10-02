@@ -42,4 +42,4 @@ git stash clear
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Cherry-Picking](./05-Cherry-Picking-and-Selective-Commit-Porting.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Cherry Picking and Selective Commit Porting](./05-Cherry-Picking-and-Selective-Commit-Porting.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

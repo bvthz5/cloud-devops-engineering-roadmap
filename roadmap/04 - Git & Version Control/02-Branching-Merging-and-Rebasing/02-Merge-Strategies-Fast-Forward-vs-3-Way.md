@@ -43,4 +43,4 @@ git merge --no-ff feature
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Branch Mechanics](./01-Git-Branch-Mechanics-Under-the-Hood.md) | [README](./README.md) | [03 - Rebase Mechanics](./03-Git-Rebase-Mechanics-and-The-Golden-Rule.md) |
+| [← 01 - Git Branch Mechanics Under the Hood](./01-Git-Branch-Mechanics-Under-the-Hood.md) | [Index](../../../README.md) | [03 - Git Rebase Mechanics and The Golden Rule →](./03-Git-Rebase-Mechanics-and-The-Golden-Rule.md) |

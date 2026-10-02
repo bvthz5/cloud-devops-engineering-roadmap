@@ -41,4 +41,4 @@ api.example.com {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Native HTTP/3, QUIC & 0-RTT](./03-Native-HTTP3-QUIC-and-0-RTT.md) | [README](./README.md) | [05 - Dynamic JSON API](./05-Dynamic-JSON-API-and-Zero-Downtime-Config.md) |
+| [← 03 - Native HTTP3 QUIC and 0 RTT](./03-Native-HTTP3-QUIC-and-0-RTT.md) | [Index](../../../README.md) | [05 - Dynamic JSON API and Zero Downtime Config →](./05-Dynamic-JSON-API-and-Zero-Downtime-Config.md) |

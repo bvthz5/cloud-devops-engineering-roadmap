@@ -9,4 +9,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Idempotency Audit](./05-Ansible-Idempotency-Audit-and-Compliance-Reporting.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Ansible Idempotency Audit and Compliance Reporting](./05-Ansible-Idempotency-Audit-and-Compliance-Reporting.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

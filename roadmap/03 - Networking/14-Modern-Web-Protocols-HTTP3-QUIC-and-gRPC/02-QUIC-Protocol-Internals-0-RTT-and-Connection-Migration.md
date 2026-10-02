@@ -32,4 +32,4 @@ When a user walks out of their house and transitions from **Home Wi-Fi** to **Ce
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - QUIC Transport](./01-Evolution-from-TCP-to-QUIC-UDP-Transport.md) | [README](./README.md) | [03 - HTTP/3 & QPACK](./03-HTTP3-Architecture-and-QPACK-Compression.md) |
+| [← 01 - Evolution from TCP to QUIC UDP Transport](./01-Evolution-from-TCP-to-QUIC-UDP-Transport.md) | [Index](../../../README.md) | [03 - HTTP3 Architecture and QPACK Compression →](./03-HTTP3-Architecture-and-QPACK-Compression.md) |

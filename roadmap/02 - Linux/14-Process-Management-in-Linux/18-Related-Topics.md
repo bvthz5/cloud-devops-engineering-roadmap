@@ -53,4 +53,4 @@ When you run `docker run --memory="256m" --cpus="0.5"`, Docker configures a cgro
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [17 - Quick Revision](./17-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |
+| [← 17 - Quick Revision](./17-Quick-Revision.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

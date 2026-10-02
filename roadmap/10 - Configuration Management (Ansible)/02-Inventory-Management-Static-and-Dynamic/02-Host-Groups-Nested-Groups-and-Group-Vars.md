@@ -22,4 +22,4 @@ us_west_web
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Static Inventories](./01-Static-Inventories-INI-vs-YAML-Formats.md) | [README](./README.md) | [03 - group_vars & host_vars](./03-Inventory-Variables-host_vars-and-group_vars.md) |
+| [← 01 - Static Inventories INI vs YAML Formats](./01-Static-Inventories-INI-vs-YAML-Formats.md) | [Index](../../../README.md) | [03 - Inventory Variables host_vars and group_vars →](./03-Inventory-Variables-host_vars-and-group_vars.md) |

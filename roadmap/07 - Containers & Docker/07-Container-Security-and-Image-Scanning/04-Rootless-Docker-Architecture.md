@@ -22,4 +22,4 @@ Even if an attacker breaches the container and escapes, they are only an unprivi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Seccomp & AppArmor Profiles](./03-Seccomp-and-AppArmor-LSM-Profiles.md) | [README](./README.md) | [05 - Static Image Vulnerability Scanning](./05-Static-Image-Vulnerability-Scanning.md) |
+| [← 03 - Seccomp and AppArmor LSM Profiles](./03-Seccomp-and-AppArmor-LSM-Profiles.md) | [Index](../../../README.md) | [05 - Static Image Vulnerability Scanning →](./05-Static-Image-Vulnerability-Scanning.md) |

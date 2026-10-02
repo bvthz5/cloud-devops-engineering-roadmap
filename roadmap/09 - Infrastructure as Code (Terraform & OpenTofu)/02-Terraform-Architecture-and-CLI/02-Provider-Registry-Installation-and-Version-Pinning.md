@@ -68,4 +68,4 @@ provider_installation {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Core Architecture](./01-Terraform-Core-Architecture-Providers-and-Plugin-Protocol.md) | [README](./README.md) | [03 - CLI Deep Dive](./03-Terraform-CLI-Deep-Dive-Init-Plan-Apply-Destroy.md) |
+| [← 01 - Terraform Core Architecture Providers and Plugin Protocol](./01-Terraform-Core-Architecture-Providers-and-Plugin-Protocol.md) | [Index](../../../README.md) | [03 - Terraform CLI Deep Dive Init Plan Apply Destroy →](./03-Terraform-CLI-Deep-Dive-Init-Plan-Apply-Destroy.md) |

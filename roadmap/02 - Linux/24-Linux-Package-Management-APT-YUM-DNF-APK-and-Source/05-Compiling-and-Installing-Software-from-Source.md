@@ -111,4 +111,4 @@ sudo apt remove custom-nginx
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - APK Package Manager Alpine Linux and Containers](./04-APK-Package-Manager-Alpine-Linux-and-Containers.md) | [README](./README.md) | [06 - Automated Security Updates and Patching](./06-Automated-Security-Updates-and-Patching.md) |
+| [← 04 - APK Package Manager Alpine Linux and Containers](./04-APK-Package-Manager-Alpine-Linux-and-Containers.md) | [Index](../../../README.md) | [06 - Automated Security Updates and Patching →](./06-Automated-Security-Updates-and-Patching.md) |

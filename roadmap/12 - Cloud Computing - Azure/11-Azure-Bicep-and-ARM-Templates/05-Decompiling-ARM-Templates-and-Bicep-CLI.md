@@ -12,4 +12,4 @@ az deployment group create --resource-group rg-demo --template-file main.bicep -
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Target Scopes](./04-Target-Scopes-ResourceGroup-Subscription-ManagementGroup.md) | [README](./README.md) | [06 - Private Registries](./06-Bicep-Private-Registries-and-Template-Specs.md) |
+| [← 04 - Target Scopes ResourceGroup Subscription ManagementGroup](./04-Target-Scopes-ResourceGroup-Subscription-ManagementGroup.md) | [Index](../../../README.md) | [06 - Bicep Private Registries and Template Specs →](./06-Bicep-Private-Registries-and-Template-Specs.md) |

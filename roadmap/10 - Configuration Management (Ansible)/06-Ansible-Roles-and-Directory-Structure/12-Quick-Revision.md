@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 07 - Ansible Vault](../07-Ansible-Vault-and-Secret-Management/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (07-Ansible-Vault-and-Secret-Management) →](../07-Ansible-Vault-and-Secret-Management/01-Ansible-Vault-Architecture-and-AES256-Encryption.md) |

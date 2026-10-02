@@ -11,4 +11,4 @@ Origins:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Health Checks & Failover](./03-Route53-Health-Checks-and-DNS-Failover.md) | [README](./README.md) | [05 - CloudFront Security & OAC](./05-CloudFront-Security-Signed-URLs-OAC-and-Lambda-Edge.md) |
+| [← 03 - Route53 Health Checks and DNS Failover](./03-Route53-Health-Checks-and-DNS-Failover.md) | [Index](../../../README.md) | [05 - CloudFront Security Signed URLs OAC and Lambda Edge →](./05-CloudFront-Security-Signed-URLs-OAC-and-Lambda-Edge.md) |

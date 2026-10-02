@@ -20,4 +20,4 @@ While legacy enterprises used OSPF internally and BGP at the border, modern hype
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - BGP Security](./05-BGP-Security-RPKI-Route-Hijacking-and-Flap-Damping.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - BGP Security RPKI Route Hijacking and Flap Damping](./05-BGP-Security-RPKI-Route-Hijacking-and-Flap-Damping.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

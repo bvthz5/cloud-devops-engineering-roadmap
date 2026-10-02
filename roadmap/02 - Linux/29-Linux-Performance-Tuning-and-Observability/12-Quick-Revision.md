@@ -28,4 +28,4 @@ sar -d -p                     # Historical disk utilization
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 30 - Linux Log Management](../30-Linux-Log-Management-Logrotate-and-Rsyslog/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (30-Linux-Log-Management-Logrotate-and-Rsyslog) →](../30-Linux-Log-Management-Logrotate-and-Rsyslog/01-Linux-Logging-Architecture-and-var-log.md) |

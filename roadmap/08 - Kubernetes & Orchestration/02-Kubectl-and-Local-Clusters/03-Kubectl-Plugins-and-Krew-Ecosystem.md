@@ -41,4 +41,4 @@ kubectl get pod my-pod -o yaml | kubectl neat > clean-pod.yaml
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Essential Kubectl Commands](./02-Essential-Kubectl-Commands-and-Output-Formatting.md) | [README](./README.md) | [04 - Kind & Minikube](./04-Local-Cluster-Setup-with-Kind-and-Minikube.md) |
+| [← 02 - Essential Kubectl Commands and Output Formatting](./02-Essential-Kubectl-Commands-and-Output-Formatting.md) | [Index](../../../README.md) | [04 - Local Cluster Setup with Kind and Minikube →](./04-Local-Cluster-Setup-with-Kind-and-Minikube.md) |

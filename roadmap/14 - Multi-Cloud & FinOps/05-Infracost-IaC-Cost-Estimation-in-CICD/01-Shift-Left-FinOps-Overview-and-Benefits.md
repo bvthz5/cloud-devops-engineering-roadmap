@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (04-Kubecost-and-OpenCost-Kubernetes-Cost-Optimization)](../04-Kubecost-and-OpenCost-Kubernetes-Cost-Optimization/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Infracost Architecture HCL Parsing and Cloud Pricing APIs →](./02-Infracost-Architecture-HCL-Parsing-and-Cloud-Pricing-APIs.md) |

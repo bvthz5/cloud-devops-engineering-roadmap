@@ -67,4 +67,4 @@ http {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Forward vs Reverse Proxy](./01-Forward-Proxy-vs-Reverse-Proxy-Architecture.md) | [README](./README.md) | [03 - Load Balancing Algorithms](./03-Load-Balancing-Algorithms.md) |
+| [← 01 - Forward Proxy vs Reverse Proxy Architecture](./01-Forward-Proxy-vs-Reverse-Proxy-Architecture.md) | [Index](../../../README.md) | [03 - Load Balancing Algorithms →](./03-Load-Balancing-Algorithms.md) |

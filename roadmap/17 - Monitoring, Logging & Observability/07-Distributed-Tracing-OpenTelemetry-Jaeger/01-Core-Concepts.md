@@ -5,3 +5,9 @@ Comprehensive exploration of core concepts for Distributed Tracing: OpenTelemetr
 - Key Definitions & Theoretical Foundations
 - Industry standard paradigms
 - Metric/Log/Trace correlation patterns
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (06-Lightweight-Logging-Promtail-and-Loki)](../06-Lightweight-Logging-Promtail-and-Loki/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Architecture and Design →](./02-Architecture-and-Design.md) |

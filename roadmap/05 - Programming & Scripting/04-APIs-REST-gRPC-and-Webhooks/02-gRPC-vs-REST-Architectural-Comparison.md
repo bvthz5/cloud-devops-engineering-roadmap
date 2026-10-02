@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - REST Architecture](./01-REST-API-Architecture-and-Idempotency.md) | [README](./README.md) | [03 - Webhooks](./03-Webhook-Architecture-and-Reliable-Delivery.md) |
+| [← 01 - REST API Architecture and Idempotency](./01-REST-API-Architecture-and-Idempotency.md) | [Index](../../../README.md) | [03 - Webhook Architecture and Reliable Delivery →](./03-Webhook-Architecture-and-Reliable-Delivery.md) |

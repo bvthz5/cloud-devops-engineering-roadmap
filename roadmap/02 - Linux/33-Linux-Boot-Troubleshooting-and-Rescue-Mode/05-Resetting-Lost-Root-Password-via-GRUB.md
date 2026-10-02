@@ -58,4 +58,4 @@ When root credentials are lost and sudo access is unavailable, you can reset the
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Emergency vs Rescue Mode](./04-Emergency-Mode-vs-Rescue-Mode.md) | [README](./README.md) | [06 - Recovering from fstab Errors](./06-Recovering-from-fstab-and-Kernel-Panic.md) |
+| [← 04 - Emergency Mode vs Rescue Mode](./04-Emergency-Mode-vs-Rescue-Mode.md) | [Index](../../../README.md) | [06 - Recovering from fstab and Kernel Panic →](./06-Recovering-from-fstab-and-Kernel-Panic.md) |

@@ -11,4 +11,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Regions & AZs](./02-AWS-Regions-and-Availability-Zones-Architecture.md) |
+| [← Prev Module (01-Cloud-Computing-Fundamentals-IaaS-PaaS-SaaS)](../01-Cloud-Computing-Fundamentals-IaaS-PaaS-SaaS/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - AWS Regions and Availability Zones Architecture →](./02-AWS-Regions-and-Availability-Zones-Architecture.md) |

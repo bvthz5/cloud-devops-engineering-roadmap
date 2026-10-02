@@ -49,4 +49,4 @@ location / {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Application Servers and Containers Tomcat HAProxy](./13-Application-Servers-and-Containers-Tomcat-HAProxy.md) | [README](./README.md) | [15 - Logging Formats Log Analysis Access and Error Logs](./15-Logging-Formats-Log-Analysis-Access-and-Error-Logs.md) |
+| [← 13 - Application Servers and Containers Tomcat HAProxy](./13-Application-Servers-and-Containers-Tomcat-HAProxy.md) | [Index](../../../README.md) | [15 - Logging Formats Log Analysis Access and Error Logs →](./15-Logging-Formats-Log-Analysis-Access-and-Error-Logs.md) |

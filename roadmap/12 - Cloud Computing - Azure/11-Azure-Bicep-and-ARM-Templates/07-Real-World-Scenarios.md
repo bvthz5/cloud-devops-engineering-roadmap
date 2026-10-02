@@ -6,4 +6,4 @@ Building an enterprise infrastructure library for deploying VNets, AKS clusters,
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Private Registries](./06-Bicep-Private-Registries-and-Template-Specs.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Bicep Private Registries and Template Specs](./06-Bicep-Private-Registries-and-Template-Specs.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

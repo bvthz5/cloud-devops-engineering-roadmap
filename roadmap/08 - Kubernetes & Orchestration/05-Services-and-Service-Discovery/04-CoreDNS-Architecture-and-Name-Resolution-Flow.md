@@ -28,4 +28,4 @@ Because `ndots:5` is default, if an application requests an external domain like
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Headless Services](./03-Headless-Services-and-Stateful-DNS-Discovery.md) | [README](./README.md) | [05 - Kube-Proxy Modes](./05-Kube-Proxy-Modes-iptables-vs-IPVS-vs-Kernel-Routing.md) |
+| [← 03 - Headless Services and Stateful DNS Discovery](./03-Headless-Services-and-Stateful-DNS-Discovery.md) | [Index](../../../README.md) | [05 - Kube Proxy Modes iptables vs IPVS vs Kernel Routing →](./05-Kube-Proxy-Modes-iptables-vs-IPVS-vs-Kernel-Routing.md) |

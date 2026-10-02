@@ -59,4 +59,4 @@ location / {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Load Balancing Algorithms](./03-Load-Balancing-Algorithms.md) | [README](./README.md) | [05 - Active vs Passive Health Checking](./05-Active-vs-Passive-Health-Checking.md) |
+| [← 03 - Load Balancing Algorithms](./03-Load-Balancing-Algorithms.md) | [Index](../../../README.md) | [05 - Active vs Passive Health Checking →](./05-Active-vs-Passive-Health-Checking.md) |

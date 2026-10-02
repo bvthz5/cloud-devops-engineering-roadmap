@@ -86,4 +86,4 @@ Additionally, you can drop scripts into `/etc/cron.daily/`, `/etc/cron.hourly/`,
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - systemd and Service Management](./10-systemd-and-Service-Management.md) | [README](./README.md) | [12 - Real World DevOps Scenarios](./12-Real-World-DevOps-Scenarios.md) |
+| [← 10 - systemd and Service Management](./10-systemd-and-Service-Management.md) | [Index](../../../README.md) | [12 - Real World DevOps Scenarios →](./12-Real-World-DevOps-Scenarios.md) |

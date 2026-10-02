@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - CORS & Security Headers](./06-CORS-and-Web-Security-Headers.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - CORS and Web Security Headers](./06-CORS-and-Web-Security-Headers.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

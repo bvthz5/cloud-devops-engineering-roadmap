@@ -94,4 +94,4 @@ systemctl status api-gateway.service
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - systemd Architecture](./01-systemd-Architecture-and-PID-1.md) | [README](./README.md) | [03 - Hardening & Sandboxing](./03-Hardening-and-Sandboxing-Services.md) |
+| [← 01 - systemd Architecture and PID 1](./01-systemd-Architecture-and-PID-1.md) | [Index](../../../README.md) | [03 - Hardening and Sandboxing Services →](./03-Hardening-and-Sandboxing-Services.md) |

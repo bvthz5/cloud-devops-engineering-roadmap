@@ -11,4 +11,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - AWS Security Services](./05-AWS-Security-Services-GuardDuty-SecurityHub-WAF-Shield.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - AWS Security Services GuardDuty SecurityHub WAF Shield](./05-AWS-Security-Services-GuardDuty-SecurityHub-WAF-Shield.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

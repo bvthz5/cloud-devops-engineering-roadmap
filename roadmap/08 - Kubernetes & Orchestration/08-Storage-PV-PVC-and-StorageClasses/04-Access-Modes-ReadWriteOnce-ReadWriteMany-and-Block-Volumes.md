@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - CSI Architecture](./03-Container-Storage-Interface-CSI-Architecture.md) | [README](./README.md) | [05 - Volume Expansion](./05-Volume-Expansion-and-Reclaim-Policies.md) |
+| [← 03 - Container Storage Interface CSI Architecture](./03-Container-Storage-Interface-CSI-Architecture.md) | [Index](../../../README.md) | [05 - Volume Expansion and Reclaim Policies →](./05-Volume-Expansion-and-Reclaim-Policies.md) |

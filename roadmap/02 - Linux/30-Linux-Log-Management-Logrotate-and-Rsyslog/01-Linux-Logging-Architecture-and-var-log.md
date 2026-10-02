@@ -38,4 +38,4 @@ Linux logging is traditionally governed by the **Syslog protocol** (RFC 5424). M
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - rsyslog Configuration](./02-rsyslog-Configuration-and-Remote-Forwarding.md) |
+| [← Prev Module (29-Linux-Performance-Tuning-and-Observability)](../29-Linux-Performance-Tuning-and-Observability/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - rsyslog Configuration and Remote Forwarding →](./02-rsyslog-Configuration-and-Remote-Forwarding.md) |

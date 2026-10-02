@@ -23,4 +23,4 @@ podman play kube pod.yaml
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Rootless Podman](./02-Rootless-Podman-and-User-Namespaces.md) | [README](./README.md) | [04 - Systemd & Podman Quadlets](./04-Systemd-Integration-and-Podman-Quadlets.md) |
+| [← 02 - Rootless Podman and User Namespaces](./02-Rootless-Podman-and-User-Namespaces.md) | [Index](../../../README.md) | [04 - Systemd Integration and Podman Quadlets →](./04-Systemd-Integration-and-Podman-Quadlets.md) |

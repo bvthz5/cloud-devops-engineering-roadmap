@@ -49,4 +49,4 @@ git update-ref refs/heads/main 1a2b3c4d...
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - 4 Core Objects](./02-The-Four-Core-Git-Objects-Blobs-Trees-Commits-Tags.md) | [README](./README.md) | [04 - Packfiles & GC](./04-Packfiles-Delta-Compression-and-Garbage-Collection.md) |
+| [← 02 - The Four Core Git Objects Blobs Trees Commits Tags](./02-The-Four-Core-Git-Objects-Blobs-Trees-Commits-Tags.md) | [Index](../../../README.md) | [04 - Packfiles Delta Compression and Garbage Collection →](./04-Packfiles-Delta-Compression-and-Garbage-Collection.md) |

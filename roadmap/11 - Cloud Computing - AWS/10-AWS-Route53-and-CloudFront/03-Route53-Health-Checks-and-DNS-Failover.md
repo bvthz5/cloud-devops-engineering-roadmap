@@ -6,4 +6,4 @@ Configuring health check monitors to trigger automated DNS failover from Primary
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Routing Policies](./02-Route53-Routing-Policies-Weighted-Latency-Failover-Geolocation.md) | [README](./README.md) | [04 - CloudFront CDN Architecture](./04-Amazon-CloudFront-CDN-Architecture-and-Origins.md) |
+| [← 02 - Route53 Routing Policies Weighted Latency Failover Geolocation](./02-Route53-Routing-Policies-Weighted-Latency-Failover-Geolocation.md) | [Index](../../../README.md) | [04 - Amazon CloudFront CDN Architecture and Origins →](./04-Amazon-CloudFront-CDN-Architecture-and-Origins.md) |

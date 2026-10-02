@@ -49,8 +49,9 @@ docker run -v ./data:/app/data nginx
 docker run -v /home/ubuntu/data:/app/data nginx
 docker run -v $(pwd)/data:/app/data nginx
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Practical Command Examples](./07-Practical-Command-Examples.md) | [README](./README.md) | [09 - Troubleshooting](./09-Troubleshooting.md) |
+| [← 07 - Practical Command Examples](./07-Practical-Command-Examples.md) | [Index](../../../README.md) | [09 - Troubleshooting →](./09-Troubleshooting.md) |

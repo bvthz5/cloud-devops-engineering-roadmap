@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Section 12 - Cloud Computing (Azure)](../../12%20-%20Cloud%20Computing%20-%20Azure/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (12 - Cloud Computing - Azure) →](../../12%20-%20Cloud%20Computing%20-%20Azure/01-Azure-Fundamentals-Management-Groups-and-Subscriptions/01-Azure-Resource-Hierarchy-Tenant-Management-Groups-Subscriptions-Resource-Groups.md) |

@@ -13,4 +13,4 @@ ssh_args = -o ControlMaster=auto -o ControlPersist=60s
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Parallelism & Forks](./02-Parallelism-Forks-Serial-and-Batch-Execution.md) | [README](./README.md) | [04 - Execution Strategies](./04-Execution-Strategies-linear-free-and-host_pinned.md) |
+| [← 02 - Parallelism Forks Serial and Batch Execution](./02-Parallelism-Forks-Serial-and-Batch-Execution.md) | [Index](../../../README.md) | [04 - Execution Strategies linear free and host_pinned →](./04-Execution-Strategies-linear-free-and-host_pinned.md) |

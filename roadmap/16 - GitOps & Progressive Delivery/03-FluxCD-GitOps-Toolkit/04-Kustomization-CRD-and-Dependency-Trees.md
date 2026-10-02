@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - GitRepository OCIRepository and HelmRepository Sources](./03-GitRepository-OCIRepository-and-HelmRepository-Sources.md) | [Index](../../../README.md) | [05 - HelmRelease Management and Automated Upgrades →](./05-HelmRelease-Management-and-Automated-Upgrades.md) |

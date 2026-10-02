@@ -26,4 +26,4 @@ Geneve is the modern successor to VXLAN and NVGRE, adopted by **Open Virtual Net
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Overlay Principles](./01-Overlay-Networking-Principles-and-Encapsulation.md) | [README](./README.md) | [03 - CNI Architecture](./03-Container-Network-Interface-CNI-Architecture.md) |
+| [← 01 - Overlay Networking Principles and Encapsulation](./01-Overlay-Networking-Principles-and-Encapsulation.md) | [Index](../../../README.md) | [03 - Container Network Interface CNI Architecture →](./03-Container-Network-Interface-CNI-Architecture.md) |

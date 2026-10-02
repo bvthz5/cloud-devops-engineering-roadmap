@@ -181,8 +181,9 @@ Combined as `:wq`, it saves and exits. Alternatively, `ZZ` or `:x` performs the 
 **Explanation:**
 `find /var/log -mtime -1` searches for files whose modification time is less than 1 day (24 hours) ago.
 </details>
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [20 - Hands On Practice](./20-Hands-On-Practice.md) | [README](./README.md) | [22 - Quick Revision](./22-Quick-Revision.md) |
+| [← 20 - Hands On Practice](./20-Hands-On-Practice.md) | [Index](../../../README.md) | [22 - Quick Revision →](./22-Quick-Revision.md) |

@@ -24,4 +24,4 @@ file textfile.txt               # Detect file encoding
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Submodule: 06 - Compilers & Runtimes](../06-Compilers-Linkers-and-Runtimes/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (06-Compilers-Linkers-and-Runtimes) →](../06-Compilers-Linkers-and-Runtimes/01-The-Build-Pipeline-Source-to-Machine-Code.md) |

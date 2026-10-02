@@ -19,4 +19,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Taints & Tolerations](./04-Taints-and-Tolerations-Node-Cordon-and-Drain-Mechanics.md) | [README](./README.md) | [06 - PriorityClasses & Descheduler](./06-PriorityClasses-Preemption-and-the-Kubernetes-Descheduler.md) |
+| [← 04 - Taints and Tolerations Node Cordon and Drain Mechanics](./04-Taints-and-Tolerations-Node-Cordon-and-Drain-Mechanics.md) | [Index](../../../README.md) | [06 - PriorityClasses Preemption and the Kubernetes Descheduler →](./06-PriorityClasses-Preemption-and-the-Kubernetes-Descheduler.md) |

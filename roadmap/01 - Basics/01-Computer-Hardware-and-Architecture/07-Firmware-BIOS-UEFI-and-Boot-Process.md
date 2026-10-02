@@ -72,4 +72,4 @@ Understanding the physical boot sequence is vital for bare-metal cloud provision
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Motherboard Buses and Peripherals](./06-Motherboard-Buses-and-Peripherals.md) | [README](./README.md) | [08 - Virtualization Hypervisors and Containers](./08-Virtualization-Hypervisors-and-Containers.md) |
+| [← 06 - Motherboard Buses and Peripherals](./06-Motherboard-Buses-and-Peripherals.md) | [Index](../../../README.md) | [08 - Virtualization Hypervisors and Containers →](./08-Virtualization-Hypervisors-and-Containers.md) |

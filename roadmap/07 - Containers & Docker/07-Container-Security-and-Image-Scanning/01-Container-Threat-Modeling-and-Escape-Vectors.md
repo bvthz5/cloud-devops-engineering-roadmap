@@ -22,4 +22,4 @@ Containers do not virtualize the kernel; all containers share the single underly
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Linux Capabilities & Least Privilege](./02-Linux-Capabilities-and-Least-Privilege.md) |
+| [← Prev Module (06-Docker-Compose-Multi-Container-Apps)](../06-Docker-Compose-Multi-Container-Apps/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Linux Capabilities and Least Privilege →](./02-Linux-Capabilities-and-Least-Privilege.md) |

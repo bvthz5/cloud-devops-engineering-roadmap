@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - YAML Pipelines](./03-Azure-Pipelines-YAML-Pipeline-Architecture-and-Syntax.md) | [README](./README.md) | [05 - Service Connections](./05-Service-Connections-Variables-and-Environments.md) |
+| [← 03 - Azure Pipelines YAML Pipeline Architecture and Syntax](./03-Azure-Pipelines-YAML-Pipeline-Architecture-and-Syntax.md) | [Index](../../../README.md) | [05 - Service Connections Variables and Environments →](./05-Service-Connections-Variables-and-Environments.md) |

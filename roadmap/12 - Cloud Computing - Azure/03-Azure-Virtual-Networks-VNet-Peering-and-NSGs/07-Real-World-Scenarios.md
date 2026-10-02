@@ -6,4 +6,4 @@ Designing an enterprise Hub-and-Spoke architecture with central Azure Firewall i
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Hybrid Networking](./06-Hybrid-Connectivity-Azure-VPN-Gateway-and-ExpressRoute.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Hybrid Connectivity Azure VPN Gateway and ExpressRoute](./06-Hybrid-Connectivity-Azure-VPN-Gateway-and-ExpressRoute.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

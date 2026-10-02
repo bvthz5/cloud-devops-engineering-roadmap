@@ -42,4 +42,4 @@ sudo certbot revoke --cert-path /etc/letsencrypt/live/example.com/cert.pem
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [18 - Lab 03: Wildcard DNS-01](./18-Hands-On-Lab-03-Wildcard-DNS01-Challenge.md) | [README](./README.md) | [20 - Scenario Troubleshooting Drills](./20-Scenario-Based-Troubleshooting-Drills.md) |
+| [← 18 - Hands On Lab 03 Wildcard DNS01 Challenge](./18-Hands-On-Lab-03-Wildcard-DNS01-Challenge.md) | [Index](../../../README.md) | [20 - Scenario Based Troubleshooting Drills →](./20-Scenario-Based-Troubleshooting-Drills.md) |

@@ -36,4 +36,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Rolling Update Strategy](./02-Rolling-Update-Strategy-MaxSurge-and-MaxUnavailable.md) | [README](./README.md) | [04 - Blue-Green & Canary](./04-Blue-Green-and-Canary-Deployments-Native-Patterns.md) |
+| [← 02 - Rolling Update Strategy MaxSurge and MaxUnavailable](./02-Rolling-Update-Strategy-MaxSurge-and-MaxUnavailable.md) | [Index](../../../README.md) | [04 - Blue Green and Canary Deployments Native Patterns →](./04-Blue-Green-and-Canary-Deployments-Native-Patterns.md) |

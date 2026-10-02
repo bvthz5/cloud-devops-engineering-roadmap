@@ -80,4 +80,4 @@ This ensures that if one application is compromised (e.g., a vulnerability in Ng
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Password Management and Aging](./09-Password-Management-and-Aging.md) | [README](./README.md) | [11 - Privilege Escalation Concepts](./11-Privilege-Escalation-Concepts.md) |
+| [← 09 - Password Management and Aging](./09-Password-Management-and-Aging.md) | [Index](../../../README.md) | [11 - Privilege Escalation Concepts →](./11-Privilege-Escalation-Concepts.md) |

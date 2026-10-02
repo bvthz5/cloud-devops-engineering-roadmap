@@ -36,4 +36,4 @@ The **ACME (Automated Certificate Management Environment)** protocol automates t
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - SSL/TLS Fundamentals](./01-SSL-TLS-and-HTTPS-Fundamentals.md) | [README](./README.md) | [03 - Prerequisites & DNS Records](./03-Prerequisites-DNS-Records-and-Network-Ports.md) |
+| [← 01 - SSL TLS and HTTPS Fundamentals](./01-SSL-TLS-and-HTTPS-Fundamentals.md) | [Index](../../../README.md) | [03 - Prerequisites DNS Records and Network Ports →](./03-Prerequisites-DNS-Records-and-Network-Ports.md) |

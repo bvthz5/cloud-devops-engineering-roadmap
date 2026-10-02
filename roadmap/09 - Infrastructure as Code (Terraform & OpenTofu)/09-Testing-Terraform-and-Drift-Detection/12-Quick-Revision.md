@@ -24,4 +24,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 10 - IaC Security](../10-Terraform-Best-Practices-and-Security/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (10-Terraform-Best-Practices-and-Security) →](../10-Terraform-Best-Practices-and-Security/01-IaC-Security-Threat-Model-and-Attack-Surface.md) |

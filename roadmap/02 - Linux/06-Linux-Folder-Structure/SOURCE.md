@@ -64,3 +64,9 @@ To transform standard directory definitions into a production-grade DevOps study
 | Back to Index |
 | :---: |
 | [README](./README.md) |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 20 - Related Topics](./20-Related-Topics.md) | [Index](../../../README.md) | [Next Module (07-Core-Components-of-a-Linux-Machine) →](../07-Core-Components-of-a-Linux-Machine/01-Layered-Architecture-Overview.md) |

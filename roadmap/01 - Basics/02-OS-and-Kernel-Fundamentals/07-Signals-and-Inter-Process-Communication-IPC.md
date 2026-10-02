@@ -122,4 +122,4 @@ Processes possess isolated address spaces. When two processes need to exchange d
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Filesystem Architecture Inodes and File Descriptors](./06-Filesystem-Architecture-Inodes-and-File-Descriptors.md) | [README](./README.md) | [08 - Environment Variables Daemons and Device Drivers](./08-Environment-Variables-Daemons-and-Device-Drivers.md) |
+| [← 06 - Filesystem Architecture Inodes and File Descriptors](./06-Filesystem-Architecture-Inodes-and-File-Descriptors.md) | [Index](../../../README.md) | [08 - Environment Variables Daemons and Device Drivers →](./08-Environment-Variables-Daemons-and-Device-Drivers.md) |

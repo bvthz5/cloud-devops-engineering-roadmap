@@ -46,4 +46,4 @@ rm prod.tfvars   # Remove decrypted file
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Checkov](./03-Checkov-Policy-as-Code-Scanner.md) | [README](./README.md) | [05 - Least Privilege IAM](./05-Least-Privilege-IAM-for-Terraform.md) |
+| [← 03 - Checkov Policy as Code Scanner](./03-Checkov-Policy-as-Code-Scanner.md) | [Index](../../../README.md) | [05 - Least Privilege IAM for Terraform →](./05-Least-Privilege-IAM-for-Terraform.md) |

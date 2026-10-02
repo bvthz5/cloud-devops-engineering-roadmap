@@ -18,4 +18,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [10 - Troubleshooting Tools](../10-Network-Troubleshooting-Tools/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (10-Network-Troubleshooting-Tools) →](../10-Network-Troubleshooting-Tools/01-Packet-Capture-tcpdump-and-Wireshark.md) |

@@ -33,4 +33,4 @@ sudo xfs_growfs /mountpoint            # Expand XFS online
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [21 - Related DevOps Storage Topics](./21-Related-DevOps-Storage-Topics.md) | [README](./README.md) | [23 - External References and Documentation](./23-External-References-and-Documentation.md) |
+| [← 21 - Related DevOps Storage Topics](./21-Related-DevOps-Storage-Topics.md) | [Index](../../../README.md) | [23 - External References and Documentation →](./23-External-References-and-Documentation.md) |

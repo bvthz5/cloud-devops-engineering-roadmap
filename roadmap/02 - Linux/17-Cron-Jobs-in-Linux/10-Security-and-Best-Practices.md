@@ -103,4 +103,4 @@ If job B depends on job A finishing, two independent cron entries may not provid
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - System Wide Cron](./09-System-Wide-Cron.md) | [README](./README.md) | [11 - Cron vs Alternatives](./11-Cron-vs-Alternatives.md) |
+| [← 09 - System Wide Cron](./09-System-Wide-Cron.md) | [Index](../../../README.md) | [11 - Cron vs Alternatives →](./11-Cron-vs-Alternatives.md) |

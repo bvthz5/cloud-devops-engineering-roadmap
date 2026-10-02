@@ -78,4 +78,4 @@ CMD ["python", "app.py"]
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Automated Security Updates and Patching](./06-Automated-Security-Updates-and-Patching.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Automated Security Updates and Patching](./06-Automated-Security-Updates-and-Patching.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

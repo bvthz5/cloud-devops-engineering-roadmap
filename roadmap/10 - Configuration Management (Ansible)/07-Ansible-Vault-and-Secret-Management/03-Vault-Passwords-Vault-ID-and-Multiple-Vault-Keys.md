@@ -9,4 +9,4 @@ ansible-playbook -i hosts site.yml --vault-id dev@.vault_dev --vault-id prod@.va
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Vault CLI Operations](./02-Ansible-Vault-CLI-encrypt-decrypt-edit-view-rekey.md) | [README](./README.md) | [04 - Inline Encrypted Variables](./04-Encrypting-Individual-Variables-vs-Whole-Files.md) |
+| [← 02 - Ansible Vault CLI encrypt decrypt edit view rekey](./02-Ansible-Vault-CLI-encrypt-decrypt-edit-view-rekey.md) | [Index](../../../README.md) | [04 - Encrypting Individual Variables vs Whole Files →](./04-Encrypting-Individual-Variables-vs-Whole-Files.md) |

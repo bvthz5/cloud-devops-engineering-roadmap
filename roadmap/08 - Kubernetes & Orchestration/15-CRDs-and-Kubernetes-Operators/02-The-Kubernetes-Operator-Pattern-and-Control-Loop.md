@@ -25,4 +25,4 @@ An **Operator** is a custom controller that watches that CRD and takes real acti
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - CRD Architecture](./01-CustomResourceDefinitions-CRDs-and-OpenAPI-v3-Validation.md) | [README](./README.md) | [03 - Kubebuilder Framework](./03-Building-Operators-with-Kubebuilder-and-Controller-Runtime.md) |
+| [← 01 - CustomResourceDefinitions CRDs and OpenAPI v3 Validation](./01-CustomResourceDefinitions-CRDs-and-OpenAPI-v3-Validation.md) | [Index](../../../README.md) | [03 - Building Operators with Kubebuilder and Controller Runtime →](./03-Building-Operators-with-Kubebuilder-and-Controller-Runtime.md) |

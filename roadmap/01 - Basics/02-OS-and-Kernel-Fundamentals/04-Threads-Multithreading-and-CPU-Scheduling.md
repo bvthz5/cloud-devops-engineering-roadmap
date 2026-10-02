@@ -172,4 +172,4 @@ sudo taskset -cp 2 3120
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Process Lifecycle fork exec States and Zombies](./03-Process-Lifecycle-fork-exec-States-and-Zombies.md) | [README](./README.md) | [05 - OS Memory Management Paging Swap and mmap](./05-OS-Memory-Management-Paging-Swap-and-mmap.md) |
+| [← 03 - Process Lifecycle fork exec States and Zombies](./03-Process-Lifecycle-fork-exec-States-and-Zombies.md) | [Index](../../../README.md) | [05 - OS Memory Management Paging Swap and mmap →](./05-OS-Memory-Management-Paging-Swap-and-mmap.md) |

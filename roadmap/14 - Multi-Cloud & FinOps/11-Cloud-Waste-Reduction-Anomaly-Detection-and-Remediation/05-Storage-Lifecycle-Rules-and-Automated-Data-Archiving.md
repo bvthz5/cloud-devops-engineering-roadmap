@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Automated Remediation with Cloud Custodian and Serverless](./04-Automated-Remediation-with-Cloud-Custodian-and-Serverless.md) | [Index](../../../README.md) | [06 - FinOps KPIs Waste Reduction Scorecards and Engineering Gamification →](./06-FinOps-KPIs-Waste-Reduction-Scorecards-and-Engineering-Gamification.md) |

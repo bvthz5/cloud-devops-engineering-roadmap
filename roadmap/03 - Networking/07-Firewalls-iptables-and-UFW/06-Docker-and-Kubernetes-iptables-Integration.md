@@ -46,4 +46,4 @@ At 5,000+ Services and 100,000+ Pods, iptables degrades severely because rule tr
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Host Firewalls](./05-Host-Firewalls-UFW-and-firewalld-Management.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Host Firewalls UFW and firewalld Management](./05-Host-Firewalls-UFW-and-firewalld-Management.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

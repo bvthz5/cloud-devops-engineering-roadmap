@@ -29,4 +29,4 @@ Containers use **`pivot_root`** within an isolated Mount Namespace (`CLONE_NEWNS
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Control Groups cgroups v1 vs v2](./02-Control-Groups-cgroups-v1-vs-cgroups-v2.md) | [README](./README.md) | [04 - Union Filesystems & OverlayFS](./04-Union-Filesystems-and-OverlayFS-Internals.md) |
+| [← 02 - Control Groups cgroups v1 vs cgroups v2](./02-Control-Groups-cgroups-v1-vs-cgroups-v2.md) | [Index](../../../README.md) | [04 - Union Filesystems and OverlayFS Internals →](./04-Union-Filesystems-and-OverlayFS-Internals.md) |

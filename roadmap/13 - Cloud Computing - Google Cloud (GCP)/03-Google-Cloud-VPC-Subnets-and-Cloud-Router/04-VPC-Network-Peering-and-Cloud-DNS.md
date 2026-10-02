@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Shared VPC Host and Service Project Architecture](./03-Shared-VPC-Host-and-Service-Project-Architecture.md) | [Index](../../../README.md) | [05 - Cloud NAT Cloud Router and BGP Routing →](./05-Cloud-NAT-Cloud-Router-and-BGP-Routing.md) |

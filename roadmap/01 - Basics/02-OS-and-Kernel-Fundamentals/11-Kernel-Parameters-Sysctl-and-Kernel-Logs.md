@@ -148,4 +148,4 @@ Kernel log entries use syslog priority levels (from `0` emergency to `7` debug):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Init Systems systemd and Boot Sequence](./10-Init-Systems-systemd-and-Boot-Sequence.md) | [README](./README.md) | [12 - Modern Kernel Tech cgroups v2 eBPF and seccomp](./12-Modern-Kernel-Tech-cgroups-v2-eBPF-and-seccomp.md) |
+| [← 10 - Init Systems systemd and Boot Sequence](./10-Init-Systems-systemd-and-Boot-Sequence.md) | [Index](../../../README.md) | [12 - Modern Kernel Tech cgroups v2 eBPF and seccomp →](./12-Modern-Kernel-Tech-cgroups-v2-eBPF-and-seccomp.md) |

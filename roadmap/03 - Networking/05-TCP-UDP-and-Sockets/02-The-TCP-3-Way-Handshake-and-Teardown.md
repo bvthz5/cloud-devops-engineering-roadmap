@@ -40,4 +40,4 @@ Endpoint A (Active Close)                               Endpoint B (Passive Clos
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - TCP Architecture](./01-TCP-Architecture-and-Reliability-Guarantees.md) | [README](./README.md) | [03 - TCP States & Queues](./03-TCP-Connection-States-and-Socket-Queues.md) |
+| [← 01 - TCP Architecture and Reliability Guarantees](./01-TCP-Architecture-and-Reliability-Guarantees.md) | [Index](../../../README.md) | [03 - TCP Connection States and Socket Queues →](./03-TCP-Connection-States-and-Socket-Queues.md) |

@@ -13,4 +13,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [09 - Monorepos & Large Git](../09-Monorepos-Submodules-and-Large-Scale-Git/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (09-Monorepos-Submodules-and-Large-Scale-Git) →](../09-Monorepos-Submodules-and-Large-Scale-Git/01-Monorepo-vs-Polyrepo-Architectural-Trade-Offs.md) |

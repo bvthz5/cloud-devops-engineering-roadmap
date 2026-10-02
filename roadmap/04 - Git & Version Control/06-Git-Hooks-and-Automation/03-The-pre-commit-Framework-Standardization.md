@@ -45,4 +45,4 @@ pre-commit run --all-files
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Client-Side Hooks](./02-Client-Side-Hooks-pre-commit-commit-msg-pre-push.md) | [README](./README.md) | [04 - Secret Scanning](./04-Secret-Scanning-and-Credential-Leak-Prevention.md) |
+| [← 02 - Client Side Hooks pre commit commit msg pre push](./02-Client-Side-Hooks-pre-commit-commit-msg-pre-push.md) | [Index](../../../README.md) | [04 - Secret Scanning and Credential Leak Prevention →](./04-Secret-Scanning-and-Credential-Leak-Prevention.md) |

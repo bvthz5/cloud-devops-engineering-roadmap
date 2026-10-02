@@ -9,4 +9,4 @@ Managing static `authorized_keys` files across 1,000 servers is unmanageable. Mo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - SSH Tunneling](./05-SSH-Tunneling-and-Port-Forwarding-Mastery.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - SSH Tunneling and Port Forwarding Mastery](./05-SSH-Tunneling-and-Port-Forwarding-Mastery.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

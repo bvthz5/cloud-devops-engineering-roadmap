@@ -83,4 +83,4 @@ The supplied source recommends redirecting output to a log file and explains `>`
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Special Shortcuts](./05-Special-Shortcuts.md) | [README](./README.md) | [07 - Environment and Paths](./07-Environment-and-Paths.md) |
+| [← 05 - Special Shortcuts](./05-Special-Shortcuts.md) | [Index](../../../README.md) | [07 - Environment and Paths →](./07-Environment-and-Paths.md) |

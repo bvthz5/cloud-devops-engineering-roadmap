@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Firestore NoSQL Document Database Architecture](./04-Firestore-NoSQL-Document-Database-Architecture.md) | [Index](../../../README.md) | [06 - Memorystore Managed Redis and Memcached Caching →](./06-Memorystore-Managed-Redis-and-Memcached-Caching.md) |

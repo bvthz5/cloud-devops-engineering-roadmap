@@ -9,4 +9,4 @@ ansible-playbook -i inventory/static_hosts.ini -i inventory/aws_ec2.yml site.yml
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - AWS EC2 Dynamic Inventory](./05-AWS-EC2-Dynamic-Inventory-Configuration.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - AWS EC2 Dynamic Inventory Configuration](./05-AWS-EC2-Dynamic-Inventory-Configuration.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -28,4 +28,4 @@ The engineer adds a logrotate config, but running logrotate fails because gzip r
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Security Auditing with auditd](./06-Auditing-Linux-with-auditd.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Auditing Linux with auditd](./06-Auditing-Linux-with-auditd.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

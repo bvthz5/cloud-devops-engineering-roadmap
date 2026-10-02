@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Image Update Automation in GitOps Overview](./01-Image-Update-Automation-in-GitOps-Overview.md) | [Index](../../../README.md) | [03 - Argo Image Updater Automated Commit Workflows →](./03-Argo-Image-Updater-Automated-Commit-Workflows.md) |

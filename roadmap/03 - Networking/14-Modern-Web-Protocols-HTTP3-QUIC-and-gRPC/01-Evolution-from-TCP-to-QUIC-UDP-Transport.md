@@ -34,4 +34,4 @@ HTTP/2 introduced application-level multiplexing (sending 100 requests over 1 si
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - QUIC Internals](./02-QUIC-Protocol-Internals-0-RTT-and-Connection-Migration.md) |
+| [← Prev Module (13-CDN-Edge-Networks-and-Anycast-Routing)](../13-CDN-Edge-Networks-and-Anycast-Routing/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - QUIC Protocol Internals 0 RTT and Connection Migration →](./02-QUIC-Protocol-Internals-0-RTT-and-Connection-Migration.md) |

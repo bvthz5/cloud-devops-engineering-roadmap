@@ -5,3 +5,9 @@ Advanced operational patterns and optimizations for Error Budgets & Burn Rate Al
 - Dynamic error budget burn policies
 - Automated incident escalation & ChatOps integration
 - Self-healing & automated remediation pipelines
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Configuration and Rules](./04-Configuration-and-Rules.md) | [Index](../../../README.md) | [06 - Security and Compliance →](./06-Security-and-Compliance.md) |

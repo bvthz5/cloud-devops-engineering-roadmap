@@ -9,4 +9,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Managed Disks](./02-Azure-Managed-Disks-Ultra-Premium-Standard-SSD.md) |
+| [← Prev Module (03-Azure-Virtual-Networks-VNet-Peering-and-NSGs)](../03-Azure-Virtual-Networks-VNet-Peering-and-NSGs/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Azure Managed Disks Ultra Premium Standard SSD →](./02-Azure-Managed-Disks-Ultra-Premium-Standard-SSD.md) |

@@ -40,4 +40,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 04 - State Management](../04-Terraform-State-Management-and-Remote-Backend/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (04-Terraform-State-Management-and-Remote-Backend) →](../04-Terraform-State-Management-and-Remote-Backend/01-Terraform-State-Purpose-Structure-and-Internals.md) |

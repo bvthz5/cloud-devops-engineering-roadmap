@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Overlay Networks and Multi Cloud Service Mesh Istio Cilium](./04-Overlay-Networks-and-Multi-Cloud-Service-Mesh-Istio-Cilium.md) | [Index](../../../README.md) | [06 - Managing and Optimizing Cross Cloud Egress Costs →](./06-Managing-and-Optimizing-Cross-Cloud-Egress-Costs.md) |

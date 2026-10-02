@@ -40,4 +40,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Ingress-Nginx Architecture](./02-Ingress-Nginx-Architecture-and-Controller-Mechanics.md) | [README](./README.md) | [04 - Canary Annotations](./04-Traffic-Splitting-and-Canary-Ingress-Annotations.md) |
+| [← 02 - Ingress Nginx Architecture and Controller Mechanics](./02-Ingress-Nginx-Architecture-and-Controller-Mechanics.md) | [Index](../../../README.md) | [04 - Traffic Splitting and Canary Ingress Annotations →](./04-Traffic-Splitting-and-Canary-Ingress-Annotations.md) |

@@ -18,4 +18,4 @@ rsync -avzPn --delete /src/ /dest/     # Dry-run preview
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 32 - SSH Architecture](../32-SSH-Architecture-Key-Management-and-Tunneling/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (32-SSH-Architecture-Key-Management-and-Tunneling) →](../32-SSH-Architecture-Key-Management-and-Tunneling/01-SSH-Protocol-Architecture-and-Cryptography.md) |

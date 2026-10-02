@@ -65,4 +65,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Service Abstraction](./01-Kubernetes-Service-Abstraction-and-Virtual-IPs.md) | [README](./README.md) | [03 - Headless Services](./03-Headless-Services-and-Stateful-DNS-Discovery.md) |
+| [← 01 - Kubernetes Service Abstraction and Virtual IPs](./01-Kubernetes-Service-Abstraction-and-Virtual-IPs.md) | [Index](../../../README.md) | [03 - Headless Services and Stateful DNS Discovery →](./03-Headless-Services-and-Stateful-DNS-Discovery.md) |

@@ -33,4 +33,4 @@ docker run -d \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Private Registry](./04-Private-Registry-and-Run-Tasks.md) | [README](./README.md) | [06 - Cost Estimation](./06-Cost-Estimation-and-Audit-Logging.md) |
+| [← 04 - Private Registry and Run Tasks](./04-Private-Registry-and-Run-Tasks.md) | [Index](../../../README.md) | [06 - Cost Estimation and Audit Logging →](./06-Cost-Estimation-and-Audit-Logging.md) |

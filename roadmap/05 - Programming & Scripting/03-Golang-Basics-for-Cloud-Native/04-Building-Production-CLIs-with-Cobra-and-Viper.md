@@ -45,4 +45,4 @@ func main() {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Concurrency](./03-Concurrency-Goroutines-Channels-and-WaitGroups.md) | [README](./README.md) | [05 - HTTP & Context](./05-HTTP-Services-and-Context-Cancellation.md) |
+| [← 03 - Concurrency Goroutines Channels and WaitGroups](./03-Concurrency-Goroutines-Channels-and-WaitGroups.md) | [Index](../../../README.md) | [05 - HTTP Services and Context Cancellation →](./05-HTTP-Services-and-Context-Cancellation.md) |

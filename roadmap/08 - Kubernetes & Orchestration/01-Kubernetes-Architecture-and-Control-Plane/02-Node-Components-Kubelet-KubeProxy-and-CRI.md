@@ -76,4 +76,4 @@ kubeReserved:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Control Plane Components](./01-Control-Plane-Components-API-etcd-Scheduler-ControllerManager.md) | [README](./README.md) | [03 - Etcd Distributed Storage](./03-Etcd-Distributed-Storage-Quorum-and-Raft.md) |
+| [← 01 - Control Plane Components API etcd Scheduler ControllerManager](./01-Control-Plane-Components-API-etcd-Scheduler-ControllerManager.md) | [Index](../../../README.md) | [03 - Etcd Distributed Storage Quorum and Raft →](./03-Etcd-Distributed-Storage-Quorum-and-Raft.md) |

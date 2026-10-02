@@ -53,4 +53,4 @@ curl -C - -O https://example.com/huge_file.iso
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - File Downloads and Filenames](./03-File-Downloads-and-Filenames.md) | [README](./README.md) | [05 - curl REST API Requests](./05-curl-REST-API-Requests.md) |
+| [← 03 - File Downloads and Filenames](./03-File-Downloads-and-Filenames.md) | [Index](../../../README.md) | [05 - curl REST API Requests →](./05-curl-REST-API-Requests.md) |

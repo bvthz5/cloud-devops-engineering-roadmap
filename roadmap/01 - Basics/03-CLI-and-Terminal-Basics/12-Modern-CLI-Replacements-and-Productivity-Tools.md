@@ -136,4 +136,4 @@ yq -o=json deployment.yaml
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Shell Scripting Foundations and Defensive Bash](./11-Shell-Scripting-Foundations-and-Defensive-Bash.md) | [README](./README.md) | [13 - Real World Scenarios](./13-Real-World-Scenarios.md) |
+| [← 11 - Shell Scripting Foundations and Defensive Bash](./11-Shell-Scripting-Foundations-and-Defensive-Bash.md) | [Index](../../../README.md) | [13 - Real World Scenarios →](./13-Real-World-Scenarios.md) |

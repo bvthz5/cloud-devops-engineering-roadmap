@@ -67,4 +67,4 @@ When a user attempts SSH login via password:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Troubleshooting](./10-Troubleshooting.md) | [README](./README.md) | [12 - Hands On Lab](./12-Hands-On-Lab.md) |
+| [← 10 - Troubleshooting](./10-Troubleshooting.md) | [Index](../../../README.md) | [12 - Hands On Lab →](./12-Hands-On-Lab.md) |

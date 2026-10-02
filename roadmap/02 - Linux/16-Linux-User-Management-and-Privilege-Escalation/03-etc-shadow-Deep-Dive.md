@@ -85,4 +85,4 @@ Number of days of warning before password expires       : 7
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - etc passwd Deep Dive](./02-etc-passwd-Deep-Dive.md) | [README](./README.md) | [04 - Creating Managing Users](./04-Creating-Managing-Users.md) |
+| [← 02 - etc passwd Deep Dive](./02-etc-passwd-Deep-Dive.md) | [Index](../../../README.md) | [04 - Creating Managing Users →](./04-Creating-Managing-Users.md) |

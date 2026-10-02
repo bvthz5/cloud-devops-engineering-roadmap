@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Agent Pools](./04-Agent-Pools-Microsoft-Hosted-vs-Self-Hosted-Agents.md) | [README](./README.md) | [06 - Azure Artifacts](./06-Azure-Artifacts-and-Package-Management.md) |
+| [← 04 - Agent Pools Microsoft Hosted vs Self Hosted Agents](./04-Agent-Pools-Microsoft-Hosted-vs-Self-Hosted-Agents.md) | [Index](../../../README.md) | [06 - Azure Artifacts and Package Management →](./06-Azure-Artifacts-and-Package-Management.md) |

@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [10 - Git Security](../10-Git-Security-Signing-and-Supply-Chain/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (10-Git-Security-Signing-and-Supply-Chain) →](../10-Git-Security-Signing-and-Supply-Chain/01-Commit-Spoofing-Threat-Model-and-Identity.md) |

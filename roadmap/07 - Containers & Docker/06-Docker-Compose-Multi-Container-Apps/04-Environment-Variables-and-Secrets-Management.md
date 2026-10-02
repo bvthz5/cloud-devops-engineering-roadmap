@@ -29,4 +29,4 @@ secrets:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Dependency Management & Healthchecks](./03-Dependency-Management-and-Healthchecks.md) | [README](./README.md) | [05 - Compose Profiles & Overrides](./05-Compose-Profiles-and-Multi-Environment-Overrides.md) |
+| [← 03 - Dependency Management and Healthchecks](./03-Dependency-Management-and-Healthchecks.md) | [Index](../../../README.md) | [05 - Compose Profiles and Multi Environment Overrides →](./05-Compose-Profiles-and-Multi-Environment-Overrides.md) |

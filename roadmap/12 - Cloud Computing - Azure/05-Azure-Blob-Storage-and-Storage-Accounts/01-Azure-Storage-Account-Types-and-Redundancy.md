@@ -9,4 +9,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Blob Storage Architecture](./02-Azure-Blob-Storage-Architecture-and-Blob-Types.md) |
+| [← Prev Module (04-Azure-Virtual-Machines-and-VM-Scale-Sets)](../04-Azure-Virtual-Machines-and-VM-Scale-Sets/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Azure Blob Storage Architecture and Blob Types →](./02-Azure-Blob-Storage-Architecture-and-Blob-Types.md) |

@@ -6,4 +6,4 @@ AWX listens for Git merge events to automatically pull playbook updates and run 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - GitLab CI Pipeline](./03-GitLab-CI-Pipeline-for-Ansible.md) | [README](./README.md) | [05 - Secure Credential Injection](./05-Secure-Credential-Injection-in-Pipelines-OIDC-and-Vault.md) |
+| [← 03 - GitLab CI Pipeline for Ansible](./03-GitLab-CI-Pipeline-for-Ansible.md) | [Index](../../../README.md) | [05 - Secure Credential Injection in Pipelines OIDC and Vault →](./05-Secure-Credential-Injection-in-Pipelines-OIDC-and-Vault.md) |

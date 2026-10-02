@@ -58,4 +58,4 @@ server {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Caching Compression Gzip Brotli and HTTP Headers](./07-Caching-Compression-Gzip-Brotli-and-HTTP-Headers.md) | [README](./README.md) | [09 - Apache HTTP Server Architecture and MPMs](./09-Apache-HTTP-Server-Architecture-and-MPMs.md) |
+| [← 07 - Caching Compression Gzip Brotli and HTTP Headers](./07-Caching-Compression-Gzip-Brotli-and-HTTP-Headers.md) | [Index](../../../README.md) | [09 - Apache HTTP Server Architecture and MPMs →](./09-Apache-HTTP-Server-Architecture-and-MPMs.md) |

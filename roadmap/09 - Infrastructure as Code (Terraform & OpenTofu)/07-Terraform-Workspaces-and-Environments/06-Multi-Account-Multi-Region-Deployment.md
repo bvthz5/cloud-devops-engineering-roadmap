@@ -44,4 +44,4 @@ provider "aws" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Terraform Cloud](./05-Terraform-Cloud-Workspaces-and-VCS-Workflows.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Terraform Cloud Workspaces and VCS Workflows](./05-Terraform-Cloud-Workspaces-and-VCS-Workflows.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Integrating Infracost with GitHub Actions GitLab CI and Azure DevOps](./03-Integrating-Infracost-with-GitHub-Actions-GitLab-CI-and-Azure-DevOps.md) | [Index](../../../README.md) | [05 - Infracost Cloud Dashboards and Enterprise Usage Tracking →](./05-Infracost-Cloud-Dashboards-and-Enterprise-Usage-Tracking.md) |

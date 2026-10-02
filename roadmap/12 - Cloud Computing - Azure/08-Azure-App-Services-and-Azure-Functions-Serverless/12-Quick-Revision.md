@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 09 - Azure DevOps](../09-Azure-DevOps-Boards-Pipelines-and-Artifacts/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (09-Azure-DevOps-Boards-Pipelines-and-Artifacts) →](../09-Azure-DevOps-Boards-Pipelines-and-Artifacts/01-Azure-DevOps-Organization-and-Project-Architecture.md) |

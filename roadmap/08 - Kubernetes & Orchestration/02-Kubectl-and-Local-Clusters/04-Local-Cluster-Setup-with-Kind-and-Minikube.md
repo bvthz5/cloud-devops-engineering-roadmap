@@ -37,4 +37,4 @@ kubectl get nodes -o wide
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Kubectl Plugins & Krew](./03-Kubectl-Plugins-and-Krew-Ecosystem.md) | [README](./README.md) | [05 - K3s & MicroK8s](./05-Lightweight-Edge-Kubernetes-with-K3s-and-MicroK8s.md) |
+| [← 03 - Kubectl Plugins and Krew Ecosystem](./03-Kubectl-Plugins-and-Krew-Ecosystem.md) | [Index](../../../README.md) | [05 - Lightweight Edge Kubernetes with K3s and MicroK8s →](./05-Lightweight-Edge-Kubernetes-with-K3s-and-MicroK8s.md) |

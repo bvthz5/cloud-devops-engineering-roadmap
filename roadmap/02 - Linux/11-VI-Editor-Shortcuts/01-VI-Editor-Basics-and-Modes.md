@@ -62,4 +62,4 @@ This design enables developers and system administrators to edit files rapidly w
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Navigation Shortcuts](./02-Navigation-Shortcuts.md) |
+| [← Prev Module (10-User-Management-in-Linux)](../10-User-Management-in-Linux/SOURCE.md) | [Index](../../../README.md) | [02 - Navigation Shortcuts →](./02-Navigation-Shortcuts.md) |

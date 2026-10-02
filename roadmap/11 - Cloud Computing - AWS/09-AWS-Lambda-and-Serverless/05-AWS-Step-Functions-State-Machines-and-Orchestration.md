@@ -6,4 +6,4 @@ Visual workflow service to orchestrate multi-step serverless workflows with buil
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - EventBridge, SQS & SNS](./04-Event-Driven-Integration-EventBridge-SQS-and-SNS.md) | [README](./README.md) | [06 - SAM & Serverless Framework](./06-Serverless-Framework-SAM-and-CDK-Deployment.md) |
+| [← 04 - Event Driven Integration EventBridge SQS and SNS](./04-Event-Driven-Integration-EventBridge-SQS-and-SNS.md) | [Index](../../../README.md) | [06 - Serverless Framework SAM and CDK Deployment →](./06-Serverless-Framework-SAM-and-CDK-Deployment.md) |

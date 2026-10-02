@@ -23,4 +23,4 @@ SSH fails: `Connection timed out`. The AWS console shows: `2/2 checks failed: In
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Recovering from fstab Errors](./06-Recovering-from-fstab-and-Kernel-Panic.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Recovering from fstab and Kernel Panic](./06-Recovering-from-fstab-and-Kernel-Panic.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

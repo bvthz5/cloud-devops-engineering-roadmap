@@ -19,4 +19,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 02 - Inventory Management](../02-Inventory-Management-Static-and-Dynamic/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (02-Inventory-Management-Static-and-Dynamic) →](../02-Inventory-Management-Static-and-Dynamic/01-Static-Inventories-INI-vs-YAML-Formats.md) |

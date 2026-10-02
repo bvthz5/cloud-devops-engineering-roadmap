@@ -75,3 +75,9 @@ resource "google_storage_bucket" "secure_bucket" {
 ## 🔗 Related Resources
 - [Google Cloud Security Documentation](https://cloud.google.com/security/docs)
 - [GCP FinOps & Cost Management](https://cloud.google.com/cost-management)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Active Assist and Recommender Cost Optimization](./04-Active-Assist-and-Recommender-Cost-Optimization.md) | [Index](../../../README.md) | [06 - GCP Landing Zones Fabric Fast and Enterprise Foundation →](./06-GCP-Landing-Zones-Fabric-Fast-and-Enterprise-Foundation.md) |

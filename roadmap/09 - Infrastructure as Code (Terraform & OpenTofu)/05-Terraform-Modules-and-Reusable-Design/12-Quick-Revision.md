@@ -31,4 +31,4 @@ Maximum flexibility? → Composable Module Pattern
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 06 - Provisioners](../06-Provisioners-and-Local-Exec/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (06-Provisioners-and-Local-Exec) →](../06-Provisioners-and-Local-Exec/01-Provisioner-Types-local-exec-remote-exec-file.md) |

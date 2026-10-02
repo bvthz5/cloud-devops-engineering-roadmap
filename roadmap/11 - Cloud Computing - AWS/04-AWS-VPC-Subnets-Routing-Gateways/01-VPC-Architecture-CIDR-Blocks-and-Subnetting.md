@@ -16,4 +16,4 @@ AWS reserves 5 IP addresses per subnet (first 4 and last 1).
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Gateways](./02-Internet-Gateways-NAT-Gateways-and-Egress-Only-IGW.md) |
+| [← Prev Module (03-AWS-IAM-Users-Roles-Policies)](../03-AWS-IAM-Users-Roles-Policies/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Internet Gateways NAT Gateways and Egress Only IGW →](./02-Internet-Gateways-NAT-Gateways-and-Egress-Only-IGW.md) |

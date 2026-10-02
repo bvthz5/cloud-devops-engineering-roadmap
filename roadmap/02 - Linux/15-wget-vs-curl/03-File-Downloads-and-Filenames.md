@@ -69,4 +69,4 @@ curl -s -O https://example.com/file.txt
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - When to use each](./02-When-to-use-each.md) | [README](./README.md) | [04 - Redirects and Resumes](./04-Redirects-and-Resumes.md) |
+| [← 02 - When to use each](./02-When-to-use-each.md) | [Index](../../../README.md) | [04 - Redirects and Resumes →](./04-Redirects-and-Resumes.md) |

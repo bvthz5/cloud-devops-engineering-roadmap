@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Multi Provider Terraform Architecture and Module Design](./01-Multi-Provider-Terraform-Architecture-and-Module-Design.md) | [Index](../../../README.md) | [03 - OpenTofu Open Source Fork and Migration Strategies →](./03-OpenTofu-Open-Source-Fork-and-Migration-Strategies.md) |

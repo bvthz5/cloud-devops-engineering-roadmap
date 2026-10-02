@@ -19,4 +19,4 @@ sudo ETCDCTL_API=3 etcdctl   --cacert=/etc/kubernetes/pki/etcd/ca.crt   --cert=/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Network Debugging](./03-Network-Debugging-DNS-Resolution-Failures-and-Packet-Loss.md) | [README](./README.md) | [05 - Ephemeral Debug Containers](./05-Ephemeral-Debug-Containers-and-Kubectl-Debug.md) |
+| [← 03 - Network Debugging DNS Resolution Failures and Packet Loss](./03-Network-Debugging-DNS-Resolution-Failures-and-Packet-Loss.md) | [Index](../../../README.md) | [05 - Ephemeral Debug Containers and Kubectl Debug →](./05-Ephemeral-Debug-Containers-and-Kubectl-Debug.md) |

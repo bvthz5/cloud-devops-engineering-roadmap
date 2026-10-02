@@ -29,4 +29,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [22 - Lab 05: Port Conflict](./22-Hands-On-Lab-05-Port-Binding-Conflict.md) | [README](./README.md) | [24 - Real-World Scenario Drills](./24-Real-World-Scenario-Drills-01-to-07.md) |
+| [← 22 - Hands On Lab 05 Port Binding Conflict](./22-Hands-On-Lab-05-Port-Binding-Conflict.md) | [Index](../../../README.md) | [24 - Real World Scenario Drills 01 to 07 →](./24-Real-World-Scenario-Drills-01-to-07.md) |

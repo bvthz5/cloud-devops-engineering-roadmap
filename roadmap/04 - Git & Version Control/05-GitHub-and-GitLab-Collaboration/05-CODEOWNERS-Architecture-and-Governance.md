@@ -29,4 +29,4 @@ The `CODEOWNERS` file automatically assigns reviewers and enforces required sign
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Branch Protection](./04-Branch-Protection-Rules-and-Merge-Queues.md) | [README](./README.md) | [06 - Releases & Automation](./06-GitHub-Releases-and-Release-Automation.md) |
+| [← 04 - Branch Protection Rules and Merge Queues](./04-Branch-Protection-Rules-and-Merge-Queues.md) | [Index](../../../README.md) | [06 - GitHub Releases and Release Automation →](./06-GitHub-Releases-and-Release-Automation.md) |

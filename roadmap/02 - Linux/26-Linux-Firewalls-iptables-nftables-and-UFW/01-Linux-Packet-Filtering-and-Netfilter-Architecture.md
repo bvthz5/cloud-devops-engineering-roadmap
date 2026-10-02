@@ -55,4 +55,4 @@ sudo conntrack -L
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - iptables Deep Dive](./02-iptables-Deep-Dive-and-Rule-Management.md) |
+| [← Prev Module (25-Linux-Networking-and-DNS-Troubleshooting)](../25-Linux-Networking-and-DNS-Troubleshooting/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - iptables Deep Dive and Rule Management →](./02-iptables-Deep-Dive-and-Rule-Management.md) |

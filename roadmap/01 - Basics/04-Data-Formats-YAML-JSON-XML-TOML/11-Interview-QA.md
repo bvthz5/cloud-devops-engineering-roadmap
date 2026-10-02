@@ -106,4 +106,4 @@ Douglas Crockford (the creator of JSON) intentionally omitted comments from the 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Troubleshooting](./10-Troubleshooting.md) | [README](./README.md) | [12 - Hands On Practice](./12-Hands-On-Practice.md) |
+| [← 10 - Troubleshooting](./10-Troubleshooting.md) | [Index](../../../README.md) | [12 - Hands On Practice →](./12-Hands-On-Practice.md) |

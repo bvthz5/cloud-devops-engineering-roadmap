@@ -24,8 +24,9 @@ cat /var/log/nginx/access.log | awk '{print $1}' | sort | uniq -c | sort -nr | h
 
 - **Windows GUI Paradigm:** Windows was designed around graphical dialog boxes, registry toggles, and mouse interaction. Automating GUI button clicks at scale across 1,000 servers is impossible without special remote management frameworks.
 - **Linux Headless SSH Paradigm:** A Linux server has no graphical dependencies. A SysAdmin connects securely via SSH over a low-bandwidth connection (even on mobile connections) and manages everything using lightweight text commands.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Linux in DevOps Cloud and Containers](./06-Linux-in-DevOps-Cloud-and-Containers.md) | [README](./README.md) | [08 - Practical Commands and Tools](./08-Practical-Commands-and-Tools.md) |
+| [← 06 - Linux in DevOps Cloud and Containers](./06-Linux-in-DevOps-Cloud-and-Containers.md) | [Index](../../../README.md) | [08 - Practical Commands and Tools →](./08-Practical-Commands-and-Tools.md) |

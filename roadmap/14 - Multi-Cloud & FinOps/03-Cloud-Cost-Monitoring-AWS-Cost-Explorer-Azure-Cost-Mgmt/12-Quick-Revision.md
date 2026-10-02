@@ -22,3 +22,9 @@
 3. **Shift-Left FinOps with Infracost** to catch financial bugs in pull requests before deploying.
 4. **Use Spot/Preemptible instances for fault-tolerant workloads** (batch jobs, stateless microservices).
 5. **Standardize multi-cloud billing schemas using FOCUS** for unified enterprise reporting.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (04-Kubecost-and-OpenCost-Kubernetes-Cost-Optimization) →](../04-Kubecost-and-OpenCost-Kubernetes-Cost-Optimization/01-Kubernetes-Cost-Allocation-Challenges-Shared-Clusters-and-Pods.md) |

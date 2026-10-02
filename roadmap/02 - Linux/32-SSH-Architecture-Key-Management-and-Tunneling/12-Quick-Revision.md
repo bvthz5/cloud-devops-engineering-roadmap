@@ -21,4 +21,4 @@ ssh -J user@bastion user@internal-host
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 33 - Boot Troubleshooting](../33-Linux-Boot-Troubleshooting-and-Rescue-Mode/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (33-Linux-Boot-Troubleshooting-and-Rescue-Mode) →](../33-Linux-Boot-Troubleshooting-and-Rescue-Mode/01-Linux-Boot-Process-Deep-Dive-UEFI-GRUB2-Initrd.md) |

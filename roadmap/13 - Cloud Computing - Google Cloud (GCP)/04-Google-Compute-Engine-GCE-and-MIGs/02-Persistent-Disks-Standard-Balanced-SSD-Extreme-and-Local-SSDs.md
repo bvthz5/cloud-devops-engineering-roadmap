@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Compute Engine VM Machine Types Machine Families and Sizing](./01-Compute-Engine-VM-Machine-Types-Machine-Families-and-Sizing.md) | [Index](../../../README.md) | [03 - Instance Templates and Instance Groups Unmanaged vs Managed →](./03-Instance-Templates-and-Instance-Groups-Unmanaged-vs-Managed.md) |

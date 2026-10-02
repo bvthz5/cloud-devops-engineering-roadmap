@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Service Account Keys Impersonation and Security Best Practices](./04-Service-Account-Keys-Impersonation-and-Security-Best-Practices.md) | [Index](../../../README.md) | [06 - IAM Recommender Context Aware Access and PIM in GCP →](./06-IAM-Recommender-Context-Aware-Access-and-PIM-in-GCP.md) |

@@ -12,4 +12,4 @@ docker compose -f compose.yaml -f compose.prod.yaml config
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) | [README](./README.md) | [09 - Interview Questions](./09-Interview-QA.md) |
+| [← 07 - Real World Scenarios](./07-Real-World-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

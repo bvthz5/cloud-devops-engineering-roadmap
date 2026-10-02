@@ -36,4 +36,4 @@ Enterprise DevOps pipelines must enforce strict feedback stages:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Testing Bash with Bats and ShellCheck](./02-Testing-Bash-Scripts-with-Bats-and-ShellCheck.md) |
+| [← Prev Module (07-Cloud-SDKs-and-Infrastructure-Automation)](../07-Cloud-SDKs-and-Infrastructure-Automation/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Testing Bash Scripts with Bats and ShellCheck →](./02-Testing-Bash-Scripts-with-Bats-and-ShellCheck.md) |

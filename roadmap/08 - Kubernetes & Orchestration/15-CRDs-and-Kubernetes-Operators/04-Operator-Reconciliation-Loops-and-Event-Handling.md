@@ -30,4 +30,4 @@ func (r *DatabaseReconciler) Reconcile(ctx context.Context, req ctrl.Request) (c
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Kubebuilder Framework](./03-Building-Operators-with-Kubebuilder-and-Controller-Runtime.md) | [README](./README.md) | [05 - Finalizers & Teardown](./05-Finalizers-and-Safe-Resource-Teardown.md) |
+| [← 03 - Building Operators with Kubebuilder and Controller Runtime](./03-Building-Operators-with-Kubebuilder-and-Controller-Runtime.md) | [Index](../../../README.md) | [05 - Finalizers and Safe Resource Teardown →](./05-Finalizers-and-Safe-Resource-Teardown.md) |

@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Tagging Strategies](./02-AWS-Resource-Tagging-Strategies-and-Cost-Allocation.md) | [README](./README.md) | [04 - Storage Cost Optimization](./04-Storage-and-Data-Transfer-Cost-Optimization.md) |
+| [← 02 - AWS Resource Tagging Strategies and Cost Allocation](./02-AWS-Resource-Tagging-Strategies-and-Cost-Allocation.md) | [Index](../../../README.md) | [04 - Storage and Data Transfer Cost Optimization →](./04-Storage-and-Data-Transfer-Cost-Optimization.md) |

@@ -6,4 +6,4 @@ Organizing multi-cloud inventories across AWS and Azure using unified `keyed_gro
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Constructed Inventory](./06-Constructed-Inventory-and-Multiple-Inventory-Sources.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Constructed Inventory and Multiple Inventory Sources](./06-Constructed-Inventory-and-Multiple-Inventory-Sources.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

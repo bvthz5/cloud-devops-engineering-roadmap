@@ -92,8 +92,9 @@ Historically, adding new monitoring or security capabilities required writing a 
 ```
 
 Modern Cloud-Native technologies like **Cilium** (Kubernetes networking), **Falco** (runtime security), and **BCC** use eBPF to achieve microsecond-level packet routing and zero-overhead observability directly at the kernel layer.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Practical Commands](./06-Practical-Commands.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Practical Commands](./06-Practical-Commands.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

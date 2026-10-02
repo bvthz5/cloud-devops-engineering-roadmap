@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (07-Google-Kubernetes-Engine-GKE-Standard-and-Autopilot)](../07-Google-Kubernetes-Engine-GKE-Standard-and-Autopilot/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Cloud Run Revisions Traffic Splitting and Concurrency →](./02-Cloud-Run-Revisions-Traffic-Splitting-and-Concurrency.md) |

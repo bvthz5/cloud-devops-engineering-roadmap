@@ -40,4 +40,4 @@ cat /etc/apache2/sites-available/demo2.example.com-le-ssl.conf
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - Lab 01: Nginx Certbot](./16-Hands-On-Lab-01-Nginx-Certbot-HTTP01.md) | [README](./README.md) | [18 - Lab 03: Wildcard DNS-01 Challenge](./18-Hands-On-Lab-03-Wildcard-DNS01-Challenge.md) |
+| [← 16 - Hands On Lab 01 Nginx Certbot HTTP01](./16-Hands-On-Lab-01-Nginx-Certbot-HTTP01.md) | [Index](../../../README.md) | [18 - Hands On Lab 03 Wildcard DNS01 Challenge →](./18-Hands-On-Lab-03-Wildcard-DNS01-Challenge.md) |

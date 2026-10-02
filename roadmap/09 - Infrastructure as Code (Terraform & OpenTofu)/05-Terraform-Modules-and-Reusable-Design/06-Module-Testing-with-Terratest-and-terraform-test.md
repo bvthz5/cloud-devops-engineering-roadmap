@@ -62,4 +62,4 @@ func TestVpcModule(t *testing.T) {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Publishing Modules](./05-Publishing-Modules-to-Terraform-Registry.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Publishing Modules to Terraform Registry](./05-Publishing-Modules-to-Terraform-Registry.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -10,4 +10,4 @@ callbacks_enabled = timer, profile_tasks, profile_roles
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Parallelism & Forks](./02-Parallelism-Forks-Serial-and-Batch-Execution.md) |
+| [← Prev Module (11-Testing-Ansible-with-Molecule-and-Lint)](../11-Testing-Ansible-with-Molecule-and-Lint/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Parallelism Forks Serial and Batch Execution →](./02-Parallelism-Forks-Serial-and-Batch-Execution.md) |

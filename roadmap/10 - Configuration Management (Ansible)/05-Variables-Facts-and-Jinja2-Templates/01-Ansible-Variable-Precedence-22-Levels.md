@@ -23,4 +23,4 @@ When the same variable is defined in multiple places, Ansible resolves it accord
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Ansible Facts](./02-Ansible-Facts-and-Gathering-System-Metadata.md) |
+| [← Prev Module (04-Ansible-Playbooks-Tasks-and-Handlers)](../04-Ansible-Playbooks-Tasks-and-Handlers/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Ansible Facts and Gathering System Metadata →](./02-Ansible-Facts-and-Gathering-System-Metadata.md) |

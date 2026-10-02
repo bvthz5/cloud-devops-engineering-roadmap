@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - GCP Committed Use Discounts CUDs Flex vs Resource Based](./04-GCP-Committed-Use-Discounts-CUDs-Flex-vs-Resource-Based.md) | [Index](../../../README.md) | [06 - Automated Commitment Management and Coverage KPIs →](./06-Automated-Commitment-Management-and-Coverage-KPIs.md) |

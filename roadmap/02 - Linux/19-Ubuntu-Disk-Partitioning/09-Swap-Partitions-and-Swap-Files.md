@@ -47,4 +47,4 @@ sudo sysctl vm.swappiness=10
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Etc Fstab and UUID Mounting](./08-Etc-Fstab-and-UUID-Mounting.md) | [README](./README.md) | [10 - LVM Physical Volumes Volume Groups Logical Volumes](./10-LVM-Physical-Volumes-Volume-Groups-Logical-Volumes.md) |
+| [← 08 - Etc Fstab and UUID Mounting](./08-Etc-Fstab-and-UUID-Mounting.md) | [Index](../../../README.md) | [10 - LVM Physical Volumes Volume Groups Logical Volumes →](./10-LVM-Physical-Volumes-Volume-Groups-Logical-Volumes.md) |

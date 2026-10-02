@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Shared Responsibility](./04-AWS-Shared-Responsibility-Model.md) | [README](./README.md) | [06 - Management Interfaces](./06-AWS-Management-Interfaces-Console-CLI-SDKs-IaC.md) |
+| [← 04 - AWS Shared Responsibility Model](./04-AWS-Shared-Responsibility-Model.md) | [Index](../../../README.md) | [06 - AWS Management Interfaces Console CLI SDKs IaC →](./06-AWS-Management-Interfaces-Console-CLI-SDKs-IaC.md) |

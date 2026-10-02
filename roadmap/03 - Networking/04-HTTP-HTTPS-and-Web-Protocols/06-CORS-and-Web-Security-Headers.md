@@ -36,4 +36,4 @@ Add these headers at your reverse proxy (NGINX/Cloudflare):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - WebSockets & gRPC](./05-WebSockets-SSE-and-gRPC-Protocols.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - WebSockets SSE and gRPC Protocols](./05-WebSockets-SSE-and-gRPC-Protocols.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

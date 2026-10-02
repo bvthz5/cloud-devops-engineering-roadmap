@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Multi Cloud Security Challenges and Shared Responsibility](./01-Multi-Cloud-Security-Challenges-and-Shared-Responsibility.md) | [Index](../../../README.md) | [03 - Policy as Code OPA Gatekeeper Kyverno and Checkov →](./03-Policy-as-Code-OPA-Gatekeeper-Kyverno-and-Checkov.md) |

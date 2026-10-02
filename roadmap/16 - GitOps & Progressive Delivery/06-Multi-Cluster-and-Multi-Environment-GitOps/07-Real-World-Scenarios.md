@@ -25,3 +25,9 @@ A SaaS company wants container images built by CI pipelines to be deployed to Ku
 1. **Container Push Event**: CI pipeline builds Docker image `app:v2.1.4` and pushes it to Artifact Registry.
 2. **Flux Image Automation Controller**: Flux scans Artifact Registry, detects new semantic version `v2.1.4` matching `ImagePolicy` (`semver: '>=2.1.0'`).
 3. **Automated Git Commit**: Flux checks out the Git deployment repository, updates the image tag in `kustomization.yaml`, commits `[bot] Update image tag to v2.1.4`, and pushes back to Git. ArgoCD/Flux then reconciles the cluster to `v2.1.4`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 06 - Disaster Recovery and Cluster Failover with GitOps](./06-Disaster-Recovery-and-Cluster-Failover-with-GitOps.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

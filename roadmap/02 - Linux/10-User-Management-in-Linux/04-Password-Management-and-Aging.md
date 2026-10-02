@@ -94,4 +94,4 @@ The password field in `/etc/shadow` starts with a prefix between dollar signs (`
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - User Creation and Management](./03-User-Creation-and-Management.md) | [README](./README.md) | [05 - User Modification and Deletion](./05-User-Modification-and-Deletion.md) |
+| [← 03 - User Creation and Management](./03-User-Creation-and-Management.md) | [Index](../../../README.md) | [05 - User Modification and Deletion →](./05-User-Modification-and-Deletion.md) |

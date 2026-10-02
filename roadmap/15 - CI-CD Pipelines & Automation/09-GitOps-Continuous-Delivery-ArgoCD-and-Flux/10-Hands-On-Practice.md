@@ -56,3 +56,9 @@ kubectl apply -f app.yaml
 # Check ArgoCD application sync status
 argocd app get demo-web-app
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 09 - Interview QA](./09-Interview-QA.md) | [Index](../../../README.md) | [11 - MCQ →](./11-MCQ.md) |

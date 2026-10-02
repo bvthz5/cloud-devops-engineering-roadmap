@@ -22,4 +22,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Design Patterns](./05-Provider-Design-Patterns.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Provider Design Patterns](./05-Provider-Design-Patterns.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

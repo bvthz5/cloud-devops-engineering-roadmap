@@ -35,4 +35,4 @@ Industry benchmarks provide standardized hardening guidelines:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Patch Management](./02-Patch-Management.md) |
+| [← Prev Module (17-Cron-Jobs-in-Linux)](../17-Cron-Jobs-in-Linux/SOURCE.md) | [Index](../../../README.md) | [02 - Patch Management →](./02-Patch-Management.md) |

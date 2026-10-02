@@ -276,4 +276,4 @@ Pipes connect commands into data pipelines: `grep "ERROR" app.log | awk '{print 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Hands On Lab](./10-Hands-On-Lab.md) | [README](./README.md) | [12 - Quick Revision](./12-Quick-Revision.md) |
+| [← 10 - Hands On Lab](./10-Hands-On-Lab.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

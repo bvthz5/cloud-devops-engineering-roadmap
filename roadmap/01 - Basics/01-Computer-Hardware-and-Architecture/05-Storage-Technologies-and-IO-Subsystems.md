@@ -89,4 +89,4 @@ $$\text{Throughput (Bytes/sec)} = \text{IOPS} \times \text{I/O Block Size (Bytes
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Virtual Memory Paging and MMU](./04-Virtual-Memory-Paging-and-MMU.md) | [README](./README.md) | [06 - Motherboard Buses and Peripherals](./06-Motherboard-Buses-and-Peripherals.md) |
+| [← 04 - Virtual Memory Paging and MMU](./04-Virtual-Memory-Paging-and-MMU.md) | [Index](../../../README.md) | [06 - Motherboard Buses and Peripherals →](./06-Motherboard-Buses-and-Peripherals.md) |

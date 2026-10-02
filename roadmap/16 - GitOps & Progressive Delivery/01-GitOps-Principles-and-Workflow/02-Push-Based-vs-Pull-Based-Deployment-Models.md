@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - GitOps Core Principles and OpenGitOps Standards](./01-GitOps-Core-Principles-and-OpenGitOps-Standards.md) | [Index](../../../README.md) | [03 - GitOps Repository Structure Monorepo vs Polyrepo →](./03-GitOps-Repository-Structure-Monorepo-vs-Polyrepo.md) |

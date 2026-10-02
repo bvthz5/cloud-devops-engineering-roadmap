@@ -188,4 +188,4 @@ Isolate the step where the data changes unexpectedly — that is the broken comm
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Real World DevOps Scenarios](./07-Real-World-DevOps-Scenarios.md) | [README](./README.md) | [09 - Interview QA](./09-Interview-QA.md) |
+| [← 07 - Real World DevOps Scenarios](./07-Real-World-DevOps-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (03-FluxCD-GitOps-Toolkit)](../03-FluxCD-GitOps-Toolkit/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Canary Deployments with Argo Rollouts →](./02-Canary-Deployments-with-Argo-Rollouts.md) |

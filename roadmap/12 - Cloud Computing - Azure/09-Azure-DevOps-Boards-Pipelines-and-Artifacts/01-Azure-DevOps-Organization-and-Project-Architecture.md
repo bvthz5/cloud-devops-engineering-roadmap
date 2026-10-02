@@ -14,4 +14,4 @@ Azure DevOps Organization
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Repos & Branch Policies](./02-Azure-Repos-and-Branch-Policies.md) |
+| [← Prev Module (08-Azure-App-Services-and-Azure-Functions-Serverless)](../08-Azure-App-Services-and-Azure-Functions-Serverless/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Azure Repos and Branch Policies →](./02-Azure-Repos-and-Branch-Policies.md) |

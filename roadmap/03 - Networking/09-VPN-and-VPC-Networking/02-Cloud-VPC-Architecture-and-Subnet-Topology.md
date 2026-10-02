@@ -40,4 +40,4 @@ NAT Gateways are **AZ-specific** services:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - VPN Protocols](./01-VPN-Protocols-IPsec-WireGuard-and-OpenVPN.md) | [README](./README.md) | [03 - VPC Peering](./03-VPC-Peering-Architecture-and-Limitations.md) |
+| [← 01 - VPN Protocols IPsec WireGuard and OpenVPN](./01-VPN-Protocols-IPsec-WireGuard-and-OpenVPN.md) | [Index](../../../README.md) | [03 - VPC Peering Architecture and Limitations →](./03-VPC-Peering-Architecture-and-Limitations.md) |

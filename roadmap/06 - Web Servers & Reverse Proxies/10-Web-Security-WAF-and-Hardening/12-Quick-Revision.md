@@ -20,4 +20,4 @@ send_timeout 10s;
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [01 - Nginx Architecture](../01-Nginx-Architecture-and-Configuration/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (07 - Containers & Docker) →](../../07%20-%20Containers%20%26%20Docker/01-Container-Fundamentals-Cgroups-Namespaces/01-Linux-Kernel-Namespaces-Deep-Dive.md) |

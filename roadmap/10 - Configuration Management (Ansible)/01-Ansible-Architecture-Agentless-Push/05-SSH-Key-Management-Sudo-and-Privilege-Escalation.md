@@ -58,4 +58,4 @@ devops ALL=(ALL) NOPASSWD: ALL
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - ansible.cfg Hierarchy](./04-Ansible-Configuration-ansible-cfg-Hierarchy.md) | [README](./README.md) | [06 - Engine vs Core vs Collections](./06-Ansible-Engine-vs-Core-vs-Collections-Evolution.md) |
+| [← 04 - Ansible Configuration ansible cfg Hierarchy](./04-Ansible-Configuration-ansible-cfg-Hierarchy.md) | [Index](../../../README.md) | [06 - Ansible Engine vs Core vs Collections Evolution →](./06-Ansible-Engine-vs-Core-vs-Collections-Evolution.md) |

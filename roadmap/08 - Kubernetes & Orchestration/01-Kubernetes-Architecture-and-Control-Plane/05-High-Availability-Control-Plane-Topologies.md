@@ -43,4 +43,4 @@ Because `kube-apiserver` is stateless, multiple instances are fronted by a high-
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - API Request Flow](./04-Kubernetes-API-Request-Flow-Authentication-Admission.md) | [README](./README.md) | [06 - Cloud Controller Manager](./06-Cloud-Controller-Manager-and-Provider-Integrations.md) |
+| [← 04 - Kubernetes API Request Flow Authentication Admission](./04-Kubernetes-API-Request-Flow-Authentication-Admission.md) | [Index](../../../README.md) | [06 - Cloud Controller Manager and Provider Integrations →](./06-Cloud-Controller-Manager-and-Provider-Integrations.md) |

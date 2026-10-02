@@ -20,4 +20,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [12 - Overlay Networks & CNI](../12-Overlay-Networks-VXLAN-and-Container-CNI/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (12-Overlay-Networks-VXLAN-and-Container-CNI) →](../12-Overlay-Networks-VXLAN-and-Container-CNI/01-Overlay-Networking-Principles-and-Encapsulation.md) |

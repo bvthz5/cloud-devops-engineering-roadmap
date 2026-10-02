@@ -10,4 +10,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Route53 Architecture](./01-Amazon-Route53-DNS-Architecture-and-Hosted-Zones.md) | [README](./README.md) | [03 - Health Checks & Failover](./03-Route53-Health-Checks-and-DNS-Failover.md) |
+| [← 01 - Amazon Route53 DNS Architecture and Hosted Zones](./01-Amazon-Route53-DNS-Architecture-and-Hosted-Zones.md) | [Index](../../../README.md) | [03 - Route53 Health Checks and DNS Failover →](./03-Route53-Health-Checks-and-DNS-Failover.md) |

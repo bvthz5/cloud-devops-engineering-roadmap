@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Webhooks Load Testing with k6 and Automated Prometheus Analysis](./04-Webhooks-Load-Testing-with-k6-and-Automated-Prometheus-Analysis.md) | [Index](../../../README.md) | [06 - Flagger vs Argo Rollouts Comparison →](./06-Flagger-vs-Argo-Rollouts-Comparison.md) |

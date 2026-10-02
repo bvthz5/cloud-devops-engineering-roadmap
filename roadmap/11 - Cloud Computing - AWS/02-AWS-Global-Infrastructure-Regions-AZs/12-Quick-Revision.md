@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 03 - AWS IAM](../03-AWS-IAM-Users-Roles-Policies/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (03-AWS-IAM-Users-Roles-Policies) →](../03-AWS-IAM-Users-Roles-Policies/01-AWS-IAM-Architecture-and-Identity-Management.md) |

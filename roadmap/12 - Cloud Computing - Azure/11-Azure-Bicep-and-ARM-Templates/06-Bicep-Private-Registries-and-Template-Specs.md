@@ -9,4 +9,4 @@ az bicep publish --file modules/vnet.bicep --target 'br:myacr.azurecr.io/bicep/m
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Decompiling & CLI](./05-Decompiling-ARM-Templates-and-Bicep-CLI.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Decompiling ARM Templates and Bicep CLI](./05-Decompiling-ARM-Templates-and-Bicep-CLI.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

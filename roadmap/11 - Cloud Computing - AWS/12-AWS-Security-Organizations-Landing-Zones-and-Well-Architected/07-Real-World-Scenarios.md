@@ -6,4 +6,4 @@ Architecting a compliant multi-account enterprise environment using AWS Control 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Well-Architected Framework](./06-AWS-Well-Architected-Framework-6-Pillars.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - AWS Well Architected Framework 6 Pillars](./06-AWS-Well-Architected-Framework-6-Pillars.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -27,4 +27,4 @@ sudo sshd -t && sudo systemctl reload sshd
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Modern SSH Keys](./02-Modern-SSH-Keys-Ed25519-vs-RSA.md) | [README](./README.md) | [04 - Client Config & Bastions](./04-SSH-Client-Configuration-and-Bastions.md) |
+| [← 02 - Modern SSH Keys Ed25519 vs RSA](./02-Modern-SSH-Keys-Ed25519-vs-RSA.md) | [Index](../../../README.md) | [04 - SSH Client Configuration and Bastions →](./04-SSH-Client-Configuration-and-Bastions.md) |

@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [06 - Git Hooks](../06-Git-Hooks-and-Automation/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (06-Git-Hooks-and-Automation) →](../06-Git-Hooks-and-Automation/01-Git-Hooks-Architecture-Client-vs-Server.md) |

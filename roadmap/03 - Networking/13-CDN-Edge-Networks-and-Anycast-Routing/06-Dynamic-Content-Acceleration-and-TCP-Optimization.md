@@ -21,4 +21,4 @@ Total Time: 10ms + 150ms = 160 ms! (Over 5x faster!)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - DDoS Mitigation](./05-DDoS-Mitigation-Rate-Limiting-and-WAF-at-the-Edge.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - DDoS Mitigation Rate Limiting and WAF at the Edge](./05-DDoS-Mitigation-Rate-Limiting-and-WAF-at-the-Edge.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

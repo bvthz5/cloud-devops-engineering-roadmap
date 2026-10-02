@@ -6,4 +6,4 @@ Molecule runs the `converge` playbook a second time. If any task returns `change
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Writing Molecule Scenarios](./04-Writing-Molecule-Test-Scenarios-and-Verifiers.md) | [README](./README.md) | [06 - Cross-OS Testing](./06-Multi-Instance-and-Cross-OS-Testing-Scenarios.md) |
+| [← 04 - Writing Molecule Test Scenarios and Verifiers](./04-Writing-Molecule-Test-Scenarios-and-Verifiers.md) | [Index](../../../README.md) | [06 - Multi Instance and Cross OS Testing Scenarios →](./06-Multi-Instance-and-Cross-OS-Testing-Scenarios.md) |

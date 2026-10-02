@@ -15,4 +15,4 @@ An idempotent task yields the exact same system state regardless of how many tim
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Playbook Structure](./01-Playbook-Structure-Plays-Tasks-and-YAML-Syntax.md) | [README](./README.md) | [03 - Handlers & Notifications](./03-Handlers-and-Event-Driven-Notifications.md) |
+| [← 01 - Playbook Structure Plays Tasks and YAML Syntax](./01-Playbook-Structure-Plays-Tasks-and-YAML-Syntax.md) | [Index](../../../README.md) | [03 - Handlers and Event Driven Notifications →](./03-Handlers-and-Event-Driven-Notifications.md) |

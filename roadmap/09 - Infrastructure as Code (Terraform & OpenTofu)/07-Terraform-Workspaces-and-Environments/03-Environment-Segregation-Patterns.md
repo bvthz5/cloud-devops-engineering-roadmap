@@ -37,4 +37,4 @@ provider "aws" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Workspaces vs Directories](./02-Workspaces-vs-Directory-Based-Environments.md) | [README](./README.md) | [04 - Variable Files per Environment](./04-Variable-Files-and-tfvars-per-Environment.md) |
+| [← 02 - Workspaces vs Directory Based Environments](./02-Workspaces-vs-Directory-Based-Environments.md) | [Index](../../../README.md) | [04 - Variable Files and tfvars per Environment →](./04-Variable-Files-and-tfvars-per-Environment.md) |

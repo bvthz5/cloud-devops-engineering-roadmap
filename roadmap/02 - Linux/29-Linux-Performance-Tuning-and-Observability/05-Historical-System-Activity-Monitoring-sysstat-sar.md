@@ -45,4 +45,4 @@ sar -u -f /var/log/sa/sa28
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Disk I/O Analysis](./04-Disk-IO-Analysis-and-Storage-Bottlenecks.md) | [README](./README.md) | [06 - Kernel Tuning with sysctl](./06-Linux-Kernel-Tuning-with-sysctl.md) |
+| [← 04 - Disk IO Analysis and Storage Bottlenecks](./04-Disk-IO-Analysis-and-Storage-Bottlenecks.md) | [Index](../../../README.md) | [06 - Linux Kernel Tuning with sysctl →](./06-Linux-Kernel-Tuning-with-sysctl.md) |

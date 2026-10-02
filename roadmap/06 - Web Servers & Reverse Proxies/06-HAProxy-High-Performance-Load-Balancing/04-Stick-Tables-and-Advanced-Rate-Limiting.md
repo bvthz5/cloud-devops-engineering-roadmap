@@ -45,4 +45,4 @@ frontend fe_web
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Layer 4 vs Layer 7 Proxying & ACLs](./03-Layer-4-vs-Layer-7-Proxying-and-ACLs.md) | [README](./README.md) | [05 - Active Health Checks & Graceful Failover](./05-Active-Health-Checks-and-Graceful-Failover.md) |
+| [← 03 - Layer 4 vs Layer 7 Proxying and ACLs](./03-Layer-4-vs-Layer-7-Proxying-and-ACLs.md) | [Index](../../../README.md) | [05 - Active Health Checks and Graceful Failover →](./05-Active-Health-Checks-and-Graceful-Failover.md) |

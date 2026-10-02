@@ -116,4 +116,4 @@ sudo ip neigh add 192.168.1.1 lladdr 00:aa:bb:cc:dd:ee dev eth0 nud permanent
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Linux Network Stack](./01-Linux-Network-Stack-and-Device-Model.md) | [README](./README.md) | [03 - Socket and Port Inspection](./03-Socket-and-Port-Inspection-ss-and-netstat.md) |
+| [← 01 - Linux Network Stack and Device Model](./01-Linux-Network-Stack-and-Device-Model.md) | [Index](../../../README.md) | [03 - Socket and Port Inspection ss and netstat →](./03-Socket-and-Port-Inspection-ss-and-netstat.md) |

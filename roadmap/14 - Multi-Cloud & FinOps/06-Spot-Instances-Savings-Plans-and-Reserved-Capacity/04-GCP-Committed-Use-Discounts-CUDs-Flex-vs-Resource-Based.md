@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Azure Reservations and Azure Savings Plans for Compute](./03-Azure-Reservations-and-Azure-Savings-Plans-for-Compute.md) | [Index](../../../README.md) | [05 - Spot Preemptible VMs Architecting Fault Tolerant Workloads →](./05-Spot-Preemptible-VMs-Architecting-Fault-Tolerant-Workloads.md) |

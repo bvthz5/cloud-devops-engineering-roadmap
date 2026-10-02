@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Multi Cluster GitOps Architecture Hub and Spoke Pattern](./01-Multi-Cluster-GitOps-Architecture-Hub-and-Spoke-Pattern.md) | [Index](../../../README.md) | [03 - Flux Multi Cluster Tenancy and Folder Structure →](./03-Flux-Multi-Cluster-Tenancy-and-Folder-Structure.md) |

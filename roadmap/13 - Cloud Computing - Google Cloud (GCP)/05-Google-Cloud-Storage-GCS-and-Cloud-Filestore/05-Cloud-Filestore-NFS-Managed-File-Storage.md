@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Bucket Lifecycle Management and Object Versioning](./04-Bucket-Lifecycle-Management-and-Object-Versioning.md) | [Index](../../../README.md) | [06 - Transfer Services Storage Transfer Service and Transfer Appliance →](./06-Transfer-Services-Storage-Transfer-Service-and-Transfer-Appliance.md) |

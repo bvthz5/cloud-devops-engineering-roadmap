@@ -14,4 +14,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Multi-Team Patterns](./02-Multi-Team-Collaboration-Patterns.md) |
+| [← Prev Module (14-CICD-for-Terraform-Atlantis-and-Pipelines)](../14-CICD-for-Terraform-Atlantis-and-Pipelines/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Multi Team Collaboration Patterns →](./02-Multi-Team-Collaboration-Patterns.md) |

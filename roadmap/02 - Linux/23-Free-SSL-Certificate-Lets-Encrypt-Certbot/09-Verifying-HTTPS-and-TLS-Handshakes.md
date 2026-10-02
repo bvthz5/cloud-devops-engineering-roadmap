@@ -32,4 +32,4 @@ openssl s_client -servername example.com -connect example.com:443 </dev/null 2>/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - SSL File Structure](./08-SSL-Certificate-Files-Structure-and-Permissions.md) | [README](./README.md) | [10 - Automated Renewal & Timers](./10-Automated-Renewal-Certbot-Timer-and-Cron.md) |
+| [← 08 - SSL Certificate Files Structure and Permissions](./08-SSL-Certificate-Files-Structure-and-Permissions.md) | [Index](../../../README.md) | [10 - Automated Renewal Certbot Timer and Cron →](./10-Automated-Renewal-Certbot-Timer-and-Cron.md) |

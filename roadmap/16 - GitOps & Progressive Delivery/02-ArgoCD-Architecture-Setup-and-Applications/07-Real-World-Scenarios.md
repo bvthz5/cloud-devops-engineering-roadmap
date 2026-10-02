@@ -25,3 +25,9 @@ An e-commerce website requires zero-downtime updates for its core Checkout servi
 1. **Argo Rollout CRD**: Replace standard Kubernetes Deployment with an Argo Rollout defining a 5-step canary progression (`10%` -> `25%` -> `50%` -> `100%`).
 2. **Prometheus AnalysisTemplate**: Configure real-time metric queries evaluating error rate and P99 latency during 5-minute pause windows.
 3. **Automated Abort & Rollback**: If Prometheus returns HTTP 5xx rate > 0.5%, Argo Rollouts instantly aborts the rollout, restores 100% traffic to the stable version, and sends a PagerDuty alert.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 06 - ArgoCD CLI Declarative Setup and SSO Integration](./06-ArgoCD-CLI-Declarative-Setup-and-SSO-Integration.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

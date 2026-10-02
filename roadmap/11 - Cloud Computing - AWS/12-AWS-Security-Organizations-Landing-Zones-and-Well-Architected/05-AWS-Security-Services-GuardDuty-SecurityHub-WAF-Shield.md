@@ -9,4 +9,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Secret & Key Management](./04-AWS-KMS-Secrets-Manager-and-SSM-Parameter-Store.md) | [README](./README.md) | [06 - Well-Architected Framework](./06-AWS-Well-Architected-Framework-6-Pillars.md) |
+| [← 04 - AWS KMS Secrets Manager and SSM Parameter Store](./04-AWS-KMS-Secrets-Manager-and-SSM-Parameter-Store.md) | [Index](../../../README.md) | [06 - AWS Well Architected Framework 6 Pillars →](./06-AWS-Well-Architected-Framework-6-Pillars.md) |

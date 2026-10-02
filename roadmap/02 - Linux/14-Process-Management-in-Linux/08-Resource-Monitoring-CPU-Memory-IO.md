@@ -85,4 +85,4 @@ sudo lsof | grep deleted
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Process Priority nice renice](./07-Process-Priority-nice-renice.md) | [README](./README.md) | [09 - The proc Filesystem](./09-The-proc-Filesystem.md) |
+| [← 07 - Process Priority nice renice](./07-Process-Priority-nice-renice.md) | [Index](../../../README.md) | [09 - The proc Filesystem →](./09-The-proc-Filesystem.md) |

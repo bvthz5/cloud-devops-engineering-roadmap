@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Multi Cloud Telemetry Challenges Silos Metrics and Logs](./01-Multi-Cloud-Telemetry-Challenges-Silos-Metrics-and-Logs.md) | [Index](../../../README.md) | [03 - Centralized Log Aggregation Grafana Loki Splunk Elastic →](./03-Centralized-Log-Aggregation-Grafana-Loki-Splunk-Elastic.md) |

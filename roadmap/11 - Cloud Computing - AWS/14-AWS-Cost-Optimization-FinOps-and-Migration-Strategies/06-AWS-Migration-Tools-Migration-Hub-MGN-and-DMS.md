@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - 7 Rs Migration Strategies](./05-AWS-Cloud-Adoption-Framework-CAF-and-7-Rs-Migration.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - AWS Cloud Adoption Framework CAF and 7 Rs Migration](./05-AWS-Cloud-Adoption-Framework-CAF-and-7-Rs-Migration.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

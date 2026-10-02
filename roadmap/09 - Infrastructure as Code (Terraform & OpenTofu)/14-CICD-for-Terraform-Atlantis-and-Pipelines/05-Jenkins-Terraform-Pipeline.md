@@ -26,4 +26,4 @@ pipeline {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Atlantis](./04-Atlantis-PR-Based-Terraform-Automation.md) | [README](./README.md) | [06 - Pipeline Security](./06-Pipeline-Security-OIDC-and-Ephemeral-Credentials.md) |
+| [← 04 - Atlantis PR Based Terraform Automation](./04-Atlantis-PR-Based-Terraform-Automation.md) | [Index](../../../README.md) | [06 - Pipeline Security OIDC and Ephemeral Credentials →](./06-Pipeline-Security-OIDC-and-Ephemeral-Credentials.md) |

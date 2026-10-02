@@ -45,4 +45,4 @@ if __name__ == "__main__":
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - SSL Cert Scanner](./04-SSL-TLS-Certificate-Expiration-Scanner-Template.md) | [README](./README.md) | [06 - DB Latency Prober](./06-Database-Latency-and-Connection-Prober-Template.md) |
+| [← 04 - SSL TLS Certificate Expiration Scanner Template](./04-SSL-TLS-Certificate-Expiration-Scanner-Template.md) | [Index](../../../README.md) | [06 - Database Latency and Connection Prober Template →](./06-Database-Latency-and-Connection-Prober-Template.md) |

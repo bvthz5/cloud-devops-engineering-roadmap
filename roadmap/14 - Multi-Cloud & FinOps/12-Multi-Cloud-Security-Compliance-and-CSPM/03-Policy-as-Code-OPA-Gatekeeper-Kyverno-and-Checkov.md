@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Cloud Security Posture Management CSPM Wiz Prisma Orca](./02-Cloud-Security-Posture-Management-CSPM-Wiz-Prisma-Orca.md) | [Index](../../../README.md) | [04 - Multi Cloud Compliance CIS Benchmarks NIST SOC2 HIPAA →](./04-Multi-Cloud-Compliance-CIS-Benchmarks-NIST-SOC2-HIPAA.md) |

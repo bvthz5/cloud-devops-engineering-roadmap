@@ -144,4 +144,4 @@ kill 7788
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - Interview QA](./14-Interview-QA.md) | [README](./README.md) | [16 - MCQs](./16-MCQs.md) |
+| [← 14 - Interview QA](./14-Interview-QA.md) | [Index](../../../README.md) | [16 - MCQs →](./16-MCQs.md) |

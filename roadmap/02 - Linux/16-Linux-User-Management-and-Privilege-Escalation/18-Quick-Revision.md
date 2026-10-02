@@ -89,4 +89,4 @@ lastlog | grep "Never logged in"                → Stale accounts
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [17 - MCQs](./17-MCQs.md) | [README](./README.md) | [19 - Related Topics](./19-Related-Topics.md) |
+| [← 17 - MCQs](./17-MCQs.md) | [Index](../../../README.md) | [19 - Related Topics →](./19-Related-Topics.md) |

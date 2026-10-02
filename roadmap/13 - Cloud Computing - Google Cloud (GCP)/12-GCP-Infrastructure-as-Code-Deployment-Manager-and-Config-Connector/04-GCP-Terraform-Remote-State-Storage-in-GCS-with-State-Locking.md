@@ -75,3 +75,9 @@ resource "google_storage_bucket" "secure_bucket" {
 ## 🔗 Related Resources
 - [Google Cloud Security Documentation](https://cloud.google.com/security/docs)
 - [GCP FinOps & Cost Management](https://cloud.google.com/cost-management)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Terraform Google Provider Best Practices and Module Design](./03-Terraform-Google-Provider-Best-Practices-and-Module-Design.md) | [Index](../../../README.md) | [05 - Config Connector Managing GCP Resources via Kubernetes CRDs →](./05-Config-Connector-Managing-GCP-Resources-via-Kubernetes-CRDs.md) |

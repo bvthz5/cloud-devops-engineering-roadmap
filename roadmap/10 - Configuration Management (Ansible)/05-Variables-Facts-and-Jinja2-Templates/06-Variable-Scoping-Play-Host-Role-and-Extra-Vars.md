@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Jinja2 Filters](./05-Built-in-Jinja2-Filters-and-Custom-Filters.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Built in Jinja2 Filters and Custom Filters](./05-Built-in-Jinja2-Filters-and-Custom-Filters.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

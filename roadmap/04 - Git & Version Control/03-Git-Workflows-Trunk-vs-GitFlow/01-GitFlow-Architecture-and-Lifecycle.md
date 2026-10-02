@@ -31,4 +31,4 @@ In continuous delivery environments deploying 20+ times per day:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Trunk-Based Development](./02-Trunk-Based-Development-and-Continuous-Integration.md) |
+| [← Prev Module (02-Branching-Merging-and-Rebasing)](../02-Branching-Merging-and-Rebasing/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Trunk Based Development and Continuous Integration →](./02-Trunk-Based-Development-and-Continuous-Integration.md) |

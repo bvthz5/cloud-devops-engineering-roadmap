@@ -19,4 +19,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - BIOS vs UEFI and ESP Partition](./03-BIOS-vs-UEFI-and-ESP-Partition.md) | [README](./README.md) | [05 - Manual Installation and Dual Booting](./05-Manual-Installation-and-Dual-Booting.md) |
+| [← 03 - BIOS vs UEFI and ESP Partition](./03-BIOS-vs-UEFI-and-ESP-Partition.md) | [Index](../../../README.md) | [05 - Manual Installation and Dual Booting →](./05-Manual-Installation-and-Dual-Booting.md) |

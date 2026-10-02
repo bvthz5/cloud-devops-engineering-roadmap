@@ -30,8 +30,9 @@ Linux containers run directly on the host Linux kernel using native `cgroups` (r
 ### Q4: How does file case sensitivity differ between Linux and Windows filesystems?
 **Answer:**
 Linux filesystems (Ext4, XFS, Btrfs) are **case-sensitive**, meaning `config.json` and `Config.json` can exist in the same directory as two distinct files. Windows filesystems (NTFS, FAT32) are **case-insensitive**, treating both names as references to the exact same file.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Troubleshooting](./10-Troubleshooting.md) | [README](./README.md) | [12 - Hands On Practice](./12-Hands-On-Practice.md) |
+| [← 10 - Troubleshooting](./10-Troubleshooting.md) | [Index](../../../README.md) | [12 - Hands On Practice →](./12-Hands-On-Practice.md) |

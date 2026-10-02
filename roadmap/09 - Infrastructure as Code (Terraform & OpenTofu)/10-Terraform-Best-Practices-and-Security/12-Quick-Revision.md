@@ -24,4 +24,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 11 - Terraform Cloud](../11-Terraform-Cloud-and-Enterprise/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (11-Terraform-Cloud-and-Enterprise) →](../11-Terraform-Cloud-and-Enterprise/01-Terraform-Cloud-Architecture-and-Pricing-Tiers.md) |

@@ -29,4 +29,4 @@ Reverse Proxy (Server-Facing / Inbound Ingress):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Layer 4 vs Layer 7 Load Balancing](./02-Layer-4-vs-Layer-7-Load-Balancing.md) |
+| [← Prev Module (02-Apache-HTTP-Server)](../02-Apache-HTTP-Server/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Layer 4 vs Layer 7 Load Balancing →](./02-Layer-4-vs-Layer-7-Load-Balancing.md) |

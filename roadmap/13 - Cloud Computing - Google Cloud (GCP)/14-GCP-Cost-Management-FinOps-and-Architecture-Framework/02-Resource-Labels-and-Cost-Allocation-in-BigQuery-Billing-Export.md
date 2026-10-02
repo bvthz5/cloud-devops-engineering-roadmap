@@ -75,3 +75,9 @@ resource "google_storage_bucket" "secure_bucket" {
 ## 🔗 Related Resources
 - [Google Cloud Security Documentation](https://cloud.google.com/security/docs)
 - [GCP FinOps & Cost Management](https://cloud.google.com/cost-management)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - GCP Billing Architecture Accounts Billing Projects Exports](./01-GCP-Billing-Architecture-Accounts-Billing-Projects-Exports.md) | [Index](../../../README.md) | [03 - Committed Use Discounts CUDs and Sustained Use Discounts SUDs →](./03-Committed-Use-Discounts-CUDs-and-Sustained-Use-Discounts-SUDs.md) |

@@ -33,4 +33,4 @@ sudo fsck -fy /dev/sdb1
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - RAID and LUKS Disk Encryption](./11-RAID-and-LUKS-Disk-Encryption.md) | [README](./README.md) | [13 - Storage Performance and Capacity Troubleshooting](./13-Storage-Performance-and-Capacity-Troubleshooting.md) |
+| [← 11 - RAID and LUKS Disk Encryption](./11-RAID-and-LUKS-Disk-Encryption.md) | [Index](../../../README.md) | [13 - Storage Performance and Capacity Troubleshooting →](./13-Storage-Performance-and-Capacity-Troubleshooting.md) |

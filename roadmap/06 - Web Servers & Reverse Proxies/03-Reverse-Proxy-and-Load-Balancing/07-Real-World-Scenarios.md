@@ -48,4 +48,4 @@ sysctl -w net.ipv4.tcp_tw_reuse=1
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Header Manipulation & Client IP](./06-Header-Manipulation-and-Client-IP-Preservation.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Header Manipulation and Client IP Preservation](./06-Header-Manipulation-and-Client-IP-Preservation.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

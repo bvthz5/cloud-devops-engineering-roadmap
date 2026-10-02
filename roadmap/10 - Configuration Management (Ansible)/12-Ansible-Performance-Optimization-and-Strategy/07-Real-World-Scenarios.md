@@ -6,4 +6,4 @@ Optimizing playbooks for large-scale enterprise deployments via pipelining, stra
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Mitogen for Ansible](./06-Mitogen-for-Ansible-10x-Speedup.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Mitogen for Ansible 10x Speedup](./06-Mitogen-for-Ansible-10x-Speedup.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

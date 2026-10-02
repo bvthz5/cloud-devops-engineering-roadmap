@@ -86,4 +86,4 @@ id
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Core Configuration Files](./02-Core-Configuration-Files.md) |
+| [← Prev Module (09-Absolute-and-Relative-Paths)](../09-Absolute-and-Relative-Paths/SOURCE.md) | [Index](../../../README.md) | [02 - Core Configuration Files →](./02-Core-Configuration-Files.md) |

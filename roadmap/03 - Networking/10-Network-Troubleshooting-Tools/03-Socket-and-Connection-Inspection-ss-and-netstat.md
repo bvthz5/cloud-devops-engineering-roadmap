@@ -44,4 +44,4 @@ LISTEN  128      128      0.0.0.0:8080         0.0.0.0:*
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Path Diagnostics](./02-Path-Diagnostics-traceroute-mtr-and-iproute2.md) | [README](./README.md) | [04 - Port Testing](./04-Port-Scanning-and-Testing-nc-socat-and-nmap.md) |
+| [← 02 - Path Diagnostics traceroute mtr and iproute2](./02-Path-Diagnostics-traceroute-mtr-and-iproute2.md) | [Index](../../../README.md) | [04 - Port Scanning and Testing nc socat and nmap →](./04-Port-Scanning-and-Testing-nc-socat-and-nmap.md) |

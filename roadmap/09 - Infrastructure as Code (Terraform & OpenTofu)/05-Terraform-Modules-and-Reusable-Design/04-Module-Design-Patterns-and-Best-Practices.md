@@ -52,4 +52,4 @@ Every module should include:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Module Sources](./03-Module-Sources-Registry-Git-S3-and-Local.md) | [README](./README.md) | [05 - Publishing Modules](./05-Publishing-Modules-to-Terraform-Registry.md) |
+| [← 03 - Module Sources Registry Git S3 and Local](./03-Module-Sources-Registry-Git-S3-and-Local.md) | [Index](../../../README.md) | [05 - Publishing Modules to Terraform Registry →](./05-Publishing-Modules-to-Terraform-Registry.md) |

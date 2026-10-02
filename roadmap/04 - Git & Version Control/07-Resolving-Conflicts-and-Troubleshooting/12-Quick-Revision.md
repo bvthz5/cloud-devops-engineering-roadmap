@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [08 - GitOps](../08-GitOps-and-Declarative-Infrastructure/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (08-GitOps-and-Declarative-Infrastructure) →](../08-GitOps-and-Declarative-Infrastructure/01-GitOps-Core-Principles-and-Pull-vs-Push.md) |

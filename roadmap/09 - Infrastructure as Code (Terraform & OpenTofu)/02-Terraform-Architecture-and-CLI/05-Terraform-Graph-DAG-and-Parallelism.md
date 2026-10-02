@@ -79,4 +79,4 @@ resource "aws_instance" "app" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Backend Configuration](./04-Backend-Configuration-Local-S3-GCS-AzureRM.md) | [README](./README.md) | [06 - Version Management](./06-Version-Management-tfenv-tofuenv-and-Required-Versions.md) |
+| [← 04 - Backend Configuration Local S3 GCS AzureRM](./04-Backend-Configuration-Local-S3-GCS-AzureRM.md) | [Index](../../../README.md) | [06 - Version Management tfenv tofuenv and Required Versions →](./06-Version-Management-tfenv-tofuenv-and-Required-Versions.md) |

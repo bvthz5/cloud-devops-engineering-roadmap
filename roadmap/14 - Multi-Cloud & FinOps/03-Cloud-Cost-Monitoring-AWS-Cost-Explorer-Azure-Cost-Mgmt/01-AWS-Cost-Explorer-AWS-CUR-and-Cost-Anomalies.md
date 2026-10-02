@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (02-FinOps-Principles-and-Cost-Allocation-Tagging)](../02-FinOps-Principles-and-Cost-Allocation-Tagging/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Microsoft Cost Management Exports and Billing Scope →](./02-Microsoft-Cost-Management-Exports-and-Billing-Scope.md) |

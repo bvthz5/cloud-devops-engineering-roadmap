@@ -41,8 +41,9 @@ Windows uses backslashes (`\`), while Linux uses forward slashes (`/`).
 
 ### Solution:
 Always use forward slashes (`/`) or environment path jointers (`path.join()` in Node.js / `os.path.join()` in Python) in cross-platform codebases.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Real World Production Scenarios](./09-Real-World-Production-Scenarios.md) | [README](./README.md) | [11 - Interview QA](./11-Interview-QA.md) |
+| [← 09 - Real World Production Scenarios](./09-Real-World-Production-Scenarios.md) | [Index](../../../README.md) | [11 - Interview QA →](./11-Interview-QA.md) |

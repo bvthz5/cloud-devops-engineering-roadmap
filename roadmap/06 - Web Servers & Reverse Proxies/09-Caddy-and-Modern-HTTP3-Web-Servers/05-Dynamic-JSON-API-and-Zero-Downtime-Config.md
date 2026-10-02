@@ -23,4 +23,4 @@ curl -X POST "http://localhost:2019/load" \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Caddyfile Syntax & Directives](./04-Caddyfile-Syntax-Directives-and-Snippets.md) | [README](./README.md) | [06 - Caddy Ingress & Edge Proxy](./06-Caddy-as-a-Kubernetes-Ingress-and-Container-Edge.md) |
+| [← 04 - Caddyfile Syntax Directives and Snippets](./04-Caddyfile-Syntax-Directives-and-Snippets.md) | [Index](../../../README.md) | [06 - Caddy as a Kubernetes Ingress and Container Edge →](./06-Caddy-as-a-Kubernetes-Ingress-and-Container-Edge.md) |

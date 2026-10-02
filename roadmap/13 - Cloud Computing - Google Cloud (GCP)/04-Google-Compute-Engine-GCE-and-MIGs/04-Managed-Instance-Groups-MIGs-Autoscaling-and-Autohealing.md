@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Instance Templates and Instance Groups Unmanaged vs Managed](./03-Instance-Templates-and-Instance-Groups-Unmanaged-vs-Managed.md) | [Index](../../../README.md) | [05 - Cloud Load Balancing Global HTTP S Network and Internal LBs →](./05-Cloud-Load-Balancing-Global-HTTP-S-Network-and-Internal-LBs.md) |

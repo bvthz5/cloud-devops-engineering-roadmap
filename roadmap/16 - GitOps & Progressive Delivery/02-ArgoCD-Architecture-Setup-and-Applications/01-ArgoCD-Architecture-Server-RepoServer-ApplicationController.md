@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (01-GitOps-Principles-and-Workflow)](../01-GitOps-Principles-and-Workflow/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Installing and Configuring ArgoCD in Kubernetes →](./02-Installing-and-Configuring-ArgoCD-in-Kubernetes.md) |

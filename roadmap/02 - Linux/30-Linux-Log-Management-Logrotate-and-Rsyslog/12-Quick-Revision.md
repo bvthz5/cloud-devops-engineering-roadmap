@@ -19,4 +19,4 @@ sudo aureport -au                      # Auth report
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 31 - Backup & rsync](../31-Linux-Backup-Archiving-and-rsync/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (31-Linux-Backup-Archiving-and-rsync) →](../31-Linux-Backup-Archiving-and-rsync/01-Archiving-and-Compression-tar-gzip-bzip2-zstd.md) |

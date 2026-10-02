@@ -276,4 +276,4 @@ The first character of the 10-character string is `l` for a symlink, `d` for dir
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Hands On Terminal Practice](./12-Hands-On-Terminal-Practice.md) | [README](./README.md) | [14 - Quick Revision](./14-Quick-Revision.md) |
+| [← 12 - Hands On Terminal Practice](./12-Hands-On-Terminal-Practice.md) | [Index](../../../README.md) | [14 - Quick Revision →](./14-Quick-Revision.md) |

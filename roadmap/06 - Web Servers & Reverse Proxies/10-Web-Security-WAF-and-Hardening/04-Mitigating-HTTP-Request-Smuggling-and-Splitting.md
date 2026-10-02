@@ -40,4 +40,4 @@ http {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - HTTP Security Headers](./03-HTTP-Security-Headers-CSP-HSTS-Permissions-Policy.md) | [README](./README.md) | [05 - DDoS Mitigation & Slowloris](./05-DDoS-Mitigation-Slowloris-and-Flood-Protection.md) |
+| [← 03 - HTTP Security Headers CSP HSTS Permissions Policy](./03-HTTP-Security-Headers-CSP-HSTS-Permissions-Policy.md) | [Index](../../../README.md) | [05 - DDoS Mitigation Slowloris and Flood Protection →](./05-DDoS-Mitigation-Slowloris-and-Flood-Protection.md) |

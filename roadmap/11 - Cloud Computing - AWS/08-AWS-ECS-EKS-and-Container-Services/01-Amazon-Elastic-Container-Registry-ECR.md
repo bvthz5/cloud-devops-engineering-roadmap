@@ -11,4 +11,4 @@ aws ecr get-login-password --region us-east-1 | docker login --username AWS --pa
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - ECS Task Definitions & Services](./02-Elastic-Container-Service-ECS-Task-Definitions-and-Services.md) |
+| [← Prev Module (07-AWS-RDS-DynamoDB-and-Databases)](../07-AWS-RDS-DynamoDB-and-Databases/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Elastic Container Service ECS Task Definitions and Services →](./02-Elastic-Container-Service-ECS-Task-Definitions-and-Services.md) |

@@ -22,3 +22,9 @@ Cloud Custodian is an open-source, stateless policy-as-code engine for managing 
 **Answer**:
 - **OpenTofu**: Open-source, MPL-licensed fork of Terraform ensuring open community governance without BSL licensing restrictions.
 - **Terragrunt**: Thin wrapper for Terraform/OpenTofu that keeps code **DRY (Don't Repeat Yourself)** by centralizing backend state configurations, multi-provider credentials, and module invocations across complex multi-account / multi-cloud environments.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

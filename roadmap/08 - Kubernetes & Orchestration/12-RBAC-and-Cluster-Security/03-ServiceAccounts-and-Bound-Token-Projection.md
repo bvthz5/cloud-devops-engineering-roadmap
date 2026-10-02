@@ -34,4 +34,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - RBAC Roles & Bindings](./02-Role-ClusterRole-RoleBinding-and-ClusterRoleBinding.md) | [README](./README.md) | [04 - Pod Security Admission](./04-Pod-Security-Admission-PSA-Privileged-Baseline-Restricted.md) |
+| [← 02 - Role ClusterRole RoleBinding and ClusterRoleBinding](./02-Role-ClusterRole-RoleBinding-and-ClusterRoleBinding.md) | [Index](../../../README.md) | [04 - Pod Security Admission PSA Privileged Baseline Restricted →](./04-Pod-Security-Admission-PSA-Privileged-Baseline-Restricted.md) |

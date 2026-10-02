@@ -91,4 +91,4 @@ This is why adding a user to the `sudo` group (`usermod -aG sudo alice`) grants 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - sudo Fundamentals](./05-sudo-Fundamentals.md) | [README](./README.md) | [07 - sudoers d Modular Rules](./07-sudoers-d-Modular-Rules.md) |
+| [← 05 - sudo Fundamentals](./05-sudo-Fundamentals.md) | [Index](../../../README.md) | [07 - sudoers d Modular Rules →](./07-sudoers-d-Modular-Rules.md) |

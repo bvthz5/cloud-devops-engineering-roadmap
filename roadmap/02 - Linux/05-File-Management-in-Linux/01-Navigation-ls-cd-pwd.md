@@ -89,8 +89,9 @@ $ ls -lSh /var/log
 $ ls -ld /var/log/nginx
 drwxr-xr-x 2 www-data adm 4096 Sep 13 10:00 /var/log/nginx
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Directories mkdir rmdir](./02-Directories-mkdir-rmdir.md) |
+| [← Prev Module (04-Kernel)](../04-Kernel/SOURCE.md) | [Index](../../../README.md) | [02 - Directories mkdir rmdir →](./02-Directories-mkdir-rmdir.md) |

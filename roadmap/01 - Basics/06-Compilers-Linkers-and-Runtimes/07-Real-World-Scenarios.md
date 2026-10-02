@@ -32,4 +32,4 @@ The static binary runs perfectly in `scratch` with zero image dependencies!
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Dynamic Linker](./06-Dynamic-Linker-and-Symbol-Resolution.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Dynamic Linker and Symbol Resolution](./06-Dynamic-Linker-and-Symbol-Resolution.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

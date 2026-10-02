@@ -82,3 +82,9 @@ spec:
 ## 🔗 Related Resources
 - [Docker Multi-Stage Build Guide](https://docs.docker.com/build/building/multi-stage/)
 - [Argo Rollouts Documentation](https://argoproj.github.io/argo-rollouts/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (06-Artifact-Repositories-Nexus-Artifactory)](../06-Artifact-Repositories-Nexus-Artifactory/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Unit Testing Automation Test Runners and Coverage Reports →](./02-Unit-Testing-Automation-Test-Runners-and-Coverage-Reports.md) |

@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 18 - Gateway API](../18-Gateway-API-and-Modern-Traffic-Routing/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (18-Gateway-API-and-Modern-Traffic-Routing) →](../18-Gateway-API-and-Modern-Traffic-Routing/01-Gateway-API-vs-Ingress-The-Evolution-of-L7-Routing.md) |

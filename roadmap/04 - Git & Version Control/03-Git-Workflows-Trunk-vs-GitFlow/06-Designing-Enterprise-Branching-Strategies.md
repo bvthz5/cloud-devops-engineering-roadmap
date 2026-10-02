@@ -13,4 +13,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - SemVer & Git Tags](./05-Semantic-Versioning-and-Git-Tags.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Semantic Versioning and Git Tags](./05-Semantic-Versioning-and-Git-Tags.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

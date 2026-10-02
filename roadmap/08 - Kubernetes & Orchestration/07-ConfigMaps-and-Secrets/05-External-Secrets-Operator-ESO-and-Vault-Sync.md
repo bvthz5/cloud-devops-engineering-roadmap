@@ -53,4 +53,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Immutable ConfigMaps](./04-Immutable-ConfigMaps-and-Secrets-for-Scale.md) | [README](./README.md) | [06 - Reloader Automation](./06-Reloader-Automatic-Pod-Rollout-on-Config-Changes.md) |
+| [← 04 - Immutable ConfigMaps and Secrets for Scale](./04-Immutable-ConfigMaps-and-Secrets-for-Scale.md) | [Index](../../../README.md) | [06 - Reloader Automatic Pod Rollout on Config Changes →](./06-Reloader-Automatic-Pod-Rollout-on-Config-Changes.md) |

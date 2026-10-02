@@ -42,4 +42,4 @@ Migrated to `for_each` with stable string keys (`"db-primary"`, `"db-replica-1"`
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Type Constraints](./06-Type-Constraints-Complex-Types-and-any.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Type Constraints Complex Types and any](./06-Type-Constraints-Complex-Types-and-any.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

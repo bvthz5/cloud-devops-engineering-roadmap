@@ -35,4 +35,4 @@ apply:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - GitHub Actions](./02-GitHub-Actions-for-Terraform.md) | [README](./README.md) | [04 - Atlantis](./04-Atlantis-PR-Based-Terraform-Automation.md) |
+| [← 02 - GitHub Actions for Terraform](./02-GitHub-Actions-for-Terraform.md) | [Index](../../../README.md) | [04 - Atlantis PR Based Terraform Automation →](./04-Atlantis-PR-Based-Terraform-Automation.md) |

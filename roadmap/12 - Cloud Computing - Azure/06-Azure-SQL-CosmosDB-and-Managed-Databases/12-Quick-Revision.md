@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 07 - Azure AKS](../07-Azure-Kubernetes-Service-AKS/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (07-Azure-Kubernetes-Service-AKS) →](../07-Azure-Kubernetes-Service-AKS/01-AKS-Architecture-Managed-Control-Plane-and-Node-Pools.md) |

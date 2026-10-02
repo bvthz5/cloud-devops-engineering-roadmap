@@ -82,4 +82,4 @@ In Command-Line Mode:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - VI Editor Basics and Modes](./01-VI-Editor-Basics-and-Modes.md) | [README](./README.md) | [03 - Insert and Editing Modes](./03-Insert-and-Editing-Modes.md) |
+| [← 01 - VI Editor Basics and Modes](./01-VI-Editor-Basics-and-Modes.md) | [Index](../../../README.md) | [03 - Insert and Editing Modes →](./03-Insert-and-Editing-Modes.md) |

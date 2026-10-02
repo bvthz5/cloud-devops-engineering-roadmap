@@ -39,8 +39,9 @@ type ls
 type -a ls
 # Output: ls is /usr/bin/ls
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - System Libraries and Glibc](./05-System-Libraries-and-Glibc.md) | [README](./README.md) | [07 - The Shell](./07-The-Shell.md) |
+| [← 05 - System Libraries and Glibc](./05-System-Libraries-and-Glibc.md) | [Index](../../../README.md) | [07 - The Shell →](./07-The-Shell.md) |

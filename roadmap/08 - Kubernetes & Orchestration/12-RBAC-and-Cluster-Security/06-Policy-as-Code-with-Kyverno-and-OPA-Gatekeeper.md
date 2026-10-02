@@ -35,4 +35,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Admission Controllers](./05-Admission-Controllers-Mutating-and-Validating-Webhooks.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Admission Controllers Mutating and Validating Webhooks](./05-Admission-Controllers-Mutating-and-Validating-Webhooks.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

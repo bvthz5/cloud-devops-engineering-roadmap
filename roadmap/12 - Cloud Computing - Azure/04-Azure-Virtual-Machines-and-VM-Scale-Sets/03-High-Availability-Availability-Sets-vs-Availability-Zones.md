@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Managed Disks](./02-Azure-Managed-Disks-Ultra-Premium-Standard-SSD.md) | [README](./README.md) | [04 - VM Scale Sets](./04-Virtual-Machine-Scale-Sets-VMSS-and-Autoscaling.md) |
+| [← 02 - Azure Managed Disks Ultra Premium Standard SSD](./02-Azure-Managed-Disks-Ultra-Premium-Standard-SSD.md) | [Index](../../../README.md) | [04 - Virtual Machine Scale Sets VMSS and Autoscaling →](./04-Virtual-Machine-Scale-Sets-VMSS-and-Autoscaling.md) |

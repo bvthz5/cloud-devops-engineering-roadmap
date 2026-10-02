@@ -18,4 +18,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Apache Virtual Hosts and Reverse Proxy Mod_Proxy](./10-Apache-Virtual-Hosts-and-Reverse-Proxy-Mod_Proxy.md) | [README](./README.md) | [12 - Modern Web Servers Caddy IIS lighttpd](./12-Modern-Web-Servers-Caddy-IIS-lighttpd.md) |
+| [← 10 - Apache Virtual Hosts and Reverse Proxy Mod_Proxy](./10-Apache-Virtual-Hosts-and-Reverse-Proxy-Mod_Proxy.md) | [Index](../../../README.md) | [12 - Modern Web Servers Caddy IIS lighttpd →](./12-Modern-Web-Servers-Caddy-IIS-lighttpd.md) |

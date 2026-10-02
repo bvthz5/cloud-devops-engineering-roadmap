@@ -173,4 +173,4 @@ HR             | 1
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Combining Pipelines](./06-Combining-Pipelines.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Combining Pipelines](./06-Combining-Pipelines.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

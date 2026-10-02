@@ -34,3 +34,9 @@ How does Terragrunt reduce code duplication (DRY principle) in Terraform project
 - [ ] D) By converting CloudFormation templates to YAML
 
 *Explanation: Terragrunt eliminates copy-pasted backend configurations and environment variables across Terraform modules.*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

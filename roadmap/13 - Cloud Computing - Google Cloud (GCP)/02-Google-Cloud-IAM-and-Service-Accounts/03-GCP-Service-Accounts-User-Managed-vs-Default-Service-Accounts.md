@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Predefined Custom and Primitive Roles in GCP](./02-Predefined-Custom-and-Primitive-Roles-in-GCP.md) | [Index](../../../README.md) | [04 - Service Account Keys Impersonation and Security Best Practices →](./04-Service-Account-Keys-Impersonation-and-Security-Best-Practices.md) |

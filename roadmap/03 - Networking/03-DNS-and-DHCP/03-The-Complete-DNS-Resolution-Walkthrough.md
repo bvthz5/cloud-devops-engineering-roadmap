@@ -39,4 +39,4 @@ Recursive Resolver caches record for 300s and delivers IP to Client.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - DNS Record Types](./02-DNS-Record-Types-Deep-Dive.md) | [README](./README.md) | [04 - DHCP & DORA](./04-DHCP-Protocol-and-DORA-Process.md) |
+| [← 02 - DNS Record Types Deep Dive](./02-DNS-Record-Types-Deep-Dive.md) | [Index](../../../README.md) | [04 - DHCP Protocol and DORA Process →](./04-DHCP-Protocol-and-DORA-Process.md) |

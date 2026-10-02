@@ -6,4 +6,4 @@ Connect any CNCF-compliant Kubernetes cluster (AWS EKS, GCP GKE, OpenShift) to A
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Azure Arc Enabled Servers](./02-Azure-Arc-Enabled-Servers-Architecture-and-Onboarding.md) | [README](./README.md) | [04 - GitOps with Azure Arc](./04-GitOps-and-Configuration-Management-with-Azure-Arc.md) |
+| [← 02 - Azure Arc Enabled Servers Architecture and Onboarding](./02-Azure-Arc-Enabled-Servers-Architecture-and-Onboarding.md) | [Index](../../../README.md) | [04 - GitOps and Configuration Management with Azure Arc →](./04-GitOps-and-Configuration-Management-with-Azure-Arc.md) |

@@ -22,4 +22,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Large-Scale Migration](./05-Large-Scale-Migration-Strategies.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Large Scale Migration Strategies](./05-Large-Scale-Migration-Strategies.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

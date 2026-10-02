@@ -6,4 +6,4 @@ Write `buildspec.yml` for container build and construct a 3-stage CodePipeline p
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Interview Q&A](./09-Interview-QA.md) | [README](./README.md) | [11 - MCQ](./11-MCQ.md) |
+| [← 09 - Interview QA](./09-Interview-QA.md) | [Index](../../../README.md) | [11 - MCQ →](./11-MCQ.md) |

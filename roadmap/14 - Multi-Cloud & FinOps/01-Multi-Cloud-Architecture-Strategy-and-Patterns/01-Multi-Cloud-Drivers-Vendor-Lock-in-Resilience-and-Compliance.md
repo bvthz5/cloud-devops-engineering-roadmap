@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Section (13 - Cloud Computing - Google Cloud (GCP))](../../13%20-%20Cloud%20Computing%20-%20Google%20Cloud%20(GCP)/14-GCP-Cost-Management-FinOps-and-Architecture-Framework/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Multi Cloud Deployment Patterns Active Passive Active Active Distributed →](./02-Multi-Cloud-Deployment-Patterns-Active-Passive-Active-Active-Distributed.md) |

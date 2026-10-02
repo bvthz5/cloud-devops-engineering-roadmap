@@ -28,4 +28,4 @@ sudo lsof +L1                 # Find unlinked open deleted files
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 29 - Performance Tuning](../29-Linux-Performance-Tuning-and-Observability/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (29-Linux-Performance-Tuning-and-Observability) →](../29-Linux-Performance-Tuning-and-Observability/01-Linux-Performance-Methodologies-USE-and-RED.md) |

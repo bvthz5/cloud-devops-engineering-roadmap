@@ -87,4 +87,4 @@ curl -o /dev/null -s -w "DNS: %{time_namelookup}s \nConnect: %{time_connect}s \n
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - curl REST API Requests](./05-curl-REST-API-Requests.md) | [README](./README.md) | [07 - Authentication](./07-Authentication.md) |
+| [← 05 - curl REST API Requests](./05-curl-REST-API-Requests.md) | [Index](../../../README.md) | [07 - Authentication →](./07-Authentication.md) |

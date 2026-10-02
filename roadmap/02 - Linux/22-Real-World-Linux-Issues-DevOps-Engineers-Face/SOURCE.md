@@ -8,3 +8,9 @@
 
 ## Preserved Core Problem Taxonomy
 This module preserves the original real-world production incident descriptions, including CPU/Memory saturation, disk space leak via deleted-but-open file handles, systemd unit crashes, SSH permission misconfigurations, CRLF line ending execution failures, DNS resolution order bugs, Docker exit code 137, and Kubernetes `CrashLoopBackOff` troubleshooting.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 28 - Quick Revision Notes](./28-Quick-Revision-Notes.md) | [Index](../../../README.md) | [Next Module (23-Free-SSL-Certificate-Lets-Encrypt-Certbot) →](../23-Free-SSL-Certificate-Lets-Encrypt-Certbot/01-SSL-TLS-and-HTTPS-Fundamentals.md) |

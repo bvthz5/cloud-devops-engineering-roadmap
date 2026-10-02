@@ -12,4 +12,4 @@ Under Podman, each container runs under an independent lightweight **`conmon`** 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Skopeo: Remote Registry Operations](./06-Skopeo-Remote-Registry-Operations-Without-Pulling.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Skopeo Remote Registry Operations Without Pulling](./06-Skopeo-Remote-Registry-Operations-Without-Pulling.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

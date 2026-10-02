@@ -31,4 +31,4 @@ Envoy uses a single-process, multi-threaded architectural model written in moder
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - xDS Dynamic Configuration APIs](./02-xDS-Dynamic-Configuration-APIs.md) |
+| [← Prev Module (07-Traefik-Cloud-Native-Reverse-Proxy)](../07-Traefik-Cloud-Native-Reverse-Proxy/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - xDS Dynamic Configuration APIs →](./02-xDS-Dynamic-Configuration-APIs.md) |

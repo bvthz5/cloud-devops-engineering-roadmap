@@ -43,3 +43,9 @@ The original source concepts have been expanded and organized into this structur
 *   MCQs
 *   Quick revision
 *   Related advanced topics
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 18 - Related Topics](./18-Related-Topics.md) | [Index](../../../README.md) | [Next Module (15-wget-vs-curl) →](../15-wget-vs-curl/01-wget-vs-curl-Fundamentals.md) |

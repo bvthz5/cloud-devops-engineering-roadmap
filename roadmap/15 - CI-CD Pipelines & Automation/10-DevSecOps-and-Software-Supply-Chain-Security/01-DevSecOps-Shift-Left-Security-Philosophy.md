@@ -79,3 +79,9 @@ cosign verify --key cosign.pub us-central1-docker.pkg.dev/my-project/app:v1.2.0
 - [ArgoCD Documentation](https://argo-cd.readthedocs.io/)
 - [Sigstore / Cosign Documentation](https://docs.sigstore.dev/cosign/overview/)
 - [OpenFeature Standard](https://openfeature.dev/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (09-GitOps-Continuous-Delivery-ArgoCD-and-Flux)](../09-GitOps-Continuous-Delivery-ArgoCD-and-Flux/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - SAST Static Application Security Testing SonarQube Semgrep →](./02-SAST-Static-Application-Security-Testing-SonarQube-Semgrep.md) |

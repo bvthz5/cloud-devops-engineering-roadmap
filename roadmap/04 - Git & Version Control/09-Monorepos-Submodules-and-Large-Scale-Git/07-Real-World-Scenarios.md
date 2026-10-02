@@ -21,4 +21,4 @@ git config --global push.recurseSubmodules check
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Git Scalar](./06-Git-Scalar-and-Filesystem-Virtualization.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Git Scalar and Filesystem Virtualization](./06-Git-Scalar-and-Filesystem-Virtualization.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -25,4 +25,4 @@ This delays container shutdown by 5 seconds, giving ingress controllers ample ti
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Sticky Sessions](./06-Session-Persistence-and-Sticky-Sessions.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Session Persistence and Sticky Sessions](./06-Session-Persistence-and-Sticky-Sessions.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

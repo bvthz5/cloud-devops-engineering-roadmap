@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Blue Green Deployments and Active Preview Services](./03-Blue-Green-Deployments-and-Active-Preview-Services.md) | [Index](../../../README.md) | [05 - Automated Rollbacks on Metric Failures →](./05-Automated-Rollbacks-on-Metric-Failures.md) |

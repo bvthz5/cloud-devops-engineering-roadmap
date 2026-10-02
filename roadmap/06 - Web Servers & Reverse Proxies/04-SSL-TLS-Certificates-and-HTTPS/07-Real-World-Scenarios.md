@@ -27,4 +27,4 @@ A SaaS platform utilized a wildcard certificate (`*.prod.company.com`) across 80
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - SSL Labs A+ Hardening](./06-SSL-Labs-A-Plus-Configuration-and-Cipher-Suites.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - SSL Labs A Plus Configuration and Cipher Suites](./06-SSL-Labs-A-Plus-Configuration-and-Cipher-Suites.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

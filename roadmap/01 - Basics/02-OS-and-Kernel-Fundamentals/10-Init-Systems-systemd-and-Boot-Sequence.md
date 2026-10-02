@@ -179,4 +179,4 @@ systemd-analyze critical-chain
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Kernel Networking Sockets and Security](./09-Kernel-Networking-Sockets-and-Security.md) | [README](./README.md) | [11 - Kernel Parameters Sysctl and Kernel Logs](./11-Kernel-Parameters-Sysctl-and-Kernel-Logs.md) |
+| [← 09 - Kernel Networking Sockets and Security](./09-Kernel-Networking-Sockets-and-Security.md) | [Index](../../../README.md) | [11 - Kernel Parameters Sysctl and Kernel Logs →](./11-Kernel-Parameters-Sysctl-and-Kernel-Logs.md) |

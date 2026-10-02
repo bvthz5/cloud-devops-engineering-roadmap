@@ -10,4 +10,4 @@ Managed Domain Name System (DNS) web service operating with 100% SLA availabilit
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Routing Policies](./02-Route53-Routing-Policies-Weighted-Latency-Failover-Geolocation.md) |
+| [← Prev Module (09-AWS-Lambda-and-Serverless)](../09-AWS-Lambda-and-Serverless/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Route53 Routing Policies Weighted Latency Failover Geolocation →](./02-Route53-Routing-Policies-Weighted-Latency-Failover-Geolocation.md) |

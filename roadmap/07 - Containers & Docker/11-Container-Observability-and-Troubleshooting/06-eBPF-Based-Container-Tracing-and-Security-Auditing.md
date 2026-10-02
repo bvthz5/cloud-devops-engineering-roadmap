@@ -18,4 +18,4 @@ sudo opensnoop-bpfcc -c my_container_name
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Live Debugging with nsenter](./05-Live-Debugging-with-Ephemeral-Containers-and-nsenter.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Live Debugging with Ephemeral Containers and nsenter](./05-Live-Debugging-with-Ephemeral-Containers-and-nsenter.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

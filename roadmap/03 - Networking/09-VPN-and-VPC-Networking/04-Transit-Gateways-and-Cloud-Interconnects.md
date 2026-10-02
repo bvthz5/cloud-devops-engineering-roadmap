@@ -33,4 +33,4 @@ Transit Gateways support multiple isolated route tables:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - VPC Peering](./03-VPC-Peering-Architecture-and-Limitations.md) | [README](./README.md) | [05 - PrivateLink & Endpoints](./05-Private-Endpoints-PrivateLink-and-PSC.md) |
+| [← 03 - VPC Peering Architecture and Limitations](./03-VPC-Peering-Architecture-and-Limitations.md) | [Index](../../../README.md) | [05 - Private Endpoints PrivateLink and PSC →](./05-Private-Endpoints-PrivateLink-and-PSC.md) |

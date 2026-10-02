@@ -158,4 +158,4 @@ ajv validate -s schema.json -d data.json
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Comparison Matrices JSON YAML XML TOML](./06-Comparison-Matrices-JSON-YAML-XML-TOML.md) | [README](./README.md) | [08 - Configuration Security Secrets and SOPS](./08-Configuration-Security-Secrets-and-SOPS.md) |
+| [← 06 - Comparison Matrices JSON YAML XML TOML](./06-Comparison-Matrices-JSON-YAML-XML-TOML.md) | [Index](../../../README.md) | [08 - Configuration Security Secrets and SOPS →](./08-Configuration-Security-Secrets-and-SOPS.md) |

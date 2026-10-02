@@ -38,8 +38,9 @@ Contains architecture-independent data:
 - `/usr/share/man`: System manual pages read by `man` command.
 - `/usr/share/doc`: Package documentation and examples.
 - `/usr/share/fonts`: System-wide font files.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - boot](./02-boot.md) | [README](./README.md) | [04 - etc](./04-etc.md) |
+| [← 02 - boot](./02-boot.md) | [Index](../../../README.md) | [04 - etc →](./04-etc.md) |

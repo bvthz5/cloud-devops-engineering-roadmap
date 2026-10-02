@@ -9,4 +9,4 @@ NSGs filter network traffic using 5-tuple rules (Source, Source Port, Destinatio
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - VNet Architecture](./01-Azure-Virtual-Network-VNet-Architecture-and-Subnets.md) | [README](./README.md) | [03 - VNet Peering](./03-VNet-Peering-Global-vs-Local-Peering.md) |
+| [← 01 - Azure Virtual Network VNet Architecture and Subnets](./01-Azure-Virtual-Network-VNet-Architecture-and-Subnets.md) | [Index](../../../README.md) | [03 - VNet Peering Global vs Local Peering →](./03-VNet-Peering-Global-vs-Local-Peering.md) |

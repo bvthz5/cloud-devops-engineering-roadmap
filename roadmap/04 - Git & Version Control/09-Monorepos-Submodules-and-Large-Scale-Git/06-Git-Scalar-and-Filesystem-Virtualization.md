@@ -21,4 +21,4 @@ scalar register
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Partial Clones](./05-Partial-Clones-Blobless-and-Treeless-Clones.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Partial Clones Blobless and Treeless Clones](./05-Partial-Clones-Blobless-and-Treeless-Clones.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

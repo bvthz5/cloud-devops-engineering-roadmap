@@ -28,4 +28,4 @@ Downloads commits only. Trees and blobs are fetched on-demand. Ideal for single-
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Sparse Checkout](./04-Sparse-Checkout-and-Monorepo-Scaling.md) | [README](./README.md) | [06 - Git Scalar](./06-Git-Scalar-and-Filesystem-Virtualization.md) |
+| [← 04 - Sparse Checkout and Monorepo Scaling](./04-Sparse-Checkout-and-Monorepo-Scaling.md) | [Index](../../../README.md) | [06 - Git Scalar and Filesystem Virtualization →](./06-Git-Scalar-and-Filesystem-Virtualization.md) |

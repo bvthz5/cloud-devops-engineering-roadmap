@@ -86,4 +86,4 @@ The supplied source covers `crontab -e`, `crontab -l`, `crontab -r`, comments fo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - What Is Cron](./01-What-Is-Cron.md) | [README](./README.md) | [03 - Cron Syntax](./03-Cron-Syntax.md) |
+| [← 01 - What Is Cron](./01-What-Is-Cron.md) | [Index](../../../README.md) | [03 - Cron Syntax →](./03-Cron-Syntax.md) |

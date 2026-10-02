@@ -99,4 +99,4 @@ Use the **Sticky Bit**. This is exactly how `/tmp` works.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Changing Ownership chown chgrp](./08-Changing-Ownership-chown-chgrp.md) | [README](./README.md) | [10 - Permission Troubleshooting](./10-Permission-Troubleshooting.md) |
+| [← 08 - Changing Ownership chown chgrp](./08-Changing-Ownership-chown-chgrp.md) | [Index](../../../README.md) | [10 - Permission Troubleshooting →](./10-Permission-Troubleshooting.md) |

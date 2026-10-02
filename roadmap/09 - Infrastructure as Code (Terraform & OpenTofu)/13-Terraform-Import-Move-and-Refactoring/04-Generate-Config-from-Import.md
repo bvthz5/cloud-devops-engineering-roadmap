@@ -27,4 +27,4 @@ terraform apply
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - removed Block](./03-removed-Block-and-State-Surgery.md) | [README](./README.md) | [05 - Large-Scale Migration](./05-Large-Scale-Migration-Strategies.md) |
+| [← 03 - removed Block and State Surgery](./03-removed-Block-and-State-Surgery.md) | [Index](../../../README.md) | [05 - Large Scale Migration Strategies →](./05-Large-Scale-Migration-Strategies.md) |

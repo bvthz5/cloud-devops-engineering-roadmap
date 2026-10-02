@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 06 - Azure Databases](../06-Azure-SQL-CosmosDB-and-Managed-Databases/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (06-Azure-SQL-CosmosDB-and-Managed-Databases) →](../06-Azure-SQL-CosmosDB-and-Managed-Databases/01-Azure-SQL-Database-Single-Elastic-Pool-Managed-Instance.md) |

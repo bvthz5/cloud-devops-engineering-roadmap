@@ -39,8 +39,9 @@ Linux provides standard shorthand symbols recognized across all shells and syste
 | **`~`** | Current user's home | `cd ~/logs` | Resolves to `/home/<username>/logs` (or `/root/logs` for root). |
 | **`~username`** | Specific user's home | `ls ~student` | Resolves to `/home/student`. |
 | **`-`** | Previous working directory | `cd -` | Toggles back to the directory you were previously in. |
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Directory Structure](./02-Directory-Structure.md) | [README](./README.md) | [04 - Important Directories Deep Dive](./04-Important-Directories-Deep-Dive.md) |
+| [← 02 - Directory Structure](./02-Directory-Structure.md) | [Index](../../../README.md) | [04 - Important Directories Deep Dive →](./04-Important-Directories-Deep-Dive.md) |

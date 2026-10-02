@@ -27,4 +27,4 @@ DEVELOPER WORKSTATION                             REMOTE SERVERS
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Binary Problem](./01-The-Large-Binary-File-Problem-in-Git.md) | [README](./README.md) | [03 - Configuring LFS](./03-Configuring-Git-LFS-and-gitattributes.md) |
+| [← 01 - The Large Binary File Problem in Git](./01-The-Large-Binary-File-Problem-in-Git.md) | [Index](../../../README.md) | [03 - Configuring Git LFS and gitattributes →](./03-Configuring-Git-LFS-and-gitattributes.md) |

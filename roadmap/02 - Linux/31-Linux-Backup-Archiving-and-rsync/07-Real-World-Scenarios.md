@@ -19,4 +19,4 @@ Within seconds, rsync wipes out `/var/log`, `/var/lib/docker`, and `/var/mail` b
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Deduplicated Backups](./06-Deduplicated-and-Encrypted-Backups-Borg-Restic.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Deduplicated and Encrypted Backups Borg Restic](./06-Deduplicated-and-Encrypted-Backups-Borg-Restic.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

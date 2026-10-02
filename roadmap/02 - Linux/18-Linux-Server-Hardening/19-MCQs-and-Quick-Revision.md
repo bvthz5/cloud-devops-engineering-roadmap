@@ -33,4 +33,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [18 - Interview Questions and Answers](./18-Interview-Questions-and-Answers.md) | [README](./README.md) | [20 - Commands Cheat Sheet and Checklist](./20-Commands-Cheat-Sheet-and-Checklist.md) |
+| [← 18 - Interview Questions and Answers](./18-Interview-Questions-and-Answers.md) | [Index](../../../README.md) | [20 - Commands Cheat Sheet and Checklist →](./20-Commands-Cheat-Sheet-and-Checklist.md) |

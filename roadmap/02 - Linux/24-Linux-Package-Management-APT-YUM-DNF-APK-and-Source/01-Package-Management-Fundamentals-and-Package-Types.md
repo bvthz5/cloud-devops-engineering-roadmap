@@ -106,4 +106,4 @@ To prevent Man-in-the-Middle (MITM) attacks and malicious package tampering:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - APT and DPKG Deep Dive Debian Ubuntu](./02-APT-and-DPKG-Deep-Dive-Debian-Ubuntu.md) |
+| [← Prev Module (23-Free-SSL-Certificate-Lets-Encrypt-Certbot)](../23-Free-SSL-Certificate-Lets-Encrypt-Certbot/SOURCE.md) | [Index](../../../README.md) | [02 - APT and DPKG Deep Dive Debian Ubuntu →](./02-APT-and-DPKG-Deep-Dive-Debian-Ubuntu.md) |

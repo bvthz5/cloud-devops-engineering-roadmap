@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - GCP Global VPC Architecture Auto vs Custom Subnets](./01-GCP-Global-VPC-Architecture-Auto-vs-Custom-Subnets.md) | [Index](../../../README.md) | [03 - Shared VPC Host and Service Project Architecture →](./03-Shared-VPC-Host-and-Service-Project-Architecture.md) |

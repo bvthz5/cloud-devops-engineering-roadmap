@@ -20,3 +20,9 @@ Workload Identity Federation leverages standard **OpenID Connect (OIDC)** or SAM
 ### Q3: How do private carrier hubs like Equinix Fabric reduce multi-cloud egress costs?
 **Answer**:
 Traversing public internet endpoints between AWS, Azure, and GCP incurs full internet egress pricing (\$0.08–\$0.12 per GB). Connecting cloud providers via private cloud interconnects (AWS DirectConnect, Azure ExpressRoute, GCP Interconnect) via a carrier hub like Equinix or Megaport reduces egress rates to \$0.02 per GB while lowering latency and improving throughput.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

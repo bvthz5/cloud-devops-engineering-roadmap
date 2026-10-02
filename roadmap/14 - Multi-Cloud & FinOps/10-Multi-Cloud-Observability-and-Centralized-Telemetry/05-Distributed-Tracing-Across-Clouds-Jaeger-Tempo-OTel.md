@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Unified Metrics and Alerting Prometheus Thanos and Cortex](./04-Unified-Metrics-and-Alerting-Prometheus-Thanos-and-Cortex.md) | [Index](../../../README.md) | [06 - Datadog Dynatrace and New Relic Multi Cloud APM →](./06-Datadog-Dynatrace-and-New-Relic-Multi-Cloud-APM.md) |

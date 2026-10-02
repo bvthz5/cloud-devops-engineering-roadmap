@@ -72,4 +72,4 @@ In this example, `systemd` spawned `sshd` (the SSH server). When you connected, 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Process States](./02-Process-States.md) |
+| [← Prev Module (13-Linux-File-Permissions-and-Ownership)](../13-Linux-File-Permissions-and-Ownership/SOURCE.md) | [Index](../../../README.md) | [02 - Process States →](./02-Process-States.md) |

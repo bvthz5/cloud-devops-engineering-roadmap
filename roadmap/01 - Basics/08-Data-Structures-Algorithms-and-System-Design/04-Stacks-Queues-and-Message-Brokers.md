@@ -31,4 +31,4 @@ Queues and stacks govern inter-process communication, asynchronous task decoupli
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Consistent Hashing](./03-Consistent-Hashing-in-Distributed-Systems.md) | [README](./README.md) | [05 - Trees, Graphs & DAGs](./05-Trees-and-Graph-Data-Structures.md) |
+| [← 03 - Consistent Hashing in Distributed Systems](./03-Consistent-Hashing-in-Distributed-Systems.md) | [Index](../../../README.md) | [05 - Trees and Graph Data Structures →](./05-Trees-and-Graph-Data-Structures.md) |

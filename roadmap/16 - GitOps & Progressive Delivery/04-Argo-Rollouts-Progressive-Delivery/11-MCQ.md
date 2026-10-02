@@ -34,3 +34,9 @@ How does Kustomize apply environment-specific configuration changes without usin
 - [ ] D) By importing Helm values files
 
 *Explanation: Kustomize uses template-free overlay patches to modify base manifests per environment.*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

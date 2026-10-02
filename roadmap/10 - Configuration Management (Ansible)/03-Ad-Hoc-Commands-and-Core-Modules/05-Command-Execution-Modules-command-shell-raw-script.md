@@ -11,4 +11,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - User & Security Modules](./04-User-and-Security-Modules-user-group-authorized_key-copy.md) | [README](./README.md) | [06 - Utility Modules](./06-Network-and-Utility-Modules-ping-uri-get_url-stat.md) |
+| [← 04 - User and Security Modules user group authorized_key copy](./04-User-and-Security-Modules-user-group-authorized_key-copy.md) | [Index](../../../README.md) | [06 - Network and Utility Modules ping uri get_url stat →](./06-Network-and-Utility-Modules-ping-uri-get_url-stat.md) |

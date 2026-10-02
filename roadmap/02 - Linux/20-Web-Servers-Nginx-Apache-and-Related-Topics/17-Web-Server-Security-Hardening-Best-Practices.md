@@ -45,4 +45,4 @@ Integrate ModSecurity with OWASP Core Rule Set (CRS) to block SQL Injection (SQL
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - HTTP Status Codes and Troubleshooting 502 504 403](./16-HTTP-Status-Codes-and-Troubleshooting-502-504-403.md) | [README](./README.md) | [18 - Hands On Lab Ubuntu Nginx Reverse Proxy Setup](./18-Hands-On-Lab-Ubuntu-Nginx-Reverse-Proxy-Setup.md) |
+| [← 16 - HTTP Status Codes and Troubleshooting 502 504 403](./16-HTTP-Status-Codes-and-Troubleshooting-502-504-403.md) | [Index](../../../README.md) | [18 - Hands On Lab Ubuntu Nginx Reverse Proxy Setup →](./18-Hands-On-Lab-Ubuntu-Nginx-Reverse-Proxy-Setup.md) |

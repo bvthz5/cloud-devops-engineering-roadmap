@@ -11,4 +11,4 @@ curl -X POST https://awx.example.com/api/v2/job_templates/42/launch/ \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - RBAC & Access Control](./04-RBAC-Organizations-Teams-and-Access-Control.md) | [README](./README.md) | [06 - Credential Management in AWX](./06-Credential-Management-and-Secret-Stores-in-AWX.md) |
+| [← 04 - RBAC Organizations Teams and Access Control](./04-RBAC-Organizations-Teams-and-Access-Control.md) | [Index](../../../README.md) | [06 - Credential Management and Secret Stores in AWX →](./06-Credential-Management-and-Secret-Stores-in-AWX.md) |

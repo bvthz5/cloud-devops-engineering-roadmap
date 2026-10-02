@@ -59,8 +59,9 @@ In Linux, hardware devices are accessed as files called **Device Nodes** inside 
 # Create a blank 100MB file filled with zero-bytes
 dd if=/dev/zero of=testfile.img bs=1M count=100
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - tmp and run](./08-tmp-and-run.md) | [README](./README.md) | [10 - mnt media and data](./10-mnt-media-and-data.md) |
+| [← 08 - tmp and run](./08-tmp-and-run.md) | [Index](../../../README.md) | [10 - mnt media and data →](./10-mnt-media-and-data.md) |

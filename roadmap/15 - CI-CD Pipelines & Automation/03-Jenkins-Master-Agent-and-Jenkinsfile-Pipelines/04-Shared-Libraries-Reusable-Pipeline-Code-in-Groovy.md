@@ -91,3 +91,9 @@ pipeline {
 - [GitHub Actions Official Documentation](https://docs.github.com/en/actions)
 - [GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)
 - [Jenkins User Handbook](https://www.jenkins.io/doc/book/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Jenkins Kubernetes Plugin Dynamic Pod Agents](./03-Jenkins-Kubernetes-Plugin-Dynamic-Pod-Agents.md) | [Index](../../../README.md) | [05 - Jenkins Credentials Management and Secret Masking →](./05-Jenkins-Credentials-Management-and-Secret-Masking.md) |

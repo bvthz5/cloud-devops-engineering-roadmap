@@ -18,4 +18,4 @@ Overlay networks span multiple physical Docker or Kubernetes nodes:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Host, None & Macvlan](./05-Host-None-and-Macvlan-Networking.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Host None and Macvlan Networking](./05-Host-None-and-Macvlan-Networking.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

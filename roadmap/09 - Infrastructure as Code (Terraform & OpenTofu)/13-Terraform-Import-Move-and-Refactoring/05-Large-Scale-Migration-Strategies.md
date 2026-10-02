@@ -34,4 +34,4 @@ Phase 4: Organize
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Generate Config](./04-Generate-Config-from-Import.md) | [README](./README.md) | [06 - Refactoring Patterns](./06-Refactoring-Patterns-and-Best-Practices.md) |
+| [← 04 - Generate Config from Import](./04-Generate-Config-from-Import.md) | [Index](../../../README.md) | [06 - Refactoring Patterns and Best Practices →](./06-Refactoring-Patterns-and-Best-Practices.md) |

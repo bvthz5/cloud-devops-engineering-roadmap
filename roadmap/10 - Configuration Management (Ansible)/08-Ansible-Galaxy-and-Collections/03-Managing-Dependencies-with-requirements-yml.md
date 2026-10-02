@@ -22,4 +22,4 @@ ansible-galaxy install -r requirements.yml
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Collections Architecture](./02-Ansible-Collections-Namespace-Collection-Name-Structure.md) | [README](./README.md) | [04 - Custom Collections](./04-Building-Publishing-and-Hosting-Custom-Collections.md) |
+| [← 02 - Ansible Collections Namespace Collection Name Structure](./02-Ansible-Collections-Namespace-Collection-Name-Structure.md) | [Index](../../../README.md) | [04 - Building Publishing and Hosting Custom Collections →](./04-Building-Publishing-and-Hosting-Custom-Collections.md) |

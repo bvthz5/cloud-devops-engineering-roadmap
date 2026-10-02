@@ -80,8 +80,9 @@ echo $SHELL
 # Print active shell process name
 ps -p $$ -o comm=
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Shebang & Permissions](./02-Shebang-Execution-and-Permissions.md) |
+| [← Prev Module (20-Web-Servers-Nginx-Apache-and-Related-Topics)](../20-Web-Servers-Nginx-Apache-and-Related-Topics/SOURCE.md) | [Index](../../../README.md) | [02 - Shebang Execution and Permissions →](./02-Shebang-Execution-and-Permissions.md) |

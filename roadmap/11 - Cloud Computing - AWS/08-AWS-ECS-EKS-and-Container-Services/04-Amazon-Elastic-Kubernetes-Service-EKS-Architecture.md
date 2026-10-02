@@ -6,4 +6,4 @@ Managed Kubernetes control plane deployed across 3 AZs. Worker nodes can be Mana
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - AWS Fargate](./03-AWS-Fargate-Serverless-Container-Compute.md) | [README](./README.md) | [05 - EKS IRSA & VPC CNI](./05-EKS-Networking-VPC-CNI-and-IAM-Roles-for-Service-Accounts-IRSA.md) |
+| [← 03 - AWS Fargate Serverless Container Compute](./03-AWS-Fargate-Serverless-Container-Compute.md) | [Index](../../../README.md) | [05 - EKS Networking VPC CNI and IAM Roles for Service Accounts IRSA →](./05-EKS-Networking-VPC-CNI-and-IAM-Roles-for-Service-Accounts-IRSA.md) |

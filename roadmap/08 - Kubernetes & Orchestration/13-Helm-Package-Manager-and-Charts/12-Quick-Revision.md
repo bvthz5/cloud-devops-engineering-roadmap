@@ -17,4 +17,4 @@ helm uninstall <release>
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 14 - CNI & NetworkPolicies](../14-Kubernetes-Networking-CNI-and-NetworkPolicies/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (14-Kubernetes-Networking-CNI-and-NetworkPolicies) →](../14-Kubernetes-Networking-CNI-and-NetworkPolicies/01-Kubernetes-Networking-Model-and-IP-per-Pod-Rule.md) |

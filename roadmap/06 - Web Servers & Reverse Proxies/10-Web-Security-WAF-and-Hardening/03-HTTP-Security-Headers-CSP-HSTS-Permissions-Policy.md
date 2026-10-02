@@ -38,4 +38,4 @@ server_tokens off;
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - ModSecurity & Coraza with OWASP CRS](./02-ModSecurity-and-Coraza-with-OWASP-CRS.md) | [README](./README.md) | [04 - Mitigating HTTP Request Smuggling](./04-Mitigating-HTTP-Request-Smuggling-and-Splitting.md) |
+| [← 02 - ModSecurity and Coraza with OWASP CRS](./02-ModSecurity-and-Coraza-with-OWASP-CRS.md) | [Index](../../../README.md) | [04 - Mitigating HTTP Request Smuggling and Splitting →](./04-Mitigating-HTTP-Request-Smuggling-and-Splitting.md) |

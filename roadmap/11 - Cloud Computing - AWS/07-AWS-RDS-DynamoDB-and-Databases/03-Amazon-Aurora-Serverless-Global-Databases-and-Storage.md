@@ -9,4 +9,4 @@ Aurora separates compute and storage layers. Storage is replicated 6 ways across
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Multi-AZ & Read Replicas](./02-RDS-High-Availability-Multi-AZ-and-Read-Replicas.md) | [README](./README.md) | [04 - DynamoDB NoSQL](./04-DynamoDB-NoSQL-Partition-Keys-GSIs-LSIs-and-Streams.md) |
+| [← 02 - RDS High Availability Multi AZ and Read Replicas](./02-RDS-High-Availability-Multi-AZ-and-Read-Replicas.md) | [Index](../../../README.md) | [04 - DynamoDB NoSQL Partition Keys GSIs LSIs and Streams →](./04-DynamoDB-NoSQL-Partition-Keys-GSIs-LSIs-and-Streams.md) |

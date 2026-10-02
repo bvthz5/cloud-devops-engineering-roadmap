@@ -52,4 +52,4 @@ module "vpc" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Module Inputs & Outputs](./02-Module-Inputs-Outputs-and-Composition.md) | [README](./README.md) | [04 - Design Patterns](./04-Module-Design-Patterns-and-Best-Practices.md) |
+| [← 02 - Module Inputs Outputs and Composition](./02-Module-Inputs-Outputs-and-Composition.md) | [Index](../../../README.md) | [04 - Module Design Patterns and Best Practices →](./04-Module-Design-Patterns-and-Best-Practices.md) |

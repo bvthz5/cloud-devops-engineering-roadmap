@@ -55,4 +55,4 @@ auth required pam_faillock.so preauth silent audit deny=5 unlock_time=900
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - User and Account Security](./03-User-and-Account-Security.md) | [README](./README.md) | [05 - SSH Hardening](./05-SSH-Hardening.md) |
+| [← 03 - User and Account Security](./03-User-and-Account-Security.md) | [Index](../../../README.md) | [05 - SSH Hardening →](./05-SSH-Hardening.md) |

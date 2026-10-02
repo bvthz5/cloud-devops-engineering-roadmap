@@ -19,4 +19,4 @@ Every time CI/CD rolled out a new version of the API deployment, user-facing err
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Lifecycle Hooks](./06-Container-Lifecycle-Hooks-PostStart-and-PreStop.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Container Lifecycle Hooks PostStart and PreStop](./06-Container-Lifecycle-Hooks-PostStart-and-PreStop.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

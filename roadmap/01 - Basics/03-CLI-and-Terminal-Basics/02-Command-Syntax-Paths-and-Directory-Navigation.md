@@ -137,4 +137,4 @@ popd
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Terminal vs Shell and Shell Flavors](./01-Terminal-vs-Shell-and-Shell-Flavors.md) | [README](./README.md) | [03 - PATH Command Resolution Builtins and Aliases](./03-PATH-Command-Resolution-Builtins-and-Aliases.md) |
+| [← 01 - Terminal vs Shell and Shell Flavors](./01-Terminal-vs-Shell-and-Shell-Flavors.md) | [Index](../../../README.md) | [03 - PATH Command Resolution Builtins and Aliases →](./03-PATH-Command-Resolution-Builtins-and-Aliases.md) |

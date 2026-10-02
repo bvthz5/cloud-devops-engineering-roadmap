@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 09 - AWS Lambda & Serverless](../09-AWS-Lambda-and-Serverless/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (09-AWS-Lambda-and-Serverless) →](../09-AWS-Lambda-and-Serverless/01-AWS-Lambda-Architecture-and-Execution-Environment.md) |

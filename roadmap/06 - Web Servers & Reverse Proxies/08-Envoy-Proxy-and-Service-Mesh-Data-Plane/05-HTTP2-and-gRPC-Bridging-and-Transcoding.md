@@ -26,4 +26,4 @@ http_filters:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Resilience & Circuit Breaking](./04-Resilience-Circuit-Breaking-and-Outlier-Detection.md) | [README](./README.md) | [06 - Observability & Access Logs](./06-Observability-OpenTelemetry-and-Envoy-Access-Logs.md) |
+| [← 04 - Resilience Circuit Breaking and Outlier Detection](./04-Resilience-Circuit-Breaking-and-Outlier-Detection.md) | [Index](../../../README.md) | [06 - Observability OpenTelemetry and Envoy Access Logs →](./06-Observability-OpenTelemetry-and-Envoy-Access-Logs.md) |

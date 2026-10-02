@@ -6,4 +6,4 @@ Override Azure default system routes to force traffic through a Network Virtual 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - VNet Peering](./03-VNet-Peering-Global-vs-Local-Peering.md) | [README](./README.md) | [05 - Azure Bastion & Private Endpoints](./05-Azure-Bastion-and-Private-Endpoints.md) |
+| [← 03 - VNet Peering Global vs Local Peering](./03-VNet-Peering-Global-vs-Local-Peering.md) | [Index](../../../README.md) | [05 - Azure Bastion and Private Endpoints →](./05-Azure-Bastion-and-Private-Endpoints.md) |

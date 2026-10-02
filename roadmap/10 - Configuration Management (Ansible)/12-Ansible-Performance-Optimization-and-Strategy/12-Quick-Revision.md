@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 13 - CI/CD & GitOps](../13-Ansible-CICD-Pipelines-and-GitOps/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (13-Ansible-CICD-Pipelines-and-GitOps) →](../13-Ansible-CICD-Pipelines-and-GitOps/01-Ansible-in-CI-CD-Pipeline-Architecture.md) |

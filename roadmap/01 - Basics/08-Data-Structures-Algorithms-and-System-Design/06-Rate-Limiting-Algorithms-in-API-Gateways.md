@@ -25,4 +25,4 @@ Rate limiting protects backend systems from being overwhelmed by API abuse, cred
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Trees, Graphs & DAGs](./05-Trees-and-Graph-Data-Structures.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Trees and Graph Data Structures](./05-Trees-and-Graph-Data-Structures.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Performance Profiling](./01-Ansible-Performance-Bottlenecks-and-Profiling.md) | [README](./README.md) | [03 - SSH Pipelining](./03-SSH-Pipelining-ControlMaster-and-Connection-Plugins.md) |
+| [← 01 - Ansible Performance Bottlenecks and Profiling](./01-Ansible-Performance-Bottlenecks-and-Profiling.md) | [Index](../../../README.md) | [03 - SSH Pipelining ControlMaster and Connection Plugins →](./03-SSH-Pipelining-ControlMaster-and-Connection-Plugins.md) |

@@ -26,4 +26,4 @@ fatal: loose object 4b825dc... is corrupt
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - SHA-1 to SHA-256](./06-Cryptographic-Integrity-SHA1-to-SHA256-Migration.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Cryptographic Integrity SHA1 to SHA256 Migration](./06-Cryptographic-Integrity-SHA1-to-SHA256-Migration.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -141,4 +141,4 @@ The engineer commits the file to a public GitHub repository. Within 4 minutes, a
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Configuration Security Secrets and SOPS](./08-Configuration-Security-Secrets-and-SOPS.md) | [README](./README.md) | [10 - Troubleshooting](./10-Troubleshooting.md) |
+| [← 08 - Configuration Security Secrets and SOPS](./08-Configuration-Security-Secrets-and-SOPS.md) | [Index](../../../README.md) | [10 - Troubleshooting →](./10-Troubleshooting.md) |

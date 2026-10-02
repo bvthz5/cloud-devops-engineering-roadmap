@@ -11,4 +11,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 19 - Cluster Backup & Velero](../19-Cluster-Backup-Disaster-Recovery-and-Velero/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (19-Cluster-Backup-Disaster-Recovery-and-Velero) →](../19-Cluster-Backup-Disaster-Recovery-and-Velero/01-Kubernetes-Disaster-Recovery-Strategy-RTO-and-RPO.md) |

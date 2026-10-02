@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Etcd Backup & Restore](./02-Etcd-Backup-Snapshot-Save-and-Disaster-Restore.md) |
+| [← Prev Module (18-Gateway-API-and-Modern-Traffic-Routing)](../18-Gateway-API-and-Modern-Traffic-Routing/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Etcd Backup Snapshot Save and Disaster Restore →](./02-Etcd-Backup-Snapshot-Save-and-Disaster-Restore.md) |

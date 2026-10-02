@@ -26,4 +26,4 @@ To run handlers immediately mid-play:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Idempotency](./02-Idempotency-Principles-and-Changed-Status.md) | [README](./README.md) | [04 - Conditionals](./04-Conditionals-when-failed_when-changed_when.md) |
+| [← 02 - Idempotency Principles and Changed Status](./02-Idempotency-Principles-and-Changed-Status.md) | [Index](../../../README.md) | [04 - Conditionals when failed_when changed_when →](./04-Conditionals-when-failed_when-changed_when.md) |

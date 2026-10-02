@@ -32,8 +32,9 @@ An e-commerce retailer running automated serverless scaling on AWS noticed sever
 ### Solution:
 Migrated microservices to Alpine Linux containers (~15 MB image size).
 - Linux container cold-start boot time: **< 1 second**.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Practical Commands and Tools](./08-Practical-Commands-and-Tools.md) | [README](./README.md) | [10 - Troubleshooting](./10-Troubleshooting.md) |
+| [← 08 - Practical Commands and Tools](./08-Practical-Commands-and-Tools.md) | [Index](../../../README.md) | [10 - Troubleshooting →](./10-Troubleshooting.md) |

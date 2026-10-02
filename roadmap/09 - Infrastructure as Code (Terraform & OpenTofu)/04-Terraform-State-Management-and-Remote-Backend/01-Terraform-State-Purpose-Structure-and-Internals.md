@@ -79,4 +79,4 @@ terraform apply
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Remote Backends](./02-Remote-State-Backends-S3-GCS-AzureRM-Consul.md) |
+| [← Prev Module (03-HCL-Syntax-Variables-and-Outputs)](../03-HCL-Syntax-Variables-and-Outputs/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Remote State Backends S3 GCS AzureRM Consul →](./02-Remote-State-Backends-S3-GCS-AzureRM-Consul.md) |

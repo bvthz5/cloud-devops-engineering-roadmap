@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - S3 Encryption](./05-S3-Encryption-SSE-S3-SSE-KMS-SSE-C-and-Client-Side.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - S3 Encryption SSE S3 SSE KMS SSE C and Client Side](./05-S3-Encryption-SSE-S3-SSE-KMS-SSE-C-and-Client-Side.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

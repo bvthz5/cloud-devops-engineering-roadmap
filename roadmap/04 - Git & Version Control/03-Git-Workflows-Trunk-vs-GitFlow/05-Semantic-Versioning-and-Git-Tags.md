@@ -37,4 +37,4 @@ git show v1.2.0
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Feature Flags](./04-Feature-Flags-Decoupling-Deploy-from-Release.md) | [README](./README.md) | [06 - Enterprise Branching](./06-Designing-Enterprise-Branching-Strategies.md) |
+| [← 04 - Feature Flags Decoupling Deploy from Release](./04-Feature-Flags-Decoupling-Deploy-from-Release.md) | [Index](../../../README.md) | [06 - Designing Enterprise Branching Strategies →](./06-Designing-Enterprise-Branching-Strategies.md) |

@@ -41,4 +41,4 @@ location / {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - DDoS Mitigation & Slowloris](./05-DDoS-Mitigation-Slowloris-and-Flood-Protection.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - DDoS Mitigation Slowloris and Flood Protection](./05-DDoS-Mitigation-Slowloris-and-Flood-Protection.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

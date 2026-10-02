@@ -72,4 +72,4 @@ func getKubernetesClient() (*kubernetes.Clientset, error) {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Informers, Listers & Workqueue](./02-Informers-Listers-and-the-Workqueue-Pattern.md) |
+| [← Prev Module (08-Testing-and-Quality-for-DevOps-Code)](../08-Testing-and-Quality-for-DevOps-Code/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Informers Listers and the Workqueue Pattern →](./02-Informers-Listers-and-the-Workqueue-Pattern.md) |

@@ -57,4 +57,4 @@ Once you are comfortable with `wget` and `curl`, you will encounter situations w
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - Quick Revision](./16-Quick-Revision.md) | [README](./README.md) | [README (Index)](./README.md) |
+| [← 16 - Quick Revision](./16-Quick-Revision.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

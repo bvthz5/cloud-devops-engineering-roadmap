@@ -11,4 +11,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 16 - Troubleshooting & Debugging](../16-Kubernetes-Troubleshooting-and-Debugging/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (16-Kubernetes-Troubleshooting-and-Debugging) →](../16-Kubernetes-Troubleshooting-and-Debugging/01-Pod-Failure-States-CrashLoopBackOff-OOMKilled-ImagePullBackOff.md) |

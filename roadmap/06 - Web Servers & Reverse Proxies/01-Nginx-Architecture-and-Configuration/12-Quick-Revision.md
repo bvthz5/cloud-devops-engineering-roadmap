@@ -35,4 +35,4 @@ add_header X-XSS-Protection "1; mode=block" always;
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [02 - Apache HTTP Server](../02-Apache-HTTP-Server/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (02-Apache-HTTP-Server) →](../02-Apache-HTTP-Server/01-Multi-Processing-Modules-MPM-Prefork-Worker-and-Event.md) |

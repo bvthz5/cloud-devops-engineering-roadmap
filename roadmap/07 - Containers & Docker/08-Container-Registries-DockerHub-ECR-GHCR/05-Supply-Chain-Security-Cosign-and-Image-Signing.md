@@ -18,4 +18,4 @@ cosign verify --key cosign.pub myregistry.com/api:v1.2.0
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Authentication & IAM](./04-Authentication-IAM-Roles-and-Token-Exchanges.md) | [README](./README.md) | [06 - Storage Optimization & GC](./06-Registry-Storage-Optimization-and-Garbage-Collection.md) |
+| [← 04 - Authentication IAM Roles and Token Exchanges](./04-Authentication-IAM-Roles-and-Token-Exchanges.md) | [Index](../../../README.md) | [06 - Registry Storage Optimization and Garbage Collection →](./06-Registry-Storage-Optimization-and-Garbage-Collection.md) |

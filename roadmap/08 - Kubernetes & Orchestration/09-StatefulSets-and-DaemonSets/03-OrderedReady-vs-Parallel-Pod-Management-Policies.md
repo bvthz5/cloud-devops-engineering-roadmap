@@ -20,4 +20,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - VolumeClaimTemplates](./02-VolumeClaimTemplates-and-Per-Replica-Storage.md) | [README](./README.md) | [04 - Clustered DB Patterns](./04-Clustered-Database-Deployment-Patterns-MySQL-Postgres.md) |
+| [← 02 - VolumeClaimTemplates and Per Replica Storage](./02-VolumeClaimTemplates-and-Per-Replica-Storage.md) | [Index](../../../README.md) | [04 - Clustered Database Deployment Patterns MySQL Postgres →](./04-Clustered-Database-Deployment-Patterns-MySQL-Postgres.md) |

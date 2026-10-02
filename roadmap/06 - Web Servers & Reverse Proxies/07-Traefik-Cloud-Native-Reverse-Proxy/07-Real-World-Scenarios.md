@@ -30,4 +30,4 @@ services:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Observability & Dashboard](./06-Observability-Tracing-and-Dashboard.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Observability Tracing and Dashboard](./06-Observability-Tracing-and-Dashboard.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

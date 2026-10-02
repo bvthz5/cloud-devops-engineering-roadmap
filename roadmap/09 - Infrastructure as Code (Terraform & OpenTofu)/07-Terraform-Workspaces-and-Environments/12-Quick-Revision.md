@@ -23,4 +23,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 08 - Terragrunt](../08-Terragrunt-and-DRY-Configurations/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (08-Terragrunt-and-DRY-Configurations) →](../08-Terragrunt-and-DRY-Configurations/01-Terragrunt-Architecture-and-Purpose.md) |

@@ -31,4 +31,4 @@ docker run -d --net corp_lan --ip 192.168.1.55 myapp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Port Publishing vs Exposing](./04-Port-Publishing-vs-Exposing-and-iptables.md) | [README](./README.md) | [06 - Overlay Networks & VXLAN](./06-Overlay-Networks-and-Multi-Host-VXLAN.md) |
+| [← 04 - Port Publishing vs Exposing and iptables](./04-Port-Publishing-vs-Exposing-and-iptables.md) | [Index](../../../README.md) | [06 - Overlay Networks and Multi Host VXLAN →](./06-Overlay-Networks-and-Multi-Host-VXLAN.md) |

@@ -57,4 +57,4 @@ This is the most common frustration for junior engineers. Postman hides a lot of
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - DevOps CI CD Scenarios](./11-DevOps-CI-CD-Scenarios.md) | [README](./README.md) | [13 - Interview QA](./13-Interview-QA.md) |
+| [← 11 - DevOps CI CD Scenarios](./11-DevOps-CI-CD-Scenarios.md) | [Index](../../../README.md) | [13 - Interview QA →](./13-Interview-QA.md) |

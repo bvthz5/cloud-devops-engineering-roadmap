@@ -43,4 +43,4 @@ cgroups v2 (Modern Unified Hierarchy):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Linux Namespaces](./01-Linux-Kernel-Namespaces-Deep-Dive.md) | [README](./README.md) | [03 - Filesystem Isolation](./03-Filesystem-Isolation-chroot-to-pivot-root.md) |
+| [← 01 - Linux Kernel Namespaces Deep Dive](./01-Linux-Kernel-Namespaces-Deep-Dive.md) | [Index](../../../README.md) | [03 - Filesystem Isolation chroot to pivot root →](./03-Filesystem-Isolation-chroot-to-pivot-root.md) |

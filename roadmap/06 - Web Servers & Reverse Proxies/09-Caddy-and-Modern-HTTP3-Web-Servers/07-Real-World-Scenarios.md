@@ -23,4 +23,4 @@ Caddy queries the backend first; if the domain is not in the customer database (
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Caddy Ingress & Edge Proxy](./06-Caddy-as-a-Kubernetes-Ingress-and-Container-Edge.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Caddy as a Kubernetes Ingress and Container Edge](./06-Caddy-as-a-Kubernetes-Ingress-and-Container-Edge.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

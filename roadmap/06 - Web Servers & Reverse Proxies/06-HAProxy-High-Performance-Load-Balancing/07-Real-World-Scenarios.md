@@ -21,4 +21,4 @@ In Master-Worker mode, the master process holds the open listening sockets conti
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Dynamic Reconfiguration](./06-Dynamic-Reconfiguration-Runtime-API-and-Data-Plane-API.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Dynamic Reconfiguration Runtime API and Data Plane API](./06-Dynamic-Reconfiguration-Runtime-API-and-Data-Plane-API.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -6,4 +6,4 @@ Managing corporate server configuration strictly via Git PR approvals and automa
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Dry-Run Policy Enforcement](./06-Dry-Run-Policy-Enforcement-and-PR-Validation.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Dry Run Policy Enforcement and PR Validation](./06-Dry-Run-Policy-Enforcement-and-PR-Validation.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

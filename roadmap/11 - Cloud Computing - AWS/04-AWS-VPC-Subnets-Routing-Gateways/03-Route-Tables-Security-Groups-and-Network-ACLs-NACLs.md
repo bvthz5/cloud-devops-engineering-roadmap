@@ -11,4 +11,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Gateways](./02-Internet-Gateways-NAT-Gateways-and-Egress-Only-IGW.md) | [README](./README.md) | [04 - VPC Peering & Transit Gateway](./04-VPC-Peering-and-AWS-Transit-Gateway.md) |
+| [← 02 - Internet Gateways NAT Gateways and Egress Only IGW](./02-Internet-Gateways-NAT-Gateways-and-Egress-Only-IGW.md) | [Index](../../../README.md) | [04 - VPC Peering and AWS Transit Gateway →](./04-VPC-Peering-and-AWS-Transit-Gateway.md) |

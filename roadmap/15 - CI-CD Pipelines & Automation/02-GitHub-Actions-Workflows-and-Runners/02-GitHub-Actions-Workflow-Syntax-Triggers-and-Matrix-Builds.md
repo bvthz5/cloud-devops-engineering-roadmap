@@ -91,3 +91,9 @@ pipeline {
 - [GitHub Actions Official Documentation](https://docs.github.com/en/actions)
 - [GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)
 - [Jenkins User Handbook](https://www.jenkins.io/doc/book/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - GitHub Actions Architecture Events Jobs Steps and Runners](./01-GitHub-Actions-Architecture-Events-Jobs-Steps-and-Runners.md) | [Index](../../../README.md) | [03 - Self Hosted Runners Architecture Auto scaling and Security →](./03-Self-Hosted-Runners-Architecture-Auto-scaling-and-Security.md) |

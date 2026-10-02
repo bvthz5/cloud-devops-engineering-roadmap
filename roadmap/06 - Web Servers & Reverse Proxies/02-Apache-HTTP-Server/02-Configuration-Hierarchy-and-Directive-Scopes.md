@@ -56,4 +56,4 @@ and define all rewrite rules and access controls directly inside `<Directory>` b
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Multi-Processing Modules](./01-Multi-Processing-Modules-MPM-Prefork-Worker-and-Event.md) | [README](./README.md) | [03 - Virtual Hosting & Name-Based Routing](./03-Virtual-Hosting-and-Name-Based-Routing.md) |
+| [← 01 - Multi Processing Modules MPM Prefork Worker and Event](./01-Multi-Processing-Modules-MPM-Prefork-Worker-and-Event.md) | [Index](../../../README.md) | [03 - Virtual Hosting and Name Based Routing →](./03-Virtual-Hosting-and-Name-Based-Routing.md) |

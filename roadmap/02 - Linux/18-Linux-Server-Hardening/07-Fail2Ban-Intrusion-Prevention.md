@@ -47,4 +47,4 @@ sudo fail2ban-client set sshd unbanip 192.168.1.100
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Firewall Configuration UFW NFTables](./06-Firewall-Configuration-UFW-NFTables.md) | [README](./README.md) | [08 - File Permissions and Umask](./08-File-Permissions-and-Umask.md) |
+| [← 06 - Firewall Configuration UFW NFTables](./06-Firewall-Configuration-UFW-NFTables.md) | [Index](../../../README.md) | [08 - File Permissions and Umask →](./08-File-Permissions-and-Umask.md) |

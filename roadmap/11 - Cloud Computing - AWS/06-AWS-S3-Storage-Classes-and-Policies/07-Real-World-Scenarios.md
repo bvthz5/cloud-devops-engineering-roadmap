@@ -6,4 +6,4 @@ Designing a compliant medical data store with S3 Versioning, Object Lock (WORM),
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Versioning & Replication](./06-S3-Versioning-Replication-Cross-Region-Same-Region.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - S3 Versioning Replication Cross Region Same Region](./06-S3-Versioning-Replication-Cross-Region-Same-Region.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -18,4 +18,4 @@ ansible_lint:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - GitHub Actions Pipeline](./02-GitHub-Actions-Pipeline-for-Ansible.md) | [README](./README.md) | [04 - GitOps Workflow with AWX](./04-GitOps-Workflow-with-Ansible-and-AWX-Webhooks.md) |
+| [← 02 - GitHub Actions Pipeline for Ansible](./02-GitHub-Actions-Pipeline-for-Ansible.md) | [Index](../../../README.md) | [04 - GitOps Workflow with Ansible and AWX Webhooks →](./04-GitOps-Workflow-with-Ansible-and-AWX-Webhooks.md) |

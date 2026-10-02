@@ -25,4 +25,4 @@ The PR author can click **"Commit suggestion"** directly from the GitHub UI with
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Forking vs Shared](./02-Forking-Workflow-vs-Shared-Branch-Model.md) | [README](./README.md) | [04 - Branch Protection](./04-Branch-Protection-Rules-and-Merge-Queues.md) |
+| [← 02 - Forking Workflow vs Shared Branch Model](./02-Forking-Workflow-vs-Shared-Branch-Model.md) | [Index](../../../README.md) | [04 - Branch Protection Rules and Merge Queues →](./04-Branch-Protection-Rules-and-Merge-Queues.md) |

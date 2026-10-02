@@ -21,4 +21,4 @@ RPKI provides cryptographic proof of IP prefix ownership:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Kubernetes BGP](./04-BGP-Control-Plane-in-Kubernetes-Calico-and-MetalLB.md) | [README](./README.md) | [06 - OSPF vs BGP](./06-Dynamic-Routing-Protocols-OSPF-vs-BGP.md) |
+| [← 04 - BGP Control Plane in Kubernetes Calico and MetalLB](./04-BGP-Control-Plane-in-Kubernetes-Calico-and-MetalLB.md) | [Index](../../../README.md) | [06 - Dynamic Routing Protocols OSPF vs BGP →](./06-Dynamic-Routing-Protocols-OSPF-vs-BGP.md) |

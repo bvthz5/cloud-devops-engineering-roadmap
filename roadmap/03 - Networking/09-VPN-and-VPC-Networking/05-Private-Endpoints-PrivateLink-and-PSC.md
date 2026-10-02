@@ -26,4 +26,4 @@ In GCP and Azure, Private Service Connect / Private Link allows exposing interna
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Transit Gateways](./04-Transit-Gateways-and-Cloud-Interconnects.md) | [README](./README.md) | [06 - Zero Trust vs VPN](./06-Zero-Trust-Network-Access-ZTNA-vs-Perimeter-VPN.md) |
+| [← 04 - Transit Gateways and Cloud Interconnects](./04-Transit-Gateways-and-Cloud-Interconnects.md) | [Index](../../../README.md) | [06 - Zero Trust Network Access ZTNA vs Perimeter VPN →](./06-Zero-Trust-Network-Access-ZTNA-vs-Perimeter-VPN.md) |

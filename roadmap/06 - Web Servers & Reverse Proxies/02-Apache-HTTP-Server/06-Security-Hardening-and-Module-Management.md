@@ -41,4 +41,4 @@ TraceEnable Off
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Reverse Proxying](./05-Reverse-Proxying-with-mod-proxy.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Reverse Proxying with mod proxy](./05-Reverse-Proxying-with-mod-proxy.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

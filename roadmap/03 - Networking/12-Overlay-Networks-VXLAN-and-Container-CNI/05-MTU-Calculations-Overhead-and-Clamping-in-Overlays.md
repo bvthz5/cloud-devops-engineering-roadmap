@@ -29,4 +29,4 @@ If a Kubernetes Pod is configured with `MTU = 1500` on a VXLAN network:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Major CNIs Compared](./04-Comparing-Major-CNIs-Flannel-Calico-Cilium-AWS-VPC-CNI.md) | [README](./README.md) | [06 - Network Policies](./06-Network-Policies-and-Micro-Segmentation.md) |
+| [← 04 - Comparing Major CNIs Flannel Calico Cilium AWS VPC CNI](./04-Comparing-Major-CNIs-Flannel-Calico-Cilium-AWS-VPC-CNI.md) | [Index](../../../README.md) | [06 - Network Policies and Micro Segmentation →](./06-Network-Policies-and-Micro-Segmentation.md) |

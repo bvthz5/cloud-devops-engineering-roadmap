@@ -42,4 +42,4 @@ In multi-tenant SaaS platforms where thousands of customers point custom CNAME d
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Caddy Architecture](./01-Caddy-Architecture-and-The-Go-Runtime.md) | [README](./README.md) | [03 - Native HTTP/3, QUIC & 0-RTT](./03-Native-HTTP3-QUIC-and-0-RTT.md) |
+| [← 01 - Caddy Architecture and The Go Runtime](./01-Caddy-Architecture-and-The-Go-Runtime.md) | [Index](../../../README.md) | [03 - Native HTTP3 QUIC and 0 RTT →](./03-Native-HTTP3-QUIC-and-0-RTT.md) |

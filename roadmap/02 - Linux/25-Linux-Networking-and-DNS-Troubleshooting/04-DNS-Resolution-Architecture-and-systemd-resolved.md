@@ -101,4 +101,4 @@ dig +short example.com
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Socket and Port Inspection](./03-Socket-and-Port-Inspection-ss-and-netstat.md) | [README](./README.md) | [05 - Packet Analysis and Diagnostics](./05-Packet-Analysis-and-Diagnostics-tcpdump-traceroute-ping.md) |
+| [← 03 - Socket and Port Inspection ss and netstat](./03-Socket-and-Port-Inspection-ss-and-netstat.md) | [Index](../../../README.md) | [05 - Packet Analysis and Diagnostics tcpdump traceroute ping →](./05-Packet-Analysis-and-Diagnostics-tcpdump-traceroute-ping.md) |

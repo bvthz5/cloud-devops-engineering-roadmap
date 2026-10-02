@@ -25,4 +25,4 @@ Kata Containers (Hardware MicroVM):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Low-Level Runtimes](./04-Low-Level-Runtimes-runc-vs-crun-vs-youki.md) | [README](./README.md) | [06 - Dockershim Deprecation Story](./06-The-Dockershim-Deprecation-Story.md) |
+| [← 04 - Low Level Runtimes runc vs crun vs youki](./04-Low-Level-Runtimes-runc-vs-crun-vs-youki.md) | [Index](../../../README.md) | [06 - The Dockershim Deprecation Story →](./06-The-Dockershim-Deprecation-Story.md) |

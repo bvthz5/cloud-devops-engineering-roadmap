@@ -30,4 +30,4 @@ Understanding Linux storage requires visualizing the layer stack from physical h
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - MBR vs GPT Partition Tables](./02-MBR-vs-GPT-Partition-Tables.md) |
+| [← Prev Module (18-Linux-Server-Hardening)](../18-Linux-Server-Hardening/SOURCE.md) | [Index](../../../README.md) | [02 - MBR vs GPT Partition Tables →](./02-MBR-vs-GPT-Partition-Tables.md) |

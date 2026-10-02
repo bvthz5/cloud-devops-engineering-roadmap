@@ -73,4 +73,4 @@ To prevent this issue when configuring `logrotate` for custom logs, use the `cop
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Memory Leaks & OOM Killer](./03-Memory-Leaks-OOM-Killer-and-Swap-Exhaustion.md) | [README](./README.md) | [05 - Inode Exhaustion & Disk I/O](./05-Inode-Exhaustion-and-Disk-IO-Bottlenecks.md) |
+| [← 03 - Memory Leaks OOM Killer and Swap Exhaustion](./03-Memory-Leaks-OOM-Killer-and-Swap-Exhaustion.md) | [Index](../../../README.md) | [05 - Inode Exhaustion and Disk IO Bottlenecks →](./05-Inode-Exhaustion-and-Disk-IO-Bottlenecks.md) |

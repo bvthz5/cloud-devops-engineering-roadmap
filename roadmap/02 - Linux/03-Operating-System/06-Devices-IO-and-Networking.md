@@ -62,8 +62,9 @@ Modern Linux uses **NAPI (New API)**:
 1. First packet triggers a hardware interrupt.
 2. The kernel switches the network driver into **polling mode** to drain the ring buffer.
 3. Once the packet burst subsides, the driver re-enables hardware interrupts.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - File and Storage Management](./05-File-and-Storage-Management.md) | [README](./README.md) | [07 - Kernel User Space System Calls](./07-Kernel-User-Space-System-Calls.md) |
+| [← 05 - File and Storage Management](./05-File-and-Storage-Management.md) | [Index](../../../README.md) | [07 - Kernel User Space System Calls →](./07-Kernel-User-Space-System-Calls.md) |

@@ -22,4 +22,4 @@ helm dependency build ./payment-service
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Go Templates & Values](./03-Go-Templates-Values-yaml-and-Built-in-Objects.md) | [README](./README.md) | [05 - Helm Hooks](./05-Helm-Hooks-and-Lifecycle-Management.md) |
+| [← 03 - Go Templates Values yaml and Built in Objects](./03-Go-Templates-Values-yaml-and-Built-in-Objects.md) | [Index](../../../README.md) | [05 - Helm Hooks and Lifecycle Management →](./05-Helm-Hooks-and-Lifecycle-Management.md) |

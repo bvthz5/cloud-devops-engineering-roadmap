@@ -55,4 +55,4 @@ global
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Configuration Structure](./02-Configuration-Structure-Global-Defaults-Frontend-Backend.md) |
+| [← Prev Module (05-Caching-and-Rate-Limiting)](../05-Caching-and-Rate-Limiting/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Configuration Structure Global Defaults Frontend Backend →](./02-Configuration-Structure-Global-Defaults-Frontend-Backend.md) |

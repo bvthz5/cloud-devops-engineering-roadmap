@@ -36,4 +36,4 @@ chmod 600 ~/.ssh/authorized_keys
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - SSH Protocol Architecture](./01-SSH-Protocol-Architecture-and-Cryptography.md) | [README](./README.md) | [03 - Server Hardening](./03-OpenSSH-Server-Hardening-sshd_config.md) |
+| [← 01 - SSH Protocol Architecture and Cryptography](./01-SSH-Protocol-Architecture-and-Cryptography.md) | [Index](../../../README.md) | [03 - OpenSSH Server Hardening sshd_config →](./03-OpenSSH-Server-Hardening-sshd_config.md) |

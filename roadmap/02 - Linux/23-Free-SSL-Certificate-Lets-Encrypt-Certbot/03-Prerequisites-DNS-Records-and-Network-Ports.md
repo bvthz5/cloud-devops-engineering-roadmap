@@ -30,4 +30,4 @@ host example.com
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Let's Encrypt Architecture](./02-Lets-Encrypt-and-ACME-Protocol-Architecture.md) | [README](./README.md) | [04 - Firewall Setup (UFW & Cloud)](./04-Firewall-Configuration-UFW-and-Cloud-Security-Groups.md) |
+| [← 02 - Lets Encrypt and ACME Protocol Architecture](./02-Lets-Encrypt-and-ACME-Protocol-Architecture.md) | [Index](../../../README.md) | [04 - Firewall Configuration UFW and Cloud Security Groups →](./04-Firewall-Configuration-UFW-and-Cloud-Security-Groups.md) |

@@ -54,4 +54,4 @@ http {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Cache Invalidation & Stale Content](./03-Cache-Invalidation-Bypass-and-Stale-Revalidate.md) | [README](./README.md) | [05 - Connection Limiting & Bandwidth](./05-Connection-Limiting-and-Bandwidth-Throttling.md) |
+| [← 03 - Cache Invalidation Bypass and Stale Revalidate](./03-Cache-Invalidation-Bypass-and-Stale-Revalidate.md) | [Index](../../../README.md) | [05 - Connection Limiting and Bandwidth Throttling →](./05-Connection-Limiting-and-Bandwidth-Throttling.md) |

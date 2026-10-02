@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - GCP Service Accounts User Managed vs Default Service Accounts](./03-GCP-Service-Accounts-User-Managed-vs-Default-Service-Accounts.md) | [Index](../../../README.md) | [05 - Workload Identity Federation AWS Azure GitHub Actions →](./05-Workload-Identity-Federation-AWS-Azure-GitHub-Actions.md) |

@@ -22,4 +22,4 @@ sudo cat /var/lib/rancher/k3s/server/node-token
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Kind & Minikube](./04-Local-Cluster-Setup-with-Kind-and-Minikube.md) | [README](./README.md) | [06 - Bootstrap with Kubeadm](./06-Production-Bootstrap-with-Kubeadm.md) |
+| [← 04 - Local Cluster Setup with Kind and Minikube](./04-Local-Cluster-Setup-with-Kind-and-Minikube.md) | [Index](../../../README.md) | [06 - Production Bootstrap with Kubeadm →](./06-Production-Bootstrap-with-Kubeadm.md) |

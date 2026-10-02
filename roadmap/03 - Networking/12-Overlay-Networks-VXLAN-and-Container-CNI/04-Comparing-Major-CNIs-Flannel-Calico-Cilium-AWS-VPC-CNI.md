@@ -22,4 +22,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - CNI Architecture](./03-Container-Network-Interface-CNI-Architecture.md) | [README](./README.md) | [05 - MTU Overhead](./05-MTU-Calculations-Overhead-and-Clamping-in-Overlays.md) |
+| [← 03 - Container Network Interface CNI Architecture](./03-Container-Network-Interface-CNI-Architecture.md) | [Index](../../../README.md) | [05 - MTU Calculations Overhead and Clamping in Overlays →](./05-MTU-Calculations-Overhead-and-Clamping-in-Overlays.md) |

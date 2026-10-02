@@ -30,4 +30,4 @@ func TestAccUserResource(t *testing.T) {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Resource Implementation](./03-Resource-and-Data-Source-Implementation.md) | [README](./README.md) | [05 - Design Patterns](./05-Provider-Design-Patterns.md) |
+| [← 03 - Resource and Data Source Implementation](./03-Resource-and-Data-Source-Implementation.md) | [Index](../../../README.md) | [05 - Provider Design Patterns →](./05-Provider-Design-Patterns.md) |

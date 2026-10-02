@@ -21,4 +21,4 @@ Client Browser  ======(HTTPS)======>  Cloudflare CDN Edge  ======(HTTP or HTTPS)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Wildcard & SAN Certs](./12-Wildcard-and-Multi-Domain-SAN-Certificates.md) | [README](./README.md) | [14 - SSL/TLS Troubleshooting Guide](./14-SSL-TLS-Troubleshooting-Guide.md) |
+| [← 12 - Wildcard and Multi Domain SAN Certificates](./12-Wildcard-and-Multi-Domain-SAN-Certificates.md) | [Index](../../../README.md) | [14 - SSL TLS Troubleshooting Guide →](./14-SSL-TLS-Troubleshooting-Guide.md) |

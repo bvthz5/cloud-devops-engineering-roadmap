@@ -26,4 +26,4 @@ location / {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [06 - HAProxy Load Balancing](../06-HAProxy-High-Performance-Load-Balancing/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (06-HAProxy-High-Performance-Load-Balancing) →](../06-HAProxy-High-Performance-Load-Balancing/01-HAProxy-Architecture-and-Event-Driven-Engine.md) |

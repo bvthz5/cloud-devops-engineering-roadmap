@@ -41,4 +41,4 @@ Create `/etc/logrotate.d/nginx`:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - rsyslog Configuration](./02-rsyslog-Configuration-and-Remote-Forwarding.md) | [README](./README.md) | [04 - copytruncate vs create](./04-copytruncate-vs-create-Signals.md) |
+| [← 02 - rsyslog Configuration and Remote Forwarding](./02-rsyslog-Configuration-and-Remote-Forwarding.md) | [Index](../../../README.md) | [04 - copytruncate vs create Signals →](./04-copytruncate-vs-create-Signals.md) |

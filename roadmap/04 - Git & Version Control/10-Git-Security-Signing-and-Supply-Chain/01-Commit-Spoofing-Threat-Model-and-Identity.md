@@ -22,4 +22,4 @@ Attackers impersonate trusted maintainers, slip vulnerabilities into dependencie
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Cryptographic Signing](./02-Cryptographic-Signing-with-GPG-and-SSH-Keys.md) |
+| [← Prev Module (09-Monorepos-Submodules-and-Large-Scale-Git)](../09-Monorepos-Submodules-and-Large-Scale-Git/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Cryptographic Signing with GPG and SSH Keys →](./02-Cryptographic-Signing-with-GPG-and-SSH-Keys.md) |

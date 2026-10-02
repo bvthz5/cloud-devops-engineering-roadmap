@@ -30,4 +30,4 @@ An IPv6 address consists of 8 groups of 4 hexadecimal digits separated by colons
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Cloud VPC Subnet Design](./05-Cloud-VPC-Subnet-Design-Best-Practices.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Cloud VPC Subnet Design Best Practices](./05-Cloud-VPC-Subnet-Design-Best-Practices.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

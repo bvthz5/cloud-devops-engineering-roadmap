@@ -6,4 +6,4 @@ VMSS manages identical auto-scaling VMs automatically in response to demand or s
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Availability Sets vs Zones](./03-High-Availability-Availability-Sets-vs-Availability-Zones.md) | [README](./README.md) | [05 - Azure Load Balancer](./05-Azure-Load-Balancer-Standard-vs-Basic.md) |
+| [← 03 - High Availability Availability Sets vs Availability Zones](./03-High-Availability-Availability-Sets-vs-Availability-Zones.md) | [Index](../../../README.md) | [05 - Azure Load Balancer Standard vs Basic →](./05-Azure-Load-Balancer-Standard-vs-Basic.md) |

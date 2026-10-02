@@ -20,4 +20,4 @@ curl -X POST http://localhost:15000/logging?level=debug # Enable debug logs
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [09 - Caddy & Modern HTTP/3 Web Servers](../09-Caddy-and-Modern-HTTP3-Web-Servers/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (09-Caddy-and-Modern-HTTP3-Web-Servers) →](../09-Caddy-and-Modern-HTTP3-Web-Servers/01-Caddy-Architecture-and-The-Go-Runtime.md) |

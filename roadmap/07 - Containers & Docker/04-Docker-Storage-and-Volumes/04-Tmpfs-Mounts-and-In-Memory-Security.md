@@ -20,4 +20,4 @@ docker run -d \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Volume Lifecycle & Backup](./03-Volume-Lifecycle-Backup-and-Restoration.md) | [README](./README.md) | [05 - External Volume Plugins](./05-External-Volume-Plugins-and-Cloud-Storage.md) |
+| [← 03 - Volume Lifecycle Backup and Restoration](./03-Volume-Lifecycle-Backup-and-Restoration.md) | [Index](../../../README.md) | [05 - External Volume Plugins and Cloud Storage →](./05-External-Volume-Plugins-and-Cloud-Storage.md) |

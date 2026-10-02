@@ -19,3 +19,9 @@ Flagger runs inside Kubernetes and watches custom `Canary` CRDs. When a new cont
 ### Q3: How do ArgoCD ApplicationSets simplify multi-cluster deployments?
 **Answer**:
 Standard ArgoCD `Application` manifests require 1 file per cluster/application pair. **ApplicationSets** introduce templated generators (Git directory, Cluster list, Matrix) that automatically discover target clusters and repository paths, dynamically generating hundreds of ArgoCD `Application` instances from a single manifest.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

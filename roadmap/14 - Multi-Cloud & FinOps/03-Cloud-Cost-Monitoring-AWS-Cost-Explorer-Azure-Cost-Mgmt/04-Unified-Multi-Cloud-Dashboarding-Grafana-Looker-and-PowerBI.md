@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - GCP Billing Export to BigQuery and SQL Cost Analytics](./03-GCP-Billing-Export-to-BigQuery-and-SQL-Cost-Analytics.md) | [Index](../../../README.md) | [05 - FinOps Open Cost and Usage Specification FOCUS Standard →](./05-FinOps-Open-Cost-and-Usage-Specification-FOCUS-Standard.md) |

@@ -37,4 +37,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Health Probes](./02-Liveness-Readiness-and-Startup-Probes.md) | [README](./README.md) | [04 - QoS & Resource Limits](./04-Resource-Requests-Limits-and-Quality-of-Service-QoS.md) |
+| [← 02 - Liveness Readiness and Startup Probes](./02-Liveness-Readiness-and-Startup-Probes.md) | [Index](../../../README.md) | [04 - Resource Requests Limits and Quality of Service QoS →](./04-Resource-Requests-Limits-and-Quality-of-Service-QoS.md) |

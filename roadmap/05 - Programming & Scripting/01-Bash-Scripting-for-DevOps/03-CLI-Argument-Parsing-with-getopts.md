@@ -47,4 +47,4 @@ echo "Deploying to ENV: ${ENV} in NAMESPACE: ${NAMESPACE} (Verbose: ${VERBOSE})"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Variables & Arrays](./02-Variables-Arrays-and-Parameter-Expansion.md) | [README](./README.md) | [04 - Error Handling & Traps](./04-Error-Handling-Traps-and-Signal-Management.md) |
+| [← 02 - Variables Arrays and Parameter Expansion](./02-Variables-Arrays-and-Parameter-Expansion.md) | [Index](../../../README.md) | [04 - Error Handling Traps and Signal Management →](./04-Error-Handling-Traps-and-Signal-Management.md) |

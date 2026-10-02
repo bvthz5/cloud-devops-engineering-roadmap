@@ -37,4 +37,4 @@ Total complexity dropped from $O(N^2)$ to $O(N)$.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Rate Limiting Algorithms](./06-Rate-Limiting-Algorithms-in-API-Gateways.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Rate Limiting Algorithms in API Gateways](./06-Rate-Limiting-Algorithms-in-API-Gateways.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

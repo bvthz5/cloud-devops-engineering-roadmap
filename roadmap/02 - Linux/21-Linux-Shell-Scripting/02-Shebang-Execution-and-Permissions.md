@@ -21,8 +21,9 @@ chmod +x script.sh
 - `./script.sh`: Runs in a child subshell using shebang interpreter.
 - `bash script.sh`: Bypasses shebang, runs in child subshell.
 - `source script.sh`: Runs inside active parent shell process.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Shell & Bash Fundamentals](./01-Shell-and-Bash-Fundamentals.md) | [README](./README.md) | [03 - Commands & Syntax](./03-Commands-Comments-and-Syntax.md) |
+| [← 01 - Shell and Bash Fundamentals](./01-Shell-and-Bash-Fundamentals.md) | [Index](../../../README.md) | [03 - Commands Comments and Syntax →](./03-Commands-Comments-and-Syntax.md) |

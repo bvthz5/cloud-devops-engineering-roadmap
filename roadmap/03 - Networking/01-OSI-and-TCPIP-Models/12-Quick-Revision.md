@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 02 - IP Addressing & Subnetting](../02-IP-Addressing-Subnetting-CIDR/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (02-IP-Addressing-Subnetting-CIDR) →](../02-IP-Addressing-Subnetting-CIDR/01-IPv4-Addressing-and-Classful-Architecture.md) |

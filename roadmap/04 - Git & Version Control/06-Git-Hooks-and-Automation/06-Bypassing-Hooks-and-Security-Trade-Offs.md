@@ -20,4 +20,4 @@ Never trust that client-side hooks ran on developer workstations. Always re-run 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Server-Side Hooks](./05-Server-Side-Hooks-pre-receive-and-post-receive.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Server Side Hooks pre receive and post receive](./05-Server-Side-Hooks-pre-receive-and-post-receive.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

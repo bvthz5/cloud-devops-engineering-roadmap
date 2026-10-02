@@ -25,4 +25,4 @@ The script wiped the entire operating system root partition before the process w
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Subprocesses & Redirection](./06-Subprocesses-Redirection-and-Process-Substitution.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Subprocesses Redirection and Process Substitution](./06-Subprocesses-Redirection-and-Process-Substitution.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

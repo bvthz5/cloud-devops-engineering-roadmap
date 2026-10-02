@@ -128,4 +128,4 @@ ps aux | awk 'NR>1 {print $4, $11}' | sort -rn | head -10  → Top memory
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQs](./11-MCQs.md) | [README](./README.md) | [13 - Related Topics](./13-Related-Topics.md) |
+| [← 11 - MCQs](./11-MCQs.md) | [Index](../../../README.md) | [13 - Related Topics →](./13-Related-Topics.md) |

@@ -82,8 +82,9 @@ KPTI resolves this by maintaining **two separate page tables** for every process
 1. **User Mode Page Table:** Contains only user space memory and minimal trampolines to enter the kernel.
 2. **Kernel Mode Page Table:** Contains full kernel mappings.
 When a system call occurs, the CPU switches to the kernel page table, shielding kernel memory from speculative side-channel leaks.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Troubleshooting](./13-Troubleshooting.md) | [README](./README.md) | [15 - Hands On Practice](./15-Hands-On-Practice.md) |
+| [← 13 - Troubleshooting](./13-Troubleshooting.md) | [Index](../../../README.md) | [15 - Hands On Practice →](./15-Hands-On-Practice.md) |

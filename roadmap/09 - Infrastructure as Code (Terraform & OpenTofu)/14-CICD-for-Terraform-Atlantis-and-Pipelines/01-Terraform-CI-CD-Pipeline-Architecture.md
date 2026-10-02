@@ -31,4 +31,4 @@ Post plan as PR comment
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - GitHub Actions](./02-GitHub-Actions-for-Terraform.md) |
+| [← Prev Module (13-Terraform-Import-Move-and-Refactoring)](../13-Terraform-Import-Move-and-Refactoring/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - GitHub Actions for Terraform →](./02-GitHub-Actions-for-Terraform.md) |

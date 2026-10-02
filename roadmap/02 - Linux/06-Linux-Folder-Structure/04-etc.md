@@ -42,8 +42,9 @@ sudo apt install etckeeper
 # Check status of configuration changes in /etc
 cd /etc && sudo git status
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - usr](./03-usr.md) | [README](./README.md) | [05 - var](./05-var.md) |
+| [← 03 - usr](./03-usr.md) | [Index](../../../README.md) | [05 - var →](./05-var.md) |

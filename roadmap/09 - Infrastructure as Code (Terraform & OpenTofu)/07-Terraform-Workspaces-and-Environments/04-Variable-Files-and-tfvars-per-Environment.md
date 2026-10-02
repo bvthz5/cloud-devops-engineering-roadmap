@@ -45,4 +45,4 @@ Terraform automatically loads these files (no `-var-file` flag needed):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Environment Segregation](./03-Environment-Segregation-Patterns.md) | [README](./README.md) | [05 - Terraform Cloud Workspaces](./05-Terraform-Cloud-Workspaces-and-VCS-Workflows.md) |
+| [← 03 - Environment Segregation Patterns](./03-Environment-Segregation-Patterns.md) | [Index](../../../README.md) | [05 - Terraform Cloud Workspaces and VCS Workflows →](./05-Terraform-Cloud-Workspaces-and-VCS-Workflows.md) |

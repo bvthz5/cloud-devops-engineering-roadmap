@@ -32,4 +32,4 @@ Cloud DNS providers created **ALIAS / Flattened CNAME** records to resolve this 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - DNS Architecture](./01-DNS-Architecture-and-Hierarchical-Tree.md) | [README](./README.md) | [03 - Complete DNS Resolution](./03-The-Complete-DNS-Resolution-Walkthrough.md) |
+| [← 01 - DNS Architecture and Hierarchical Tree](./01-DNS-Architecture-and-Hierarchical-Tree.md) | [Index](../../../README.md) | [03 - The Complete DNS Resolution Walkthrough →](./03-The-Complete-DNS-Resolution-Walkthrough.md) |

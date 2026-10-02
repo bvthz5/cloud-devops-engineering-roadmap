@@ -79,3 +79,9 @@ cosign verify --key cosign.pub us-central1-docker.pkg.dev/my-project/app:v1.2.0
 - [ArgoCD Documentation](https://argo-cd.readthedocs.io/)
 - [Sigstore / Cosign Documentation](https://docs.sigstore.dev/cosign/overview/)
 - [OpenFeature Standard](https://openfeature.dev/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Pipeline Secret Risks Hardcoded Keys and Leaked Tokens](./01-Pipeline-Secret-Risks-Hardcoded-Keys-and-Leaked-Tokens.md) | [Index](../../../README.md) | [03 - Passwordless CI CD OIDC Authentication with AWS Azure GCP →](./03-Passwordless-CI-CD-OIDC-Authentication-with-AWS-Azure-GCP.md) |

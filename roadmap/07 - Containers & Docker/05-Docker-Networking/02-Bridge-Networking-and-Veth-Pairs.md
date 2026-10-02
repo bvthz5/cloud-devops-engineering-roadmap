@@ -32,4 +32,4 @@ When Docker starts a container on a bridge network:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Docker Network Architecture](./01-Docker-Network-Architecture-and-Drivers.md) | [README](./README.md) | [03 - Embedded DNS & Discovery](./03-Embedded-DNS-and-Service-Discovery.md) |
+| [← 01 - Docker Network Architecture and Drivers](./01-Docker-Network-Architecture-and-Drivers.md) | [Index](../../../README.md) | [03 - Embedded DNS and Service Discovery →](./03-Embedded-DNS-and-Service-Discovery.md) |

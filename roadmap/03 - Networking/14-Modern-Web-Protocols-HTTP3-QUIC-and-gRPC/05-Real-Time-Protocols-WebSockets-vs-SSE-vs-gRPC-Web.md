@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - gRPC Architecture](./04-gRPC-Architecture-Protocol-Buffers-and-Streaming.md) | [README](./README.md) | [06 - Observability](./06-Observability-and-Debugging-for-Modern-Protocols.md) |
+| [← 04 - gRPC Architecture Protocol Buffers and Streaming](./04-gRPC-Architecture-Protocol-Buffers-and-Streaming.md) | [Index](../../../README.md) | [06 - Observability and Debugging for Modern Protocols →](./06-Observability-and-Debugging-for-Modern-Protocols.md) |

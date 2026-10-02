@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - SSH Pipelining](./03-SSH-Pipelining-ControlMaster-and-Connection-Plugins.md) | [README](./README.md) | [05 - Async Tasks](./05-Async-Tasks-and-Polling-async-and-poll.md) |
+| [← 03 - SSH Pipelining ControlMaster and Connection Plugins](./03-SSH-Pipelining-ControlMaster-and-Connection-Plugins.md) | [Index](../../../README.md) | [05 - Async Tasks and Polling async and poll →](./05-Async-Tasks-and-Polling-async-and-poll.md) |

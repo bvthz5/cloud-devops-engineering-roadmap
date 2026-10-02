@@ -21,3 +21,9 @@
 ### Q3: What are Committed Use Discounts (CUDs) in GCP FinOps?
 **Answer**:
 Committed Use Discounts (CUDs) offer significant cost reductions (up to 57% for 1-year or 70% for 3-year commitments) in exchange for committing to a minimum level of resource usage (e.g., compute vCPUs, RAM, Cloud SQL, BigQuery slots). CUDs apply automatically to qualifying resources without needing to recreate or modify existing infrastructure.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

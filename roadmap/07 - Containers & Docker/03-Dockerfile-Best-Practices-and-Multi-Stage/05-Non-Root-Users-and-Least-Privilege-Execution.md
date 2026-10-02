@@ -29,4 +29,4 @@ ENTRYPOINT ["python", "main.py"]
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Distroless, Alpine & Scratch](./04-Distroless-Alpine-and-Scratch-Base-Images.md) | [README](./README.md) | [06 - BuildKit Advanced Features](./06-BuildKit-Advanced-Features-and-Cache-Mounts.md) |
+| [← 04 - Distroless Alpine and Scratch Base Images](./04-Distroless-Alpine-and-Scratch-Base-Images.md) | [Index](../../../README.md) | [06 - BuildKit Advanced Features and Cache Mounts →](./06-BuildKit-Advanced-Features-and-Cache-Mounts.md) |

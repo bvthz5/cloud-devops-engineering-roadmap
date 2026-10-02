@@ -16,4 +16,4 @@ An older version of Ingress-Nginx was running without dynamic Lua endpoint routi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Ingress Security & WAF](./06-Ingress-Security-Rate-Limiting-and-ModSecurity-WAF.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Ingress Security Rate Limiting and ModSecurity WAF](./06-Ingress-Security-Rate-Limiting-and-ModSecurity-WAF.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

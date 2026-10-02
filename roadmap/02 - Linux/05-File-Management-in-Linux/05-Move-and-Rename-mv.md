@@ -61,8 +61,9 @@ Understanding how the Linux kernel processes `mv` explains why moving a 100 GB f
 │   and then delete (unlink) the source file.                 │
 └─────────────────────────────────────────────────────────────┘
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Copy cp](./04-Copy-cp.md) | [README](./README.md) | [06 - Viewing cat tac less more](./06-Viewing-cat-tac-less-more.md) |
+| [← 04 - Copy cp](./04-Copy-cp.md) | [Index](../../../README.md) | [06 - Viewing cat tac less more →](./06-Viewing-cat-tac-less-more.md) |

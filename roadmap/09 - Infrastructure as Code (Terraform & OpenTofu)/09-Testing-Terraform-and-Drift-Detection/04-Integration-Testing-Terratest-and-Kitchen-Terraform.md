@@ -36,4 +36,4 @@ func TestVpcModule(t *testing.T) {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - terraform test](./03-Native-Testing-terraform-test.md) | [README](./README.md) | [05 - Drift Detection](./05-Drift-Detection-Strategies-and-Automation.md) |
+| [← 03 - Native Testing terraform test](./03-Native-Testing-terraform-test.md) | [Index](../../../README.md) | [05 - Drift Detection Strategies and Automation →](./05-Drift-Detection-Strategies-and-Automation.md) |

@@ -28,4 +28,4 @@ git init --object-format=sha256 my-secure-repo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - DAG & Reachability](./05-The-Directed-Acyclic-Graph-DAG-and-Reachability.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - The Directed Acyclic Graph DAG and Reachability](./05-The-Directed-Acyclic-Graph-DAG-and-Reachability.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

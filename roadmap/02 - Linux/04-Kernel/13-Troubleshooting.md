@@ -75,8 +75,9 @@ $ echo "options nouveau modeset=0" | sudo tee -a /etc/modprobe.d/blacklist-nouve
 # Rebuild the initial RAM disk (initramfs) so the blacklist applies at early boot:
 $ sudo update-initramfs -u
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Real World Scenarios](./12-Real-World-Scenarios.md) | [README](./README.md) | [14 - Interview Q&A](./14-Interview-Q&A.md) |
+| [← 12 - Real World Scenarios](./12-Real-World-Scenarios.md) | [Index](../../../README.md) | [14 - Interview Q&A →](./14-Interview-Q&A.md) |

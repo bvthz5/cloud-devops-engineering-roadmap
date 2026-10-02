@@ -30,4 +30,4 @@ EVICTION PRIORITY (Lowest to Highest Survival):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Init & Sidecars](./03-Init-Containers-Sidecars-and-Ephemeral-Containers.md) | [README](./README.md) | [05 - PDB & Graceful Termination](./05-Pod-Disruption-Budgets-PDB-and-Graceful-Termination.md) |
+| [← 03 - Init Containers Sidecars and Ephemeral Containers](./03-Init-Containers-Sidecars-and-Ephemeral-Containers.md) | [Index](../../../README.md) | [05 - Pod Disruption Budgets PDB and Graceful Termination →](./05-Pod-Disruption-Budgets-PDB-and-Graceful-Termination.md) |

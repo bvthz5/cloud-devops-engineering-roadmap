@@ -15,4 +15,4 @@ velero restore create --from-backup migration-backup
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Scheduled Automated Backups](./04-Scheduled-Automated-Backups-and-Object-Storage-Targets.md) | [README](./README.md) | [06 - DR Testing & Validation](./06-DR-Testing-Validation-and-RTO-Benchmarking.md) |
+| [← 04 - Scheduled Automated Backups and Object Storage Targets](./04-Scheduled-Automated-Backups-and-Object-Storage-Targets.md) | [Index](../../../README.md) | [06 - DR Testing Validation and RTO Benchmarking →](./06-DR-Testing-Validation-and-RTO-Benchmarking.md) |

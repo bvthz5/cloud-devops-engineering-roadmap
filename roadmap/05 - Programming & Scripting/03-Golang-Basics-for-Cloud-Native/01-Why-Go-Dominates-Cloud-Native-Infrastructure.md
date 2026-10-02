@@ -22,4 +22,4 @@ Look at the modern cloud architecture stack:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Go Syntax](./02-Go-Syntax-Structs-Pointers-and-Interfaces.md) |
+| [← Prev Module (02-Python-for-DevOps-and-Automation)](../02-Python-for-DevOps-and-Automation/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Go Syntax Structs Pointers and Interfaces →](./02-Go-Syntax-Structs-Pointers-and-Interfaces.md) |

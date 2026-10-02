@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Identifying Cloud Waste Idle VMs Unattached Disks Unused IPs](./01-Identifying-Cloud-Waste-Idle-VMs-Unattached-Disks-Unused-IPs.md) | [Index](../../../README.md) | [03 - Cloud Cost Anomaly Detection Machine Learning Alerting →](./03-Cloud-Cost-Anomaly-Detection-Machine-Learning-Alerting.md) |

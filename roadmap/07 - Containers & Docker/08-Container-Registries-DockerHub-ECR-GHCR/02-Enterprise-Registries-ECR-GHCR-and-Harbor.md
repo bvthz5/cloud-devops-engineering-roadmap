@@ -10,4 +10,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - OCI Distribution Spec](./01-OCI-Distribution-Spec-and-Registry-HTTP-API.md) | [README](./README.md) | [03 - Image Tagging Strategies](./03-Image-Tagging-Strategies-and-Immutability.md) |
+| [← 01 - OCI Distribution Spec and Registry HTTP API](./01-OCI-Distribution-Spec-and-Registry-HTTP-API.md) | [Index](../../../README.md) | [03 - Image Tagging Strategies and Immutability →](./03-Image-Tagging-Strategies-and-Immutability.md) |

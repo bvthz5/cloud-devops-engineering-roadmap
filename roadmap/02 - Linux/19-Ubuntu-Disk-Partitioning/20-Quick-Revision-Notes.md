@@ -11,4 +11,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [19 - Hands On Scenario Challenge](./19-Hands-On-Scenario-Challenge.md) | [README](./README.md) | [21 - Related DevOps Storage Topics](./21-Related-DevOps-Storage-Topics.md) |
+| [← 19 - Hands On Scenario Challenge](./19-Hands-On-Scenario-Challenge.md) | [Index](../../../README.md) | [21 - Related DevOps Storage Topics →](./21-Related-DevOps-Storage-Topics.md) |

@@ -140,4 +140,4 @@ Virtual Address (App)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - MCQ](./13-MCQ.md) | [README](./README.md) | - |
+| [← 13 - MCQ](./13-MCQ.md) | [Index](../../../README.md) | [Next Module (02-OS-and-Kernel-Fundamentals) →](../02-OS-and-Kernel-Fundamentals/01-OS-Architecture-Kernel-Types-and-Dual-Mode.md) |

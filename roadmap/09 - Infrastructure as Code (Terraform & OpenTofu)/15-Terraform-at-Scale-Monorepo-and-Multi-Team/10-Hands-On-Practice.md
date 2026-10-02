@@ -8,4 +8,4 @@ Sketch a state splitting strategy for an organization with networking, security,
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Interview QA](./09-Interview-QA.md) | [README](./README.md) | [11 - MCQ](./11-MCQ.md) |
+| [← 09 - Interview QA](./09-Interview-QA.md) | [Index](../../../README.md) | [11 - MCQ →](./11-MCQ.md) |

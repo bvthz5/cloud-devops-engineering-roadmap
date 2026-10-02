@@ -27,4 +27,4 @@ proxy_next_upstream error timeout http_502 http_503;
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [04 - SSL/TLS Certificates & HTTPS](../04-SSL-TLS-Certificates-and-HTTPS/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (04-SSL-TLS-Certificates-and-HTTPS) →](../04-SSL-TLS-Certificates-and-HTTPS/01-TLS-Handshake-Architecture-1.2-vs-1.3.md) |

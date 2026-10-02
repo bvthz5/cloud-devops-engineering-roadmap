@@ -54,4 +54,4 @@ net.core.wmem_max = 16777216
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Next Module: 26 - Linux Firewalls](../26-Linux-Firewalls-iptables-nftables-and-UFW/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (26-Linux-Firewalls-iptables-nftables-and-UFW) →](../26-Linux-Firewalls-iptables-nftables-and-UFW/01-Linux-Packet-Filtering-and-Netfilter-Architecture.md) |

@@ -33,4 +33,4 @@ git commit -m "chore: track AI model and video files with Git LFS"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - LFS Architecture](./02-Git-LFS-Architecture-and-Pointer-Files.md) | [README](./README.md) | [04 - File Locking](./04-File-Locking-and-Binary-Conflict-Prevention.md) |
+| [← 02 - Git LFS Architecture and Pointer Files](./02-Git-LFS-Architecture-and-Pointer-Files.md) | [Index](../../../README.md) | [04 - File Locking and Binary Conflict Prevention →](./04-File-Locking-and-Binary-Conflict-Prevention.md) |

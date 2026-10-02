@@ -65,4 +65,4 @@ location / { ... }                  # Fallback default catch-all
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Nginx Architecture and Process Model](./02-Nginx-Architecture-and-Process-Model.md) | [README](./README.md) | [04 - Nginx Reverse Proxy Configuration](./04-Nginx-Reverse-Proxy-Configuration.md) |
+| [← 02 - Nginx Architecture and Process Model](./02-Nginx-Architecture-and-Process-Model.md) | [Index](../../../README.md) | [04 - Nginx Reverse Proxy Configuration →](./04-Nginx-Reverse-Proxy-Configuration.md) |

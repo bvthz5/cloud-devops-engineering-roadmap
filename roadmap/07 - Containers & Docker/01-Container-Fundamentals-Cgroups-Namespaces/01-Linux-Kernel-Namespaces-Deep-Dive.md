@@ -43,4 +43,4 @@ ls -la /proc/4321/ns/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Control Groups cgroups v1 vs v2](./02-Control-Groups-cgroups-v1-vs-cgroups-v2.md) |
+| [← Prev Section (06 - Web Servers & Reverse Proxies)](../../06%20-%20Web%20Servers%20%26%20Reverse%20Proxies/10-Web-Security-WAF-and-Hardening/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Control Groups cgroups v1 vs cgroups v2 →](./02-Control-Groups-cgroups-v1-vs-cgroups-v2.md) |

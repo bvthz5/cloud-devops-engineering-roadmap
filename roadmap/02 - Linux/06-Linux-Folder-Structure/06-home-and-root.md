@@ -46,8 +46,9 @@ cd ~alice
 # Check home directory ownership and permissions
 ls -ld /home/* /root
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - var](./05-var.md) | [README](./README.md) | [07 - opt and srv](./07-opt-and-srv.md) |
+| [← 05 - var](./05-var.md) | [Index](../../../README.md) | [07 - opt and srv →](./07-opt-and-srv.md) |

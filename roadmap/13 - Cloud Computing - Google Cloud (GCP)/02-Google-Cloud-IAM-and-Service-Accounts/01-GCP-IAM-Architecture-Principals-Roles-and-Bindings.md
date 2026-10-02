@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (01-GCP-Resource-Hierarchy-Organizations-Folders-Projects)](../01-GCP-Resource-Hierarchy-Organizations-Folders-Projects/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Predefined Custom and Primitive Roles in GCP →](./02-Predefined-Custom-and-Primitive-Roles-in-GCP.md) |

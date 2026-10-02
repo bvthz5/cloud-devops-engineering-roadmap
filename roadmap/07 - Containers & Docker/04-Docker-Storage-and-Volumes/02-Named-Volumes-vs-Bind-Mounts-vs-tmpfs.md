@@ -49,4 +49,4 @@ docker run -d \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Storage Drivers & Overlay2](./01-Storage-Drivers-and-Overlay2-Deep-Dive.md) | [README](./README.md) | [03 - Volume Lifecycle & Backup](./03-Volume-Lifecycle-Backup-and-Restoration.md) |
+| [← 01 - Storage Drivers and Overlay2 Deep Dive](./01-Storage-Drivers-and-Overlay2-Deep-Dive.md) | [Index](../../../README.md) | [03 - Volume Lifecycle Backup and Restoration →](./03-Volume-Lifecycle-Backup-and-Restoration.md) |

@@ -26,4 +26,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Conditionals](./04-Conditionals-when-failed_when-changed_when.md) | [README](./README.md) | [06 - Error Handling](./06-Error-Handling-block-rescue-always-ignore_errors.md) |
+| [← 04 - Conditionals when failed_when changed_when](./04-Conditionals-when-failed_when-changed_when.md) | [Index](../../../README.md) | [06 - Error Handling block rescue always ignore_errors →](./06-Error-Handling-block-rescue-always-ignore_errors.md) |

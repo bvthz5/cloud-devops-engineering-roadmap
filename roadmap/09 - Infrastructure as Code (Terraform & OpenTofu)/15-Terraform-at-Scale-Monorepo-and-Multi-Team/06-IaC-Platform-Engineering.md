@@ -24,4 +24,4 @@ Tools for self-service IaC: Backstage (Spotify), Port, Humanitec, Terraform Clou
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Performance Optimization](./05-Performance-Optimization-Large-States.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Performance Optimization Large States](./05-Performance-Optimization-Large-States.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

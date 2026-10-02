@@ -42,4 +42,4 @@ HTTP follows a client-server request-response architecture.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - HTTP Protocol Evolution](./01-HTTP-Protocol-Evolution-1.1-2.0-3.0.md) | [README](./README.md) | [03 - HTTPS & TLS Termination](./03-HTTPS-TLS-Termination-and-Certificates.md) |
+| [← 01 - HTTP Protocol Evolution 1.1 2.0 3.0](./01-HTTP-Protocol-Evolution-1.1-2.0-3.0.md) | [Index](../../../README.md) | [03 - HTTPS TLS Termination and Certificates →](./03-HTTPS-TLS-Termination-and-Certificates.md) |

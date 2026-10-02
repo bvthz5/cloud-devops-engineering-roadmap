@@ -20,4 +20,4 @@ docker run -d -v shared_nfs_volume:/app/shared webapp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Tmpfs Mounts & Security](./04-Tmpfs-Mounts-and-In-Memory-Security.md) | [README](./README.md) | [06 - Storage Optimization & Cleanup](./06-Storage-Optimization-and-Dangling-Cleanup.md) |
+| [← 04 - Tmpfs Mounts and In Memory Security](./04-Tmpfs-Mounts-and-In-Memory-Security.md) | [Index](../../../README.md) | [06 - Storage Optimization and Dangling Cleanup →](./06-Storage-Optimization-and-Dangling-Cleanup.md) |

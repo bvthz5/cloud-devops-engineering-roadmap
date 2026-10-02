@@ -6,4 +6,4 @@ Auto-Failover Groups enable automatic transparent failover of multiple databases
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Azure SQL Architecture](./01-Azure-SQL-Database-Single-Elastic-Pool-Managed-Instance.md) | [README](./README.md) | [03 - Cosmos DB Architecture](./03-Azure-Cosmos-DB-Multi-Model-NoSQL-Architecture.md) |
+| [← 01 - Azure SQL Database Single Elastic Pool Managed Instance](./01-Azure-SQL-Database-Single-Elastic-Pool-Managed-Instance.md) | [Index](../../../README.md) | [03 - Azure Cosmos DB Multi Model NoSQL Architecture →](./03-Azure-Cosmos-DB-Multi-Model-NoSQL-Architecture.md) |

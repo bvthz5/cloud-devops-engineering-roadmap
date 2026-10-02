@@ -61,4 +61,4 @@ http {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Virtual Hosting & Server Blocks](./05-Virtual-Hosting-and-Server-Blocks.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Virtual Hosting and Server Blocks](./05-Virtual-Hosting-and-Server-Blocks.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

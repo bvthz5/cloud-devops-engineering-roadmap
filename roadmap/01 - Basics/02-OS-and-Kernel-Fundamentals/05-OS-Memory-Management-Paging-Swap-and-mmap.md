@@ -178,4 +178,4 @@ To prevent exploitation by buffer overflows, modern kernels enforce strict hardw
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Threads Multithreading and CPU Scheduling](./04-Threads-Multithreading-and-CPU-Scheduling.md) | [README](./README.md) | [06 - Filesystem Architecture Inodes and File Descriptors](./06-Filesystem-Architecture-Inodes-and-File-Descriptors.md) |
+| [← 04 - Threads Multithreading and CPU Scheduling](./04-Threads-Multithreading-and-CPU-Scheduling.md) | [Index](../../../README.md) | [06 - Filesystem Architecture Inodes and File Descriptors →](./06-Filesystem-Architecture-Inodes-and-File-Descriptors.md) |

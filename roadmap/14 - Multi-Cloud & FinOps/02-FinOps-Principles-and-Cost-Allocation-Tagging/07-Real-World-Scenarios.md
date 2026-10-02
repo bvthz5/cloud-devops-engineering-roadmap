@@ -25,3 +25,9 @@ A tech enterprise hosts 40 microservices on shared multi-tenant EKS and GKE clus
 1. **Deploy Kubecost / OpenCost**: Install Kubecost agents via Helm onto all EKS and GKE clusters.
 2. **Namespace & Label Allocation**: Map Kubernetes namespaces and labels to organizational cost centers (`Team: Payments`, `Team: Search`).
 3. **Resource Rightsizing**: Apply Kubecost rightsizing recommendations to tune CPU/Memory requests, reducing over-provisioned cluster capacity by 40%.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 06 - Shared Cost Allocation Untagged Resources and Chargeback vs Showback](./06-Shared-Cost-Allocation-Untagged-Resources-and-Chargeback-vs-Showback.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

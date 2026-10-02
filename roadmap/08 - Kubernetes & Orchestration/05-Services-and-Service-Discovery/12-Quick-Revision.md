@@ -15,4 +15,4 @@ Example: `order-service.production.svc.cluster.local`
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 06 - Ingress Controllers](../06-Ingress-Controllers-and-Routing/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (06-Ingress-Controllers-and-Routing) →](../06-Ingress-Controllers-and-Routing/01-Ingress-Resource-Specification-and-Path-Routing.md) |

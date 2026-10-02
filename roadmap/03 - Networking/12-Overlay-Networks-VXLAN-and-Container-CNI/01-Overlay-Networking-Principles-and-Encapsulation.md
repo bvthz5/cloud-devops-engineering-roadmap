@@ -29,4 +29,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - VXLAN & Geneve](./02-VXLAN-and-Geneve-Protocol-Deep-Dive.md) |
+| [← Prev Module (11-BGP-Routing-and-Cloud-Interconnects)](../11-BGP-Routing-and-Cloud-Interconnects/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - VXLAN and Geneve Protocol Deep Dive →](./02-VXLAN-and-Geneve-Protocol-Deep-Dive.md) |

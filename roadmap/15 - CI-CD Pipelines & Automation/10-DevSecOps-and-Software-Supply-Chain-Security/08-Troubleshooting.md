@@ -32,3 +32,9 @@ A GitHub Actions pipeline step attempting to assume AWS IAM or GCP IAM roles fai
 1. **Audience / Subject Mismatch**: The IAM role trust policy `sub` condition does not match the GitHub repository name, environment, or ref exact string.
 2. **Audit Claims**: Inspect the OIDC JWT token claims (`aud: sts.amazonaws.com`, `sub: repo:org/repo:ref:refs/heads/main`).
 3. **IAM Trust Policy Update**: Update the AWS/GCP IAM trust policy to match exact claim parameters.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 07 - Real World Scenarios](./07-Real-World-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

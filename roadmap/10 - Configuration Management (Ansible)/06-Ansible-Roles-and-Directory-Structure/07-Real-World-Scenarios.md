@@ -6,4 +6,4 @@ Structuring modular roles for Nginx frontend, Node.js API, and PostgreSQL databa
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Production Repositories](./06-Structuring-Production-Ansible-Repositories.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Structuring Production Ansible Repositories](./06-Structuring-Production-Ansible-Repositories.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

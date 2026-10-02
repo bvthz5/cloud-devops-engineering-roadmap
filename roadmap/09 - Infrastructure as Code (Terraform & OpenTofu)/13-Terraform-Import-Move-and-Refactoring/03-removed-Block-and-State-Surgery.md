@@ -32,4 +32,4 @@ terraform state show aws_instance.web
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - moved Block](./02-moved-Block-Refactoring.md) | [README](./README.md) | [04 - Generate Config](./04-Generate-Config-from-Import.md) |
+| [← 02 - moved Block Refactoring](./02-moved-Block-Refactoring.md) | [Index](../../../README.md) | [04 - Generate Config from Import →](./04-Generate-Config-from-Import.md) |

@@ -23,4 +23,4 @@ Memory consumption dropped from 32 GB to **25 Megabytes**, processing files of a
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Structured Logging](./06-Structured-Logging-and-Defensive-Error-Handling.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Structured Logging and Defensive Error Handling](./06-Structured-Logging-and-Defensive-Error-Handling.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

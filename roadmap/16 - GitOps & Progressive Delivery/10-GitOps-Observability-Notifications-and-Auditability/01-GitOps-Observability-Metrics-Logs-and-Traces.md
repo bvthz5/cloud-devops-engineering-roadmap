@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (09-GitOps-Security-RBAC-and-Policy-Enforcement)](../09-GitOps-Security-RBAC-and-Policy-Enforcement/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Argo Notifications Slack MS Teams PagerDuty Integration →](./02-Argo-Notifications-Slack-MS-Teams-PagerDuty-Integration.md) |

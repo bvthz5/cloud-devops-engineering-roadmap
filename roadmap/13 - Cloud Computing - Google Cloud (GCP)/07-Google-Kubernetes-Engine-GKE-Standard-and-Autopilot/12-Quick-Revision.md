@@ -22,3 +22,9 @@
 3. **Use Workload Identity for all GKE workloads** accessing GCP APIs.
 4. **Export critical logs using Log Sinks** to BigQuery for SQL analytics or GCS for long-term compliance storage.
 5. **Set `--min-instances` on Cloud Run** if cold-start latency sensitivity is required.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (08-Google-Cloud-Run-and-Cloud-Functions) →](../08-Google-Cloud-Run-and-Cloud-Functions/01-Cloud-Run-Architecture-Fully-Managed-Serverless-Containers.md) |

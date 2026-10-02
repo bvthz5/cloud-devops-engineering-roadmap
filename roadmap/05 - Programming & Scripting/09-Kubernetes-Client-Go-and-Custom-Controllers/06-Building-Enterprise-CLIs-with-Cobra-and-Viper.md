@@ -93,4 +93,4 @@ func main() {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Operator SDK & Kubebuilder](./05-Operator-SDK-and-Kubebuilder-Framework.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Operator SDK and Kubebuilder Framework](./05-Operator-SDK-and-Kubebuilder-Framework.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

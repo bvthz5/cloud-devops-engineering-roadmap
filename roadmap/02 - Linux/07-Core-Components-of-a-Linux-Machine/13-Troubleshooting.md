@@ -43,8 +43,9 @@ grep -i "ENOENT\|EACCES\|EPERM" /tmp/trace.log | head -n 20
 # Check if any dynamically linked shared object (.so) is missing
 ldd /usr/bin/custom_app | grep "not found"
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - Real World Scenarios](./12-Real-World-Scenarios.md) | [README](./README.md) | [14 - Interview QA](./14-Interview-QA.md) |
+| [← 12 - Real World Scenarios](./12-Real-World-Scenarios.md) | [Index](../../../README.md) | [14 - Interview QA →](./14-Interview-QA.md) |

@@ -20,4 +20,4 @@ Unscheduled Pod ──► [ 1. PreFilter / Filter (Predicates) ] ──► Candi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Node Selection & Affinity](./02-Node-Selection-NodeName-NodeSelector-and-NodeAffinity.md) |
+| [← Prev Module (16-Kubernetes-Troubleshooting-and-Debugging)](../16-Kubernetes-Troubleshooting-and-Debugging/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Node Selection NodeName NodeSelector and NodeAffinity →](./02-Node-Selection-NodeName-NodeSelector-and-NodeAffinity.md) |

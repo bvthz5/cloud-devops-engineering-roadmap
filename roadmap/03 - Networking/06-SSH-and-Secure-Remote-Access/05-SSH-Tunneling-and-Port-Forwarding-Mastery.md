@@ -21,4 +21,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Client Config & Bastions](./04-SSH-Client-Configuration-and-Bastions.md) | [README](./README.md) | [06 - SSH Certificates](./06-SSH-Certificates-and-Zero-Trust-Access.md) |
+| [← 04 - SSH Client Configuration and Bastions](./04-SSH-Client-Configuration-and-Bastions.md) | [Index](../../../README.md) | [06 - SSH Certificates and Zero Trust Access →](./06-SSH-Certificates-and-Zero-Trust-Access.md) |

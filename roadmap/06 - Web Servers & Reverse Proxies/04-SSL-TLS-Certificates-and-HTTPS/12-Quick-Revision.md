@@ -27,4 +27,4 @@ openssl s_client -connect domain.com:443 -servername domain.com 2>/dev/null | op
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [05 - Caching & Rate Limiting](../05-Caching-and-Rate-Limiting/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (05-Caching-and-Rate-Limiting) →](../05-Caching-and-Rate-Limiting/01-HTTP-Caching-Architecture-and-Headers.md) |

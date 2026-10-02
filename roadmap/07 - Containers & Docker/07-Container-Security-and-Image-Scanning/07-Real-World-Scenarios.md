@@ -19,4 +19,4 @@ docker ps # Securely executes over SSH!
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - CIS Benchmark & Auditing](./06-CIS-Docker-Benchmark-and-Runtime-Auditing.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - CIS Docker Benchmark and Runtime Auditing](./06-CIS-Docker-Benchmark-and-Runtime-Auditing.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

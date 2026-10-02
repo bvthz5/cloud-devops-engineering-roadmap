@@ -15,4 +15,4 @@ The organization mandated **Trunk-Based Development**:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Enterprise Branching](./06-Designing-Enterprise-Branching-Strategies.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Designing Enterprise Branching Strategies](./06-Designing-Enterprise-Branching-Strategies.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

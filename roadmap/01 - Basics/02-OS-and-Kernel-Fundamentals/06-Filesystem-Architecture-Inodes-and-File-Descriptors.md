@@ -201,4 +201,4 @@ In high-concurrency environments (Kubernetes pods, API gateways, load balancers)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - OS Memory Management Paging Swap and mmap](./05-OS-Memory-Management-Paging-Swap-and-mmap.md) | [README](./README.md) | [07 - Signals and Inter Process Communication IPC](./07-Signals-and-Inter-Process-Communication-IPC.md) |
+| [← 05 - OS Memory Management Paging Swap and mmap](./05-OS-Memory-Management-Paging-Swap-and-mmap.md) | [Index](../../../README.md) | [07 - Signals and Inter Process Communication IPC →](./07-Signals-and-Inter-Process-Communication-IPC.md) |

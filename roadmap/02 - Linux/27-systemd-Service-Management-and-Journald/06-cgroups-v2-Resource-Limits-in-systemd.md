@@ -53,4 +53,4 @@ sudo systemctl set-property api-gateway.service MemoryMax=1G
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - journald Structured Logging](./05-journald-Deep-Dive-and-Structured-Logging.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - journald Deep Dive and Structured Logging](./05-journald-Deep-Dive-and-Structured-Logging.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

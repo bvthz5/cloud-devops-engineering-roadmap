@@ -37,4 +37,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Role-Oriented Design](./02-Gateway-API-Role-Oriented-Architecture-GatewayClass-Gateway-Route.md) | [README](./README.md) | [04 - Canary & Mirroring](./04-Canary-Traffic-Splitting-and-Mirroring-with-HTTPRoute.md) |
+| [← 02 - Gateway API Role Oriented Architecture GatewayClass Gateway Route](./02-Gateway-API-Role-Oriented-Architecture-GatewayClass-Gateway-Route.md) | [Index](../../../README.md) | [04 - Canary Traffic Splitting and Mirroring with HTTPRoute →](./04-Canary-Traffic-Splitting-and-Mirroring-with-HTTPRoute.md) |

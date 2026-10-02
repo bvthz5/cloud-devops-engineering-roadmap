@@ -50,4 +50,4 @@ If only the leaf certificate is served:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - TLS Handshake Architecture](./01-TLS-Handshake-Architecture-1.2-vs-1.3.md) | [README](./README.md) | [03 - Automated Certificates with ACME & Certbot](./03-Automated-Certificates-with-ACME-and-Certbot.md) |
+| [← 01 - TLS Handshake Architecture 1.2 vs 1.3](./01-TLS-Handshake-Architecture-1.2-vs-1.3.md) | [Index](../../../README.md) | [03 - Automated Certificates with ACME and Certbot →](./03-Automated-Certificates-with-ACME-and-Certbot.md) |

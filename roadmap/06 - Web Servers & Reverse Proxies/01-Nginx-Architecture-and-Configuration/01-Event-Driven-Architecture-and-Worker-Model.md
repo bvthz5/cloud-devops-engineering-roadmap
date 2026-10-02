@@ -86,4 +86,4 @@ events {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Configuration File Hierarchy](./02-Configuration-File-Hierarchy-and-Contexts.md) |
+| [← Prev Section (05 - Programming & Scripting)](../../05%20-%20Programming%20%26%20Scripting/09-Kubernetes-Client-Go-and-Custom-Controllers/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Configuration File Hierarchy and Contexts →](./02-Configuration-File-Hierarchy-and-Contexts.md) |

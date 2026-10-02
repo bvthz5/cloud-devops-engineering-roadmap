@@ -23,4 +23,4 @@ docker buildx build \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Daemon Configuration & Tuning](./05-Daemon-Configuration-and-Production-Tuning.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Daemon Configuration and Production Tuning](./05-Daemon-Configuration-and-Production-Tuning.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

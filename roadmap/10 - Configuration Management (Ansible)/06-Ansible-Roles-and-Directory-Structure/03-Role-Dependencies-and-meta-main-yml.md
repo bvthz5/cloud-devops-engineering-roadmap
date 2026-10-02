@@ -13,4 +13,4 @@ dependencies:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Creating Roles](./02-Creating-Roles-with-ansible-galaxy-role-init.md) | [README](./README.md) | [04 - defaults vs vars](./04-Role-Variable-Scoping-defaults-vs-vars.md) |
+| [← 02 - Creating Roles with ansible galaxy role init](./02-Creating-Roles-with-ansible-galaxy-role-init.md) | [Index](../../../README.md) | [04 - Role Variable Scoping defaults vs vars →](./04-Role-Variable-Scoping-defaults-vs-vars.md) |

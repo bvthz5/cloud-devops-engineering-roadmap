@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 12 - AWS Security & Well-Architected](../12-AWS-Security-Organizations-Landing-Zones-and-Well-Architected/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (12-AWS-Security-Organizations-Landing-Zones-and-Well-Architected) →](../12-AWS-Security-Organizations-Landing-Zones-and-Well-Architected/01-AWS-Organizations-Multi-Account-Strategy-and-OUs.md) |

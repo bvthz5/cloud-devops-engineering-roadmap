@@ -28,4 +28,4 @@ data:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Encryption at Rest](./03-Secret-Encryption-at-Rest-with-KMS-Providers.md) | [README](./README.md) | [05 - External Secrets Operator](./05-External-Secrets-Operator-ESO-and-Vault-Sync.md) |
+| [← 03 - Secret Encryption at Rest with KMS Providers](./03-Secret-Encryption-at-Rest-with-KMS-Providers.md) | [Index](../../../README.md) | [05 - External Secrets Operator ESO and Vault Sync →](./05-External-Secrets-Operator-ESO-and-Vault-Sync.md) |

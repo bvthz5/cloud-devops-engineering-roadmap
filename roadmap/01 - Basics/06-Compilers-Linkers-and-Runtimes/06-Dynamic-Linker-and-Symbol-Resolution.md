@@ -30,4 +30,4 @@ LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libjemalloc.so ./my_database_server
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Execution Models](./05-Execution-Models-Compiled-Interpreted-and-JIT.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Execution Models Compiled Interpreted and JIT](./05-Execution-Models-Compiled-Interpreted-and-JIT.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

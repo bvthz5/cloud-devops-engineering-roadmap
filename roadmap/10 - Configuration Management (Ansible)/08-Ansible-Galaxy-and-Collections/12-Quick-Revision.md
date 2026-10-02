@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 09 - Cloud & Kubernetes](../09-Ansible-for-Cloud-and-Kubernetes/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (09-Ansible-for-Cloud-and-Kubernetes) →](../09-Ansible-for-Cloud-and-Kubernetes/01-Cloud-Automation-with-Ansible-AWS-Azure-GCP.md) |

@@ -46,4 +46,4 @@ pidstat -u 1 5
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Performance Methodologies](./01-Linux-Performance-Methodologies-USE-and-RED.md) | [README](./README.md) | [03 - Memory Tuning](./03-Memory-Tuning-Swap-PageCache-and-OOM.md) |
+| [← 01 - Linux Performance Methodologies USE and RED](./01-Linux-Performance-Methodologies-USE-and-RED.md) | [Index](../../../README.md) | [03 - Memory Tuning Swap PageCache and OOM →](./03-Memory-Tuning-Swap-PageCache-and-OOM.md) |

@@ -148,4 +148,4 @@ Making a system call is significantly more expensive than an in-memory function 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - OS Architecture Kernel Types and Dual Mode](./01-OS-Architecture-Kernel-Types-and-Dual-Mode.md) | [README](./README.md) | [03 - Process Lifecycle fork exec States and Zombies](./03-Process-Lifecycle-fork-exec-States-and-Zombies.md) |
+| [← 01 - OS Architecture Kernel Types and Dual Mode](./01-OS-Architecture-Kernel-Types-and-Dual-Mode.md) | [Index](../../../README.md) | [03 - Process Lifecycle fork exec States and Zombies →](./03-Process-Lifecycle-fork-exec-States-and-Zombies.md) |

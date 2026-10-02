@@ -14,4 +14,4 @@ A junior engineer opened port 22 to 0.0.0.0/0 on a production security group via
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Policy as Code](./06-Policy-as-Code-Sentinel-OPA-and-Conftest.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Policy as Code Sentinel OPA and Conftest](./06-Policy-as-Code-Sentinel-OPA-and-Conftest.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

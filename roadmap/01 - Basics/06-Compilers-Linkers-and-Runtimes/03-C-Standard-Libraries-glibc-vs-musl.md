@@ -50,4 +50,4 @@ Because the path specified in the binary's ELF header does not exist on Alpine, 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Static vs Dynamic Linking](./02-Static-vs-Dynamic-Linking-and-Shared-Libraries.md) | [README](./README.md) | [04 - Process Memory Layout](./04-Process-Memory-Layout-Heap-Stack-and-Segments.md) |
+| [← 02 - Static vs Dynamic Linking and Shared Libraries](./02-Static-vs-Dynamic-Linking-and-Shared-Libraries.md) | [Index](../../../README.md) | [04 - Process Memory Layout Heap Stack and Segments →](./04-Process-Memory-Layout-Heap-Stack-and-Segments.md) |

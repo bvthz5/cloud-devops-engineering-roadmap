@@ -240,4 +240,4 @@ cd /tmp && rm -rf /tmp/formats_lab
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Interview QA](./11-Interview-QA.md) | [README](./README.md) | [13 - MCQ](./13-MCQ.md) |
+| [← 11 - Interview QA](./11-Interview-QA.md) | [Index](../../../README.md) | [13 - MCQ →](./13-MCQ.md) |

@@ -73,4 +73,4 @@ terraform state push               # Upload local state to remote backend
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Provider Registry](./02-Provider-Registry-Installation-and-Version-Pinning.md) | [README](./README.md) | [04 - Backend Configuration](./04-Backend-Configuration-Local-S3-GCS-AzureRM.md) |
+| [← 02 - Provider Registry Installation and Version Pinning](./02-Provider-Registry-Installation-and-Version-Pinning.md) | [Index](../../../README.md) | [04 - Backend Configuration Local S3 GCS AzureRM →](./04-Backend-Configuration-Local-S3-GCS-AzureRM.md) |

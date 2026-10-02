@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - VPC Endpoints & Flow Logs](./05-VPC-Endpoints-PrivateLink-and-VPC-Flow-Logs.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - VPC Endpoints PrivateLink and VPC Flow Logs](./05-VPC-Endpoints-PrivateLink-and-VPC-Flow-Logs.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

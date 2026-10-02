@@ -44,4 +44,4 @@ A quick reference guide for the most frequently used flags in both tools. Rememb
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Website Mirroring wget](./09-Website-Mirroring-wget.md) | [README](./README.md) | [11 - DevOps CI CD Scenarios](./11-DevOps-CI-CD-Scenarios.md) |
+| [← 09 - Website Mirroring wget](./09-Website-Mirroring-wget.md) | [Index](../../../README.md) | [11 - DevOps CI CD Scenarios →](./11-DevOps-CI-CD-Scenarios.md) |

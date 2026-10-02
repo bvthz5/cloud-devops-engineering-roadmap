@@ -19,4 +19,4 @@ Configured CNI MTU to `1450` in the Calico/Cilium DaemonSet configuration. Packe
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Advanced L7 Policies](./06-Advanced-L7-Network-Policies-and-DNS-Filtering.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Advanced L7 Network Policies and DNS Filtering](./06-Advanced-L7-Network-Policies-and-DNS-Filtering.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

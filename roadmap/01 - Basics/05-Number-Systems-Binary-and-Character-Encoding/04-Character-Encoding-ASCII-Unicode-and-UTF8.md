@@ -46,4 +46,4 @@ Windows text editors (Notepad) often prepend a 3-byte invisible header (`0xEF, 0
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Endianness & Byte Order](./03-Endianness-Byte-Order-and-Memory-Alignment.md) | [README](./README.md) | [05 - Line Endings CRLF vs LF](./05-Line-Endings-CRLF-vs-LF-and-Windows-Linux-Interop.md) |
+| [← 03 - Endianness Byte Order and Memory Alignment](./03-Endianness-Byte-Order-and-Memory-Alignment.md) | [Index](../../../README.md) | [05 - Line Endings CRLF vs LF and Windows Linux Interop →](./05-Line-Endings-CRLF-vs-LF-and-Windows-Linux-Interop.md) |

@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Cloud Functions Gen1 vs Gen2 Event Driven Serverless](./04-Cloud-Functions-Gen1-vs-Gen2-Event-Driven-Serverless.md) | [Index](../../../README.md) | [06 - Cloud Pub Sub Messaging Decoupling and Event Streams →](./06-Cloud-Pub-Sub-Messaging-Decoupling-and-Event-Streams.md) |

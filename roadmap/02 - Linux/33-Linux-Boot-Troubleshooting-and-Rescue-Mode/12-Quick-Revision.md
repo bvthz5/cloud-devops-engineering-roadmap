@@ -28,4 +28,4 @@ sudo chroot /mnt
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [Linux Roadmap Index](../README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (03 - Networking) →](../../03%20-%20Networking/01-OSI-and-TCPIP-Models/01-OSI-7-Layer-Reference-Model.md) |

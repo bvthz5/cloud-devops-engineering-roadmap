@@ -60,4 +60,4 @@ ETCDCTL_API=3 etcdctl   --endpoints=https://127.0.0.1:2379   --cacert=/etc/kuber
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Node Components](./02-Node-Components-Kubelet-KubeProxy-and-CRI.md) | [README](./README.md) | [04 - API Request Flow](./04-Kubernetes-API-Request-Flow-Authentication-Admission.md) |
+| [← 02 - Node Components Kubelet KubeProxy and CRI](./02-Node-Components-Kubelet-KubeProxy-and-CRI.md) | [Index](../../../README.md) | [04 - Kubernetes API Request Flow Authentication Admission →](./04-Kubernetes-API-Request-Flow-Authentication-Admission.md) |

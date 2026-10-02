@@ -25,3 +25,9 @@ An enterprise operating across 50 GCP projects requires a centralized audit log 
 1. **Log Router Sink**: Configure Organization-level Log Sinks in Cloud Logging to capture `cloudaudit.googleapis.com` logs across all child folders and projects.
 2. **Storage & Analytics**: Route logs to a central BigQuery Dataset for SQL analysis and a Cloud Storage bucket for 7-year archive retention.
 3. **Alerting**: Set up Cloud Monitoring metric-based alerts to notify Security Operations teams via PagerDuty upon suspicious IAM modifications.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 06 - Memorystore Managed Redis and Memcached Caching](./06-Memorystore-Managed-Redis-and-Memcached-Caching.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -128,4 +128,4 @@ Every time a containerized app handles an HTTP request, logs to disk, or queries
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - System Calls Interface and Categories](./02-System-Calls-Interface-and-Categories.md) |
+| [← Prev Module (01-Computer-Hardware-and-Architecture)](../01-Computer-Hardware-and-Architecture/14-Quick-Revision.md) | [Index](../../../README.md) | [02 - System Calls Interface and Categories →](./02-System-Calls-Interface-and-Categories.md) |

@@ -74,4 +74,4 @@ sudo systemctl reload nginx
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Job Scheduling cron at](./11-Job-Scheduling-cron-at.md) | [README](./README.md) | [13 - Troubleshooting Checklists](./13-Troubleshooting-Checklists.md) |
+| [← 11 - Job Scheduling cron at](./11-Job-Scheduling-cron-at.md) | [Index](../../../README.md) | [13 - Troubleshooting Checklists →](./13-Troubleshooting-Checklists.md) |

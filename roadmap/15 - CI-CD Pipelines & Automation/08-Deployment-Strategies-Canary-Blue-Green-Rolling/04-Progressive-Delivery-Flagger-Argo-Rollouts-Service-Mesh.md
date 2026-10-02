@@ -82,3 +82,9 @@ spec:
 ## 🔗 Related Resources
 - [Docker Multi-Stage Build Guide](https://docs.docker.com/build/building/multi-stage/)
 - [Argo Rollouts Documentation](https://argoproj.github.io/argo-rollouts/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Canary Deployment Strategy Traffic Shifting and Analysis](./03-Canary-Deployment-Strategy-Traffic-Shifting-and-Analysis.md) | [Index](../../../README.md) | [05 - Database Schema Migrations Zero Downtime Expand Contract Pattern →](./05-Database-Schema-Migrations-Zero-Downtime-Expand-Contract-Pattern.md) |

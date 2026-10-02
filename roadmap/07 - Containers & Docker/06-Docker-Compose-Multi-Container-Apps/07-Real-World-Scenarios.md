@@ -19,4 +19,4 @@ depends_on:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Production Deployments & Limits](./06-Production-Deployments-and-Resource-Limits.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Production Deployments and Resource Limits](./06-Production-Deployments-and-Resource-Limits.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

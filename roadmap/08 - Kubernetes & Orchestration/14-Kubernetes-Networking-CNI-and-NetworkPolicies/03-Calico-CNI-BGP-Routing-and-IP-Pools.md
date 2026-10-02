@@ -11,4 +11,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - CNI Specification](./02-Container-Network-Interface-CNI-Specification.md) | [README](./README.md) | [04 - Cilium & eBPF](./04-Cilium-CNI-eBPF-Datapath-and-High-Performance-Networking.md) |
+| [← 02 - Container Network Interface CNI Specification](./02-Container-Network-Interface-CNI-Specification.md) | [Index](../../../README.md) | [04 - Cilium CNI eBPF Datapath and High Performance Networking →](./04-Cilium-CNI-eBPF-Datapath-and-High-Performance-Networking.md) |

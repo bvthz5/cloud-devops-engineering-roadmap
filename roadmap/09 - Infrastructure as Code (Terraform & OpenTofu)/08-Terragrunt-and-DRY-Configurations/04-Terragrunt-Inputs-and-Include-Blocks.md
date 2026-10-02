@@ -50,4 +50,4 @@ inputs = {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Dependency Management](./03-Dependency-Management-and-Orchestration.md) | [README](./README.md) | [05 - Multi-Environment](./05-Multi-Environment-with-Terragrunt.md) |
+| [← 03 - Dependency Management and Orchestration](./03-Dependency-Management-and-Orchestration.md) | [Index](../../../README.md) | [05 - Multi Environment with Terragrunt →](./05-Multi-Environment-with-Terragrunt.md) |

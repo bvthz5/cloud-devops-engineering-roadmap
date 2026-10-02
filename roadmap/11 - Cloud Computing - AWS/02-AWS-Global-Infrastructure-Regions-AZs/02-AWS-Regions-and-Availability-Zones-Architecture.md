@@ -6,4 +6,4 @@ Each AWS Region consists of multiple (at least 3) physically isolated, redundant
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Infrastructure Overview](./01-AWS-Global-Infrastructure-Overview.md) | [README](./README.md) | [03 - Edge Locations](./03-Edge-Locations-CloudFront-and-AWS-Global-Accelerator.md) |
+| [← 01 - AWS Global Infrastructure Overview](./01-AWS-Global-Infrastructure-Overview.md) | [Index](../../../README.md) | [03 - Edge Locations CloudFront and AWS Global Accelerator →](./03-Edge-Locations-CloudFront-and-AWS-Global-Accelerator.md) |

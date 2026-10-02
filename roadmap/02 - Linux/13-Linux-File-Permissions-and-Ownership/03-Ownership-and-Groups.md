@@ -71,4 +71,4 @@ When Alice tries to read the file, the kernel checks step 2: "Is Alice the owner
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Read Write Execute Files vs Directories](./02-Read-Write-Execute-Files-vs-Directories.md) | [README](./README.md) | [04 - Inspecting Permissions ls namei stat](./04-Inspecting-Permissions-ls-namei-stat.md) |
+| [← 02 - Read Write Execute Files vs Directories](./02-Read-Write-Execute-Files-vs-Directories.md) | [Index](../../../README.md) | [04 - Inspecting Permissions ls namei stat →](./04-Inspecting-Permissions-ls-namei-stat.md) |

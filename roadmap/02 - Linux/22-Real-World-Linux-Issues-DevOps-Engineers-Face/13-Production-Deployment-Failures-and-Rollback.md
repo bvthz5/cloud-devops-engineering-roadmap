@@ -39,4 +39,4 @@ systemctl restart my-app
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [12 - DNS Resolution Failures](./12-DNS-Resolution-Failures-and-Diagnostic-Tools.md) | [README](./README.md) | [14 - Docker Container Troubleshooting](./14-Docker-Container-Troubleshooting.md) |
+| [← 12 - DNS Resolution Failures and Diagnostic Tools](./12-DNS-Resolution-Failures-and-Diagnostic-Tools.md) | [Index](../../../README.md) | [14 - Docker Container Troubleshooting →](./14-Docker-Container-Troubleshooting.md) |

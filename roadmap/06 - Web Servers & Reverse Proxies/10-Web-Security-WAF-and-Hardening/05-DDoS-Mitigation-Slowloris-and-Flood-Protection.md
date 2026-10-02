@@ -32,4 +32,4 @@ http {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Mitigating HTTP Request Smuggling](./04-Mitigating-HTTP-Request-Smuggling-and-Splitting.md) | [README](./README.md) | [06 - Zero-Trust Edge & mTLS](./06-Zero-Trust-Edge-mTLS-and-API-Gateway-Hardening.md) |
+| [← 04 - Mitigating HTTP Request Smuggling and Splitting](./04-Mitigating-HTTP-Request-Smuggling-and-Splitting.md) | [Index](../../../README.md) | [06 - Zero Trust Edge mTLS and API Gateway Hardening →](./06-Zero-Trust-Edge-mTLS-and-API-Gateway-Hardening.md) |

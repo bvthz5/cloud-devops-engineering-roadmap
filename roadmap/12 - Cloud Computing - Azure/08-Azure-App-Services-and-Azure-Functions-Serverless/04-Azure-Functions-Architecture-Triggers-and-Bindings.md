@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Custom Domains & VNet Integration](./03-Custom-Domains-SSL-Certificates-and-VNet-Integration.md) | [README](./README.md) | [05 - Functions Hosting Plans](./05-Azure-Functions-Hosting-Plans-Consumption-Premium-Flex.md) |
+| [← 03 - Custom Domains SSL Certificates and VNet Integration](./03-Custom-Domains-SSL-Certificates-and-VNet-Integration.md) | [Index](../../../README.md) | [05 - Azure Functions Hosting Plans Consumption Premium Flex →](./05-Azure-Functions-Hosting-Plans-Consumption-Premium-Flex.md) |

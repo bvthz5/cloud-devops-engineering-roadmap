@@ -33,4 +33,4 @@ Unlike Nginx's asynchronous event loop, Apache HTTP Server (`httpd` or `apache2`
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - WebSockets HTTP2 HTTP3 and gRPC Proxying](./08-WebSockets-HTTP2-HTTP3-and-gRPC-Proxying.md) | [README](./README.md) | [10 - Apache Virtual Hosts and Reverse Proxy Mod_Proxy](./10-Apache-Virtual-Hosts-and-Reverse-Proxy-Mod_Proxy.md) |
+| [← 08 - WebSockets HTTP2 HTTP3 and gRPC Proxying](./08-WebSockets-HTTP2-HTTP3-and-gRPC-Proxying.md) | [Index](../../../README.md) | [10 - Apache Virtual Hosts and Reverse Proxy Mod_Proxy →](./10-Apache-Virtual-Hosts-and-Reverse-Proxy-Mod_Proxy.md) |

@@ -25,3 +25,9 @@ A multi-cloud application running in GCP Cloud Run needs to read data from an Am
 1. **OIDC Federation**: Configure AWS IAM Workload Identity Federation with GCP as an OpenID Connect (OIDC) identity provider.
 2. **Short-Lived STS Token**: GCP Cloud Run requests a short-lived OIDC token from GCP Metadata server and exchanges it for a 1-hour AWS STS temporary credential.
 3. **Security Benefits**: Zero static credentials stored in code or secrets managers, eliminating key exposure risks.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 06 - Managing and Optimizing Cross Cloud Egress Costs](./06-Managing-and-Optimizing-Cross-Cloud-Egress-Costs.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

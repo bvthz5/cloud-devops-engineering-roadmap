@@ -46,4 +46,4 @@ func (a *AWSDeployer) Deploy(appName string) error {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Why Go](./01-Why-Go-Dominates-Cloud-Native-Infrastructure.md) | [README](./README.md) | [03 - Concurrency](./03-Concurrency-Goroutines-Channels-and-WaitGroups.md) |
+| [← 01 - Why Go Dominates Cloud Native Infrastructure](./01-Why-Go-Dominates-Cloud-Native-Infrastructure.md) | [Index](../../../README.md) | [03 - Concurrency Goroutines Channels and WaitGroups →](./03-Concurrency-Goroutines-Channels-and-WaitGroups.md) |

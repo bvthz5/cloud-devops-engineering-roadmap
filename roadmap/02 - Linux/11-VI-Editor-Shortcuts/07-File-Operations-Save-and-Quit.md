@@ -65,4 +65,4 @@ This writes the file to disk with root privileges without needing to close and r
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Search and Replace](./06-Search-and-Replace.md) | [README](./README.md) | [08 - Multiple Files and Splits](./08-Multiple-Files-and-Splits.md) |
+| [← 06 - Search and Replace](./06-Search-and-Replace.md) | [Index](../../../README.md) | [08 - Multiple Files and Splits →](./08-Multiple-Files-and-Splits.md) |

@@ -18,4 +18,4 @@ During a planned cluster upgrade, worker node A was drained. The production MySQ
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Volume Snapshots](./06-VolumeSnapshots-and-Stateful-Backup-Workflows.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - VolumeSnapshots and Stateful Backup Workflows](./06-VolumeSnapshots-and-Stateful-Backup-Workflows.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -40,8 +40,9 @@ python3 script.py > log.txt
 # GOOD in Cron:
 /usr/bin/python3 /home/ubuntu/scripts/script.py > /var/log/script.log 2>&1
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Path Basics and Mental Model](./01-Path-Basics-and-Mental-Model.md) | [README](./README.md) | [03 - Relative Paths](./03-Relative-Paths.md) |
+| [← 01 - Path Basics and Mental Model](./01-Path-Basics-and-Mental-Model.md) | [Index](../../../README.md) | [03 - Relative Paths →](./03-Relative-Paths.md) |

@@ -6,4 +6,4 @@ Create an AKS cluster with Azure CNI, attach ACR, and deploy an application mani
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Interview Q&A](./09-Interview-QA.md) | [README](./README.md) | [11 - MCQ](./11-MCQ.md) |
+| [← 09 - Interview QA](./09-Interview-QA.md) | [Index](../../../README.md) | [11 - MCQ →](./11-MCQ.md) |

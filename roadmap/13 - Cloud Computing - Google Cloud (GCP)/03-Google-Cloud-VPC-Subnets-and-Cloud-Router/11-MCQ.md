@@ -34,3 +34,9 @@ What is the primary security benefit of using Workload Identity Federation inste
 - [ ] D) Bypasses GCP IAM permission checks
 
 *Explanation: Workload Identity Federation uses short-lived tokens, eliminating long-lived static JSON service account keys.*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

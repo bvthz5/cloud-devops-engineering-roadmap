@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [02 - Branching & Merging](../02-Branching-Merging-and-Rebasing/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (02-Branching-Merging-and-Rebasing) →](../02-Branching-Merging-and-Rebasing/01-Git-Branch-Mechanics-Under-the-Hood.md) |

@@ -22,4 +22,4 @@ Refactored to extract shared data into a third module C that both A and B depend
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - run-all & CI/CD](./06-Terragrunt-run-all-and-CI-CD-Integration.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Terragrunt run all and CI CD Integration](./06-Terragrunt-run-all-and-CI-CD-Integration.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

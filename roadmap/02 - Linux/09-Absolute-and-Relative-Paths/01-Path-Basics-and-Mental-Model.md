@@ -41,8 +41,9 @@ pwd
 Path resolution depends heavily on your current position in the tree:
 - If a path **starts with `/`**, the OS resolves it starting from the Root directory.
 - If a path **does NOT start with `/`**, the OS resolves it starting from your Current Working Directory (`pwd`).
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Absolute Paths](./02-Absolute-Paths.md) |
+| [← Prev Module (08-Linux-over-Windows)](../08-Linux-over-Windows/SOURCE.md) | [Index](../../../README.md) | [02 - Absolute Paths →](./02-Absolute-Paths.md) |

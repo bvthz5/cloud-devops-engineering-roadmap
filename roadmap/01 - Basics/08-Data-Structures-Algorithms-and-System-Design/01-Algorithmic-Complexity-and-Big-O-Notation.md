@@ -41,4 +41,4 @@ In production with $N = 10,000$ servers or 1,000,000 users, that same script exe
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Core Data Structures](./02-Core-Data-Structures-Arrays-Lists-and-Hash-Tables.md) |
+| [← Prev Module (07-Cryptography-PKI-and-Security-Foundations)](../07-Cryptography-PKI-and-Security-Foundations/14-Quick-Revision.md) | [Index](../../../README.md) | [02 - Core Data Structures Arrays Lists and Hash Tables →](./02-Core-Data-Structures-Arrays-Lists-and-Hash-Tables.md) |

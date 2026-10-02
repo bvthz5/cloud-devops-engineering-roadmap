@@ -52,4 +52,4 @@ jobs:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Integration Testing](./04-Integration-Testing-Terratest-and-Kitchen-Terraform.md) | [README](./README.md) | [06 - Policy as Code](./06-Policy-as-Code-Sentinel-OPA-and-Conftest.md) |
+| [← 04 - Integration Testing Terratest and Kitchen Terraform](./04-Integration-Testing-Terratest-and-Kitchen-Terraform.md) | [Index](../../../README.md) | [06 - Policy as Code Sentinel OPA and Conftest →](./06-Policy-as-Code-Sentinel-OPA-and-Conftest.md) |

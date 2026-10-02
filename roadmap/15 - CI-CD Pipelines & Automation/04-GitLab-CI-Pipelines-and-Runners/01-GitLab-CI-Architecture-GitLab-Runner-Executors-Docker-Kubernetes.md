@@ -91,3 +91,9 @@ pipeline {
 - [GitHub Actions Official Documentation](https://docs.github.com/en/actions)
 - [GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)
 - [Jenkins User Handbook](https://www.jenkins.io/doc/book/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (03-Jenkins-Master-Agent-and-Jenkinsfile-Pipelines)](../03-Jenkins-Master-Agent-and-Jenkinsfile-Pipelines/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - gitlab ci yml Syntax Stages Jobs Dependencies and Artifacts →](./02-gitlab-ci-yml-Syntax-Stages-Jobs-Dependencies-and-Artifacts.md) |

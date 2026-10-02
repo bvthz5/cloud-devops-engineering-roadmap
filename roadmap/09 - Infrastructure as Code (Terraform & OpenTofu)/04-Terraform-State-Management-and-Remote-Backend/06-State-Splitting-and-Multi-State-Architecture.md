@@ -57,4 +57,4 @@ cd monitoring  && terraform apply
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Sensitive Data](./05-Sensitive-Data-in-State-and-Encryption.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Sensitive Data in State and Encryption](./05-Sensitive-Data-in-State-and-Encryption.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

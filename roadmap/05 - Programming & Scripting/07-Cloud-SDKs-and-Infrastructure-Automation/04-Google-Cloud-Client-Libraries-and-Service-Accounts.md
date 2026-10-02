@@ -50,4 +50,4 @@ for cluster in response.clusters:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Azure SDK for Python](./03-Azure-SDK-for-Python-and-Identity-Libraries.md) | [README](./README.md) | [05 - Automated Cloud Cost Optimization](./05-Automated-Cloud-Cost-Optimization-and-Janitor-Scripts.md) |
+| [← 03 - Azure SDK for Python and Identity Libraries](./03-Azure-SDK-for-Python-and-Identity-Libraries.md) | [Index](../../../README.md) | [05 - Automated Cloud Cost Optimization and Janitor Scripts →](./05-Automated-Cloud-Cost-Optimization-and-Janitor-Scripts.md) |

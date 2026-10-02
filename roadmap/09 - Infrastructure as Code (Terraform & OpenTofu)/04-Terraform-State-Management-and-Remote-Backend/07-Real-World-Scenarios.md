@@ -29,4 +29,4 @@ An engineer accidentally deleted the S3 state file thinking it was a backup.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - State Splitting](./06-State-Splitting-and-Multi-State-Architecture.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - State Splitting and Multi State Architecture](./06-State-Splitting-and-Multi-State-Architecture.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -36,4 +36,4 @@ if __name__ == "__main__":
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - K8s Auto-Remediator](./03-Kubernetes-Pod-Health-Auto-Remediator-Template.md) | [README](./README.md) | [05 - Slack Alert Dispatcher](./05-Slack-and-PagerDuty-Alert-Dispatcher-Template.md) |
+| [← 03 - Kubernetes Pod Health Auto Remediator Template](./03-Kubernetes-Pod-Health-Auto-Remediator-Template.md) | [Index](../../../README.md) | [05 - Slack and PagerDuty Alert Dispatcher Template →](./05-Slack-and-PagerDuty-Alert-Dispatcher-Template.md) |

@@ -31,4 +31,4 @@ API Server marks Pod Terminating ───► EndpointSlice controller updates i
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Pausing & Scaling](./05-Pausing-Resuming-and-Scaling-Deployments.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Pausing Resuming and Scaling Deployments](./05-Pausing-Resuming-and-Scaling-Deployments.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

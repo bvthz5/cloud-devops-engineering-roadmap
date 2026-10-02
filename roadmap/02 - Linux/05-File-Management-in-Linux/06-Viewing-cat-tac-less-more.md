@@ -78,8 +78,9 @@ $ less /var/log/syslog
 `more` is the historic Unix pager that preceded `less`.
 - It only allows forward scrolling (you cannot scroll backward in older implementations).
 - Kept in modern systems primarily for backwards compatibility with legacy scripts.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Move and Rename mv](./05-Move-and-Rename-mv.md) | [README](./README.md) | [07 - Head and Tail](./07-Head-and-Tail.md) |
+| [← 05 - Move and Rename mv](./05-Move-and-Rename-mv.md) | [Index](../../../README.md) | [07 - Head and Tail →](./07-Head-and-Tail.md) |

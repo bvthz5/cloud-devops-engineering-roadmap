@@ -12,4 +12,4 @@ Entra ID Tenant (Root Management Group)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Resource Groups](./02-Resource-Groups-Architecture-and-Lifecycle.md) |
+| [← Prev Section (11 - Cloud Computing - AWS)](../../11%20-%20Cloud%20Computing%20-%20AWS/14-AWS-Cost-Optimization-FinOps-and-Migration-Strategies/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Resource Groups Architecture and Lifecycle →](./02-Resource-Groups-Architecture-and-Lifecycle.md) |

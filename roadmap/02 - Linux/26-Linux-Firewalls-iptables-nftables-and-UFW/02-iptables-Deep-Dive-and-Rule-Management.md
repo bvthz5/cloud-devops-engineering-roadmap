@@ -84,4 +84,4 @@ By default, `iptables` rules are stored in kernel memory and vanish upon reboot.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Netfilter Architecture](./01-Linux-Packet-Filtering-and-Netfilter-Architecture.md) | [README](./README.md) | [03 - nftables Modern Firewall](./03-nftables-The-Modern-Linux-Firewall.md) |
+| [← 01 - Linux Packet Filtering and Netfilter Architecture](./01-Linux-Packet-Filtering-and-Netfilter-Architecture.md) | [Index](../../../README.md) | [03 - nftables The Modern Linux Firewall →](./03-nftables-The-Modern-Linux-Firewall.md) |

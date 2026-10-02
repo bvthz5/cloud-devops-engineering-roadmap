@@ -56,4 +56,4 @@ df -h /tmp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [17 - Universal Toolkit](./17-Universal-Troubleshooting-Toolkit-and-Cheat-Sheet.md) | [README](./README.md) | [19 - Lab 02: High CPU Spike Isolation](./19-Hands-On-Lab-02-High-CPU-Spike-Isolation.md) |
+| [← 17 - Universal Troubleshooting Toolkit and Cheat Sheet](./17-Universal-Troubleshooting-Toolkit-and-Cheat-Sheet.md) | [Index](../../../README.md) | [19 - Hands On Lab 02 High CPU Spike Isolation →](./19-Hands-On-Lab-02-High-CPU-Spike-Isolation.md) |

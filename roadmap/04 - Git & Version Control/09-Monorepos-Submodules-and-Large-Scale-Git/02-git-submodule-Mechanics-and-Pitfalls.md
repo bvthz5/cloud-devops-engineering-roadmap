@@ -35,4 +35,4 @@ If a developer enters `libs/shared-utils/`, edits code, and commits without swit
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Monorepo vs Polyrepo](./01-Monorepo-vs-Polyrepo-Architectural-Trade-Offs.md) | [README](./README.md) | [03 - Subtrees vs Submodules](./03-git-subtree-vs-git-submodule-Comparison.md) |
+| [← 01 - Monorepo vs Polyrepo Architectural Trade Offs](./01-Monorepo-vs-Polyrepo-Architectural-Trade-Offs.md) | [Index](../../../README.md) | [03 - git subtree vs git submodule Comparison →](./03-git-subtree-vs-git-submodule-Comparison.md) |

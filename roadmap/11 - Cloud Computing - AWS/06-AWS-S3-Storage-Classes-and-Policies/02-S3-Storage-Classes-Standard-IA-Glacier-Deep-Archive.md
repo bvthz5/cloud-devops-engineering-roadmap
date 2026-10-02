@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - S3 Architecture](./01-S3-Architecture-Buckets-Objects-and-Namespaces.md) | [README](./README.md) | [03 - Lifecycle Rules](./03-S3-Lifecycle-Rules-Expiration-and-Transition-Policies.md) |
+| [← 01 - S3 Architecture Buckets Objects and Namespaces](./01-S3-Architecture-Buckets-Objects-and-Namespaces.md) | [Index](../../../README.md) | [03 - S3 Lifecycle Rules Expiration and Transition Policies →](./03-S3-Lifecycle-Rules-Expiration-and-Transition-Policies.md) |

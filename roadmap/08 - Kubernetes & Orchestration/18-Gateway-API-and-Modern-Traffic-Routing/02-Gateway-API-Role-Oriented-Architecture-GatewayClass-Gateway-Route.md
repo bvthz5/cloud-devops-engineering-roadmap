@@ -29,4 +29,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Gateway API vs Ingress](./01-Gateway-API-vs-Ingress-The-Evolution-of-L7-Routing.md) | [README](./README.md) | [03 - HTTPRoute Syntax](./03-HTTPRoute-Advanced-Header-Matching-and-Path-Rewrites.md) |
+| [← 01 - Gateway API vs Ingress The Evolution of L7 Routing](./01-Gateway-API-vs-Ingress-The-Evolution-of-L7-Routing.md) | [Index](../../../README.md) | [03 - HTTPRoute Advanced Header Matching and Path Rewrites →](./03-HTTPRoute-Advanced-Header-Matching-and-Path-Rewrites.md) |

@@ -46,4 +46,4 @@ func main() {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Production CLIs](./04-Building-Production-CLIs-with-Cobra-and-Viper.md) | [README](./README.md) | [06 - Kubernetes client-go](./06-Kubernetes-API-Interaction-with-client-go.md) |
+| [← 04 - Building Production CLIs with Cobra and Viper](./04-Building-Production-CLIs-with-Cobra-and-Viper.md) | [Index](../../../README.md) | [06 - Kubernetes API Interaction with client go →](./06-Kubernetes-API-Interaction-with-client-go.md) |

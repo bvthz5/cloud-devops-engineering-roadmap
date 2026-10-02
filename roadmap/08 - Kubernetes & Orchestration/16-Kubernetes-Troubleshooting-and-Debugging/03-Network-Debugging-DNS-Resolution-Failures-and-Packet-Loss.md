@@ -19,4 +19,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Node NotReady Diagnostics](./02-Node-NotReady-Troubleshooting-and-Kubelet-Diagnostics.md) | [README](./README.md) | [04 - Control Plane Diagnostics](./04-Control-Plane-Diagnostics-API-Server-and-etcd-Failures.md) |
+| [← 02 - Node NotReady Troubleshooting and Kubelet Diagnostics](./02-Node-NotReady-Troubleshooting-and-Kubelet-Diagnostics.md) | [Index](../../../README.md) | [04 - Control Plane Diagnostics API Server and etcd Failures →](./04-Control-Plane-Diagnostics-API-Server-and-etcd-Failures.md) |

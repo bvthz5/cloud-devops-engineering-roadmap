@@ -69,8 +69,9 @@ else
   exit 1
 fi
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Variables & Quoting](./04-Variables-Environment-and-Quoting.md) | [README](./README.md) | [06 - Command Substitution & Arithmetic](./06-Command-Substitution-and-Arithmetic.md) |
+| [← 04 - Variables Environment and Quoting](./04-Variables-Environment-and-Quoting.md) | [Index](../../../README.md) | [06 - Command Substitution and Arithmetic →](./06-Command-Substitution-and-Arithmetic.md) |

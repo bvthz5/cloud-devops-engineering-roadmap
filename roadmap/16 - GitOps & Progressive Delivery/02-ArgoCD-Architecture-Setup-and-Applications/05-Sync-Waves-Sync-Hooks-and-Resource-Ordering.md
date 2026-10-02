@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - ArgoCD Projects Multi Tenancy and RBAC](./04-ArgoCD-Projects-Multi-Tenancy-and-RBAC.md) | [Index](../../../README.md) | [06 - ArgoCD CLI Declarative Setup and SSO Integration →](./06-ArgoCD-CLI-Declarative-Setup-and-SSO-Integration.md) |

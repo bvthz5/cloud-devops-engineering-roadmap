@@ -6,4 +6,4 @@ Provides cost analysis dashboards, automated export of billing data to Blob Stor
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Tagging Governance](./02-Resource-Tagging-Governance-and-Cost-Allocation.md) |
+| [← Prev Module (13-Azure-Hybrid-Cloud-and-Azure-Arc)](../13-Azure-Hybrid-Cloud-and-Azure-Arc/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Resource Tagging Governance and Cost Allocation →](./02-Resource-Tagging-Governance-and-Cost-Allocation.md) |

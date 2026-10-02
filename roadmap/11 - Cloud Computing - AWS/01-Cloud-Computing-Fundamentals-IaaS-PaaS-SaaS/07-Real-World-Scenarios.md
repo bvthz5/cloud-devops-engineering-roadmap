@@ -6,4 +6,4 @@ Evaluating Total Cost of Ownership (TCO) when migrating 100 physical servers fro
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Management Interfaces](./06-AWS-Management-Interfaces-Console-CLI-SDKs-IaC.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - AWS Management Interfaces Console CLI SDKs IaC](./06-AWS-Management-Interfaces-Console-CLI-SDKs-IaC.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

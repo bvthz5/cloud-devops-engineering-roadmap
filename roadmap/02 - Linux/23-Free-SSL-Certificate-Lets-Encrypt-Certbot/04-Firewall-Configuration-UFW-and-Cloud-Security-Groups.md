@@ -33,4 +33,4 @@ Ensure inbound ingress rules are allowed on your Cloud Provider dashboard:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Prerequisites & DNS](./03-Prerequisites-DNS-Records-and-Network-Ports.md) | [README](./README.md) | [05 - Certbot Installation Methods](./05-Certbot-Installation-Methods-Snap-vs-Apt.md) |
+| [← 03 - Prerequisites DNS Records and Network Ports](./03-Prerequisites-DNS-Records-and-Network-Ports.md) | [Index](../../../README.md) | [05 - Certbot Installation Methods Snap vs Apt →](./05-Certbot-Installation-Methods-Snap-vs-Apt.md) |

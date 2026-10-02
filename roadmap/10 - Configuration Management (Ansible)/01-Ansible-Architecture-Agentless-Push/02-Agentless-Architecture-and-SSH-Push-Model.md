@@ -37,4 +37,4 @@ Target Nodes  ====== Polling Daemon (Every 30 mins) ========> Central Server
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Control Node](./01-Ansible-Control-Node-vs-Managed-Nodes.md) | [README](./README.md) | [03 - Execution Flow](./03-Ansible-Execution-Flow-and-Module-Transport.md) |
+| [← 01 - Ansible Control Node vs Managed Nodes](./01-Ansible-Control-Node-vs-Managed-Nodes.md) | [Index](../../../README.md) | [03 - Ansible Execution Flow and Module Transport →](./03-Ansible-Execution-Flow-and-Module-Transport.md) |

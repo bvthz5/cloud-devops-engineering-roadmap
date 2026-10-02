@@ -6,3 +6,9 @@ Top technical interview questions for Enterprise APM and SaaS Observability: Dat
 2. How do you address high memory consumption in production?
 3. Compare Enterprise APM and SaaS Observability: Datadog & Dynatrace with alternative industry solutions.
 4. Describe an edge-case failure and your resolution strategy.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

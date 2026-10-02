@@ -89,4 +89,4 @@ terraform init -migrate-state
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - CLI Deep Dive](./03-Terraform-CLI-Deep-Dive-Init-Plan-Apply-Destroy.md) | [README](./README.md) | [05 - DAG & Parallelism](./05-Terraform-Graph-DAG-and-Parallelism.md) |
+| [← 03 - Terraform CLI Deep Dive Init Plan Apply Destroy](./03-Terraform-CLI-Deep-Dive-Init-Plan-Apply-Destroy.md) | [Index](../../../README.md) | [05 - Terraform Graph DAG and Parallelism →](./05-Terraform-Graph-DAG-and-Parallelism.md) |

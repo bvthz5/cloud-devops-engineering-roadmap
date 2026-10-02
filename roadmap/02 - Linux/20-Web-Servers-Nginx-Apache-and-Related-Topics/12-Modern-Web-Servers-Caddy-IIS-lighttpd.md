@@ -23,4 +23,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Nginx vs Apache Architecture Performance Comparison](./11-Nginx-vs-Apache-Architecture-Performance-Comparison.md) | [README](./README.md) | [13 - Application Servers and Containers Tomcat HAProxy](./13-Application-Servers-and-Containers-Tomcat-HAProxy.md) |
+| [← 11 - Nginx vs Apache Architecture Performance Comparison](./11-Nginx-vs-Apache-Architecture-Performance-Comparison.md) | [Index](../../../README.md) | [13 - Application Servers and Containers Tomcat HAProxy →](./13-Application-Servers-and-Containers-Tomcat-HAProxy.md) |

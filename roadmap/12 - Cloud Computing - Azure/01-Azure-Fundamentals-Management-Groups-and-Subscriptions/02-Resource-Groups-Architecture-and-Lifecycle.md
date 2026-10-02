@@ -9,4 +9,4 @@ A Resource Group is a logical container for resources that share the same lifecy
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Resource Hierarchy](./01-Azure-Resource-Hierarchy-Tenant-Management-Groups-Subscriptions-Resource-Groups.md) | [README](./README.md) | [03 - Subscriptions & Quotas](./03-Azure-Subscriptions-Types-Limits-and-Quotas.md) |
+| [← 01 - Azure Resource Hierarchy Tenant Management Groups Subscriptions Resource Groups](./01-Azure-Resource-Hierarchy-Tenant-Management-Groups-Subscriptions-Resource-Groups.md) | [Index](../../../README.md) | [03 - Azure Subscriptions Types Limits and Quotas →](./03-Azure-Subscriptions-Types-Limits-and-Quotas.md) |

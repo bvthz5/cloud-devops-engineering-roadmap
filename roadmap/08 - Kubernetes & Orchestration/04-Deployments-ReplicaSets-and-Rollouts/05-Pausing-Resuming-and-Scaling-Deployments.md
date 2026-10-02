@@ -30,4 +30,4 @@ kubectl scale deployment/web-api --replicas=8
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Blue-Green & Canary](./04-Blue-Green-and-Canary-Deployments-Native-Patterns.md) | [README](./README.md) | [06 - Lifecycle Hooks](./06-Container-Lifecycle-Hooks-PostStart-and-PreStop.md) |
+| [← 04 - Blue Green and Canary Deployments Native Patterns](./04-Blue-Green-and-Canary-Deployments-Native-Patterns.md) | [Index](../../../README.md) | [06 - Container Lifecycle Hooks PostStart and PreStop →](./06-Container-Lifecycle-Hooks-PostStart-and-PreStop.md) |

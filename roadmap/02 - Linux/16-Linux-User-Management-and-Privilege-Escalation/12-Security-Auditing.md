@@ -107,4 +107,4 @@ ls -la /etc/sudoers.d/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Privilege Escalation Concepts](./11-Privilege-Escalation-Concepts.md) | [README](./README.md) | [13 - Real World DevOps Scenarios](./13-Real-World-DevOps-Scenarios.md) |
+| [← 11 - Privilege Escalation Concepts](./11-Privilege-Escalation-Concepts.md) | [Index](../../../README.md) | [13 - Real World DevOps Scenarios →](./13-Real-World-DevOps-Scenarios.md) |

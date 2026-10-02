@@ -26,8 +26,9 @@ Mastering Linux File Management is a foundational building block for advanced Li
    Move from `cat` and `grep` to stream editors like `sed` and structural text processing with `awk`.
 3. **Container Storage Foundations:**
    Apply file permission knowledge to Docker bind mounts, volume permissions, and Kubernetes PersistentVolumeClaims (PVCs).
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [22 - Quick Revision](./22-Quick-Revision.md) | [README](./README.md) | — |
+| [← 22 - Quick Revision](./22-Quick-Revision.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

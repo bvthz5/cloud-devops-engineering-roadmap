@@ -24,4 +24,4 @@ artifacts:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - AWS DevOps Overview](./01-AWS-DevOps-Services-Overview.md) | [README](./README.md) | [03 - AWS CodeDeploy](./03-AWS-CodeDeploy-AppSpec-and-Deployment-Strategies.md) |
+| [← 01 - AWS DevOps Services Overview](./01-AWS-DevOps-Services-Overview.md) | [Index](../../../README.md) | [03 - AWS CodeDeploy AppSpec and Deployment Strategies →](./03-AWS-CodeDeploy-AppSpec-and-Deployment-Strategies.md) |

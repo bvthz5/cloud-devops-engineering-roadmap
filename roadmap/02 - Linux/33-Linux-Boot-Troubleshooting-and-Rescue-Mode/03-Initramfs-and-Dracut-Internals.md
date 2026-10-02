@@ -32,4 +32,4 @@ If you install new storage drivers or alter LVM configurations:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - GRUB2 Configuration](./02-GRUB2-Configuration-and-Kernel-Parameters.md) | [README](./README.md) | [04 - Emergency vs Rescue Mode](./04-Emergency-Mode-vs-Rescue-Mode.md) |
+| [← 02 - GRUB2 Configuration and Kernel Parameters](./02-GRUB2-Configuration-and-Kernel-Parameters.md) | [Index](../../../README.md) | [04 - Emergency Mode vs Rescue Mode →](./04-Emergency-Mode-vs-Rescue-Mode.md) |

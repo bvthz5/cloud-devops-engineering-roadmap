@@ -49,8 +49,9 @@ mv log_202[34]*.log archive/
 # Create multiple directories at once using brace expansion
 mkdir -p project/{src,bin,docs,tests}
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Absolute vs Relative Comparison](./05-Absolute-vs-Relative-Comparison.md) | [README](./README.md) | [07 - Practical Command Examples](./07-Practical-Command-Examples.md) |
+| [← 05 - Absolute vs Relative Comparison](./05-Absolute-vs-Relative-Comparison.md) | [Index](../../../README.md) | [07 - Practical Command Examples →](./07-Practical-Command-Examples.md) |

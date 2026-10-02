@@ -88,4 +88,4 @@ curl -H "X-aws-ec2-metadata-token: $TOKEN" -v http://169.254.169.254/latest/meta
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Common Flags Cheat Sheet](./10-Common-Flags-Cheat-Sheet.md) | [README](./README.md) | [12 - Troubleshooting](./12-Troubleshooting.md) |
+| [← 10 - Common Flags Cheat Sheet](./10-Common-Flags-Cheat-Sheet.md) | [Index](../../../README.md) | [12 - Troubleshooting →](./12-Troubleshooting.md) |

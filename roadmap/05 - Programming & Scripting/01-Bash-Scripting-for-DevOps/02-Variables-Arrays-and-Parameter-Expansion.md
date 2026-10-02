@@ -51,4 +51,4 @@ echo "Auth port: ${PORT_MAP["auth"]}"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Strict Mode](./01-Bash-Strict-Mode-and-Script-Anatomy.md) | [README](./README.md) | [03 - Argument Parsing](./03-CLI-Argument-Parsing-with-getopts.md) |
+| [← 01 - Bash Strict Mode and Script Anatomy](./01-Bash-Strict-Mode-and-Script-Anatomy.md) | [Index](../../../README.md) | [03 - CLI Argument Parsing with getopts →](./03-CLI-Argument-Parsing-with-getopts.md) |

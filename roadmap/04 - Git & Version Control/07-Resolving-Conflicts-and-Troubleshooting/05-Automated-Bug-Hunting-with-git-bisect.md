@@ -51,4 +51,4 @@ git bisect reset
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - git reflog](./04-git-reflog-The-Ultimate-DevOps-Safety-Net.md) | [README](./README.md) | [06 - Reverting Commits](./06-Reverting-Commits-and-3-Way-Merge-Reversals.md) |
+| [← 04 - git reflog The Ultimate DevOps Safety Net](./04-git-reflog-The-Ultimate-DevOps-Safety-Net.md) | [Index](../../../README.md) | [06 - Reverting Commits and 3 Way Merge Reversals →](./06-Reverting-Commits-and-3-Way-Merge-Reversals.md) |

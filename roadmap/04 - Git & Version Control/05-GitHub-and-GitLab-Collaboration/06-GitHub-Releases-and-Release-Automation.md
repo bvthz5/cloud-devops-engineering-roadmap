@@ -21,4 +21,4 @@ Modern CI/CD pipelines use tools like **`semantic-release`**:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - CODEOWNERS Architecture](./05-CODEOWNERS-Architecture-and-Governance.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - CODEOWNERS Architecture and Governance](./05-CODEOWNERS-Architecture-and-Governance.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

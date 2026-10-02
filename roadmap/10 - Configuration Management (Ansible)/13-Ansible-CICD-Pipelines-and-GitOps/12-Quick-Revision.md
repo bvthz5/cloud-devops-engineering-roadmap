@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 14 - Security Hardening](../14-Troubleshooting-Security-Hardening-and-Best-Practices/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (14-Troubleshooting-Security-Hardening-and-Best-Practices) →](../14-Troubleshooting-Security-Hardening-and-Best-Practices/01-Ansible-Debugging-Techniques-and-Verbosity-Levels.md) |

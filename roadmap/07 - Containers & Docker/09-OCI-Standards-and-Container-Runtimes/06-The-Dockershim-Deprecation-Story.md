@@ -20,4 +20,4 @@ In Kubernetes v1.24, Dockershim was permanently removed, saving control plane me
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Sandboxed & MicroVM Runtimes](./05-Sandboxed-and-MicroVM-Runtimes-gVisor-and-Kata.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Sandboxed and MicroVM Runtimes gVisor and Kata](./05-Sandboxed-and-MicroVM-Runtimes-gVisor-and-Kata.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -13,4 +13,4 @@ Management Account
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Service Control Policies](./02-Service-Control-Policies-SCPs-and-Governance.md) |
+| [← Prev Module (11-AWS-CloudWatch-and-CloudTrail)](../11-AWS-CloudWatch-and-CloudTrail/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Service Control Policies SCPs and Governance →](./02-Service-Control-Policies-SCPs-and-Governance.md) |

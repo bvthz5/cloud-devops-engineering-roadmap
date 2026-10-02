@@ -21,4 +21,4 @@ When `initial_fetch_timeout: 0s` is set, Envoy retains its in-memory cluster sta
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Observability & Access Logs](./06-Observability-OpenTelemetry-and-Envoy-Access-Logs.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Observability OpenTelemetry and Envoy Access Logs](./06-Observability-OpenTelemetry-and-Envoy-Access-Logs.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

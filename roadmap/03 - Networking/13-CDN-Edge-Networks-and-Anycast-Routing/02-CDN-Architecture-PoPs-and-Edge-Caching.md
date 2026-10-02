@@ -29,4 +29,4 @@ Targeting a CHR of $>95\%$ for static assets and $>75\%$ for cacheable API paylo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Anycast Architecture](./01-Anycast-Routing-Architecture-and-BGP.md) | [README](./README.md) | [03 - Cache-Control](./03-Cache-Control-Headers-and-Invalidation-Strategies.md) |
+| [← 01 - Anycast Routing Architecture and BGP](./01-Anycast-Routing-Architecture-and-BGP.md) | [Index](../../../README.md) | [03 - Cache Control Headers and Invalidation Strategies →](./03-Cache-Control-Headers-and-Invalidation-Strategies.md) |

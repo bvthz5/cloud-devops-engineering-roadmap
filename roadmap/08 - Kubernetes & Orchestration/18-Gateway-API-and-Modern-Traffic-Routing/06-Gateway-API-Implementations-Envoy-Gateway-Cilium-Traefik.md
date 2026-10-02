@@ -10,4 +10,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Cross-Namespace Routing](./05-Cross-Namespace-Routing-and-ReferenceGrants.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Cross Namespace Routing and ReferenceGrants](./05-Cross-Namespace-Routing-and-ReferenceGrants.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

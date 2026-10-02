@@ -38,4 +38,4 @@ check = S3NoPublicAccess()
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - tfsec](./02-tfsec-Static-Security-Scanner.md) | [README](./README.md) | [04 - Secret Management](./04-Secret-Management-Vault-AWS-SSM-SOPS.md) |
+| [← 02 - tfsec Static Security Scanner](./02-tfsec-Static-Security-Scanner.md) | [Index](../../../README.md) | [04 - Secret Management Vault AWS SSM SOPS →](./04-Secret-Management-Vault-AWS-SSM-SOPS.md) |

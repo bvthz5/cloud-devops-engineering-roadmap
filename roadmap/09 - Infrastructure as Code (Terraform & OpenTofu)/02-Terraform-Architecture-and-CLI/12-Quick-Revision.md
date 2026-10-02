@@ -33,4 +33,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 03 - HCL Syntax](../03-HCL-Syntax-Variables-and-Outputs/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (03-HCL-Syntax-Variables-and-Outputs) →](../03-HCL-Syntax-Variables-and-Outputs/01-HCL-Language-Fundamentals-Blocks-Arguments-Expressions.md) |

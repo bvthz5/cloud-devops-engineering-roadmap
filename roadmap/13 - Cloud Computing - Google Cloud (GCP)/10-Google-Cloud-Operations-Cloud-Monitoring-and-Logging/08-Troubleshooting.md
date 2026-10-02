@@ -30,3 +30,9 @@ Cloud Run services experience periodic 2-5 second latency spikes on incoming req
 1. **Cold Starts**: Container instances scale down to 0 when idle.
 2. **Minimum Instances**: Configure minimum instances (`--min-instances=1` or higher) to keep warm container instances ready to serve traffic immediately.
 3. **Image Optimization**: Reduce Docker image size and optimize runtime startup times (e.g., lightweight base images, lazy loading dependencies).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 07 - Real World Scenarios](./07-Real-World-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

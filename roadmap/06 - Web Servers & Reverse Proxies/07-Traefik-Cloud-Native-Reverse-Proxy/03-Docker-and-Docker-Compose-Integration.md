@@ -44,4 +44,4 @@ services:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Core Concepts](./02-Core-Concepts-EntryPoints-Routers-Middlewares-Services.md) | [README](./README.md) | [04 - Kubernetes Ingress & Gateway API](./04-Kubernetes-Ingress-and-Gateway-API-with-Traefik.md) |
+| [← 02 - Core Concepts EntryPoints Routers Middlewares Services](./02-Core-Concepts-EntryPoints-Routers-Middlewares-Services.md) | [Index](../../../README.md) | [04 - Kubernetes Ingress and Gateway API with Traefik →](./04-Kubernetes-Ingress-and-Gateway-API-with-Traefik.md) |

@@ -28,4 +28,4 @@ Pinned all modules with `version = "~> 5.0"` and added CI checks that reject unp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Module Testing](./06-Module-Testing-with-Terratest-and-terraform-test.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Module Testing with Terratest and terraform test](./06-Module-Testing-with-Terratest-and-terraform-test.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

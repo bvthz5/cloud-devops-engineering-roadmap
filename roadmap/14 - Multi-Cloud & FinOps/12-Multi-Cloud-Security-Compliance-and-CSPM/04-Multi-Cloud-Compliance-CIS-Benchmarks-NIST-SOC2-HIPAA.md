@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Policy as Code OPA Gatekeeper Kyverno and Checkov](./03-Policy-as-Code-OPA-Gatekeeper-Kyverno-and-Checkov.md) | [Index](../../../README.md) | [05 - Centralized Secret Management HashiCorp Vault →](./05-Centralized-Secret-Management-HashiCorp-Vault.md) |

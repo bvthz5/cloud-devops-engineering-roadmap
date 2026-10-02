@@ -24,4 +24,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Velero Architecture](./03-Velero-Architecture-and-CSI-VolumeSnapshot-Integration.md) | [README](./README.md) | [05 - Cross-Cluster Migration](./05-Cross-Cluster-Migration-and-Cluster-Rebuilding.md) |
+| [← 03 - Velero Architecture and CSI VolumeSnapshot Integration](./03-Velero-Architecture-and-CSI-VolumeSnapshot-Integration.md) | [Index](../../../README.md) | [05 - Cross Cluster Migration and Cluster Rebuilding →](./05-Cross-Cluster-Migration-and-Cluster-Rebuilding.md) |

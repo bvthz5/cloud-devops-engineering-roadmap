@@ -14,4 +14,4 @@ sudo ETCDCTL_API=3 etcdctl snapshot status /tmp/test-etcd.db -w table
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Interview QA](./09-Interview-QA.md) | [README](./README.md) | [11 - MCQ](./11-MCQ.md) |
+| [← 09 - Interview QA](./09-Interview-QA.md) | [Index](../../../README.md) | [11 - MCQ →](./11-MCQ.md) |

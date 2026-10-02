@@ -15,4 +15,4 @@ Configured `topologySpreadConstraints` with `topologyKey: topology.kubernetes.io
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - PriorityClasses & Descheduler](./06-PriorityClasses-Preemption-and-the-Kubernetes-Descheduler.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - PriorityClasses Preemption and the Kubernetes Descheduler](./06-PriorityClasses-Preemption-and-the-Kubernetes-Descheduler.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

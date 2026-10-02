@@ -85,4 +85,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Scenario Based Questions](./13-Scenario-Based-Questions.md) | [README](./README.md) | [15 - MCQs](./15-MCQs.md) |
+| [← 13 - Scenario Based Questions](./13-Scenario-Based-Questions.md) | [Index](../../../README.md) | [15 - MCQs →](./15-MCQs.md) |

@@ -8,4 +8,4 @@ A company had 500 AWS resources created via ClickOps. Used `terraformer` to gene
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Refactoring Patterns](./06-Refactoring-Patterns-and-Best-Practices.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Refactoring Patterns and Best Practices](./06-Refactoring-Patterns-and-Best-Practices.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

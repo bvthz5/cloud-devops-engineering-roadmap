@@ -54,4 +54,4 @@ Many teams give Terraform `AdministratorAccess` for convenience. This means a co
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Secret Management](./04-Secret-Management-Vault-AWS-SSM-SOPS.md) | [README](./README.md) | [06 - Supply Chain Security](./06-Supply-Chain-Security-Provider-Signing-and-Lock-Files.md) |
+| [← 04 - Secret Management Vault AWS SSM SOPS](./04-Secret-Management-Vault-AWS-SSM-SOPS.md) | [Index](../../../README.md) | [06 - Supply Chain Security Provider Signing and Lock Files →](./06-Supply-Chain-Security-Provider-Signing-and-Lock-Files.md) |

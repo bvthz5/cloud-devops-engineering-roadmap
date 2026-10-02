@@ -28,4 +28,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - MBR vs GPT Partition Tables](./02-MBR-vs-GPT-Partition-Tables.md) | [README](./README.md) | [04 - Ubuntu Partition Layouts and Recommended Sizes](./04-Ubuntu-Partition-Layouts-and-Recommended-Sizes.md) |
+| [← 02 - MBR vs GPT Partition Tables](./02-MBR-vs-GPT-Partition-Tables.md) | [Index](../../../README.md) | [04 - Ubuntu Partition Layouts and Recommended Sizes →](./04-Ubuntu-Partition-Layouts-and-Recommended-Sizes.md) |

@@ -56,4 +56,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Custom Metrics](./02-Custom-and-External-Metrics-with-Prometheus-Adapter.md) |
+| [← Prev Module (10-Jobs-and-CronJobs)](../10-Jobs-and-CronJobs/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Custom and External Metrics with Prometheus Adapter →](./02-Custom-and-External-Metrics-with-Prometheus-Adapter.md) |

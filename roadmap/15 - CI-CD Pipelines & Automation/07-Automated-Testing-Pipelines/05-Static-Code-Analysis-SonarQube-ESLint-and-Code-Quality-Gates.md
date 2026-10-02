@@ -82,3 +82,9 @@ spec:
 ## 🔗 Related Resources
 - [Docker Multi-Stage Build Guide](https://docs.docker.com/build/building/multi-stage/)
 - [Argo Rollouts Documentation](https://argoproj.github.io/argo-rollouts/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - End to End E2E Testing Cypress Playwright Selenium in CI](./04-End-to-End-E2E-Testing-Cypress-Playwright-Selenium-in-CI.md) | [Index](../../../README.md) | [06 - Performance and Load Testing in CI CD k6 JMeter →](./06-Performance-and-Load-Testing-in-CI-CD-k6-JMeter.md) |

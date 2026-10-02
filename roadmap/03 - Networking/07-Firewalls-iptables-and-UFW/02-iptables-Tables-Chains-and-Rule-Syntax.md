@@ -76,4 +76,4 @@ iptables -D INPUT 3
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Netfilter Architecture](./01-Linux-Netfilter-Architecture-and-Hooks.md) | [README](./README.md) | [03 - Stateful Inspection](./03-Stateful-Firewall-Inspection-and-Conntrack.md) |
+| [← 01 - Linux Netfilter Architecture and Hooks](./01-Linux-Netfilter-Architecture-and-Hooks.md) | [Index](../../../README.md) | [03 - Stateful Firewall Inspection and Conntrack →](./03-Stateful-Firewall-Inspection-and-Conntrack.md) |

@@ -22,3 +22,9 @@
 3. **Maintain DRY IaC using Terragrunt or OpenTofu modules**.
 4. **Use Memory Limiter processors in OTel Collectors** to prevent OOMKilled crashes during log spikes.
 5. **Schedule automated weekend shutdowns for dev/test environments** to achieve immediate 65% compute savings.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (11-Cloud-Waste-Reduction-Anomaly-Detection-and-Remediation) →](../11-Cloud-Waste-Reduction-Anomaly-Detection-and-Remediation/01-Identifying-Cloud-Waste-Idle-VMs-Unattached-Disks-Unused-IPs.md) |

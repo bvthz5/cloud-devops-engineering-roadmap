@@ -62,4 +62,4 @@ tomap({key = "value"})            # {key = "value"}
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Dynamic Blocks & Iteration](./05-Dynamic-Blocks-for_each-count-and-Iteration.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Dynamic Blocks for_each count and Iteration](./05-Dynamic-Blocks-for_each-count-and-Iteration.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

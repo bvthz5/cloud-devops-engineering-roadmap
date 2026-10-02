@@ -23,4 +23,4 @@ jobs:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - CI/CD Pipeline Architecture](./01-Ansible-in-CI-CD-Pipeline-Architecture.md) | [README](./README.md) | [03 - GitLab CI Pipeline](./03-GitLab-CI-Pipeline-for-Ansible.md) |
+| [← 01 - Ansible in CI CD Pipeline Architecture](./01-Ansible-in-CI-CD-Pipeline-Architecture.md) | [Index](../../../README.md) | [03 - GitLab CI Pipeline for Ansible →](./03-GitLab-CI-Pipeline-for-Ansible.md) |

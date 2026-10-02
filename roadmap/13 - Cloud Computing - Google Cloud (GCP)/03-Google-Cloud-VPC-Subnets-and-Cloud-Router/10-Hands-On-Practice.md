@@ -52,3 +52,9 @@ gcloud compute firewall-rules delete allow-iap-ssh --quiet
 gcloud compute networks subnets delete prod-app-subnet --region=us-central1 --quiet
 gcloud compute networks delete prod-vpc --quiet
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 09 - Interview QA](./09-Interview-QA.md) | [Index](../../../README.md) | [11 - MCQ →](./11-MCQ.md) |

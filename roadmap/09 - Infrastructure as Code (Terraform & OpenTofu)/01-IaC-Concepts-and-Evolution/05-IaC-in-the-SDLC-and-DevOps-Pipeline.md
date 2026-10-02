@@ -76,4 +76,4 @@ Feature Branch ──► Dev Apply (auto) ──► Staging Apply (auto) ──�
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - IaC Workflow](./04-IaC-Workflow-Write-Plan-Apply.md) | [README](./README.md) | [06 - OpenTofu](./06-OpenTofu-The-Open-Source-Fork.md) |
+| [← 04 - IaC Workflow Write Plan Apply](./04-IaC-Workflow-Write-Plan-Apply.md) | [Index](../../../README.md) | [06 - OpenTofu The Open Source Fork →](./06-OpenTofu-The-Open-Source-Fork.md) |

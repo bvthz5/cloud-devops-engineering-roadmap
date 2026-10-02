@@ -37,4 +37,4 @@ All actions in Terraform Cloud are logged:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Agent Pools](./05-Agent-Pools-and-Self-Hosted-Runners.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Agent Pools and Self Hosted Runners](./05-Agent-Pools-and-Self-Hosted-Runners.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

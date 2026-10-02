@@ -10,4 +10,4 @@ Naming convention: `t3a.xlarge`
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Pricing Models](./02-EC2-Pricing-Models-OnDemand-Spot-Reserved-SavingsPlans.md) |
+| [← Prev Module (04-AWS-VPC-Subnets-Routing-Gateways)](../04-AWS-VPC-Subnets-Routing-Gateways/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - EC2 Pricing Models OnDemand Spot Reserved SavingsPlans →](./02-EC2-Pricing-Models-OnDemand-Spot-Reserved-SavingsPlans.md) |

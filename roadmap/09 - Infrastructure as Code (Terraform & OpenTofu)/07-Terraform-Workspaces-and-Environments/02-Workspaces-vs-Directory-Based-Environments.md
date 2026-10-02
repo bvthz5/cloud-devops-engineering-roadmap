@@ -46,4 +46,4 @@ infrastructure/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Workspaces Architecture](./01-Terraform-Workspaces-Architecture-and-CLI.md) | [README](./README.md) | [03 - Environment Segregation](./03-Environment-Segregation-Patterns.md) |
+| [← 01 - Terraform Workspaces Architecture and CLI](./01-Terraform-Workspaces-Architecture-and-CLI.md) | [Index](../../../README.md) | [03 - Environment Segregation Patterns →](./03-Environment-Segregation-Patterns.md) |

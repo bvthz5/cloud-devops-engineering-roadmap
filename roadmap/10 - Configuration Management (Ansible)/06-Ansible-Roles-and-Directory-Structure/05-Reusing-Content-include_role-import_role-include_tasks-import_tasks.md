@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - defaults vs vars](./04-Role-Variable-Scoping-defaults-vs-vars.md) | [README](./README.md) | [06 - Production Repositories](./06-Structuring-Production-Ansible-Repositories.md) |
+| [← 04 - Role Variable Scoping defaults vs vars](./04-Role-Variable-Scoping-defaults-vs-vars.md) | [Index](../../../README.md) | [06 - Structuring Production Ansible Repositories →](./06-Structuring-Production-Ansible-Repositories.md) |

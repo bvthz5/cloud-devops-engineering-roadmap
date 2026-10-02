@@ -73,4 +73,4 @@ wget -r -A.pdf https://example.com/reports/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - File Uploads](./08-File-Uploads.md) | [README](./README.md) | [10 - Common Flags Cheat Sheet](./10-Common-Flags-Cheat-Sheet.md) |
+| [← 08 - File Uploads](./08-File-Uploads.md) | [Index](../../../README.md) | [10 - Common Flags Cheat Sheet →](./10-Common-Flags-Cheat-Sheet.md) |

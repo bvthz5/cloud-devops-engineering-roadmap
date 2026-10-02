@@ -14,4 +14,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Policy JSON Structure](./04-IAM-Policies-JSON-Structure-Identity-vs-Resource.md) | [README](./README.md) | [06 - IAM Identity Center](./06-AWS-IAM-Identity-Center-Single-Sign-On-SSO.md) |
+| [← 04 - IAM Policies JSON Structure Identity vs Resource](./04-IAM-Policies-JSON-Structure-Identity-vs-Resource.md) | [Index](../../../README.md) | [06 - AWS IAM Identity Center Single Sign On SSO →](./06-AWS-IAM-Identity-Center-Single-Sign-On-SSO.md) |

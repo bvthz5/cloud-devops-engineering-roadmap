@@ -5,3 +5,9 @@ Comprehensive exploration of core concepts for Secrets Management: HashiCorp Vau
 - Key Definitions & Theoretical Foundations
 - Industry standard paradigms
 - Security architecture & Threat landscapes
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (01-DevSecOps-Philosophy-Shift-Left)](../01-DevSecOps-Philosophy-Shift-Left/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Architecture and Design →](./02-Architecture-and-Design.md) |

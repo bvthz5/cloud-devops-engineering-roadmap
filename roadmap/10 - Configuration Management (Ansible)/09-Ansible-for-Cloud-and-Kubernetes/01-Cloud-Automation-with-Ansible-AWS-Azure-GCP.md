@@ -9,4 +9,4 @@ Ansible uses dedicated collections to interact with cloud provider APIs:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Provisioning AWS Infrastructure](./02-Provisioning-AWS-Infrastructure-EC2-VPC-S3-RDS.md) |
+| [← Prev Module (08-Ansible-Galaxy-and-Collections)](../08-Ansible-Galaxy-and-Collections/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Provisioning AWS Infrastructure EC2 VPC S3 RDS →](./02-Provisioning-AWS-Infrastructure-EC2-VPC-S3-RDS.md) |

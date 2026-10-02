@@ -80,4 +80,4 @@ High-density 5-minute summary for fast review before interviews, exams, or on-ca
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - MCQs](./16-MCQs.md) | [README](./README.md) | [18 - Related Topics](./18-Related-Topics.md) |
+| [← 16 - MCQs](./16-MCQs.md) | [Index](../../../README.md) | [18 - Related Topics →](./18-Related-Topics.md) |

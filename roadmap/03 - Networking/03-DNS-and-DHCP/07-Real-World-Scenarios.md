@@ -20,4 +20,4 @@ Worldwide recursive resolvers (ISPs, Google, corporate firewalls) cached the old
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - DNSSEC & Security](./06-DNSSEC-and-DNS-Security.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - DNSSEC and DNS Security](./06-DNSSEC-and-DNS-Security.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

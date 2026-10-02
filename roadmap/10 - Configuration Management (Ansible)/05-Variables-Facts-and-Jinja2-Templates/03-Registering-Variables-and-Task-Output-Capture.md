@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Ansible Facts](./02-Ansible-Facts-and-Gathering-System-Metadata.md) | [README](./README.md) | [04 - Jinja2 Templating](./04-Jinja2-Templating-Syntax-Filters-and-Control-Structures.md) |
+| [← 02 - Ansible Facts and Gathering System Metadata](./02-Ansible-Facts-and-Gathering-System-Metadata.md) | [Index](../../../README.md) | [04 - Jinja2 Templating Syntax Filters and Control Structures →](./04-Jinja2-Templating-Syntax-Filters-and-Control-Structures.md) |

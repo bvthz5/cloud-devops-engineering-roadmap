@@ -80,4 +80,4 @@ func StartPodInformer(clientset *kubernetes.Clientset, stopCh <-chan struct{}) {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Kubernetes API Machinery](./01-Kubernetes-API-Machinery-and-client-go-Architecture.md) | [README](./README.md) | [03 - Custom Resource Definitions](./03-Custom-Resource-Definitions-CRDs-and-Code-Generation.md) |
+| [← 01 - Kubernetes API Machinery and client go Architecture](./01-Kubernetes-API-Machinery-and-client-go-Architecture.md) | [Index](../../../README.md) | [03 - Custom Resource Definitions CRDs and Code Generation →](./03-Custom-Resource-Definitions-CRDs-and-Code-Generation.md) |

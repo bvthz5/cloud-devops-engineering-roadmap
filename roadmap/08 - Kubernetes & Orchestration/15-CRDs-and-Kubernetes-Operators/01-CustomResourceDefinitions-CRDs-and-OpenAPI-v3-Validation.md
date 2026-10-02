@@ -44,4 +44,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - The Operator Pattern](./02-The-Kubernetes-Operator-Pattern-and-Control-Loop.md) |
+| [← Prev Module (14-Kubernetes-Networking-CNI-and-NetworkPolicies)](../14-Kubernetes-Networking-CNI-and-NetworkPolicies/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - The Kubernetes Operator Pattern and Control Loop →](./02-The-Kubernetes-Operator-Pattern-and-Control-Loop.md) |

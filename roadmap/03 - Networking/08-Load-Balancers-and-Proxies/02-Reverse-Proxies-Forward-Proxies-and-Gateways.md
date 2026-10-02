@@ -32,4 +32,4 @@ An **API Gateway** is an advanced Layer 7 reverse proxy tailored specifically fo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - L4 vs L7](./01-Layer-4-vs-Layer-7-Load-Balancing.md) | [README](./README.md) | [03 - Balancing Algorithms](./03-Load-Balancing-Algorithms-Deep-Dive.md) |
+| [← 01 - Layer 4 vs Layer 7 Load Balancing](./01-Layer-4-vs-Layer-7-Load-Balancing.md) | [Index](../../../README.md) | [03 - Load Balancing Algorithms Deep Dive →](./03-Load-Balancing-Algorithms-Deep-Dive.md) |

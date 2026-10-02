@@ -64,4 +64,4 @@ write_files:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Null Resource](./03-Null-Resource-and-Triggers.md) | [README](./README.md) | [05 - Packer Image Baking](./05-Packer-Image-Baking-vs-Runtime-Provisioning.md) |
+| [← 03 - Null Resource and Triggers](./03-Null-Resource-and-Triggers.md) | [Index](../../../README.md) | [05 - Packer Image Baking vs Runtime Provisioning →](./05-Packer-Image-Baking-vs-Runtime-Provisioning.md) |

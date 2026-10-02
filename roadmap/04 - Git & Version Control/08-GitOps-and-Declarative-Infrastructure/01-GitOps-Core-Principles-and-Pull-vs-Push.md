@@ -33,4 +33,4 @@ PULL-BASED (GitOps):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Argo CD & Flux](./02-Argo-CD-and-Flux-CD-Architecture.md) |
+| [← Prev Module (07-Resolving-Conflicts-and-Troubleshooting)](../07-Resolving-Conflicts-and-Troubleshooting/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Argo CD and Flux CD Architecture →](./02-Argo-CD-and-Flux-CD-Architecture.md) |

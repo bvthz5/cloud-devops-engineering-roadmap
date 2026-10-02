@@ -24,8 +24,9 @@ Understanding the Filesystem Hierarchy Standard connects directly into advanced 
    Practice adding persistent auto-mount entries using disk UUIDs (`blkid`).
 3. **Container Storage Drivers & Bind Mounts:**
    Explore how Docker and Kubernetes leverage Linux folder structures for container volume mounts (`-v /host/dir:/container/dir`).
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [19 - Quick Revision](./19-Quick-Revision.md) | [README](./README.md) | — |
+| [← 19 - Quick Revision](./19-Quick-Revision.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

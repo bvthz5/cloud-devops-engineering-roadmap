@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Azure Bastion & Private Endpoints](./05-Azure-Bastion-and-Private-Endpoints.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Azure Bastion and Private Endpoints](./05-Azure-Bastion-and-Private-Endpoints.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

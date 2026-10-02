@@ -6,4 +6,4 @@ Granting GitHub Actions runner in Account A permission to assume a deployment ro
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - IAM Identity Center](./06-AWS-IAM-Identity-Center-Single-Sign-On-SSO.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - AWS IAM Identity Center Single Sign On SSO](./06-AWS-IAM-Identity-Center-Single-Sign-On-SSO.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

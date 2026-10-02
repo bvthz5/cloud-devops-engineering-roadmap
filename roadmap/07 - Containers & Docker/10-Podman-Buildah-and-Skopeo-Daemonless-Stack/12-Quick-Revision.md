@@ -19,4 +19,4 @@ buildah commit $c myimage
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [11 - Container Observability & Troubleshooting](../11-Container-Observability-and-Troubleshooting/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (11-Container-Observability-and-Troubleshooting) →](../11-Container-Observability-and-Troubleshooting/01-cgroups-v2-Resource-Accounting-and-Metrics.md) |

@@ -40,4 +40,4 @@ sudo mount -a
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Filesystems Ext4 XFS Btrfs FAT32 NTFS](./07-Filesystems-Ext4-XFS-Btrfs-FAT32-NTFS.md) | [README](./README.md) | [09 - Swap Partitions and Swap Files](./09-Swap-Partitions-and-Swap-Files.md) |
+| [← 07 - Filesystems Ext4 XFS Btrfs FAT32 NTFS](./07-Filesystems-Ext4-XFS-Btrfs-FAT32-NTFS.md) | [Index](../../../README.md) | [09 - Swap Partitions and Swap Files →](./09-Swap-Partitions-and-Swap-Files.md) |

@@ -78,4 +78,4 @@ sudo ufw allow 'Nginx Full'
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - nftables Modern Firewall](./03-nftables-The-Modern-Linux-Firewall.md) | [README](./README.md) | [05 - firewalld for RHEL & Rocky](./05-firewalld-Dynamic-Firewall-for-RHEL-Rocky.md) |
+| [← 03 - nftables The Modern Linux Firewall](./03-nftables-The-Modern-Linux-Firewall.md) | [Index](../../../README.md) | [05 - firewalld Dynamic Firewall for RHEL Rocky →](./05-firewalld-Dynamic-Firewall-for-RHEL-Rocky.md) |

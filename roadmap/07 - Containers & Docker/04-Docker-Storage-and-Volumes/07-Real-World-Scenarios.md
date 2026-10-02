@@ -19,4 +19,4 @@ docker run --user "$(id -u):$(id -g)" -v "$(pwd)":/app -w /app mynode npm instal
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Storage Optimization & Cleanup](./06-Storage-Optimization-and-Dangling-Cleanup.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Storage Optimization and Dangling Cleanup](./06-Storage-Optimization-and-Dangling-Cleanup.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

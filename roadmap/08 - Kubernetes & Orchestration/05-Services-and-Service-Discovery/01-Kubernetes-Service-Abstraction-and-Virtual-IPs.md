@@ -37,4 +37,4 @@ Instead, `kube-proxy` programs the Linux kernel's Netfilter/iptables or IPVS sub
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Service Types](./02-Service-Types-ClusterIP-NodePort-and-LoadBalancer.md) |
+| [← Prev Module (04-Deployments-ReplicaSets-and-Rollouts)](../04-Deployments-ReplicaSets-and-Rollouts/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Service Types ClusterIP NodePort and LoadBalancer →](./02-Service-Types-ClusterIP-NodePort-and-LoadBalancer.md) |

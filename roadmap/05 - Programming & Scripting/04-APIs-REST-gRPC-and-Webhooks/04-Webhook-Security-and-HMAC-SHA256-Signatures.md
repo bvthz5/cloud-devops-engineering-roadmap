@@ -33,4 +33,4 @@ def verify_github_signature(payload_bytes: bytes, secret: str, received_sig: str
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Webhooks](./03-Webhook-Architecture-and-Reliable-Delivery.md) | [README](./README.md) | [05 - API Authentication](./05-API-Authentication-OAuth2-JWT-and-mTLS.md) |
+| [← 03 - Webhook Architecture and Reliable Delivery](./03-Webhook-Architecture-and-Reliable-Delivery.md) | [Index](../../../README.md) | [05 - API Authentication OAuth2 JWT and mTLS →](./05-API-Authentication-OAuth2-JWT-and-mTLS.md) |

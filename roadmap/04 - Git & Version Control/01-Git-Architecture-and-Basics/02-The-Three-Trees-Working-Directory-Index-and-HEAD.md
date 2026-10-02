@@ -45,4 +45,4 @@ Git manages your project files across three distinct states (often called the "T
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - VCS Evolution](./01-VCS-Evolution-Centralized-vs-Distributed.md) | [README](./README.md) | [03 - Git Configuration](./03-Git-Configuration-System-Global-and-Local.md) |
+| [← 01 - VCS Evolution Centralized vs Distributed](./01-VCS-Evolution-Centralized-vs-Distributed.md) | [Index](../../../README.md) | [03 - Git Configuration System Global and Local →](./03-Git-Configuration-System-Global-and-Local.md) |

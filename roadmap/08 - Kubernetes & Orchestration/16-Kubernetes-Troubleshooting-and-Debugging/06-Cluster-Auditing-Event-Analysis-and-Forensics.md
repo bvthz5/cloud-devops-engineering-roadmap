@@ -16,4 +16,4 @@ kubectl get events --field-selector type=Warning -A
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Ephemeral Debug Containers](./05-Ephemeral-Debug-Containers-and-Kubectl-Debug.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Ephemeral Debug Containers and Kubectl Debug](./05-Ephemeral-Debug-Containers-and-Kubectl-Debug.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -46,4 +46,4 @@ Before a web server can receive a request, the client resolves the domain name v
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Nginx Architecture and Process Model](./02-Nginx-Architecture-and-Process-Model.md) |
+| [← Prev Module (19-Ubuntu-Disk-Partitioning)](../19-Ubuntu-Disk-Partitioning/SOURCE.md) | [Index](../../../README.md) | [02 - Nginx Architecture and Process Model →](./02-Nginx-Architecture-and-Process-Model.md) |

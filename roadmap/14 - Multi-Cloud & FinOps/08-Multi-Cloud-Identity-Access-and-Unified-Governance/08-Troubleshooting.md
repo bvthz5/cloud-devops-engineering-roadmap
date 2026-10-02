@@ -25,3 +25,9 @@ Batch processing jobs fail mid-execution due to two-minute Spot instance termina
 1. **Lack of Graceful Shutdown**: Worker pods are killed abruptly when nodes terminate.
 2. **Spot Interruption Handler**: Deploy `aws-node-termination-handler` or GCP Spot eviction listeners to catch termination signals 120 seconds in advance.
 3. **Checkpointing**: Implement checkpointing in batch code so interrupted workers resume processing from the last saved state on replacement nodes.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 07 - Real World Scenarios](./07-Real-World-Scenarios.md) | [Index](../../../README.md) | [09 - Interview QA →](./09-Interview-QA.md) |

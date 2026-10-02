@@ -17,4 +17,4 @@ enable_list:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Testing Strategy](./01-Ansible-Testing-Strategy-Linting-Unit-Integration-System.md) | [README](./README.md) | [03 - Molecule Framework Architecture](./03-Molecule-Framework-Architecture-and-Drivers.md) |
+| [← 01 - Ansible Testing Strategy Linting Unit Integration System](./01-Ansible-Testing-Strategy-Linting-Unit-Integration-System.md) | [Index](../../../README.md) | [03 - Molecule Framework Architecture and Drivers →](./03-Molecule-Framework-Architecture-and-Drivers.md) |

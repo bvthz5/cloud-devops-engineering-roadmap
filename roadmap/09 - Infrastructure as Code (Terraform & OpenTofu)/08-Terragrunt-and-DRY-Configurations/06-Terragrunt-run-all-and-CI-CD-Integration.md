@@ -39,4 +39,4 @@ jobs:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Multi-Environment](./05-Multi-Environment-with-Terragrunt.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Multi Environment with Terragrunt](./05-Multi-Environment-with-Terragrunt.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

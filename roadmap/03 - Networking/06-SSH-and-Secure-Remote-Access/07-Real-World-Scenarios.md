@@ -14,4 +14,4 @@ Point DBeaver to `127.0.0.1:5432`!
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - SSH Certificates](./06-SSH-Certificates-and-Zero-Trust-Access.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - SSH Certificates and Zero Trust Access](./06-SSH-Certificates-and-Zero-Trust-Access.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

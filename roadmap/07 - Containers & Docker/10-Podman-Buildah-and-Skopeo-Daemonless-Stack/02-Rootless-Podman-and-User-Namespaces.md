@@ -19,4 +19,4 @@ UID 2                          ──► UID 100001 on host
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Daemonless Architecture](./01-The-Daemonless-Container-Architecture.md) | [README](./README.md) | [03 - Podman Pods & Kube YAML](./03-Podman-Pods-and-Kubernetes-YAML-Generation.md) |
+| [← 01 - The Daemonless Container Architecture](./01-The-Daemonless-Container-Architecture.md) | [Index](../../../README.md) | [03 - Podman Pods and Kubernetes YAML Generation →](./03-Podman-Pods-and-Kubernetes-YAML-Generation.md) |

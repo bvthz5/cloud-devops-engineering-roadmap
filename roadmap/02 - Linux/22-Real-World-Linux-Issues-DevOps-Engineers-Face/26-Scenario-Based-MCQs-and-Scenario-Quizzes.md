@@ -67,4 +67,4 @@ Which command displays per-core CPU utilization breakdown including user, system
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [25 - DevOps Interview Q&A](./25-DevOps-Troubleshooting-Interview-Questions.md) | [README](./README.md) | [27 - Incident Response Checklist](./27-Production-Incident-Response-Checklist.md) |
+| [← 25 - DevOps Troubleshooting Interview Questions](./25-DevOps-Troubleshooting-Interview-Questions.md) | [Index](../../../README.md) | [27 - Production Incident Response Checklist →](./27-Production-Incident-Response-Checklist.md) |

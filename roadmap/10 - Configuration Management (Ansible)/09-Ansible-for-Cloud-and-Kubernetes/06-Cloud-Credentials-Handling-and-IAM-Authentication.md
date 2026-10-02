@@ -6,4 +6,4 @@ Using AWS IAM roles, environment variables (`AWS_ACCESS_KEY_ID`), or boto3 profi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Hybrid & Multi-Cloud](./05-Hybrid-Cloud-and-Multi-Cloud-Orchestration.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Hybrid Cloud and Multi Cloud Orchestration](./05-Hybrid-Cloud-and-Multi-Cloud-Orchestration.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

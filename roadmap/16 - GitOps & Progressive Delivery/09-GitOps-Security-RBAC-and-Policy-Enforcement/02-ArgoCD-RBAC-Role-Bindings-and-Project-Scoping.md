@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - GitOps Security Threat Model and Attack Vectors](./01-GitOps-Security-Threat-Model-and-Attack-Vectors.md) | [Index](../../../README.md) | [03 - Policy as Code OPA Gatekeeper and Kyverno in GitOps →](./03-Policy-as-Code-OPA-Gatekeeper-and-Kyverno-in-GitOps.md) |

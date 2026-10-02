@@ -6,3 +6,9 @@ Top technical interview questions for SLO, SLI, Error Budgets, and SRE Observabi
 2. How do you address high memory consumption in production?
 3. Compare SLO, SLI, Error Budgets, and SRE Observability with alternative industry solutions.
 4. Describe an edge-case failure and your resolution strategy.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 08 - Troubleshooting](./08-Troubleshooting.md) | [Index](../../../README.md) | [10 - Hands On Practice →](./10-Hands-On-Practice.md) |

@@ -31,4 +31,4 @@ data = response.json()
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - CLI Tools](./03-Building-Production-CLI-Tools-argparse-and-click.md) | [README](./README.md) | [05 - Config Parsing](./05-Config-Parsing-JSON-YAML-and-TOML.md) |
+| [← 03 - Building Production CLI Tools argparse and click](./03-Building-Production-CLI-Tools-argparse-and-click.md) | [Index](../../../README.md) | [05 - Config Parsing JSON YAML and TOML →](./05-Config-Parsing-JSON-YAML-and-TOML.md) |

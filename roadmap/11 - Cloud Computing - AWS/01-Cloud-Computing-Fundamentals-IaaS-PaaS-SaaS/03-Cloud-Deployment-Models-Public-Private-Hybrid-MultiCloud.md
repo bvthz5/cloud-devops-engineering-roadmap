@@ -9,4 +9,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Service Models](./02-Cloud-Service-Models-IaaS-vs-PaaS-vs-SaaS.md) | [README](./README.md) | [04 - Shared Responsibility](./04-AWS-Shared-Responsibility-Model.md) |
+| [← 02 - Cloud Service Models IaaS vs PaaS vs SaaS](./02-Cloud-Service-Models-IaaS-vs-PaaS-vs-SaaS.md) | [Index](../../../README.md) | [04 - AWS Shared Responsibility Model →](./04-AWS-Shared-Responsibility-Model.md) |

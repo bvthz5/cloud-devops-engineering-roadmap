@@ -63,4 +63,4 @@ sudo mount /dev/vg_production/lv_app /opt/app
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Storage Architecture](./01-Storage-Architecture-Block-Devices-and-Partitions.md) | [README](./README.md) | [03 - Software RAID with mdadm](./03-Software-RAID-with-mdadm.md) |
+| [← 01 - Storage Architecture Block Devices and Partitions](./01-Storage-Architecture-Block-Devices-and-Partitions.md) | [Index](../../../README.md) | [03 - Software RAID with mdadm →](./03-Software-RAID-with-mdadm.md) |

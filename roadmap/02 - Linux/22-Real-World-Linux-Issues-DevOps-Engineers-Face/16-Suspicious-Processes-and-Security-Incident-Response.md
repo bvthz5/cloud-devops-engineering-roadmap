@@ -47,4 +47,4 @@ systemctl list-timers --all
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [15 - Kubernetes Pod CrashLoopBackOff](./15-Kubernetes-Pod-CrashLoopBackOff-Troubleshooting.md) | [README](./README.md) | [17 - Universal Troubleshooting Toolkit](./17-Universal-Troubleshooting-Toolkit-and-Cheat-Sheet.md) |
+| [← 15 - Kubernetes Pod CrashLoopBackOff Troubleshooting](./15-Kubernetes-Pod-CrashLoopBackOff-Troubleshooting.md) | [Index](../../../README.md) | [17 - Universal Troubleshooting Toolkit and Cheat Sheet →](./17-Universal-Troubleshooting-Toolkit-and-Cheat-Sheet.md) |

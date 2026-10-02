@@ -20,4 +20,4 @@ Alpine uses `musl libc` rather than standard GNU `glibc`.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Multi-Stage Builds Architecture](./03-Multi-Stage-Builds-Architecture.md) | [README](./README.md) | [05 - Non-Root Users & Least Privilege](./05-Non-Root-Users-and-Least-Privilege-Execution.md) |
+| [← 03 - Multi Stage Builds Architecture](./03-Multi-Stage-Builds-Architecture.md) | [Index](../../../README.md) | [05 - Non Root Users and Least Privilege Execution →](./05-Non-Root-Users-and-Least-Privilege-Execution.md) |

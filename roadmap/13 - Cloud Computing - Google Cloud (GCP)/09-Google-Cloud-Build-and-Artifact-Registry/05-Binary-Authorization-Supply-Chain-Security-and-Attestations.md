@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Private Worker Pools and VPC Service Controls in Cloud Build](./04-Private-Worker-Pools-and-VPC-Service-Controls-in-Cloud-Build.md) | [Index](../../../README.md) | [06 - GitOps on GCP Cloud Deploy and ArgoCD Integration →](./06-GitOps-on-GCP-Cloud-Deploy-and-ArgoCD-Integration.md) |

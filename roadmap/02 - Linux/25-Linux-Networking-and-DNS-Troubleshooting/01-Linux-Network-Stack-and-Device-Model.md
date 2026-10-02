@@ -88,4 +88,4 @@ sudo ethtool -K eth0 tso off gso off gro off
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Modern Network Configuration](./02-Modern-Network-Configuration-iproute2.md) |
+| [← Prev Module (24-Linux-Package-Management-APT-YUM-DNF-APK-and-Source)](../24-Linux-Package-Management-APT-YUM-DNF-APK-and-Source/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Modern Network Configuration iproute2 →](./02-Modern-Network-Configuration-iproute2.md) |

@@ -78,4 +78,4 @@ resource "aws_instance" "app" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Module Inputs & Outputs](./02-Module-Inputs-Outputs-and-Composition.md) |
+| [← Prev Module (04-Terraform-State-Management-and-Remote-Backend)](../04-Terraform-State-Management-and-Remote-Backend/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Module Inputs Outputs and Composition →](./02-Module-Inputs-Outputs-and-Composition.md) |

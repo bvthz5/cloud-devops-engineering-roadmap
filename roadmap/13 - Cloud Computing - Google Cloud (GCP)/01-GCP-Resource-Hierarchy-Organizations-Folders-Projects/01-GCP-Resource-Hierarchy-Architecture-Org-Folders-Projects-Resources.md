@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Section (12 - Cloud Computing - Azure)](../../12%20-%20Cloud%20Computing%20-%20Azure/14-Azure-Cost-Management-FinOps-and-Well-Architected/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Google Cloud Organizations Setup and Domain Verification →](./02-Google-Cloud-Organizations-Setup-and-Domain-Verification.md) |

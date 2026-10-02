@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Managed Identities](./05-Managed-Identities-System-Assigned-vs-User-Assigned.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Managed Identities System Assigned vs User Assigned](./05-Managed-Identities-System-Assigned-vs-User-Assigned.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -36,4 +36,4 @@ Linux **`epoll`** operates in **$O(1)$** time by having the kernel wake up worke
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - UDP Architecture](./04-UDP-Protocol-Architecture-and-Use-Cases.md) | [README](./README.md) | [06 - TCP Kernel Tuning](./06-TCP-Tuning-and-Optimization-in-Linux.md) |
+| [← 04 - UDP Protocol Architecture and Use Cases](./04-UDP-Protocol-Architecture-and-Use-Cases.md) | [Index](../../../README.md) | [06 - TCP Tuning and Optimization in Linux →](./06-TCP-Tuning-and-Optimization-in-Linux.md) |

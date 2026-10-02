@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - AWS Cost Explorer AWS CUR and Cost Anomalies](./01-AWS-Cost-Explorer-AWS-CUR-and-Cost-Anomalies.md) | [Index](../../../README.md) | [03 - GCP Billing Export to BigQuery and SQL Cost Analytics →](./03-GCP-Billing-Export-to-BigQuery-and-SQL-Cost-Analytics.md) |

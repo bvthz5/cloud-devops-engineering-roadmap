@@ -35,4 +35,4 @@ git cherry-pick A..B
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Interactive Rebasing](./04-Interactive-Rebasing-Squash-Fixup-and-Edit.md) | [README](./README.md) | [06 - Git Stash](./06-Git-Stash-Deep-Dive-and-Work-in-Progress.md) |
+| [← 04 - Interactive Rebasing Squash Fixup and Edit](./04-Interactive-Rebasing-Squash-Fixup-and-Edit.md) | [Index](../../../README.md) | [06 - Git Stash Deep Dive and Work in Progress →](./06-Git-Stash-Deep-Dive-and-Work-in-Progress.md) |

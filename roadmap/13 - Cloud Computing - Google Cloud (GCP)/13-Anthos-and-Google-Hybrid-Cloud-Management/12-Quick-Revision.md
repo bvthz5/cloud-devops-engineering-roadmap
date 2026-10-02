@@ -22,3 +22,9 @@
 3. **Use VPC Service Controls for strict compliance data perimeters** (healthcare, financial data).
 4. **Enable BigQuery Billing Export immediately** to enable granular cost visualization and FinOps analysis.
 5. **Use Anthos Fleet and ACM for GitOps** across hybrid Kubernetes deployments.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (14-GCP-Cost-Management-FinOps-and-Architecture-Framework) →](../14-GCP-Cost-Management-FinOps-and-Architecture-Framework/01-GCP-Billing-Architecture-Accounts-Billing-Projects-Exports.md) |

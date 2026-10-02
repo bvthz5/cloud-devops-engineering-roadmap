@@ -19,4 +19,4 @@ docker system df -v
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - External Volume Plugins](./05-External-Volume-Plugins-and-Cloud-Storage.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - External Volume Plugins and Cloud Storage](./05-External-Volume-Plugins-and-Cloud-Storage.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

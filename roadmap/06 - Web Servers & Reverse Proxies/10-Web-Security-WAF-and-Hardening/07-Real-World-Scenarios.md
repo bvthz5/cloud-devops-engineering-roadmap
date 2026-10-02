@@ -20,4 +20,4 @@ Rule **942100** (SQL Injection Detection) flagged customers whose billing addres
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Zero-Trust Edge & mTLS](./06-Zero-Trust-Edge-mTLS-and-API-Gateway-Hardening.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Zero Trust Edge mTLS and API Gateway Hardening](./06-Zero-Trust-Edge-mTLS-and-API-Gateway-Hardening.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

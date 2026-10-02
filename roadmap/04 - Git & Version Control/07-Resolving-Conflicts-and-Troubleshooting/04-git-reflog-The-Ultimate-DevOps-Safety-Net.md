@@ -39,4 +39,4 @@ git branch feature-recovered 5d6e7f8
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Detached HEAD](./03-Detached-HEAD-State-Anatomy-and-Safe-Recovery.md) | [README](./README.md) | [05 - git bisect](./05-Automated-Bug-Hunting-with-git-bisect.md) |
+| [← 03 - Detached HEAD State Anatomy and Safe Recovery](./03-Detached-HEAD-State-Anatomy-and-Safe-Recovery.md) | [Index](../../../README.md) | [05 - Automated Bug Hunting with git bisect →](./05-Automated-Bug-Hunting-with-git-bisect.md) |

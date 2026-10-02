@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 08 - AWS Containers](../08-AWS-ECS-EKS-and-Container-Services/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (08-AWS-ECS-EKS-and-Container-Services) →](../08-AWS-ECS-EKS-and-Container-Services/01-Amazon-Elastic-Container-Registry-ECR.md) |

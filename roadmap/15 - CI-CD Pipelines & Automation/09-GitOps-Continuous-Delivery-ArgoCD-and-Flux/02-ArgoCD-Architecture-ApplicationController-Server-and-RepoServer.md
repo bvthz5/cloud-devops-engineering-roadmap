@@ -79,3 +79,9 @@ cosign verify --key cosign.pub us-central1-docker.pkg.dev/my-project/app:v1.2.0
 - [ArgoCD Documentation](https://argo-cd.readthedocs.io/)
 - [Sigstore / Cosign Documentation](https://docs.sigstore.dev/cosign/overview/)
 - [OpenFeature Standard](https://openfeature.dev/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - GitOps Core Principles Declarative Single Source of Truth](./01-GitOps-Core-Principles-Declarative-Single-Source-of-Truth.md) | [Index](../../../README.md) | [03 - ArgoCD Applicationset Multi Cluster and Multi Tenant Deployments →](./03-ArgoCD-Applicationset-Multi-Cluster-and-Multi-Tenant-Deployments.md) |

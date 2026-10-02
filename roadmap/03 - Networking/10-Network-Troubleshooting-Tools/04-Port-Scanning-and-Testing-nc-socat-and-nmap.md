@@ -44,4 +44,4 @@ sudo nmap -p- 192.168.1.100
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Socket Inspection](./03-Socket-and-Connection-Inspection-ss-and-netstat.md) | [README](./README.md) | [05 - HTTP & DNS Diagnostics](./05-HTTP-and-API-Diagnostics-curl-and-dig.md) |
+| [← 03 - Socket and Connection Inspection ss and netstat](./03-Socket-and-Connection-Inspection-ss-and-netstat.md) | [Index](../../../README.md) | [05 - HTTP and API Diagnostics curl and dig →](./05-HTTP-and-API-Diagnostics-curl-and-dig.md) |

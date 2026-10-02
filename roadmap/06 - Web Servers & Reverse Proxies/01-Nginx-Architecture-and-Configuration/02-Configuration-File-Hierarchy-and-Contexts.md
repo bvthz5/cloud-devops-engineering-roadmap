@@ -78,4 +78,4 @@ http {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Event-Driven Architecture](./01-Event-Driven-Architecture-and-Worker-Model.md) | [README](./README.md) | [03 - Location Block Matching Priority](./03-Location-Block-Matching-Priority-and-Directives.md) |
+| [← 01 - Event Driven Architecture and Worker Model](./01-Event-Driven-Architecture-and-Worker-Model.md) | [Index](../../../README.md) | [03 - Location Block Matching Priority and Directives →](./03-Location-Block-Matching-Priority-and-Directives.md) |

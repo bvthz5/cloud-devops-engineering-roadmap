@@ -38,4 +38,4 @@ When a web browser sends an HTTP request:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - TCP/IP 4-Layer Model](./02-TCPIP-4-Layer-Model-and-Comparison.md) | [README](./README.md) | [04 - Layer 2 Data Link](./04-Layer-2-Data-Link-MAC-and-Switches.md) |
+| [← 02 - TCPIP 4 Layer Model and Comparison](./02-TCPIP-4-Layer-Model-and-Comparison.md) | [Index](../../../README.md) | [04 - Layer 2 Data Link MAC and Switches →](./04-Layer-2-Data-Link-MAC-and-Switches.md) |

@@ -19,4 +19,4 @@ During Black Friday, a major retail platform experienced a sudden 10x traffic sp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Anti-Patterns & Flapping](./06-Autoscaling-Anti-Patterns-Thrashing-and-Conflict-Resolution.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Autoscaling Anti Patterns Thrashing and Conflict Resolution](./06-Autoscaling-Anti-Patterns-Thrashing-and-Conflict-Resolution.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

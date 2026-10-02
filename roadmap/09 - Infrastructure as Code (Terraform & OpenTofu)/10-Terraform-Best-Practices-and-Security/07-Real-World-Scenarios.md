@@ -16,4 +16,4 @@ A database password was hardcoded in a .tf file. The state file containing the p
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Supply Chain Security](./06-Supply-Chain-Security-Provider-Signing-and-Lock-Files.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Supply Chain Security Provider Signing and Lock Files](./06-Supply-Chain-Security-Provider-Signing-and-Lock-Files.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

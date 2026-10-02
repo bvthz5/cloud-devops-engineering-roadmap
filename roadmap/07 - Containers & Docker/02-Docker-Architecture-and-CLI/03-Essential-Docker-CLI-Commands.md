@@ -32,4 +32,4 @@ docker system prune -a --volumes -f
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Container Lifecycle & States](./02-Container-Lifecycle-and-Process-States.md) | [README](./README.md) | [04 - Resource Constraints & Limits](./04-Resource-Constraints-and-Limits.md) |
+| [← 02 - Container Lifecycle and Process States](./02-Container-Lifecycle-and-Process-States.md) | [Index](../../../README.md) | [04 - Resource Constraints and Limits →](./04-Resource-Constraints-and-Limits.md) |

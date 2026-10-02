@@ -90,4 +90,4 @@ bats test_backup.bats
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Testing Pyramid](./01-The-Testing-Pyramid-for-Infrastructure-and-DevOps.md) | [README](./README.md) | [03 - Python Testing with pytest and Moto](./03-Python-Unit-and-Integration-Testing-pytest-and-Moto.md) |
+| [← 01 - The Testing Pyramid for Infrastructure and DevOps](./01-The-Testing-Pyramid-for-Infrastructure-and-DevOps.md) | [Index](../../../README.md) | [03 - Python Unit and Integration Testing pytest and Moto →](./03-Python-Unit-and-Integration-Testing-pytest-and-Moto.md) |

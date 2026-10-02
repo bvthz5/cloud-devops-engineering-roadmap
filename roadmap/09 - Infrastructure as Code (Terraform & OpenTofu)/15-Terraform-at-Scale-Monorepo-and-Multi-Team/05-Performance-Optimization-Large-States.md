@@ -12,4 +12,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - RBAC & Governance](./04-RBAC-and-Governance-for-IaC.md) | [README](./README.md) | [06 - Platform Engineering](./06-IaC-Platform-Engineering.md) |
+| [← 04 - RBAC and Governance for IaC](./04-RBAC-and-Governance-for-IaC.md) | [Index](../../../README.md) | [06 - IaC Platform Engineering →](./06-IaC-Platform-Engineering.md) |

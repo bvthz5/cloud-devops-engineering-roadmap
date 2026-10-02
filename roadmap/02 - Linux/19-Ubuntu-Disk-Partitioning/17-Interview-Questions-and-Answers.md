@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [16 - Troubleshooting Partitioning Scenarios](./16-Troubleshooting-Partitioning-Scenarios.md) | [README](./README.md) | [18 - MCQs and Quick Revision](./18-MCQs-and-Quick-Revision.md) |
+| [← 16 - Troubleshooting Partitioning Scenarios](./16-Troubleshooting-Partitioning-Scenarios.md) | [Index](../../../README.md) | [18 - MCQs and Quick Revision →](./18-MCQs-and-Quick-Revision.md) |

@@ -19,4 +19,4 @@ metadata:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Reconciliation Loops](./04-Operator-Reconciliation-Loops-and-Event-Handling.md) | [README](./README.md) | [06 - OLM & OperatorHub](./06-Operator-Lifecycle-Manager-OLM-and-OperatorHub.md) |
+| [← 04 - Operator Reconciliation Loops and Event Handling](./04-Operator-Reconciliation-Loops-and-Event-Handling.md) | [Index](../../../README.md) | [06 - Operator Lifecycle Manager OLM and OperatorHub →](./06-Operator-Lifecycle-Manager-OLM-and-OperatorHub.md) |

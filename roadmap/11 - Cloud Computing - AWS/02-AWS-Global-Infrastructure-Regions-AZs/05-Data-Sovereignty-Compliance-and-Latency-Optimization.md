@@ -6,4 +6,4 @@ Regions allow customers to ensure data remains strictly within national geograph
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Resiliency & DR](./04-Resiliency-High-Availability-and-Disaster-Recovery.md) | [README](./README.md) | [06 - Outposts & Hybrid](./06-AWS-Outposts-and-Hybrid-Cloud-Infrastructure.md) |
+| [← 04 - Resiliency High Availability and Disaster Recovery](./04-Resiliency-High-Availability-and-Disaster-Recovery.md) | [Index](../../../README.md) | [06 - AWS Outposts and Hybrid Cloud Infrastructure →](./06-AWS-Outposts-and-Hybrid-Cloud-Infrastructure.md) |

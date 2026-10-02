@@ -6,4 +6,4 @@ AWS Outposts delivers native AWS infrastructure and services to virtually any on
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Data Sovereignty](./05-Data-Sovereignty-Compliance-and-Latency-Optimization.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Data Sovereignty Compliance and Latency Optimization](./05-Data-Sovereignty-Compliance-and-Latency-Optimization.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

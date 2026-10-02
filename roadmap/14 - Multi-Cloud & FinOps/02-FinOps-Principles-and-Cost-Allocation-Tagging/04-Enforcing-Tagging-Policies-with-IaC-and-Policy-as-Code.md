@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Cost Allocation Tagging Strategies Metadata Taxonomy and Governance](./03-Cost-Allocation-Tagging-Strategies-Metadata-Taxonomy-and-Governance.md) | [Index](../../../README.md) | [05 - Unit Economics and Cost Per Customer Metrics →](./05-Unit-Economics-and-Cost-Per-Customer-Metrics.md) |

@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - GCS Storage Classes Standard Nearline Coldline Archive](./02-GCS-Storage-Classes-Standard-Nearline-Coldline-Archive.md) | [Index](../../../README.md) | [04 - Bucket Lifecycle Management and Object Versioning →](./04-Bucket-Lifecycle-Management-and-Object-Versioning.md) |

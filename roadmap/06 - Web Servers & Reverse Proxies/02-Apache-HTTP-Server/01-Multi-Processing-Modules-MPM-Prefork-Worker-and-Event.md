@@ -62,4 +62,4 @@ mpm_event Architecture:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Configuration Hierarchy](./02-Configuration-Hierarchy-and-Directive-Scopes.md) |
+| [← Prev Module (01-Nginx-Architecture-and-Configuration)](../01-Nginx-Architecture-and-Configuration/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Configuration Hierarchy and Directive Scopes →](./02-Configuration-Hierarchy-and-Directive-Scopes.md) |

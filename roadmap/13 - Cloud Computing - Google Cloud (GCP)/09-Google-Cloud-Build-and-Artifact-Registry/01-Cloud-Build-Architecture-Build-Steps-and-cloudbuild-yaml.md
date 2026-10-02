@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (08-Google-Cloud-Run-and-Cloud-Functions)](../08-Google-Cloud-Run-and-Cloud-Functions/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Cloud Build Triggers GitHub Bitbucket Cloud Source Repositories →](./02-Cloud-Build-Triggers-GitHub-Bitbucket-Cloud-Source-Repositories.md) |

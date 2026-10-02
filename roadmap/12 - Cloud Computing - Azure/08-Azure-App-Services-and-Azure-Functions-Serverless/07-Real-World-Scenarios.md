@@ -6,4 +6,4 @@ Architecting an asynchronous order engine with Azure Functions, Service Bus topi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Event Grid & Service Bus](./06-Azure-Event-Grid-and-Azure-Service-Bus.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Azure Event Grid and Azure Service Bus](./06-Azure-Event-Grid-and-Azure-Service-Bus.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

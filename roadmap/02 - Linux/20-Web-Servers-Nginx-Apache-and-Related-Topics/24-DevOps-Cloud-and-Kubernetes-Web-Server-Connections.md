@@ -30,4 +30,4 @@ In modern DevOps and Cloud-Native environments, web servers transition from stan
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [23 - Scenario Based Troubleshooting Challenges](./23-Scenario-Based-Troubleshooting-Challenges.md) | [README](./README.md) | [25 - Web Server Command and Config Cheat Sheet](./25-Web-Server-Command-and-Config-Cheat-Sheet.md) |
+| [← 23 - Scenario Based Troubleshooting Challenges](./23-Scenario-Based-Troubleshooting-Challenges.md) | [Index](../../../README.md) | [25 - Web Server Command and Config Cheat Sheet →](./25-Web-Server-Command-and-Config-Cheat-Sheet.md) |

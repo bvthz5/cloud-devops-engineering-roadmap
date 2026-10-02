@@ -75,3 +75,9 @@ resource "google_storage_bucket" "secure_bucket" {
 ## 🔗 Related Resources
 - [Google Cloud Security Documentation](https://cloud.google.com/security/docs)
 - [GCP FinOps & Cost Management](https://cloud.google.com/cost-management)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - GCP Terraform Remote State Storage in GCS with State Locking](./04-GCP-Terraform-Remote-State-Storage-in-GCS-with-State-Locking.md) | [Index](../../../README.md) | [06 - Automating IaC Pipelines with Cloud Build and Terraform →](./06-Automating-IaC-Pipelines-with-Cloud-Build-and-Terraform.md) |

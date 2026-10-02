@@ -30,4 +30,4 @@ Phase 5: Logging          ──► Formats structured JSON audit log entry
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - ModSecurity & Coraza with OWASP CRS](./02-ModSecurity-and-Coraza-with-OWASP-CRS.md) |
+| [← Prev Module (09-Caddy-and-Modern-HTTP3-Web-Servers)](../09-Caddy-and-Modern-HTTP3-Web-Servers/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - ModSecurity and Coraza with OWASP CRS →](./02-ModSecurity-and-Coraza-with-OWASP-CRS.md) |

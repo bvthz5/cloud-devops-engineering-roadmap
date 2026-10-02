@@ -46,4 +46,4 @@ roleRef:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Authentication Architecture](./01-Kubernetes-Authentication-X509-OIDC-and-Tokens.md) | [README](./README.md) | [03 - ServiceAccounts & Bound Tokens](./03-ServiceAccounts-and-Bound-Token-Projection.md) |
+| [← 01 - Kubernetes Authentication X509 OIDC and Tokens](./01-Kubernetes-Authentication-X509-OIDC-and-Tokens.md) | [Index](../../../README.md) | [03 - ServiceAccounts and Bound Token Projection →](./03-ServiceAccounts-and-Bound-Token-Projection.md) |

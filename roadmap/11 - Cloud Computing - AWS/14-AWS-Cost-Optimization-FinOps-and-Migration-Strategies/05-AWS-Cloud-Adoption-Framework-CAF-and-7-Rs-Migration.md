@@ -14,4 +14,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Storage Cost Optimization](./04-Storage-and-Data-Transfer-Cost-Optimization.md) | [README](./README.md) | [06 - AWS Migration Tools](./06-AWS-Migration-Tools-Migration-Hub-MGN-and-DMS.md) |
+| [← 04 - Storage and Data Transfer Cost Optimization](./04-Storage-and-Data-Transfer-Cost-Optimization.md) | [Index](../../../README.md) | [06 - AWS Migration Tools Migration Hub MGN and DMS →](./06-AWS-Migration-Tools-Migration-Hub-MGN-and-DMS.md) |

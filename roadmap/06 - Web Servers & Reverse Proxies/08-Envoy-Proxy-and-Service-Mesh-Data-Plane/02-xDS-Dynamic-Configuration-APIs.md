@@ -29,4 +29,4 @@ Envoy solves this through **xDS (Discovery Service APIs)**—a suite of gRPC str
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Envoy Architecture](./01-Envoy-Architecture-Threading-and-Event-Model.md) | [README](./README.md) | [03 - Filter Chains & Network/HTTP Filters](./03-Filter-Chains-and-Network-HTTP-Filters.md) |
+| [← 01 - Envoy Architecture Threading and Event Model](./01-Envoy-Architecture-Threading-and-Event-Model.md) | [Index](../../../README.md) | [03 - Filter Chains and Network HTTP Filters →](./03-Filter-Chains-and-Network-HTTP-Filters.md) |

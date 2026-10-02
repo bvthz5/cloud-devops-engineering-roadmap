@@ -40,4 +40,4 @@ sudo ls -l /etc/letsencrypt/live/example.com/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [17 - Lab 02: Apache Certbot](./17-Hands-On-Lab-02-Apache-Certbot-Setup.md) | [README](./README.md) | [19 - Hands-On Labs 04 to 10](./19-Hands-On-Labs-04-to-10-Renewal-Hardening-Cloudflare.md) |
+| [← 17 - Hands On Lab 02 Apache Certbot Setup](./17-Hands-On-Lab-02-Apache-Certbot-Setup.md) | [Index](../../../README.md) | [19 - Hands On Labs 04 to 10 Renewal Hardening Cloudflare →](./19-Hands-On-Labs-04-to-10-Renewal-Hardening-Cloudflare.md) |

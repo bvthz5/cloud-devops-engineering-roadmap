@@ -22,3 +22,9 @@
 3. **Always implement dependency caching** to minimize build times and save bandwidth.
 4. **Position unit tests and security scans early** (Shift-Left) to catch bugs before build stages.
 5. **Use OIDC short-lived tokens** instead of permanent static cloud credentials in CI/CD secrets.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (02-GitHub-Actions-Workflows-and-Runners) →](../02-GitHub-Actions-Workflows-and-Runners/01-GitHub-Actions-Architecture-Events-Jobs-Steps-and-Runners.md) |

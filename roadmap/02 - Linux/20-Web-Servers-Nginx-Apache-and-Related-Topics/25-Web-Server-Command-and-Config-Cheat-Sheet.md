@@ -28,4 +28,4 @@ curl -I -v https://example.com         # Inspect HTTP response headers & TLS han
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [24 - DevOps Cloud and Kubernetes Web Server Connections](./24-DevOps-Cloud-and-Kubernetes-Web-Server-Connections.md) | [README](./README.md) | [README (Index)](./README.md) |
+| [← 24 - DevOps Cloud and Kubernetes Web Server Connections](./24-DevOps-Cloud-and-Kubernetes-Web-Server-Connections.md) | [Index](../../../README.md) | [SOURCE →](./SOURCE.md) |

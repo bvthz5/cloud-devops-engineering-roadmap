@@ -14,4 +14,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 12 - Provider Development](../12-Terraform-Provider-Development/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (12-Terraform-Provider-Development) →](../12-Terraform-Provider-Development/01-Provider-Plugin-Framework-and-SDK.md) |

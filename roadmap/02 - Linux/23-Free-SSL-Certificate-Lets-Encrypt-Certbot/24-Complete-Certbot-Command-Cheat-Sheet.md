@@ -38,4 +38,4 @@ sudo certbot revoke --cert-path /etc/letsencrypt/live/example.com/cert.pem
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [23 - Quick Revision Notes](./23-Quick-Revision-Notes.md) | [README](./README.md) | [25 - Production SSL Deployment Checklist](./25-Production-SSL-Deployment-Checklist.md) |
+| [← 23 - Quick Revision Notes](./23-Quick-Revision-Notes.md) | [Index](../../../README.md) | [25 - Production SSL Deployment Checklist →](./25-Production-SSL-Deployment-Checklist.md) |

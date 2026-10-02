@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Installing and Configuring ArgoCD in Kubernetes](./02-Installing-and-Configuring-ArgoCD-in-Kubernetes.md) | [Index](../../../README.md) | [04 - ArgoCD Projects Multi Tenancy and RBAC →](./04-ArgoCD-Projects-Multi-Tenancy-and-RBAC.md) |

@@ -18,4 +18,4 @@ ansible-vault rekey group_vars/production/secrets.yml
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Vault Architecture](./01-Ansible-Vault-Architecture-and-AES256-Encryption.md) | [README](./README.md) | [03 - Vault IDs & Multi-Keys](./03-Vault-Passwords-Vault-ID-and-Multiple-Vault-Keys.md) |
+| [← 01 - Ansible Vault Architecture and AES256 Encryption](./01-Ansible-Vault-Architecture-and-AES256-Encryption.md) | [Index](../../../README.md) | [03 - Vault Passwords Vault ID and Multiple Vault Keys →](./03-Vault-Passwords-Vault-ID-and-Multiple-Vault-Keys.md) |

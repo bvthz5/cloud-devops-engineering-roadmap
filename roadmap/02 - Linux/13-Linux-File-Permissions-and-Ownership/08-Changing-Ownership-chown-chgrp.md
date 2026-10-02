@@ -108,4 +108,4 @@ In some shells, `.*` expands to include `..` (the parent directory), which can r
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Special Permissions setuid setgid sticky bit](./07-Special-Permissions-setuid-setgid-sticky-bit.md) | [README](./README.md) | [09 - Real World DevOps Scenarios](./09-Real-World-DevOps-Scenarios.md) |
+| [← 07 - Special Permissions setuid setgid sticky bit](./07-Special-Permissions-setuid-setgid-sticky-bit.md) | [Index](../../../README.md) | [09 - Real World DevOps Scenarios →](./09-Real-World-DevOps-Scenarios.md) |

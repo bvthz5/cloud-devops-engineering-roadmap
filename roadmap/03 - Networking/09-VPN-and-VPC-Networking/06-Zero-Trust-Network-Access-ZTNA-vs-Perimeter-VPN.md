@@ -29,4 +29,4 @@ Zero Trust (Tailscale / Cloudflare Access):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - PrivateLink & Endpoints](./05-Private-Endpoints-PrivateLink-and-PSC.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Private Endpoints PrivateLink and PSC](./05-Private-Endpoints-PrivateLink-and-PSC.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

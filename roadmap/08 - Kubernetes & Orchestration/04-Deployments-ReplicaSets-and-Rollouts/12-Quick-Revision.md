@@ -14,4 +14,4 @@ kubectl scale deployment/<name> --replicas=N
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 05 - Services & Discovery](../05-Services-and-Service-Discovery/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (05-Services-and-Service-Discovery) →](../05-Services-and-Service-Discovery/01-Kubernetes-Service-Abstraction-and-Virtual-IPs.md) |

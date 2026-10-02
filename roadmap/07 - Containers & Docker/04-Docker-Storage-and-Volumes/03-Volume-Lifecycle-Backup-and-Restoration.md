@@ -23,4 +23,4 @@ docker run --rm \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Named Volumes vs Bind Mounts](./02-Named-Volumes-vs-Bind-Mounts-vs-tmpfs.md) | [README](./README.md) | [04 - Tmpfs Mounts & Security](./04-Tmpfs-Mounts-and-In-Memory-Security.md) |
+| [← 02 - Named Volumes vs Bind Mounts vs tmpfs](./02-Named-Volumes-vs-Bind-Mounts-vs-tmpfs.md) | [Index](../../../README.md) | [04 - Tmpfs Mounts and In Memory Security →](./04-Tmpfs-Mounts-and-In-Memory-Security.md) |

@@ -25,3 +25,9 @@ A financial SaaS platform requires strict compliance approval before code is pro
 1. **Pipeline Environments**: Define protected `staging` and `production` environments in GitHub Actions or GitLab CI.
 2. **Approval Guardrails**: Require mandatory manual sign-off from Security and QA leads in the GitHub UI before executing production deployment steps.
 3. **Automated Rollback**: Execute automated smoke tests post-deployment; if health checks fail, automatically trigger a rollback to the previous green release tag.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 06 - Custom Action Development TypeScript and Docker Container Actions](./06-Custom-Action-Development-TypeScript-and-Docker-Container-Actions.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

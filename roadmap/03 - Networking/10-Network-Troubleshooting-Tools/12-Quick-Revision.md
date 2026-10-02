@@ -17,4 +17,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [11 - BGP & Interconnects](../11-BGP-Routing-and-Cloud-Interconnects/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (11-BGP-Routing-and-Cloud-Interconnects) →](../11-BGP-Routing-and-Cloud-Interconnects/01-BGP-Fundamentals-Autonomous-Systems-and-eBGP-vs-iBGP.md) |

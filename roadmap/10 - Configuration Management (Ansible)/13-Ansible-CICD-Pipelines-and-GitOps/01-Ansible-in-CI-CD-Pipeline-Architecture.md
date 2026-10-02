@@ -14,4 +14,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - GitHub Actions Pipeline](./02-GitHub-Actions-Pipeline-for-Ansible.md) |
+| [← Prev Module (12-Ansible-Performance-Optimization-and-Strategy)](../12-Ansible-Performance-Optimization-and-Strategy/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - GitHub Actions Pipeline for Ansible →](./02-GitHub-Actions-Pipeline-for-Ansible.md) |

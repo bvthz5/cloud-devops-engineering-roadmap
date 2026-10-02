@@ -19,4 +19,4 @@ By evaluating OWASP Top 10 rule sets at the edge:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Edge Compute](./04-Edge-Compute-Cloudflare-Workers-Lambda-Edge-Fastly-Compute.md) | [README](./README.md) | [06 - Dynamic Acceleration](./06-Dynamic-Content-Acceleration-and-TCP-Optimization.md) |
+| [← 04 - Edge Compute Cloudflare Workers Lambda Edge Fastly Compute](./04-Edge-Compute-Cloudflare-Workers-Lambda-Edge-Fastly-Compute.md) | [Index](../../../README.md) | [06 - Dynamic Content Acceleration and TCP Optimization →](./06-Dynamic-Content-Acceleration-and-TCP-Optimization.md) |

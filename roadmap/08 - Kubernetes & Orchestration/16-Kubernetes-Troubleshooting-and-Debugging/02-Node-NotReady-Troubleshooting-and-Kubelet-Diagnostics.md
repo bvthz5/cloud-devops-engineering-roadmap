@@ -27,4 +27,4 @@ sudo crictl ps
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Pod Failure States](./01-Pod-Failure-States-CrashLoopBackOff-OOMKilled-ImagePullBackOff.md) | [README](./README.md) | [03 - Network Debugging](./03-Network-Debugging-DNS-Resolution-Failures-and-Packet-Loss.md) |
+| [← 01 - Pod Failure States CrashLoopBackOff OOMKilled ImagePullBackOff](./01-Pod-Failure-States-CrashLoopBackOff-OOMKilled-ImagePullBackOff.md) | [Index](../../../README.md) | [03 - Network Debugging DNS Resolution Failures and Packet Loss →](./03-Network-Debugging-DNS-Resolution-Failures-and-Packet-Loss.md) |

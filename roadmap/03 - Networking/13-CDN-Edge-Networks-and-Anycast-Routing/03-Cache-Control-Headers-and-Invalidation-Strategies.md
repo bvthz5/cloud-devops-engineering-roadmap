@@ -24,4 +24,4 @@ Cache-Control: public, max-age=60, s-maxage=3600, stale-while-revalidate=86400
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - CDN Architecture](./02-CDN-Architecture-PoPs-and-Edge-Caching.md) | [README](./README.md) | [04 - Edge Compute](./04-Edge-Compute-Cloudflare-Workers-Lambda-Edge-Fastly-Compute.md) |
+| [← 02 - CDN Architecture PoPs and Edge Caching](./02-CDN-Architecture-PoPs-and-Edge-Caching.md) | [Index](../../../README.md) | [04 - Edge Compute Cloudflare Workers Lambda Edge Fastly Compute →](./04-Edge-Compute-Cloudflare-Workers-Lambda-Edge-Fastly-Compute.md) |

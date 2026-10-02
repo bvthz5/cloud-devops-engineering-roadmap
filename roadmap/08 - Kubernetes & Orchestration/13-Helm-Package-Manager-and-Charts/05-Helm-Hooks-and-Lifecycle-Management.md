@@ -30,4 +30,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Subcharts & Library Charts](./04-Subcharts-Chart-Dependencies-and-Library-Charts.md) | [README](./README.md) | [06 - OCI Registries](./06-OCI-Chart-Registries-and-Enterprise-Distribution.md) |
+| [← 04 - Subcharts Chart Dependencies and Library Charts](./04-Subcharts-Chart-Dependencies-and-Library-Charts.md) | [Index](../../../README.md) | [06 - OCI Chart Registries and Enterprise Distribution →](./06-OCI-Chart-Registries-and-Enterprise-Distribution.md) |

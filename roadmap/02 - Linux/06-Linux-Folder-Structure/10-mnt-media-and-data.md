@@ -57,8 +57,9 @@ sudo mount /dev/nvme1n1 /data
 | **`/mnt`** | Yes | Temporary manual admin mounts | No |
 | **`/media`** | Yes | Removable media (USB, CD-ROM) | Yes (Desktop DE) |
 | **`/data`** | No (Custom) | Dedicated high-capacity application/DB storage | No (Configured in `/etc/fstab`) |
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - proc sys and dev](./09-proc-sys-and-dev.md) | [README](./README.md) | [11 - Symbolic Links bin sbin lib](./11-Symbolic-Links-bin-sbin-lib.md) |
+| [← 09 - proc sys and dev](./09-proc-sys-and-dev.md) | [Index](../../../README.md) | [11 - Symbolic Links bin sbin lib →](./11-Symbolic-Links-bin-sbin-lib.md) |

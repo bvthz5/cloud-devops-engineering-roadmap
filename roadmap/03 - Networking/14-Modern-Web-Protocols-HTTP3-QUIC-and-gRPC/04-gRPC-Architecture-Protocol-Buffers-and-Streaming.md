@@ -43,4 +43,4 @@ message PaymentResponse {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - HTTP/3 & QPACK](./03-HTTP3-Architecture-and-QPACK-Compression.md) | [README](./README.md) | [05 - Real-Time Protocols](./05-Real-Time-Protocols-WebSockets-vs-SSE-vs-gRPC-Web.md) |
+| [← 03 - HTTP3 Architecture and QPACK Compression](./03-HTTP3-Architecture-and-QPACK-Compression.md) | [Index](../../../README.md) | [05 - Real Time Protocols WebSockets vs SSE vs gRPC Web →](./05-Real-Time-Protocols-WebSockets-vs-SSE-vs-gRPC-Web.md) |

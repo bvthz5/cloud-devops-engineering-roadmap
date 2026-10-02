@@ -36,4 +36,4 @@ At each layer of the OSI model, data has a specific technical name:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - TCP/IP 4-Layer Model](./02-TCPIP-4-Layer-Model-and-Comparison.md) |
+| [← Prev Section (02 - Linux)](../../02%20-%20Linux/33-Linux-Boot-Troubleshooting-and-Rescue-Mode/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - TCPIP 4 Layer Model and Comparison →](./02-TCPIP-4-Layer-Model-and-Comparison.md) |

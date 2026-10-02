@@ -50,4 +50,4 @@ Get-CWMetricAlarm |
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - AWS Tools for PowerShell](./06-AWS-and-Multi-Cloud-Tools-for-PowerShell.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - AWS and Multi Cloud Tools for PowerShell](./06-AWS-and-Multi-Cloud-Tools-for-PowerShell.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

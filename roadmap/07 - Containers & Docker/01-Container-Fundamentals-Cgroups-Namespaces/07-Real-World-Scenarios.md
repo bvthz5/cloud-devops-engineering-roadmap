@@ -22,4 +22,4 @@ podPidsLimit: 512
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Container Security Boundaries](./06-Container-Security-Boundaries-and-Kernel-Surface.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Container Security Boundaries and Kernel Surface](./06-Container-Security-Boundaries-and-Kernel-Surface.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

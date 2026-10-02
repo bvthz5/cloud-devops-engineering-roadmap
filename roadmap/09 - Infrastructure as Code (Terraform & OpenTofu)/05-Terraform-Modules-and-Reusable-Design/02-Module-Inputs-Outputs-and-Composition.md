@@ -61,4 +61,4 @@ module "compute" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Module Architecture](./01-Module-Architecture-Root-vs-Child-Modules.md) | [README](./README.md) | [03 - Module Sources](./03-Module-Sources-Registry-Git-S3-and-Local.md) |
+| [← 01 - Module Architecture Root vs Child Modules](./01-Module-Architecture-Root-vs-Child-Modules.md) | [Index](../../../README.md) | [03 - Module Sources Registry Git S3 and Local →](./03-Module-Sources-Registry-Git-S3-and-Local.md) |

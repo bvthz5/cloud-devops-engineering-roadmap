@@ -31,4 +31,4 @@ git push origin --force --tags
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Enforcing Signed Commits](./03-Enforcing-Signed-Commits-in-Branch-Protection.md) | [README](./README.md) | [05 - Supply Chain & SLSA](./05-Supply-Chain-Security-SLSA-Framework-and-SBOMs.md) |
+| [← 03 - Enforcing Signed Commits in Branch Protection](./03-Enforcing-Signed-Commits-in-Branch-Protection.md) | [Index](../../../README.md) | [05 - Supply Chain Security SLSA Framework and SBOMs →](./05-Supply-Chain-Security-SLSA-Framework-and-SBOMs.md) |

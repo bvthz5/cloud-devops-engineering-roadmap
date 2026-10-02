@@ -13,4 +13,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [04 - Git Internals](../04-Git-Internals-and-Plumbing/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (04-Git-Internals-and-Plumbing) →](../04-Git-Internals-and-Plumbing/01-Inside-the-dot-git-Directory-Anatomy.md) |

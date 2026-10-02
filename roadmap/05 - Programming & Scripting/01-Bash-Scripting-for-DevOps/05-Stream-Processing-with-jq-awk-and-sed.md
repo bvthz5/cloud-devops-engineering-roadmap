@@ -41,4 +41,4 @@ sed -i.bak 's/DEBUG=true/DEBUG=false/g' config.ini && rm -f config.ini.bak
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Error Handling & Traps](./04-Error-Handling-Traps-and-Signal-Management.md) | [README](./README.md) | [06 - Subprocesses & Redirection](./06-Subprocesses-Redirection-and-Process-Substitution.md) |
+| [← 04 - Error Handling Traps and Signal Management](./04-Error-Handling-Traps-and-Signal-Management.md) | [Index](../../../README.md) | [06 - Subprocesses Redirection and Process Substitution →](./06-Subprocesses-Redirection-and-Process-Substitution.md) |

@@ -33,4 +33,4 @@ Apply (with approval gate in production)
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - tfsec](./02-tfsec-Static-Security-Scanner.md) |
+| [← Prev Module (09-Testing-Terraform-and-Drift-Detection)](../09-Testing-Terraform-and-Drift-Detection/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - tfsec Static Security Scanner →](./02-tfsec-Static-Security-Scanner.md) |

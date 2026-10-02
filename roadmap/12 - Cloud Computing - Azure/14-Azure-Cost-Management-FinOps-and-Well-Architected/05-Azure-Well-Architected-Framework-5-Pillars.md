@@ -10,4 +10,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Azure Advisor](./04-Azure-Advisor-Cost-Recommendations-and-Right-Sizing.md) | [README](./README.md) | [06 - Cloud Adoption Framework](./06-Azure-Cloud-Adoption-Framework-CAF-Landing-Zones.md) |
+| [← 04 - Azure Advisor Cost Recommendations and Right Sizing](./04-Azure-Advisor-Cost-Recommendations-and-Right-Sizing.md) | [Index](../../../README.md) | [06 - Azure Cloud Adoption Framework CAF Landing Zones →](./06-Azure-Cloud-Adoption-Framework-CAF-Landing-Zones.md) |

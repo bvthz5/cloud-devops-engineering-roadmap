@@ -97,4 +97,4 @@ Each outbound call triggers **5 sequential DNS queries**!
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Network Namespaces and Containers](./06-Network-Namespaces-and-Container-Networking.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Network Namespaces and Container Networking](./06-Network-Namespaces-and-Container-Networking.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -151,4 +151,4 @@ ls -l /var/log/*.log
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - PATH Command Resolution Builtins and Aliases](./03-PATH-Command-Resolution-Builtins-and-Aliases.md) | [README](./README.md) | [05 - Wildcards Globbing and Quoting Mechanics](./05-Wildcards-Globbing-and-Quoting-Mechanics.md) |
+| [← 03 - PATH Command Resolution Builtins and Aliases](./03-PATH-Command-Resolution-Builtins-and-Aliases.md) | [Index](../../../README.md) | [05 - Wildcards Globbing and Quoting Mechanics →](./05-Wildcards-Globbing-and-Quoting-Mechanics.md) |

@@ -28,4 +28,4 @@ steps:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Image Tagging Strategies](./03-Image-Tagging-Strategies-and-Immutability.md) | [README](./README.md) | [05 - Supply Chain Security with Cosign](./05-Supply-Chain-Security-Cosign-and-Image-Signing.md) |
+| [← 03 - Image Tagging Strategies and Immutability](./03-Image-Tagging-Strategies-and-Immutability.md) | [Index](../../../README.md) | [05 - Supply Chain Security Cosign and Image Signing →](./05-Supply-Chain-Security-Cosign-and-Image-Signing.md) |

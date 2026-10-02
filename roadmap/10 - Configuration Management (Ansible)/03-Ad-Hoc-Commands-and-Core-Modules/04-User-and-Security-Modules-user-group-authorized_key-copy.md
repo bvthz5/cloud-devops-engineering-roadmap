@@ -10,4 +10,4 @@ ansible all -m authorized_key -a "user=devops key='{{ lookup('file', '~/.ssh/id_
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - File & Directory Modules](./03-File-and-Directory-Modules-file-copy-template-fetch-lineinfile-blockinfile.md) | [README](./README.md) | [05 - Command Execution Modules](./05-Command-Execution-Modules-command-shell-raw-script.md) |
+| [← 03 - File and Directory Modules file copy template fetch lineinfile blockinfile](./03-File-and-Directory-Modules-file-copy-template-fetch-lineinfile-blockinfile.md) | [Index](../../../README.md) | [05 - Command Execution Modules command shell raw script →](./05-Command-Execution-Modules-command-shell-raw-script.md) |

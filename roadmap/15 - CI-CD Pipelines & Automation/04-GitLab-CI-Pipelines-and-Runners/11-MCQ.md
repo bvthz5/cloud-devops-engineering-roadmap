@@ -34,3 +34,9 @@ Why should Kaniko or Buildah be used for container builds inside Kubernetes CI a
 - [ ] D) They only run on Windows OS
 
 *Explanation: Kaniko executes unprivileged container image builds safely inside Kubernetes pods.*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

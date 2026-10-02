@@ -22,4 +22,4 @@ df -i /var/lib/docker
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Named Volumes vs Bind Mounts vs tmpfs](./02-Named-Volumes-vs-Bind-Mounts-vs-tmpfs.md) |
+| [← Prev Module (03-Dockerfile-Best-Practices-and-Multi-Stage)](../03-Dockerfile-Best-Practices-and-Multi-Stage/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Named Volumes vs Bind Mounts vs tmpfs →](./02-Named-Volumes-vs-Bind-Mounts-vs-tmpfs.md) |

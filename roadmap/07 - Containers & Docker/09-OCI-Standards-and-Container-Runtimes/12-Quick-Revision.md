@@ -20,4 +20,4 @@ Kubelet -> (CRI) -> containerd / CRI-O -> (OCI Runtime Spec) -> runc / crun -> L
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [10 - Podman, Buildah & Skopeo](../10-Podman-Buildah-and-Skopeo-Daemonless-Stack/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (10-Podman-Buildah-and-Skopeo-Daemonless-Stack) →](../10-Podman-Buildah-and-Skopeo-Daemonless-Stack/01-The-Daemonless-Container-Architecture.md) |

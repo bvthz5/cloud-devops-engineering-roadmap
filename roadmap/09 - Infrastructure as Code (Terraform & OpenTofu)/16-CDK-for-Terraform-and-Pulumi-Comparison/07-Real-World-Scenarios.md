@@ -8,4 +8,4 @@ A startup where all developers knew TypeScript adopted CDKTF, allowing shared ut
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Decision Framework](./06-Decision-Framework-Choosing-the-Right-Tool.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Decision Framework Choosing the Right Tool](./06-Decision-Framework-Choosing-the-Right-Tool.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

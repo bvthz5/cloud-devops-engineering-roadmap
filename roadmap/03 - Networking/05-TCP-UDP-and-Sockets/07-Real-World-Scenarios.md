@@ -19,4 +19,4 @@ Every time NGINX connects to the backend without HTTP keep-alive, it opens an ep
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - TCP Kernel Tuning](./06-TCP-Tuning-and-Optimization-in-Linux.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - TCP Tuning and Optimization in Linux](./06-TCP-Tuning-and-Optimization-in-Linux.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

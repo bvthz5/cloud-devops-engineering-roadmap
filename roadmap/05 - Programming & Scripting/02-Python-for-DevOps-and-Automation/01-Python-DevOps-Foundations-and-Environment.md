@@ -35,4 +35,4 @@ def get_unhealthy_hosts(threshold: float, cluster_nodes: List[Dict[str, float]])
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Subprocess Execution](./02-Subprocess-Execution-and-System-Management.md) |
+| [← Prev Module (01-Bash-Scripting-for-DevOps)](../01-Bash-Scripting-for-DevOps/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Subprocess Execution and System Management →](./02-Subprocess-Execution-and-System-Management.md) |

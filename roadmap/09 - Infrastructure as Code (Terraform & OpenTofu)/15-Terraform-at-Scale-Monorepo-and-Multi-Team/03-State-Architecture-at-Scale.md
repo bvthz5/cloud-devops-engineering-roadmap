@@ -24,4 +24,4 @@ Use `terraform_remote_state` data source sparingly. Prefer outputs published to 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Multi-Team Patterns](./02-Multi-Team-Collaboration-Patterns.md) | [README](./README.md) | [04 - RBAC & Governance](./04-RBAC-and-Governance-for-IaC.md) |
+| [← 02 - Multi Team Collaboration Patterns](./02-Multi-Team-Collaboration-Patterns.md) | [Index](../../../README.md) | [04 - RBAC and Governance for IaC →](./04-RBAC-and-Governance-for-IaC.md) |

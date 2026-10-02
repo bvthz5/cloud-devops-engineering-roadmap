@@ -27,4 +27,4 @@ docker inspect --format '{{.AppArmorProfile}}' myapp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Linux Capabilities & Least Privilege](./02-Linux-Capabilities-and-Least-Privilege.md) | [README](./README.md) | [04 - Rootless Docker Architecture](./04-Rootless-Docker-Architecture.md) |
+| [← 02 - Linux Capabilities and Least Privilege](./02-Linux-Capabilities-and-Least-Privilege.md) | [Index](../../../README.md) | [04 - Rootless Docker Architecture →](./04-Rootless-Docker-Architecture.md) |

@@ -18,4 +18,4 @@ docker system prune -a --volumes -f
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [03 - Dockerfile Best Practices & Multi-Stage](../03-Dockerfile-Best-Practices-and-Multi-Stage/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (03-Dockerfile-Best-Practices-and-Multi-Stage) →](../03-Dockerfile-Best-Practices-and-Multi-Stage/01-Dockerfile-Instruction-Anatomy-and-Execution.md) |

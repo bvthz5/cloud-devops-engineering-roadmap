@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - ArgoCD Application CRD Sync Policies and Options](./03-ArgoCD-Application-CRD-Sync-Policies-and-Options.md) | [Index](../../../README.md) | [05 - Sync Waves Sync Hooks and Resource Ordering →](./05-Sync-Waves-Sync-Hooks-and-Resource-Ordering.md) |

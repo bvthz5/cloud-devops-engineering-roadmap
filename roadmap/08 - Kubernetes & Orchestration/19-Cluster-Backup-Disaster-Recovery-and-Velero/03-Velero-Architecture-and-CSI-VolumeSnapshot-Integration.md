@@ -20,4 +20,4 @@ While etcd backups capture raw cluster state, they do not back up persistent sto
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Etcd Backup & Restore](./02-Etcd-Backup-Snapshot-Save-and-Disaster-Restore.md) | [README](./README.md) | [04 - Scheduled Automated Backups](./04-Scheduled-Automated-Backups-and-Object-Storage-Targets.md) |
+| [← 02 - Etcd Backup Snapshot Save and Disaster Restore](./02-Etcd-Backup-Snapshot-Save-and-Disaster-Restore.md) | [Index](../../../README.md) | [04 - Scheduled Automated Backups and Object Storage Targets →](./04-Scheduled-Automated-Backups-and-Object-Storage-Targets.md) |

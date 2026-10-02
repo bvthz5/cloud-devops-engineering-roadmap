@@ -27,4 +27,4 @@ git lfs unlock assets/textures/model.psd
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Configuring LFS](./03-Configuring-Git-LFS-and-gitattributes.md) | [README](./README.md) | [05 - Repo Migration](./05-Migrating-Bloated-Repositories-to-Git-LFS.md) |
+| [← 03 - Configuring Git LFS and gitattributes](./03-Configuring-Git-LFS-and-gitattributes.md) | [Index](../../../README.md) | [05 - Migrating Bloated Repositories to Git LFS →](./05-Migrating-Bloated-Repositories-to-Git-LFS.md) |

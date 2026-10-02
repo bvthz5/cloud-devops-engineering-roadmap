@@ -19,8 +19,9 @@ A side-by-side feature comparison between Linux and Windows operating systems ac
 | **Container Support** | **Native:** Built-in kernel primitives (`cgroups`, `namespaces`). | Virtualized: Runs Linux containers via WSL2 / Hyper-V VM layers. |
 | **Update / Reboot Model** | Service-specific restarts. Live kernel patching without rebooting. | Frequent required system reboots following updates. |
 | **Scripting / Automation** | Shell (`bash`, `zsh`), Python, Ansible, Terraform. | PowerShell, Batch (`.bat`), VBScript. |
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Security Permissions and Reliability](./04-Security-Permissions-and-Reliability.md) | [README](./README.md) | [06 - Linux in DevOps Cloud and Containers](./06-Linux-in-DevOps-Cloud-and-Containers.md) |
+| [← 04 - Security Permissions and Reliability](./04-Security-Permissions-and-Reliability.md) | [Index](../../../README.md) | [06 - Linux in DevOps Cloud and Containers →](./06-Linux-in-DevOps-Cloud-and-Containers.md) |

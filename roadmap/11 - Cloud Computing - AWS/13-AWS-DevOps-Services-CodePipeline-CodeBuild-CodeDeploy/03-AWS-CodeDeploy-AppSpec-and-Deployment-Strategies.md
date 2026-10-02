@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - AWS CodeBuild](./02-AWS-CodeBuild-buildspec-yml-and-Build-Environments.md) | [README](./README.md) | [04 - AWS CodePipeline](./04-AWS-CodePipeline-Orchestration-and-Stage-Artifacts.md) |
+| [← 02 - AWS CodeBuild buildspec yml and Build Environments](./02-AWS-CodeBuild-buildspec-yml-and-Build-Environments.md) | [Index](../../../README.md) | [04 - AWS CodePipeline Orchestration and Stage Artifacts →](./04-AWS-CodePipeline-Orchestration-and-Stage-Artifacts.md) |

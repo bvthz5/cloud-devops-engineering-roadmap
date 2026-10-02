@@ -32,4 +32,4 @@ services:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Service Definitions & Networks](./02-Service-Definitions-Networks-and-Volumes.md) | [README](./README.md) | [04 - Environment & Secrets Management](./04-Environment-Variables-and-Secrets-Management.md) |
+| [← 02 - Service Definitions Networks and Volumes](./02-Service-Definitions-Networks-and-Volumes.md) | [Index](../../../README.md) | [04 - Environment Variables and Secrets Management →](./04-Environment-Variables-and-Secrets-Management.md) |

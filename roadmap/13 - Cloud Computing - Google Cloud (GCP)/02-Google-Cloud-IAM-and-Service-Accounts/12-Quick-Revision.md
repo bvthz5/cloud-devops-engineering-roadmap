@@ -22,3 +22,9 @@
 3. **Subnets in GCP are Regional**, while the VPC network itself is Global.
 4. **Service Account Keys should be audited regularly** or replaced with short-lived Workload Identity credentials.
 5. **Organization Policies override IAM permissions** if an org policy constraint is violated.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (03-Google-Cloud-VPC-Subnets-and-Cloud-Router) →](../03-Google-Cloud-VPC-Subnets-and-Cloud-Router/01-GCP-Global-VPC-Architecture-Auto-vs-Custom-Subnets.md) |

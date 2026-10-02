@@ -6,4 +6,4 @@ Deploying enterprise microservices on AKS with Azure CNI Overlay, Workload Ident
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Observability](./06-AKS-Observability-Container-Insights-and-App-Mesh.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - AKS Observability Container Insights and Prometheus Grafana](./06-AKS-Observability-Container-Insights-and-Prometheus-Grafana.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

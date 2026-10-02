@@ -42,4 +42,4 @@ tflint --recursive
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Testing Pyramid](./01-IaC-Testing-Pyramid-Static-Unit-Integration-E2E.md) | [README](./README.md) | [03 - terraform test](./03-Native-Testing-terraform-test.md) |
+| [← 01 - IaC Testing Pyramid Static Unit Integration E2E](./01-IaC-Testing-Pyramid-Static-Unit-Integration-E2E.md) | [Index](../../../README.md) | [03 - Native Testing terraform test →](./03-Native-Testing-terraform-test.md) |

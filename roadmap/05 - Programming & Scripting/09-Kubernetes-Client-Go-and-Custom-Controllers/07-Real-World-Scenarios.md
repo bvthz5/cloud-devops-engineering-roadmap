@@ -42,4 +42,4 @@ kubectl patch dbi my-db -n staging --type=merge -p '{"metadata":{"finalizers":[]
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Building CLIs with Cobra and Viper](./06-Building-Enterprise-CLIs-with-Cobra-and-Viper.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Building Enterprise CLIs with Cobra and Viper](./06-Building-Enterprise-CLIs-with-Cobra-and-Viper.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

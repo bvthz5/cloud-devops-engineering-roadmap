@@ -39,8 +39,9 @@ df -h /boot
 # Remove old unused kernel packages (Debian/Ubuntu)
 sudo apt autoremove --purge
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Filesystem Root](./01-Filesystem-Root.md) | [README](./README.md) | [03 - usr](./03-usr.md) |
+| [← 01 - Filesystem Root](./01-Filesystem-Root.md) | [Index](../../../README.md) | [03 - usr →](./03-usr.md) |

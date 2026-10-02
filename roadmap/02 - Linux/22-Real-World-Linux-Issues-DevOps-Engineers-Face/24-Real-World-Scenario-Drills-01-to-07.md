@@ -39,4 +39,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [23 - Hands-On Labs 06-10](./23-Hands-On-Labs-06-to-10-SSH-DNS-Docker-K8s.md) | [README](./README.md) | [25 - DevOps Interview Q&A](./25-DevOps-Troubleshooting-Interview-Questions.md) |
+| [← 23 - Hands On Labs 06 to 10 SSH DNS Docker K8s](./23-Hands-On-Labs-06-to-10-SSH-DNS-Docker-K8s.md) | [Index](../../../README.md) | [25 - DevOps Troubleshooting Interview Questions →](./25-DevOps-Troubleshooting-Interview-Questions.md) |

@@ -32,3 +32,9 @@ MCQs
 Quick revision
 Related topics
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 13 - Related Topics](./13-Related-Topics.md) | [Index](../../../README.md) | [Next Module (13-Linux-File-Permissions-and-Ownership) →](../13-Linux-File-Permissions-and-Ownership/01-Permission-Fundamentals.md) |

@@ -75,3 +75,9 @@ resource "google_storage_bucket" "secure_bucket" {
 ## 🔗 Related Resources
 - [Google Cloud Security Documentation](https://cloud.google.com/security/docs)
 - [GCP FinOps & Cost Management](https://cloud.google.com/cost-management)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (13-Anthos-and-Google-Hybrid-Cloud-Management)](../13-Anthos-and-Google-Hybrid-Cloud-Management/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Resource Labels and Cost Allocation in BigQuery Billing Export →](./02-Resource-Labels-and-Cost-Allocation-in-BigQuery-Billing-Export.md) |

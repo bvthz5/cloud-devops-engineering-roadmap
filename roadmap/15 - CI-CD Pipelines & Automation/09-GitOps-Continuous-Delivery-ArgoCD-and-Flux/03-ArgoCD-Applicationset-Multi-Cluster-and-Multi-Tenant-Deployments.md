@@ -79,3 +79,9 @@ cosign verify --key cosign.pub us-central1-docker.pkg.dev/my-project/app:v1.2.0
 - [ArgoCD Documentation](https://argo-cd.readthedocs.io/)
 - [Sigstore / Cosign Documentation](https://docs.sigstore.dev/cosign/overview/)
 - [OpenFeature Standard](https://openfeature.dev/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - ArgoCD Architecture ApplicationController Server and RepoServer](./02-ArgoCD-Architecture-ApplicationController-Server-and-RepoServer.md) | [Index](../../../README.md) | [04 - Flux v2 Architecture Kustomize and Helm Controllers →](./04-Flux-v2-Architecture-Kustomize-and-Helm-Controllers.md) |

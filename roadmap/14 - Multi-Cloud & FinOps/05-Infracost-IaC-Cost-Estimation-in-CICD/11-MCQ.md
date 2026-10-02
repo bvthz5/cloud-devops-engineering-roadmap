@@ -34,3 +34,9 @@ What notice period do AWS EC2 Spot Instances and GCP Spot VMs provide before ter
 - [ ] D) No advance notice is provided
 
 *Explanation: Cloud providers provide a 2-minute (120-second) warning notification prior to evicting Spot instances.*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

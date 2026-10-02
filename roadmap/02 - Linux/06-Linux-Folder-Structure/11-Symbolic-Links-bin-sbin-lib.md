@@ -46,8 +46,9 @@ ls -ld /bin /sbin /lib /lib64
 # lrwxrwxrwx 1 root root 8 Jan 10 12:00 /sbin -> usr/sbin
 # lrwxrwxrwx 1 root root 7 Jan 10 12:00 /lib -> usr/lib
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - mnt media and data](./10-mnt-media-and-data.md) | [README](./README.md) | [12 - FHS Mental Model](./12-FHS-Mental-Model.md) |
+| [← 10 - mnt media and data](./10-mnt-media-and-data.md) | [Index](../../../README.md) | [12 - FHS Mental Model →](./12-FHS-Mental-Model.md) |

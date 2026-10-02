@@ -19,4 +19,4 @@ project/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Host Groups](./02-Host-Groups-Nested-Groups-and-Group-Vars.md) | [README](./README.md) | [04 - Dynamic Inventory Plugins](./04-Dynamic-Inventory-Plugins-vs-Legacy-Scripts.md) |
+| [← 02 - Host Groups Nested Groups and Group Vars](./02-Host-Groups-Nested-Groups-and-Group-Vars.md) | [Index](../../../README.md) | [04 - Dynamic Inventory Plugins vs Legacy Scripts →](./04-Dynamic-Inventory-Plugins-vs-Legacy-Scripts.md) |

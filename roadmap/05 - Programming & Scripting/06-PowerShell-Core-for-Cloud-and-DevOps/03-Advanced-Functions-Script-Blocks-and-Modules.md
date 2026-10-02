@@ -119,4 +119,4 @@ A well-structured production PowerShell module contains:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Cross-Platform PowerShell](./02-Cross-Platform-PowerShell-on-Linux-and-Containers.md) | [README](./README.md) | [04 - Error Handling and Streams](./04-Error-Handling-Streams-and-Idempotency.md) |
+| [← 02 - Cross Platform PowerShell on Linux and Containers](./02-Cross-Platform-PowerShell-on-Linux-and-Containers.md) | [Index](../../../README.md) | [04 - Error Handling Streams and Idempotency →](./04-Error-Handling-Streams-and-Idempotency.md) |

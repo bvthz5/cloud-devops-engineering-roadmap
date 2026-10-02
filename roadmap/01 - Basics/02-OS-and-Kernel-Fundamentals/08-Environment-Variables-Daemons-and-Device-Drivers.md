@@ -152,4 +152,4 @@ When the Linux kernel is upgraded via `apt` or `dnf`, proprietary out-of-tree mo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Signals and Inter Process Communication IPC](./07-Signals-and-Inter-Process-Communication-IPC.md) | [README](./README.md) | [09 - Kernel Networking Sockets and Security](./09-Kernel-Networking-Sockets-and-Security.md) |
+| [← 07 - Signals and Inter Process Communication IPC](./07-Signals-and-Inter-Process-Communication-IPC.md) | [Index](../../../README.md) | [09 - Kernel Networking Sockets and Security →](./09-Kernel-Networking-Sockets-and-Security.md) |

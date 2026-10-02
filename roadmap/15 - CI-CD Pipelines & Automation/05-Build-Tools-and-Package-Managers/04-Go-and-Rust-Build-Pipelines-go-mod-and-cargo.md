@@ -82,3 +82,9 @@ spec:
 ## 🔗 Related Resources
 - [Docker Multi-Stage Build Guide](https://docs.docker.com/build/building/multi-stage/)
 - [Argo Rollouts Documentation](https://argoproj.github.io/argo-rollouts/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Python Build and Packaging pip poetry pipenv and wheels](./03-Python-Build-and-Packaging-pip-poetry-pipenv-and-wheels.md) | [Index](../../../README.md) | [05 - Docker Multi Stage Builds and BuildKit Optimization →](./05-Docker-Multi-Stage-Builds-and-BuildKit-Optimization.md) |

@@ -52,4 +52,4 @@ transfer_method = sftp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Agentless Push](./02-Agentless-Architecture-and-SSH-Push-Model.md) | [README](./README.md) | [04 - ansible.cfg Hierarchy](./04-Ansible-Configuration-ansible-cfg-Hierarchy.md) |
+| [← 02 - Agentless Architecture and SSH Push Model](./02-Agentless-Architecture-and-SSH-Push-Model.md) | [Index](../../../README.md) | [04 - Ansible Configuration ansible cfg Hierarchy →](./04-Ansible-Configuration-ansible-cfg-Hierarchy.md) |

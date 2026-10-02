@@ -77,4 +77,4 @@ terraform {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Workspaces vs Directories](./02-Workspaces-vs-Directory-Based-Environments.md) |
+| [← Prev Module (06-Provisioners-and-Local-Exec)](../06-Provisioners-and-Local-Exec/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Workspaces vs Directory Based Environments →](./02-Workspaces-vs-Directory-Based-Environments.md) |

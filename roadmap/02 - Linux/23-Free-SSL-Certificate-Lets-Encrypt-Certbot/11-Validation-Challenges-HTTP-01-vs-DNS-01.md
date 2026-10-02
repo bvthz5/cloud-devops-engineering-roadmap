@@ -25,4 +25,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Automated Renewal](./10-Automated-Renewal-Certbot-Timer-and-Cron.md) | [README](./README.md) | [12 - Wildcard & Multi-Domain SAN Certs](./12-Wildcard-and-Multi-Domain-SAN-Certificates.md) |
+| [← 10 - Automated Renewal Certbot Timer and Cron](./10-Automated-Renewal-Certbot-Timer-and-Cron.md) | [Index](../../../README.md) | [12 - Wildcard and Multi Domain SAN Certificates →](./12-Wildcard-and-Multi-Domain-SAN-Certificates.md) |

@@ -33,4 +33,4 @@ When network failures occur during `POST /api/v1/payments`, the client cannot te
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - gRPC vs REST](./02-gRPC-vs-REST-Architectural-Comparison.md) |
+| [← Prev Module (03-Golang-Basics-for-Cloud-Native)](../03-Golang-Basics-for-Cloud-Native/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - gRPC vs REST Architectural Comparison →](./02-gRPC-vs-REST-Architectural-Comparison.md) |

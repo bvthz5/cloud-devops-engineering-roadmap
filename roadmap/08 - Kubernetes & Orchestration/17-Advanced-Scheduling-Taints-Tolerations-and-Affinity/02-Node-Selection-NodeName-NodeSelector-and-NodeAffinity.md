@@ -28,4 +28,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Scheduler Architecture](./01-Kubernetes-Scheduler-Architecture-and-Scoring-Phases.md) | [README](./README.md) | [03 - Pod Affinity & Anti-Affinity](./03-Pod-Affinity-and-Pod-Anti-Affinity-Co-location-Rules.md) |
+| [← 01 - Kubernetes Scheduler Architecture and Scoring Phases](./01-Kubernetes-Scheduler-Architecture-and-Scoring-Phases.md) | [Index](../../../README.md) | [03 - Pod Affinity and Pod Anti Affinity Co location Rules →](./03-Pod-Affinity-and-Pod-Anti-Affinity-Co-location-Rules.md) |

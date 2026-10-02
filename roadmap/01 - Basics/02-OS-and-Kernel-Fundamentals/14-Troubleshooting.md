@@ -166,4 +166,4 @@ echo -1000 | sudo tee /proc/$(pgrep -o sshd)/oom_score_adj
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Real World Scenarios](./13-Real-World-Scenarios.md) | [README](./README.md) | [15 - Interview QA](./15-Interview-QA.md) |
+| [← 13 - Real World Scenarios](./13-Real-World-Scenarios.md) | [Index](../../../README.md) | [15 - Interview QA →](./15-Interview-QA.md) |

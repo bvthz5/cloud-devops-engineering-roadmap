@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Enforcing Tagging Policies with IaC and Policy as Code](./04-Enforcing-Tagging-Policies-with-IaC-and-Policy-as-Code.md) | [Index](../../../README.md) | [06 - Shared Cost Allocation Untagged Resources and Chargeback vs Showback →](./06-Shared-Cost-Allocation-Untagged-Resources-and-Chargeback-vs-Showback.md) |

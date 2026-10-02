@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [11 - Git LFS](../11-Git-LFS-and-Artifact-Management/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (11-Git-LFS-and-Artifact-Management) →](../11-Git-LFS-and-Artifact-Management/01-The-Large-Binary-File-Problem-in-Git.md) |

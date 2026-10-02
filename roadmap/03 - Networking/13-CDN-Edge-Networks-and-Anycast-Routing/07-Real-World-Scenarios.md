@@ -29,4 +29,4 @@ Explicitly declare `Cache-Control: private, no-store` on all authenticated endpo
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Dynamic Acceleration](./06-Dynamic-Content-Acceleration-and-TCP-Optimization.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Dynamic Content Acceleration and TCP Optimization](./06-Dynamic-Content-Acceleration-and-TCP-Optimization.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

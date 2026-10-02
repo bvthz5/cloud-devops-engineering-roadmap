@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 14 - CI/CD for Terraform](../14-CICD-for-Terraform-Atlantis-and-Pipelines/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (14-CICD-for-Terraform-Atlantis-and-Pipelines) →](../14-CICD-for-Terraform-Atlantis-and-Pipelines/01-Terraform-CI-CD-Pipeline-Architecture.md) |

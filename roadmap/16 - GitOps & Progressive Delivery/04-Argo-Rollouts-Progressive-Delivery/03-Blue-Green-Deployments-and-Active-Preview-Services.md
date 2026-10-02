@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Canary Deployments with Argo Rollouts](./02-Canary-Deployments-with-Argo-Rollouts.md) | [Index](../../../README.md) | [04 - AnalysisTemplates AnalysisRuns and Prometheus Integration →](./04-AnalysisTemplates-AnalysisRuns-and-Prometheus-Integration.md) |

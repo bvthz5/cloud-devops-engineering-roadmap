@@ -24,4 +24,4 @@ compose:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Dynamic Inventory Plugins](./04-Dynamic-Inventory-Plugins-vs-Legacy-Scripts.md) | [README](./README.md) | [06 - Constructed Inventory](./06-Constructed-Inventory-and-Multiple-Inventory-Sources.md) |
+| [← 04 - Dynamic Inventory Plugins vs Legacy Scripts](./04-Dynamic-Inventory-Plugins-vs-Legacy-Scripts.md) | [Index](../../../README.md) | [06 - Constructed Inventory and Multiple Inventory Sources →](./06-Constructed-Inventory-and-Multiple-Inventory-Sources.md) |

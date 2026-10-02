@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Centralized Log Aggregation Grafana Loki Splunk Elastic](./03-Centralized-Log-Aggregation-Grafana-Loki-Splunk-Elastic.md) | [Index](../../../README.md) | [05 - Distributed Tracing Across Clouds Jaeger Tempo OTel →](./05-Distributed-Tracing-Across-Clouds-Jaeger-Tempo-OTel.md) |

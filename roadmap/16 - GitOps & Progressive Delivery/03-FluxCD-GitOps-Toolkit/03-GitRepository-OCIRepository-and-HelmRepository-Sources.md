@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Bootstrapping Flux on Kubernetes with GitHub GitLab](./02-Bootstrapping-Flux-on-Kubernetes-with-GitHub-GitLab.md) | [Index](../../../README.md) | [04 - Kustomization CRD and Dependency Trees →](./04-Kustomization-CRD-and-Dependency-Trees.md) |

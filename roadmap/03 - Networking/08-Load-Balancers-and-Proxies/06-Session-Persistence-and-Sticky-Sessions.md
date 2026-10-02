@@ -21,4 +21,4 @@ Store session state externally in **Redis Cluster**, **Memcached**, or utilize s
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - TLS Termination](./05-TLS-SSL-Termination-Passthrough-and-mTLS.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - TLS SSL Termination Passthrough and mTLS](./05-TLS-SSL-Termination-Passthrough-and-mTLS.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

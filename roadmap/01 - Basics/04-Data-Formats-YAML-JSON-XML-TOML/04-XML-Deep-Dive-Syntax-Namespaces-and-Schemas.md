@@ -120,4 +120,4 @@ When processing XML in application code, two primary parser architectures exist:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - YAML Deep Dive Syntax Anchors and Gotchas](./03-YAML-Deep-Dive-Syntax-Anchors-and-Gotchas.md) | [README](./README.md) | [05 - TOML Deep Dive Syntax Tables and Typing](./05-TOML-Deep-Dive-Syntax-Tables-and-Typing.md) |
+| [← 03 - YAML Deep Dive Syntax Anchors and Gotchas](./03-YAML-Deep-Dive-Syntax-Anchors-and-Gotchas.md) | [Index](../../../README.md) | [05 - TOML Deep Dive Syntax Tables and Typing →](./05-TOML-Deep-Dive-Syntax-Tables-and-Typing.md) |

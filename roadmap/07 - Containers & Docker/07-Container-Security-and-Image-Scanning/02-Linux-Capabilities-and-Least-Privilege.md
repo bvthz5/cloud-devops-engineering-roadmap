@@ -27,4 +27,4 @@ docker run -d \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Container Threat Modeling](./01-Container-Threat-Modeling-and-Escape-Vectors.md) | [README](./README.md) | [03 - Seccomp & AppArmor Profiles](./03-Seccomp-and-AppArmor-LSM-Profiles.md) |
+| [← 01 - Container Threat Modeling and Escape Vectors](./01-Container-Threat-Modeling-and-Escape-Vectors.md) | [Index](../../../README.md) | [03 - Seccomp and AppArmor LSM Profiles →](./03-Seccomp-and-AppArmor-LSM-Profiles.md) |

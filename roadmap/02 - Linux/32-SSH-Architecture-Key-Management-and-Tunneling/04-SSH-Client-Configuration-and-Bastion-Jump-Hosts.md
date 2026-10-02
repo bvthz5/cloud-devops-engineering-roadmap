@@ -38,4 +38,4 @@ SSH automatically connects to the bastion in the background and transparently pr
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Server Hardening](./03-OpenSSH-Server-Hardening-sshd_config.md) | [README](./README.md) | [05 - SSH Tunneling](./05-SSH-Tunneling-and-Port-Forwarding.md) |
+| [← 03 - OpenSSH Server Hardening sshd_config](./03-OpenSSH-Server-Hardening-sshd_config.md) | [Index](../../../README.md) | [05 - SSH Tunneling and Port Forwarding →](./05-SSH-Tunneling-and-Port-Forwarding.md) |

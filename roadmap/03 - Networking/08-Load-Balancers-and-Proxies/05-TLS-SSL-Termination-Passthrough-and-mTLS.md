@@ -27,4 +27,4 @@ In modern microservices (Istio, Linkerd, Consul):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Health Checks](./04-Health-Checks-Flapping-and-Graceful-Drain.md) | [README](./README.md) | [06 - Sticky Sessions](./06-Session-Persistence-and-Sticky-Sessions.md) |
+| [← 04 - Health Checks Flapping and Graceful Drain](./04-Health-Checks-Flapping-and-Graceful-Drain.md) | [Index](../../../README.md) | [06 - Session Persistence and Sticky Sessions →](./06-Session-Persistence-and-Sticky-Sessions.md) |

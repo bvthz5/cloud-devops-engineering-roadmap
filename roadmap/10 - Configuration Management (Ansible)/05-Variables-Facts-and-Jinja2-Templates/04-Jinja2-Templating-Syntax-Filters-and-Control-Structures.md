@@ -16,4 +16,4 @@ server {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Registering Variables](./03-Registering-Variables-and-Task-Output-Capture.md) | [README](./README.md) | [05 - Jinja2 Filters](./05-Built-in-Jinja2-Filters-and-Custom-Filters.md) |
+| [← 03 - Registering Variables and Task Output Capture](./03-Registering-Variables-and-Task-Output-Capture.md) | [Index](../../../README.md) | [05 - Built in Jinja2 Filters and Custom Filters →](./05-Built-in-Jinja2-Filters-and-Custom-Filters.md) |

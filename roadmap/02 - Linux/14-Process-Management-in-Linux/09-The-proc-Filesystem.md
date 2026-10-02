@@ -84,4 +84,4 @@ If someone accidentally deletes a critical file (like a database log), but a pro
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - Resource Monitoring CPU Memory IO](./08-Resource-Monitoring-CPU-Memory-IO.md) | [README](./README.md) | [10 - systemd and Service Management](./10-systemd-and-Service-Management.md) |
+| [← 08 - Resource Monitoring CPU Memory IO](./08-Resource-Monitoring-CPU-Memory-IO.md) | [Index](../../../README.md) | [10 - systemd and Service Management →](./10-systemd-and-Service-Management.md) |

@@ -31,4 +31,4 @@ Head-of-Line Blocking at App  Multiplexing over 1 TCP Conn  Zero Head-of-Line Bl
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - HTTP Request & Response](./02-HTTP-Request-and-Response-Anatomy.md) |
+| [← Prev Module (03-DNS-and-DHCP)](../03-DNS-and-DHCP/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - HTTP Request and Response Anatomy →](./02-HTTP-Request-and-Response-Anatomy.md) |

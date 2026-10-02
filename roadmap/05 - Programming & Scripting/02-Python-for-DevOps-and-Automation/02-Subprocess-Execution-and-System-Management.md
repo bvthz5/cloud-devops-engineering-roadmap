@@ -35,4 +35,4 @@ output = execute_command(["kubectl", "get", "nodes", "-o", "json"])
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Python Foundations](./01-Python-DevOps-Foundations-and-Environment.md) | [README](./README.md) | [03 - CLI Tools](./03-Building-Production-CLI-Tools-argparse-and-click.md) |
+| [← 01 - Python DevOps Foundations and Environment](./01-Python-DevOps-Foundations-and-Environment.md) | [Index](../../../README.md) | [03 - Building Production CLI Tools argparse and click →](./03-Building-Production-CLI-Tools-argparse-and-click.md) |

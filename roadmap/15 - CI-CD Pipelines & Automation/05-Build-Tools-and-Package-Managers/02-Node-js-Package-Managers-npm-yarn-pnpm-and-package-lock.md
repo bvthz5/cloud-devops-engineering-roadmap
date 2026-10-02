@@ -82,3 +82,9 @@ spec:
 ## 🔗 Related Resources
 - [Docker Multi-Stage Build Guide](https://docs.docker.com/build/building/multi-stage/)
 - [Argo Rollouts Documentation](https://argoproj.github.io/argo-rollouts/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Java Build Tools Maven pom xml and Gradle build gradle](./01-Java-Build-Tools-Maven-pom-xml-and-Gradle-build-gradle.md) | [Index](../../../README.md) | [03 - Python Build and Packaging pip poetry pipenv and wheels →](./03-Python-Build-and-Packaging-pip-poetry-pipenv-and-wheels.md) |

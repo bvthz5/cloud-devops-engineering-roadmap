@@ -19,4 +19,4 @@ An SBOM is a formal inventory of all third-party dependencies, licenses, and ver
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Purging Secrets](./04-Purging-Leaked-Secrets-with-git-filter-repo.md) | [README](./README.md) | [06 - Repo Auditing](./06-Repository-Auditing-and-Access-Governance.md) |
+| [← 04 - Purging Leaked Secrets with git filter repo](./04-Purging-Leaked-Secrets-with-git-filter-repo.md) | [Index](../../../README.md) | [06 - Repository Auditing and Access Governance →](./06-Repository-Auditing-and-Access-Governance.md) |

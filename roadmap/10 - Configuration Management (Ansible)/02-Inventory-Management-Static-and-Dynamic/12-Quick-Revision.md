@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 03 - Ad-Hoc Commands](../03-Ad-Hoc-Commands-and-Core-Modules/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (03-Ad-Hoc-Commands-and-Core-Modules) →](../03-Ad-Hoc-Commands-and-Core-Modules/01-Ansible-Ad-Hoc-Command-Syntax-and-Use-Cases.md) |

@@ -103,4 +103,4 @@ For any task that takes longer than 5 minutes, or for any task where a dropped V
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Job Control fg bg jobs](./05-Job-Control-fg-bg-jobs.md) | [README](./README.md) | [07 - Process Priority nice renice](./07-Process-Priority-nice-renice.md) |
+| [← 05 - Job Control fg bg jobs](./05-Job-Control-fg-bg-jobs.md) | [Index](../../../README.md) | [07 - Process Priority nice renice →](./07-Process-Priority-nice-renice.md) |

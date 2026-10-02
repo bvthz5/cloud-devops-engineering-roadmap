@@ -84,4 +84,4 @@ Permissions and ownership are guaranteed topics in any Linux System Administrati
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Permission Troubleshooting](./10-Permission-Troubleshooting.md) | [README](./README.md) | [12 - Hands On Terminal Practice](./12-Hands-On-Terminal-Practice.md) |
+| [← 10 - Permission Troubleshooting](./10-Permission-Troubleshooting.md) | [Index](../../../README.md) | [12 - Hands On Terminal Practice →](./12-Hands-On-Terminal-Practice.md) |

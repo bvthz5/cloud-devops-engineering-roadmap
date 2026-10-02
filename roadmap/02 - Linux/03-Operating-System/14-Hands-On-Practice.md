@@ -98,8 +98,9 @@ cat /proc/interrupts | head -n 15
 cat /proc/softirqs
 # Look at NET_RX (network packet receive processing) and SCHED (CPU timer scheduling)
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Interview QA](./13-Interview-QA.md) | [README](./README.md) | [15 - MCQ](./15-MCQ.md) |
+| [← 13 - Interview QA](./13-Interview-QA.md) | [Index](../../../README.md) | [15 - MCQ →](./15-MCQ.md) |

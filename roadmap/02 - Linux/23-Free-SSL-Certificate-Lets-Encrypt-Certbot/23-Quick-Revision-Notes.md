@@ -17,4 +17,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [22 - Scenario MCQs](./22-MCQs-and-Diagnostic-Quizzes.md) | [README](./README.md) | [24 - Certbot Command Cheat Sheet](./24-Complete-Certbot-Command-Cheat-Sheet.md) |
+| [← 22 - MCQs and Diagnostic Quizzes](./22-MCQs-and-Diagnostic-Quizzes.md) | [Index](../../../README.md) | [24 - Complete Certbot Command Cheat Sheet →](./24-Complete-Certbot-Command-Cheat-Sheet.md) |

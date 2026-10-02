@@ -38,4 +38,4 @@ Traefik automatically propagates W3C `traceparent` headers to downstream microse
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Automated Let's Encrypt TLS](./05-Automated-Lets-Encrypt-TLS-Management.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Automated Lets Encrypt TLS Management](./05-Automated-Lets-Encrypt-TLS-Management.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

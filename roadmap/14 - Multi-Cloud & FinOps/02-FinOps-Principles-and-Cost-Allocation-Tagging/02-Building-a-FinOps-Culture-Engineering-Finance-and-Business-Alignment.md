@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - FinOps Framework Overview Inform Optimize Operate](./01-FinOps-Framework-Overview-Inform-Optimize-Operate.md) | [Index](../../../README.md) | [03 - Cost Allocation Tagging Strategies Metadata Taxonomy and Governance →](./03-Cost-Allocation-Tagging-Strategies-Metadata-Taxonomy-and-Governance.md) |

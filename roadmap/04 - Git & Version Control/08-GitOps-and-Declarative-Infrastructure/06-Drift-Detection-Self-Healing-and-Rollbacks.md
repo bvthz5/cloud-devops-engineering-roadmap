@@ -21,4 +21,4 @@ The controller detects the revert commit and automatically scales the cluster ba
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Environment Promotion](./05-Environment-Promotion-Strategies-Kustomize-and-Helm.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Environment Promotion Strategies Kustomize and Helm](./05-Environment-Promotion-Strategies-Kustomize-and-Helm.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

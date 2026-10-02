@@ -276,4 +276,4 @@ It is equivalent to running `-r -N -l inf --no-remove-listing`.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - Hands On Terminal Practice](./14-Hands-On-Terminal-Practice.md) | [README](./README.md) | [16 - Quick Revision](./16-Quick-Revision.md) |
+| [← 14 - Hands On Terminal Practice](./14-Hands-On-Terminal-Practice.md) | [Index](../../../README.md) | [16 - Quick Revision →](./16-Quick-Revision.md) |

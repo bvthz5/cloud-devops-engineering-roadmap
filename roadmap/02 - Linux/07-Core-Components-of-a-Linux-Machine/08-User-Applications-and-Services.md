@@ -31,8 +31,9 @@ When Nginx receives an incoming HTTP web request:
 1. Nginx calls `accept()` via `glibc` to receive the network socket connection from the kernel network stack.
 2. Nginx reads static files from disk using `read()` system calls.
 3. Nginx sends data back across the socket using `sendfile()` system calls.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - The Shell](./07-The-Shell.md) | [README](./README.md) | [09 - Command Flow ls cat networking](./09-Command-Flow-ls-cat-networking.md) |
+| [← 07 - The Shell](./07-The-Shell.md) | [Index](../../../README.md) | [09 - Command Flow ls cat networking →](./09-Command-Flow-ls-cat-networking.md) |

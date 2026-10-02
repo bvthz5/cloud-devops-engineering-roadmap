@@ -136,8 +136,9 @@ The VFS acts as an abstraction bridge. When you execute `cat /proc/cpuinfo` or `
 2. **Path Separator:** Linux strictly uses forward slashes `/`. Backward slashes `\` are escape characters.
 3. **Hidden Files:** Any file or directory starting with a dot (`.`) is hidden by default (e.g., `.bashrc`, `.ssh/`, `.git/`). Run `ls -a` to view them.
 4. **Valid Characters:** Almost any character is valid (including spaces and punctuation), but by standard convention, use lowercase letters, numbers, hyphens (`-`), and underscores (`_`) to avoid shell escaping issues.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - Directory Structure](./02-Directory-Structure.md) |
+| [← Prev Section (01 - Basics)](../../01%20-%20Basics/08-Data-Structures-Algorithms-and-System-Design/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Directory Structure →](./02-Directory-Structure.md) |

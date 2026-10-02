@@ -18,4 +18,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [03 - Git Workflows](../03-Git-Workflows-Trunk-vs-GitFlow/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (03-Git-Workflows-Trunk-vs-GitFlow) →](../03-Git-Workflows-Trunk-vs-GitFlow/01-GitFlow-Architecture-and-Lifecycle.md) |

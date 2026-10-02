@@ -23,4 +23,4 @@ healthcheck:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [07 - Container Security & Scanning](../07-Container-Security-and-Image-Scanning/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (07-Container-Security-and-Image-Scanning) →](../07-Container-Security-and-Image-Scanning/01-Container-Threat-Modeling-and-Escape-Vectors.md) |

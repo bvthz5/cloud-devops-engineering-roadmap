@@ -23,4 +23,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - HPA v2 Architecture](./01-Horizontal-Pod-Autoscaler-HPA-v2-and-Metrics-APIs.md) | [README](./README.md) | [03 - Vertical Pod Autoscaler](./03-Vertical-Pod-Autoscaler-VPA-Modes-and-Recommender.md) |
+| [← 01 - Horizontal Pod Autoscaler HPA v2 and Metrics APIs](./01-Horizontal-Pod-Autoscaler-HPA-v2-and-Metrics-APIs.md) | [Index](../../../README.md) | [03 - Vertical Pod Autoscaler VPA Modes and Recommender →](./03-Vertical-Pod-Autoscaler-VPA-Modes-and-Recommender.md) |

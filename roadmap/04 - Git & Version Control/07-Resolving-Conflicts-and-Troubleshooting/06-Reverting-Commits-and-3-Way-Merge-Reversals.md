@@ -31,4 +31,4 @@ git revert -m 1 <merge-commit-hash>
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - git bisect](./05-Automated-Bug-Hunting-with-git-bisect.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Automated Bug Hunting with git bisect](./05-Automated-Bug-Hunting-with-git-bisect.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

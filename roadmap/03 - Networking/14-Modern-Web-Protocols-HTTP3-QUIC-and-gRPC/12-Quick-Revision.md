@@ -18,4 +18,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [Networking Index](../README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (04 - Git & Version Control) →](../../04%20-%20Git%20%26%20Version%20Control/01-Git-Architecture-and-Basics/01-VCS-Evolution-Centralized-vs-Distributed.md) |

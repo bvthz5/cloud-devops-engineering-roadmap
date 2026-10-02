@@ -33,4 +33,4 @@ When you run `git init`, Git creates a hidden directory named `.git`. This direc
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - 4 Core Objects](./02-The-Four-Core-Git-Objects-Blobs-Trees-Commits-Tags.md) |
+| [← Prev Module (03-Git-Workflows-Trunk-vs-GitFlow)](../03-Git-Workflows-Trunk-vs-GitFlow/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - The Four Core Git Objects Blobs Trees Commits Tags →](./02-The-Four-Core-Git-Objects-Blobs-Trees-Commits-Tags.md) |

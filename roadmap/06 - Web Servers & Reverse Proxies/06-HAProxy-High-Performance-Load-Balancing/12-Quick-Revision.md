@@ -39,4 +39,4 @@ backend servers
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [07 - Traefik Cloud-Native Reverse Proxy](../07-Traefik-Cloud-Native-Reverse-Proxy/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (07-Traefik-Cloud-Native-Reverse-Proxy) →](../07-Traefik-Cloud-Native-Reverse-Proxy/01-Traefik-Architecture-and-Dynamic-Discovery.md) |

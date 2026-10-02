@@ -39,4 +39,4 @@ If a required shared library is missing from the system paths, the binary crashe
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - The Build Pipeline](./01-The-Build-Pipeline-Source-to-Machine-Code.md) | [README](./README.md) | [03 - glibc vs musl libc](./03-C-Standard-Libraries-glibc-vs-musl.md) |
+| [← 01 - The Build Pipeline Source to Machine Code](./01-The-Build-Pipeline-Source-to-Machine-Code.md) | [Index](../../../README.md) | [03 - C Standard Libraries glibc vs musl →](./03-C-Standard-Libraries-glibc-vs-musl.md) |

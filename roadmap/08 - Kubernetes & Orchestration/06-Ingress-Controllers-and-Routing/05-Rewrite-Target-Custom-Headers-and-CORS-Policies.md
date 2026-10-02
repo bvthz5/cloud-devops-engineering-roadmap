@@ -43,4 +43,4 @@ metadata:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Canary Annotations](./04-Traffic-Splitting-and-Canary-Ingress-Annotations.md) | [README](./README.md) | [06 - Ingress Security & WAF](./06-Ingress-Security-Rate-Limiting-and-ModSecurity-WAF.md) |
+| [← 04 - Traffic Splitting and Canary Ingress Annotations](./04-Traffic-Splitting-and-Canary-Ingress-Annotations.md) | [Index](../../../README.md) | [06 - Ingress Security Rate Limiting and ModSecurity WAF →](./06-Ingress-Security-Rate-Limiting-and-ModSecurity-WAF.md) |

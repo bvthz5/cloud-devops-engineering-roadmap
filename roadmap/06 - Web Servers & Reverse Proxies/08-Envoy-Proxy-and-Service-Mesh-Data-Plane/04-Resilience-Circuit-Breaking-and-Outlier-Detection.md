@@ -39,4 +39,4 @@ When `max_connections` or `max_pending_requests` is exceeded, Envoy immediately 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Filter Chains & Network Filters](./03-Filter-Chains-and-Network-HTTP-Filters.md) | [README](./README.md) | [05 - HTTP/2 & gRPC Bridging](./05-HTTP2-and-gRPC-Bridging-and-Transcoding.md) |
+| [← 03 - Filter Chains and Network HTTP Filters](./03-Filter-Chains-and-Network-HTTP-Filters.md) | [Index](../../../README.md) | [05 - HTTP2 and gRPC Bridging and Transcoding →](./05-HTTP2-and-gRPC-Bridging-and-Transcoding.md) |

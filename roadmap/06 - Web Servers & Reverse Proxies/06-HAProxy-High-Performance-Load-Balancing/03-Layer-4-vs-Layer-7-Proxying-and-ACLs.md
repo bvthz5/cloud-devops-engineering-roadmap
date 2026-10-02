@@ -46,4 +46,4 @@ frontend main_ingress
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Configuration Structure](./02-Configuration-Structure-Global-Defaults-Frontend-Backend.md) | [README](./README.md) | [04 - Stick-Tables & Advanced Rate Limiting](./04-Stick-Tables-and-Advanced-Rate-Limiting.md) |
+| [← 02 - Configuration Structure Global Defaults Frontend Backend](./02-Configuration-Structure-Global-Defaults-Frontend-Backend.md) | [Index](../../../README.md) | [04 - Stick Tables and Advanced Rate Limiting →](./04-Stick-Tables-and-Advanced-Rate-Limiting.md) |

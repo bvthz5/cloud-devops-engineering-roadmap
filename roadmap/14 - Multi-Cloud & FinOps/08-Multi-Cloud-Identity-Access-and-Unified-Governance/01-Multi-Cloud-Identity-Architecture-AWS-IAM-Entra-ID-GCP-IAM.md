@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (07-Multi-Cloud-Networking-Transit-Gateways-and-Interconnect)](../07-Multi-Cloud-Networking-Transit-Gateways-and-Interconnect/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Centralized Identity Providers IdP Okta Entra ID Ping →](./02-Centralized-Identity-Providers-IdP-Okta-Entra-ID-Ping.md) |

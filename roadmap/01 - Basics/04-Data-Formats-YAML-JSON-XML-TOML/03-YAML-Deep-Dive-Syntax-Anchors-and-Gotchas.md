@@ -186,4 +186,4 @@ permission: "0755"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - JSON Deep Dive Syntax Schema and Parsing](./02-JSON-Deep-Dive-Syntax-Schema-and-Parsing.md) | [README](./README.md) | [04 - XML Deep Dive Syntax Namespaces and Schemas](./04-XML-Deep-Dive-Syntax-Namespaces-and-Schemas.md) |
+| [← 02 - JSON Deep Dive Syntax Schema and Parsing](./02-JSON-Deep-Dive-Syntax-Schema-and-Parsing.md) | [Index](../../../README.md) | [04 - XML Deep Dive Syntax Namespaces and Schemas →](./04-XML-Deep-Dive-Syntax-Namespaces-and-Schemas.md) |

@@ -16,4 +16,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [20 - Production Web Server Deployment Checklist](./20-Production-Web-Server-Deployment-Checklist.md) | [README](./README.md) | [22 - MCQs and Quick Revision Quiz](./22-MCQs-and-Quick-Revision-Quiz.md) |
+| [← 20 - Production Web Server Deployment Checklist](./20-Production-Web-Server-Deployment-Checklist.md) | [Index](../../../README.md) | [22 - MCQs and Quick Revision Quiz →](./22-MCQs-and-Quick-Revision-Quiz.md) |

@@ -71,4 +71,4 @@ location /download/ {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Location Block Matching Priority](./03-Location-Block-Matching-Priority-and-Directives.md) | [README](./README.md) | [05 - Virtual Hosting & Server Blocks](./05-Virtual-Hosting-and-Server-Blocks.md) |
+| [← 03 - Location Block Matching Priority and Directives](./03-Location-Block-Matching-Priority-and-Directives.md) | [Index](../../../README.md) | [05 - Virtual Hosting and Server Blocks →](./05-Virtual-Hosting-and-Server-Blocks.md) |

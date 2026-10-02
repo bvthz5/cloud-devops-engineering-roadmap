@@ -79,4 +79,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [15 - MCQs](./15-MCQs.md) | [README](./README.md) | [17 - Commands Cheat Sheet](./17-Commands-Cheat-Sheet.md) |
+| [← 15 - MCQs](./15-MCQs.md) | [Index](../../../README.md) | [17 - Commands Cheat Sheet →](./17-Commands-Cheat-Sheet.md) |

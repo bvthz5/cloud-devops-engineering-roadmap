@@ -23,4 +23,4 @@ kubectl patch pvc db-data -p '{"spec":{"resources":{"requests":{"storage":"100Gi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Access Modes](./04-Access-Modes-ReadWriteOnce-ReadWriteMany-and-Block-Volumes.md) | [README](./README.md) | [06 - Volume Snapshots](./06-VolumeSnapshots-and-Stateful-Backup-Workflows.md) |
+| [← 04 - Access Modes ReadWriteOnce ReadWriteMany and Block Volumes](./04-Access-Modes-ReadWriteOnce-ReadWriteMany-and-Block-Volumes.md) | [Index](../../../README.md) | [06 - VolumeSnapshots and Stateful Backup Workflows →](./06-VolumeSnapshots-and-Stateful-Backup-Workflows.md) |

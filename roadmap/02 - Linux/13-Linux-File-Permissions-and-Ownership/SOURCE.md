@@ -37,3 +37,9 @@ The original source concepts have been expanded and organized into this structur
 *   MCQs
 *   Quick revision
 *   Related topics
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 15 - Related Topics](./15-Related-Topics.md) | [Index](../../../README.md) | [Next Module (14-Process-Management-in-Linux) →](../14-Process-Management-in-Linux/01-Process-Fundamentals.md) |

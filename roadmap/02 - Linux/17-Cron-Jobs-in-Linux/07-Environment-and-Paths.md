@@ -128,4 +128,4 @@ The supplied source specifically warns about relative paths, executable permissi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Output Logging and Redirection](./06-Output-Logging-and-Redirection.md) | [README](./README.md) | [08 - Testing and Troubleshooting](./08-Testing-and-Troubleshooting.md) |
+| [← 06 - Output Logging and Redirection](./06-Output-Logging-and-Redirection.md) | [Index](../../../README.md) | [08 - Testing and Troubleshooting →](./08-Testing-and-Troubleshooting.md) |

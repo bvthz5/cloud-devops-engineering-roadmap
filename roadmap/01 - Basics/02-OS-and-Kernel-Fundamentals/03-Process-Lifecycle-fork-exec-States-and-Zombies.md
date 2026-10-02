@@ -207,4 +207,4 @@ Inside a Docker container without an init system:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - System Calls Interface and Categories](./02-System-Calls-Interface-and-Categories.md) | [README](./README.md) | [04 - Threads Multithreading and CPU Scheduling](./04-Threads-Multithreading-and-CPU-Scheduling.md) |
+| [← 02 - System Calls Interface and Categories](./02-System-Calls-Interface-and-Categories.md) | [Index](../../../README.md) | [04 - Threads Multithreading and CPU Scheduling →](./04-Threads-Multithreading-and-CPU-Scheduling.md) |

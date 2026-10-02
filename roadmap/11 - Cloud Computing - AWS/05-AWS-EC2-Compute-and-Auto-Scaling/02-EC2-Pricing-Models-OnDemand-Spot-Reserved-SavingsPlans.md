@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - EC2 Instance Types](./01-EC2-Instance-Types-Families-and-Generations.md) | [README](./README.md) | [03 - EBS Volume Types](./03-EBS-Volume-Types-Snapshots-and-Instance-Store.md) |
+| [← 01 - EC2 Instance Types Families and Generations](./01-EC2-Instance-Types-Families-and-Generations.md) | [Index](../../../README.md) | [03 - EBS Volume Types Snapshots and Instance Store →](./03-EBS-Volume-Types-Snapshots-and-Instance-Store.md) |

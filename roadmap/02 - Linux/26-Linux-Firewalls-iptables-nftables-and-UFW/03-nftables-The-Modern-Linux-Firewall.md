@@ -89,4 +89,4 @@ sudo nft list ruleset
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - iptables Deep Dive](./02-iptables-Deep-Dive-and-Rule-Management.md) | [README](./README.md) | [04 - UFW for Debian & Ubuntu](./04-UFW-Uncomplicated-Firewall-for-Debian-Ubuntu.md) |
+| [← 02 - iptables Deep Dive and Rule Management](./02-iptables-Deep-Dive-and-Rule-Management.md) | [Index](../../../README.md) | [04 - UFW Uncomplicated Firewall for Debian Ubuntu →](./04-UFW-Uncomplicated-Firewall-for-Debian-Ubuntu.md) |

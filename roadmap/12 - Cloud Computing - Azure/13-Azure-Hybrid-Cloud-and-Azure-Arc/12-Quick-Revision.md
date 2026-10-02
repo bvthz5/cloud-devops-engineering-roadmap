@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 14 - Azure FinOps](../14-Azure-Cost-Management-FinOps-and-Well-Architected/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (14-Azure-Cost-Management-FinOps-and-Well-Architected) →](../14-Azure-Cost-Management-FinOps-and-Well-Architected/01-Azure-Cost-Management-and-Billing-Architecture.md) |

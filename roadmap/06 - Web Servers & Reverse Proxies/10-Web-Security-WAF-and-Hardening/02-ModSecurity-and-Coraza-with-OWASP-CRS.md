@@ -49,4 +49,4 @@ SecRule REQUEST_URI "@beginsWith /api/upload" \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - WAF Architecture](./01-Web-Application-Firewall-WAF-Architecture.md) | [README](./README.md) | [03 - HTTP Security Headers](./03-HTTP-Security-Headers-CSP-HSTS-Permissions-Policy.md) |
+| [← 01 - Web Application Firewall WAF Architecture](./01-Web-Application-Firewall-WAF-Architecture.md) | [Index](../../../README.md) | [03 - HTTP Security Headers CSP HSTS Permissions Policy →](./03-HTTP-Security-Headers-CSP-HSTS-Permissions-Policy.md) |

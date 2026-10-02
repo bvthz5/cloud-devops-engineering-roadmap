@@ -73,4 +73,4 @@ Bare-Metal Server                  Virtual Machine (VM)               Container 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - Firmware BIOS UEFI and Boot Process](./07-Firmware-BIOS-UEFI-and-Boot-Process.md) | [README](./README.md) | [09 - Real World Scenarios](./09-Real-World-Scenarios.md) |
+| [← 07 - Firmware BIOS UEFI and Boot Process](./07-Firmware-BIOS-UEFI-and-Boot-Process.md) | [Index](../../../README.md) | [09 - Real World Scenarios →](./09-Real-World-Scenarios.md) |

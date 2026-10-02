@@ -52,4 +52,4 @@ In environments where Vim is compiled with X11/clipboard support (`+clipboard` i
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Delete Undo Redo Operations](./04-Delete-Undo-Redo-Operations.md) | [README](./README.md) | [06 - Search and Replace](./06-Search-and-Replace.md) |
+| [← 04 - Delete Undo Redo Operations](./04-Delete-Undo-Redo-Operations.md) | [Index](../../../README.md) | [06 - Search and Replace →](./06-Search-and-Replace.md) |

@@ -37,4 +37,4 @@ rsync -av /var/www /backup/
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Archiving & Compression](./01-Archiving-and-Compression-tar-gzip-bzip2-zstd.md) | [README](./README.md) | [03 - Automated Backups over SSH](./03-Automated-Backups-over-SSH.md) |
+| [← 01 - Archiving and Compression tar gzip bzip2 zstd](./01-Archiving-and-Compression-tar-gzip-bzip2-zstd.md) | [Index](../../../README.md) | [03 - Automated Backups over SSH →](./03-Automated-Backups-over-SSH.md) |

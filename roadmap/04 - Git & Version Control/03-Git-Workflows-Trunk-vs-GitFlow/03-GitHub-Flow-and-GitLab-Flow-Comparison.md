@@ -25,4 +25,4 @@ feature ──► Pull Request ──► main (Trunk) ──► pre-production �
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Trunk-Based Development](./02-Trunk-Based-Development-and-Continuous-Integration.md) | [README](./README.md) | [04 - Feature Flags](./04-Feature-Flags-Decoupling-Deploy-from-Release.md) |
+| [← 02 - Trunk Based Development and Continuous Integration](./02-Trunk-Based-Development-and-Continuous-Integration.md) | [Index](../../../README.md) | [04 - Feature Flags Decoupling Deploy from Release →](./04-Feature-Flags-Decoupling-Deploy-from-Release.md) |

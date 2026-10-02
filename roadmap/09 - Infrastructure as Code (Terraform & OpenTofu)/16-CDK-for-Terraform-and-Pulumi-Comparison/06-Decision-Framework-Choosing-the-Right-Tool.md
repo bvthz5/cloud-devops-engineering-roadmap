@@ -14,4 +14,4 @@ Need multi-cloud?
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Migration](./05-Migration-Between-Tools.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Migration Between Tools](./05-Migration-Between-Tools.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

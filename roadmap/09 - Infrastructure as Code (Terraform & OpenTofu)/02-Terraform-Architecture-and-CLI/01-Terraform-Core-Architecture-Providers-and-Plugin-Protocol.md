@@ -93,4 +93,4 @@ terraform {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Provider Registry](./02-Provider-Registry-Installation-and-Version-Pinning.md) |
+| [← Prev Module (01-IaC-Concepts-and-Evolution)](../01-IaC-Concepts-and-Evolution/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Provider Registry Installation and Version Pinning →](./02-Provider-Registry-Installation-and-Version-Pinning.md) |

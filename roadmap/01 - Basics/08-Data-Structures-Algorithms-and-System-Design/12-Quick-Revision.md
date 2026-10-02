@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple Choice Questions](./11-MCQ.md) | [README](./README.md) | [01 - Basics Index](../README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (02 - Linux) →](../../02%20-%20Linux/01-Linux-Directory-Structure/01-Filesystem-Basics.md) |

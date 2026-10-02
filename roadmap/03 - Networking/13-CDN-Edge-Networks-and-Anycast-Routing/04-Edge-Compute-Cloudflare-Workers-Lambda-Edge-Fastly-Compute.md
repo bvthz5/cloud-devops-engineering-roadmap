@@ -27,4 +27,4 @@ User (London) ─── 2ms Trip ───► London Edge PoP (V8 Isolate execut
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Cache-Control](./03-Cache-Control-Headers-and-Invalidation-Strategies.md) | [README](./README.md) | [05 - DDoS Mitigation](./05-DDoS-Mitigation-Rate-Limiting-and-WAF-at-the-Edge.md) |
+| [← 03 - Cache Control Headers and Invalidation Strategies](./03-Cache-Control-Headers-and-Invalidation-Strategies.md) | [Index](../../../README.md) | [05 - DDoS Mitigation Rate Limiting and WAF at the Edge →](./05-DDoS-Mitigation-Rate-Limiting-and-WAF-at-the-Edge.md) |

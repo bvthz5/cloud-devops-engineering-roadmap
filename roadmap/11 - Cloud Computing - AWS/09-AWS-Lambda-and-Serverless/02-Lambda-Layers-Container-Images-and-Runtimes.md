@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Lambda Architecture](./01-AWS-Lambda-Architecture-and-Execution-Environment.md) | [README](./README.md) | [03 - API Gateway](./03-Amazon-API-Gateway-REST-and-HTTP-APIs.md) |
+| [← 01 - AWS Lambda Architecture and Execution Environment](./01-AWS-Lambda-Architecture-and-Execution-Environment.md) | [Index](../../../README.md) | [03 - Amazon API Gateway REST and HTTP APIs →](./03-Amazon-API-Gateway-REST-and-HTTP-APIs.md) |

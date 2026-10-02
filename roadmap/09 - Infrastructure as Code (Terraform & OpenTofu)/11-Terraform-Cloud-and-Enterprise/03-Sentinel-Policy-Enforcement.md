@@ -45,4 +45,4 @@ resource "tfe_policy_set" "security" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - VCS-Driven Runs](./02-VCS-Driven-Runs-and-Speculative-Plans.md) | [README](./README.md) | [04 - Private Registry](./04-Private-Registry-and-Run-Tasks.md) |
+| [← 02 - VCS Driven Runs and Speculative Plans](./02-VCS-Driven-Runs-and-Speculative-Plans.md) | [Index](../../../README.md) | [04 - Private Registry and Run Tasks →](./04-Private-Registry-and-Run-Tasks.md) |

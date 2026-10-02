@@ -36,4 +36,4 @@ xcaddy build \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Dynamic JSON API](./05-Dynamic-JSON-API-and-Zero-Downtime-Config.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Dynamic JSON API and Zero Downtime Config](./05-Dynamic-JSON-API-and-Zero-Downtime-Config.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

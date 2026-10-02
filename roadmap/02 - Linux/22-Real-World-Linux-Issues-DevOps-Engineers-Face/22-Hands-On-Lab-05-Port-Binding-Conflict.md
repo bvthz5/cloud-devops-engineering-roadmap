@@ -37,4 +37,4 @@ fuser -k -9 8080/tcp
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [21 - Lab 04: Systemd Crash Loop](./21-Hands-On-Lab-04-Systemd-Service-Crash-Loop.md) | [README](./README.md) | [23 - Hands-On Labs 06 to 10](./23-Hands-On-Labs-06-to-10-SSH-DNS-Docker-K8s.md) |
+| [← 21 - Hands On Lab 04 Systemd Service Crash Loop](./21-Hands-On-Lab-04-Systemd-Service-Crash-Loop.md) | [Index](../../../README.md) | [23 - Hands On Labs 06 to 10 SSH DNS Docker K8s →](./23-Hands-On-Labs-06-to-10-SSH-DNS-Docker-K8s.md) |

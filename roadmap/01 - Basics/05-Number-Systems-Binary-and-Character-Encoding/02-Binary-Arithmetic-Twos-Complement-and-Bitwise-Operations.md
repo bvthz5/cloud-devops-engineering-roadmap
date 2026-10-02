@@ -52,4 +52,4 @@ The most significant bit (MSB) acts as the sign bit: `0` = positive, `1` = negat
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Number Systems](./01-Number-Systems-Decimal-Binary-Octal-Hexadecimal.md) | [README](./README.md) | [03 - Endianness & Byte Order](./03-Endianness-Byte-Order-and-Memory-Alignment.md) |
+| [← 01 - Number Systems Decimal Binary Octal Hexadecimal](./01-Number-Systems-Decimal-Binary-Octal-Hexadecimal.md) | [Index](../../../README.md) | [03 - Endianness Byte Order and Memory Alignment →](./03-Endianness-Byte-Order-and-Memory-Alignment.md) |

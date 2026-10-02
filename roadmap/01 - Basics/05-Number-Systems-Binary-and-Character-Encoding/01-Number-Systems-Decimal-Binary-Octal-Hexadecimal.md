@@ -54,4 +54,4 @@ Every byte in memory, network packets, and disk storage maps cleanly to two hexa
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Binary Arithmetic & Bitwise](./02-Binary-Arithmetic-Twos-Complement-and-Bitwise-Operations.md) |
+| [← Prev Module (04-Data-Formats-YAML-JSON-XML-TOML)](../04-Data-Formats-YAML-JSON-XML-TOML/14-Quick-Revision.md) | [Index](../../../README.md) | [02 - Binary Arithmetic Twos Complement and Bitwise Operations →](./02-Binary-Arithmetic-Twos-Complement-and-Bitwise-Operations.md) |

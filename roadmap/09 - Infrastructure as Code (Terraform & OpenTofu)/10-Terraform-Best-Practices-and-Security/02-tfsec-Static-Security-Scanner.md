@@ -41,4 +41,4 @@ resource "aws_s3_bucket" "logs" {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Security Threat Model](./01-IaC-Security-Threat-Model-and-Attack-Surface.md) | [README](./README.md) | [03 - Checkov](./03-Checkov-Policy-as-Code-Scanner.md) |
+| [← 01 - IaC Security Threat Model and Attack Surface](./01-IaC-Security-Threat-Model-and-Attack-Surface.md) | [Index](../../../README.md) | [03 - Checkov Policy as Code Scanner →](./03-Checkov-Policy-as-Code-Scanner.md) |

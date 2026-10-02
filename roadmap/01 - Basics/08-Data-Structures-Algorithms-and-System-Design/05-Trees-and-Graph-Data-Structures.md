@@ -38,4 +38,4 @@ A tree where every non-leaf node is the cryptographic hash of its child nodes:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Stacks, Queues & Brokers](./04-Stacks-Queues-and-Message-Brokers.md) | [README](./README.md) | [06 - Rate Limiting Algorithms](./06-Rate-Limiting-Algorithms-in-API-Gateways.md) |
+| [← 04 - Stacks Queues and Message Brokers](./04-Stacks-Queues-and-Message-Brokers.md) | [Index](../../../README.md) | [06 - Rate Limiting Algorithms in API Gateways →](./06-Rate-Limiting-Algorithms-in-API-Gateways.md) |

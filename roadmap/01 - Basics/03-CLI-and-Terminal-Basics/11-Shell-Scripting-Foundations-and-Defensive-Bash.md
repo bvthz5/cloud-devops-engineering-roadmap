@@ -182,4 +182,4 @@ log_info "Operation completed successfully!"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [10 - Text Processing Pipelines and Data Wrangling](./10-Text-Processing-Pipelines-and-Data-Wrangling.md) | [README](./README.md) | [12 - Modern CLI Replacements and Productivity Tools](./12-Modern-CLI-Replacements-and-Productivity-Tools.md) |
+| [← 10 - Text Processing Pipelines and Data Wrangling](./10-Text-Processing-Pipelines-and-Data-Wrangling.md) | [Index](../../../README.md) | [12 - Modern CLI Replacements and Productivity Tools →](./12-Modern-CLI-Replacements-and-Productivity-Tools.md) |

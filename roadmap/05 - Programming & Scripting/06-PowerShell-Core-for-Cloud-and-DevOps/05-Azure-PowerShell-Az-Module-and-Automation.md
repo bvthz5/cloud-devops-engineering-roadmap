@@ -99,4 +99,4 @@ $results | Export-Csv -Path "./azure-vm-inventory.csv" -NoTypeInformation
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Error Handling and Streams](./04-Error-Handling-Streams-and-Idempotency.md) | [README](./README.md) | [06 - AWS Tools for PowerShell](./06-AWS-and-Multi-Cloud-Tools-for-PowerShell.md) |
+| [← 04 - Error Handling Streams and Idempotency](./04-Error-Handling-Streams-and-Idempotency.md) | [Index](../../../README.md) | [06 - AWS and Multi Cloud Tools for PowerShell →](./06-AWS-and-Multi-Cloud-Tools-for-PowerShell.md) |

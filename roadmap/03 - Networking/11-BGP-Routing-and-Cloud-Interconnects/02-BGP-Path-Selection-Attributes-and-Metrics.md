@@ -43,4 +43,4 @@ Routers on the internet will prefer the primary link because its AS-Path length 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - BGP Architecture](./01-BGP-Fundamentals-Autonomous-Systems-and-eBGP-vs-iBGP.md) | [README](./README.md) | [03 - Cloud Interconnects](./03-Cloud-Dedicated-Interconnects-DirectConnect-and-ExpressRoute.md) |
+| [← 01 - BGP Fundamentals Autonomous Systems and eBGP vs iBGP](./01-BGP-Fundamentals-Autonomous-Systems-and-eBGP-vs-iBGP.md) | [Index](../../../README.md) | [03 - Cloud Dedicated Interconnects DirectConnect and ExpressRoute →](./03-Cloud-Dedicated-Interconnects-DirectConnect-and-ExpressRoute.md) |

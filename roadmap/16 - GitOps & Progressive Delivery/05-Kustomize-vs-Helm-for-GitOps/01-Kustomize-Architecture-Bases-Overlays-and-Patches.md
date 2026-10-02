@@ -91,3 +91,9 @@ spec:
 - [OpenGitOps Specification](https://opengitops.dev/)
 - [Argo Project Documentation](https://argoproj.github.io/)
 - [FluxCD Official Documentation](https://fluxcd.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (04-Argo-Rollouts-Progressive-Delivery)](../04-Argo-Rollouts-Progressive-Delivery/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Helm Charts Templating Values and Release Management →](./02-Helm-Charts-Templating-Values-and-Release-Management.md) |

@@ -27,4 +27,4 @@ dive <image-name>
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [04 - Docker Storage & Volumes](../04-Docker-Storage-and-Volumes/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (04-Docker-Storage-and-Volumes) →](../04-Docker-Storage-and-Volumes/01-Storage-Drivers-and-Overlay2-Deep-Dive.md) |

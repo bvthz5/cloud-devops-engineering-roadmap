@@ -31,4 +31,4 @@ resolver 1.1.1.1 8.8.8.8 valid=300s;
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [14 - SSL Troubleshooting Guide](./14-SSL-TLS-Troubleshooting-Guide.md) | [README](./README.md) | [16 - Lab 01: Nginx Certbot Setup](./16-Hands-On-Lab-01-Nginx-Certbot-HTTP01.md) |
+| [← 14 - SSL TLS Troubleshooting Guide](./14-SSL-TLS-Troubleshooting-Guide.md) | [Index](../../../README.md) | [16 - Hands On Lab 01 Nginx Certbot HTTP01 →](./16-Hands-On-Lab-01-Nginx-Certbot-HTTP01.md) |

@@ -27,4 +27,4 @@ sudo mkfs.vfat -F 32 /dev/sdb3
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Disk CLI Tools Lsblk Fdisk Parted Blkid](./06-Disk-CLI-Tools-Lsblk-Fdisk-Parted-Blkid.md) | [README](./README.md) | [08 - Etc Fstab and UUID Mounting](./08-Etc-Fstab-and-UUID-Mounting.md) |
+| [← 06 - Disk CLI Tools Lsblk Fdisk Parted Blkid](./06-Disk-CLI-Tools-Lsblk-Fdisk-Parted-Blkid.md) | [Index](../../../README.md) | [08 - Etc Fstab and UUID Mounting →](./08-Etc-Fstab-and-UUID-Mounting.md) |

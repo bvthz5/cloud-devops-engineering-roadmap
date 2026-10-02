@@ -31,4 +31,4 @@ Container images are composed of immutable, read-only layers stacked on top of e
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Filesystem Isolation](./03-Filesystem-Isolation-chroot-to-pivot-root.md) | [README](./README.md) | [05 - Building a Container in Bash](./05-Building-a-Container-from-Scratch-in-Bash.md) |
+| [← 03 - Filesystem Isolation chroot to pivot root](./03-Filesystem-Isolation-chroot-to-pivot-root.md) | [Index](../../../README.md) | [05 - Building a Container from Scratch in Bash →](./05-Building-a-Container-from-Scratch-in-Bash.md) |

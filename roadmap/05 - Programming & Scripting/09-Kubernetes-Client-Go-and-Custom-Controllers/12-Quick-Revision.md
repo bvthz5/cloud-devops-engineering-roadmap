@@ -26,4 +26,4 @@ rootCmd.PersistentFlags().StringVarP(&ns, "namespace", "n", "default", "Target n
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Multiple-Choice Assessment](./11-MCQ.md) | [README](./README.md) | [01 - Bash Scripting for DevOps](../01-Bash-Scripting-for-DevOps/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Section (06 - Web Servers & Reverse Proxies) →](../../06%20-%20Web%20Servers%20%26%20Reverse%20Proxies/01-Nginx-Architecture-and-Configuration/01-Event-Driven-Architecture-and-Worker-Model.md) |

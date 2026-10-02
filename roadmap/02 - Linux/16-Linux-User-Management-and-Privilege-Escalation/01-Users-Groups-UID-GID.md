@@ -70,4 +70,4 @@ These files are covered in depth in the following chapters.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README (Index)](./README.md) | [README](./README.md) | [02 - etc passwd Deep Dive](./02-etc-passwd-Deep-Dive.md) |
+| [← Prev Module (15-wget-vs-curl)](../15-wget-vs-curl/SOURCE.md) | [Index](../../../README.md) | [02 - etc passwd Deep Dive →](./02-etc-passwd-Deep-Dive.md) |

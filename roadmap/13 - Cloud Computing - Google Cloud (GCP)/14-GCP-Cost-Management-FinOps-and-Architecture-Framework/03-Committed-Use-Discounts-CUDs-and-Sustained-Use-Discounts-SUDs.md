@@ -75,3 +75,9 @@ resource "google_storage_bucket" "secure_bucket" {
 ## 🔗 Related Resources
 - [Google Cloud Security Documentation](https://cloud.google.com/security/docs)
 - [GCP FinOps & Cost Management](https://cloud.google.com/cost-management)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 02 - Resource Labels and Cost Allocation in BigQuery Billing Export](./02-Resource-Labels-and-Cost-Allocation-in-BigQuery-Billing-Export.md) | [Index](../../../README.md) | [04 - Active Assist and Recommender Cost Optimization →](./04-Active-Assist-and-Recommender-Cost-Optimization.md) |

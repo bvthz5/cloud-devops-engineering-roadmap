@@ -100,4 +100,4 @@ sudo usermod -aG sudo,devs,libvirt,docker alice
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [09 - Real World Production Scenarios](./09-Real-World-Production-Scenarios.md) | [README](./README.md) | [11 - Interview QA](./11-Interview-QA.md) |
+| [← 09 - Real World Production Scenarios](./09-Real-World-Production-Scenarios.md) | [Index](../../../README.md) | [11 - Interview QA →](./11-Interview-QA.md) |

@@ -39,4 +39,4 @@ git switch -c new-feature-branch
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - git rerere](./02-git-rerere-Reuse-Recorded-Resolution.md) | [README](./README.md) | [04 - git reflog](./04-git-reflog-The-Ultimate-DevOps-Safety-Net.md) |
+| [← 02 - git rerere Reuse Recorded Resolution](./02-git-rerere-Reuse-Recorded-Resolution.md) | [Index](../../../README.md) | [04 - git reflog The Ultimate DevOps Safety Net →](./04-git-reflog-The-Ultimate-DevOps-Safety-Net.md) |

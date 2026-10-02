@@ -21,4 +21,4 @@ Setting `mode: non-blocking` ensures the container never blocks on logging; if t
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Container Exit Codes](./02-Container-Exit-Codes-and-Crash-Forensics.md) | [README](./README.md) | [04 - cAdvisor & Prometheus](./04-Container-Health-Monitoring-with-cAdvisor-and-Prometheus.md) |
+| [← 02 - Container Exit Codes and Crash Forensics](./02-Container-Exit-Codes-and-Crash-Forensics.md) | [Index](../../../README.md) | [04 - Container Health Monitoring with cAdvisor and Prometheus →](./04-Container-Health-Monitoring-with-cAdvisor-and-Prometheus.md) |

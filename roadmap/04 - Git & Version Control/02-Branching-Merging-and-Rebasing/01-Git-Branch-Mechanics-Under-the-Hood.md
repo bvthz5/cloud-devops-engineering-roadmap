@@ -30,4 +30,4 @@ refs/heads/main ──────────────────► [ Comm
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Merge Strategies](./02-Merge-Strategies-Fast-Forward-vs-3-Way.md) |
+| [← Prev Module (01-Git-Architecture-and-Basics)](../01-Git-Architecture-and-Basics/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Merge Strategies Fast Forward vs 3 Way →](./02-Merge-Strategies-Fast-Forward-vs-3-Way.md) |

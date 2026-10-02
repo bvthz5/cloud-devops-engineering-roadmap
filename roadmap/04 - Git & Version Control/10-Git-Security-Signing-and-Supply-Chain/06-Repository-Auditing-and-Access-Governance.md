@@ -10,4 +10,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Supply Chain & SLSA](./05-Supply-Chain-Security-SLSA-Framework-and-SBOMs.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Supply Chain Security SLSA Framework and SBOMs](./05-Supply-Chain-Security-SLSA-Framework-and-SBOMs.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

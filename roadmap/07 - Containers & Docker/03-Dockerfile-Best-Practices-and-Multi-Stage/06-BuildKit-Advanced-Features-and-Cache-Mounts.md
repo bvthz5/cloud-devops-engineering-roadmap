@@ -39,4 +39,4 @@ docker build --secret id=npm_token,src=.npmrc .
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Non-Root Users & Least Privilege](./05-Non-Root-Users-and-Least-Privilege-Execution.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Non Root Users and Least Privilege Execution](./05-Non-Root-Users-and-Least-Privilege-Execution.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

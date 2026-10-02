@@ -37,4 +37,4 @@ A Layer 2 Network Switch maintains a **Content Addressable Memory (CAM) Table** 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Encapsulation & Decapsulation](./03-Encapsulation-and-Decapsulation-Data-Flow.md) | [README](./README.md) | [05 - Layer 3 Network](./05-Layer-3-Network-IP-Routing-and-Routers.md) |
+| [← 03 - Encapsulation and Decapsulation Data Flow](./03-Encapsulation-and-Decapsulation-Data-Flow.md) | [Index](../../../README.md) | [05 - Layer 3 Network IP Routing and Routers →](./05-Layer-3-Network-IP-Routing-and-Routers.md) |

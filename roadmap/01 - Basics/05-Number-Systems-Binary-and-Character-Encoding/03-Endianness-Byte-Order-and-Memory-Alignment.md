@@ -27,4 +27,4 @@ Little-Endian:        0x78     0x56     0x34     0x12  (LSB stored first at lowe
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Binary Arithmetic & Bitwise](./02-Binary-Arithmetic-Twos-Complement-and-Bitwise-Operations.md) | [README](./README.md) | [04 - Character Encoding](./04-Character-Encoding-ASCII-Unicode-and-UTF8.md) |
+| [← 02 - Binary Arithmetic Twos Complement and Bitwise Operations](./02-Binary-Arithmetic-Twos-Complement-and-Bitwise-Operations.md) | [Index](../../../README.md) | [04 - Character Encoding ASCII Unicode and UTF8 →](./04-Character-Encoding-ASCII-Unicode-and-UTF8.md) |

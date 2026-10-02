@@ -23,4 +23,4 @@ IFS=$'\n\t'
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [02 - Python for DevOps](../02-Python-for-DevOps-and-Automation/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (02-Python-for-DevOps-and-Automation) →](../02-Python-for-DevOps-and-Automation/01-Python-DevOps-Foundations-and-Environment.md) |

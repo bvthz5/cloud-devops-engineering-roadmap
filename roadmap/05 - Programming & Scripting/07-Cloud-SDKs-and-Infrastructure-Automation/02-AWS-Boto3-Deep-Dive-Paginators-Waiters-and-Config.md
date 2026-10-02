@@ -95,4 +95,4 @@ def get_cross_account_client(target_account_id: str, role_name: str, external_id
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Cloud SDK Architecture](./01-Cloud-SDK-Architecture-Client-vs-Resource-Models.md) | [README](./README.md) | [03 - Azure SDK for Python](./03-Azure-SDK-for-Python-and-Identity-Libraries.md) |
+| [← 01 - Cloud SDK Architecture Client vs Resource Models](./01-Cloud-SDK-Architecture-Client-vs-Resource-Models.md) | [Index](../../../README.md) | [03 - Azure SDK for Python and Identity Libraries →](./03-Azure-SDK-for-Python-and-Identity-Libraries.md) |

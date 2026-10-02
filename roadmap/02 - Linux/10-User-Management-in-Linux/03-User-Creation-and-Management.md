@@ -88,4 +88,4 @@ Whenever `useradd -m` creates a new home directory, files inside `/etc/skel` (e.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Core Configuration Files](./02-Core-Configuration-Files.md) | [README](./README.md) | [04 - Password Management and Aging](./04-Password-Management-and-Aging.md) |
+| [← 02 - Core Configuration Files](./02-Core-Configuration-Files.md) | [Index](../../../README.md) | [04 - Password Management and Aging →](./04-Password-Management-and-Aging.md) |

@@ -17,4 +17,4 @@ An accidental merge to `main` triggered an automated destroy run in CI.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - DR Testing & Validation](./06-DR-Testing-Validation-and-RTO-Benchmarking.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - DR Testing Validation and RTO Benchmarking](./06-DR-Testing-Validation-and-RTO-Benchmarking.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

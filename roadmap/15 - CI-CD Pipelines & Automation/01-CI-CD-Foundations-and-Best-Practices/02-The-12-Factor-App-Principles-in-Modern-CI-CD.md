@@ -91,3 +91,9 @@ pipeline {
 - [GitHub Actions Official Documentation](https://docs.github.com/en/actions)
 - [GitLab CI/CD Documentation](https://docs.gitlab.com/ee/ci/)
 - [Jenkins User Handbook](https://www.jenkins.io/doc/book/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Continuous Integration vs Continuous Delivery vs Continuous Deployment](./01-Continuous-Integration-vs-Continuous-Delivery-vs-Continuous-Deployment.md) | [Index](../../../README.md) | [03 - Pipeline as Code Declarative vs Imperative Pipelines →](./03-Pipeline-as-Code-Declarative-vs-Imperative-Pipelines.md) |

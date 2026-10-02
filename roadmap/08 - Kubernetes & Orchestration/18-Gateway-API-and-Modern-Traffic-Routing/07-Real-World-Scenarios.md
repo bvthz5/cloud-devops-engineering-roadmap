@@ -16,4 +16,4 @@ The mirrored service had not mocked out database writes. It executed real write 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Gateway Implementations](./06-Gateway-API-Implementations-Envoy-Gateway-Cilium-Traefik.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Gateway API Implementations Envoy Gateway Cilium Traefik](./06-Gateway-API-Implementations-Envoy-Gateway-Cilium-Traefik.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

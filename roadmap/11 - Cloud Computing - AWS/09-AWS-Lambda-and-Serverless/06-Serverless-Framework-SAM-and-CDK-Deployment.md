@@ -22,4 +22,4 @@ Resources:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Step Functions](./05-AWS-Step-Functions-State-Machines-and-Orchestration.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - AWS Step Functions State Machines and Orchestration](./05-AWS-Step-Functions-State-Machines-and-Orchestration.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

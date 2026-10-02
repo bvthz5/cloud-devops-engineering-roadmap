@@ -50,8 +50,9 @@ df -hT | grep tmpfs
 ls -ld /tmp
 # Output: drwxrwxrwt 12 root root ... /tmp
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [07 - opt and srv](./07-opt-and-srv.md) | [README](./README.md) | [09 - proc sys and dev](./09-proc-sys-and-dev.md) |
+| [← 07 - opt and srv](./07-opt-and-srv.md) | [Index](../../../README.md) | [09 - proc sys and dev →](./09-proc-sys-and-dev.md) |

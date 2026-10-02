@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Multi Cloud RBAC ABAC and Least Privilege Enforcement](./04-Multi-Cloud-RBAC-ABAC-and-Least-Privilege-Enforcement.md) | [Index](../../../README.md) | [06 - Centralized Audit Logging SIEM Integration Splunk Sentinel →](./06-Centralized-Audit-Logging-SIEM-Integration-Splunk-Sentinel.md) |

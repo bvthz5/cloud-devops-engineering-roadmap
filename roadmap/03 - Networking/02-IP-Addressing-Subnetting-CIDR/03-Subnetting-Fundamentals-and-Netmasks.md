@@ -32,4 +32,4 @@ $$	ext{Usable Hosts} = 2^H - 2$$
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Private vs Public IP](./02-Private-vs-Public-IP-Addresses-RFC1918.md) | [README](./README.md) | [04 - CIDR](./04-CIDR-Classless-Inter-Domain-Routing.md) |
+| [← 02 - Private vs Public IP Addresses RFC1918](./02-Private-vs-Public-IP-Addresses-RFC1918.md) | [Index](../../../README.md) | [04 - CIDR Classless Inter Domain Routing →](./04-CIDR-Classless-Inter-Domain-Routing.md) |

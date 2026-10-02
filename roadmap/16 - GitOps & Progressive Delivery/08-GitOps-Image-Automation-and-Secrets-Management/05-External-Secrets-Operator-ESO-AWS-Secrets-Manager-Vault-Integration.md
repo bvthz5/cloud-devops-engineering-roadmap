@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 04 - Sealed Secrets Asymmetric Encryption in Git](./04-Sealed-Secrets-Asymmetric-Encryption-in-Git.md) | [Index](../../../README.md) | [06 - SOPS Secrets OPerationS with KMS and GPG →](./06-SOPS-Secrets-OPerationS-with-KMS-and-GPG.md) |

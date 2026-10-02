@@ -177,4 +177,4 @@ jq empty config.json && echo "Valid JSON" || echo "Syntax Error!"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Structured Data Serialization and Representations](./01-Structured-Data-Serialization-and-Representations.md) | [README](./README.md) | [03 - YAML Deep Dive Syntax Anchors and Gotchas](./03-YAML-Deep-Dive-Syntax-Anchors-and-Gotchas.md) |
+| [← 01 - Structured Data Serialization and Representations](./01-Structured-Data-Serialization-and-Representations.md) | [Index](../../../README.md) | [03 - YAML Deep Dive Syntax Anchors and Gotchas →](./03-YAML-Deep-Dive-Syntax-Anchors-and-Gotchas.md) |

@@ -29,4 +29,4 @@ POLYREPO (Traditional Microservices):
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Submodules](./02-git-submodule-Mechanics-and-Pitfalls.md) |
+| [← Prev Module (08-GitOps-and-Declarative-Infrastructure)](../08-GitOps-and-Declarative-Infrastructure/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - git submodule Mechanics and Pitfalls →](./02-git-submodule-Mechanics-and-Pitfalls.md) |

@@ -41,4 +41,4 @@ terraform state list   # List all resources in state
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 02 - Terraform Architecture & CLI](../02-Terraform-Architecture-and-CLI/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (02-Terraform-Architecture-and-CLI) →](../02-Terraform-Architecture-and-CLI/01-Terraform-Core-Architecture-Providers-and-Plugin-Protocol.md) |

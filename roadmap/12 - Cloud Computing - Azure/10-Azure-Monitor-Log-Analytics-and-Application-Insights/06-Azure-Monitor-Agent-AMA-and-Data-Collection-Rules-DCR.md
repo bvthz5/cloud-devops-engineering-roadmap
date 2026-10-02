@@ -6,4 +6,4 @@ AMA agent uses Data Collection Rules (DCR) to filter and route telemetry from VM
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Workbooks & Dashboards](./05-Workbooks-and-Dashboards.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Workbooks and Dashboards](./05-Workbooks-and-Dashboards.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

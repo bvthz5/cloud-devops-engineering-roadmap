@@ -19,4 +19,4 @@ dependencies:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - AWX vs AAP Architecture](./01-AWX-vs-AAP-vs-Tower-Architecture-Overview.md) | [README](./README.md) | [03 - Job Templates & Workflows](./03-Job-Templates-Workflow-Job-Templates-and-Inventories.md) |
+| [← 01 - AWX vs AAP vs Tower Architecture Overview](./01-AWX-vs-AAP-vs-Tower-Architecture-Overview.md) | [Index](../../../README.md) | [03 - Job Templates Workflow Job Templates and Inventories →](./03-Job-Templates-Workflow-Job-Templates-and-Inventories.md) |

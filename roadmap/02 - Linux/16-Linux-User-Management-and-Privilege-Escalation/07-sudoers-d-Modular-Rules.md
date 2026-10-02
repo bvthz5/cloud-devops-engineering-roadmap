@@ -71,4 +71,4 @@ This should list the permissions defined in her drop-in file.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - etc sudoers and visudo](./06-etc-sudoers-and-visudo.md) | [README](./README.md) | [08 - NOPASSWD and Least Privilege](./08-NOPASSWD-and-Least-Privilege.md) |
+| [← 06 - etc sudoers and visudo](./06-etc-sudoers-and-visudo.md) | [Index](../../../README.md) | [08 - NOPASSWD and Least Privilege →](./08-NOPASSWD-and-Least-Privilege.md) |

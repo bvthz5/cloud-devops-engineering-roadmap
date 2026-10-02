@@ -35,4 +35,4 @@ kill -9 "$RUNAWAY_PID"
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [18 - Lab 01: Disk Leak](./18-Hands-On-Lab-01-Unlinked-Open-File-Disk-Leak.md) | [README](./README.md) | [20 - Lab 03: OOM Killer Analysis](./20-Hands-On-Lab-03-OOM-Killer-Analysis.md) |
+| [← 18 - Hands On Lab 01 Unlinked Open File Disk Leak](./18-Hands-On-Lab-01-Unlinked-Open-File-Disk-Leak.md) | [Index](../../../README.md) | [20 - Hands On Lab 03 OOM Killer Analysis →](./20-Hands-On-Lab-03-OOM-Killer-Analysis.md) |

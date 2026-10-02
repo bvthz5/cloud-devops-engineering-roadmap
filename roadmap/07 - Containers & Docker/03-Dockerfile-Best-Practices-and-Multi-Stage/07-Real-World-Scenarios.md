@@ -21,4 +21,4 @@ Use `--mount=type=secret`, which mounts secrets into memory without persisting t
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - BuildKit Advanced Features](./06-BuildKit-Advanced-Features-and-Cache-Mounts.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - BuildKit Advanced Features and Cache Mounts](./06-BuildKit-Advanced-Features-and-Cache-Mounts.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

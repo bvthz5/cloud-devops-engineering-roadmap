@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (05-Infracost-IaC-Cost-Estimation-in-CICD)](../05-Infracost-IaC-Cost-Estimation-in-CICD/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - AWS Savings Plans vs Reserved Instances RI →](./02-AWS-Savings-Plans-vs-Reserved-Instances-RI.md) |

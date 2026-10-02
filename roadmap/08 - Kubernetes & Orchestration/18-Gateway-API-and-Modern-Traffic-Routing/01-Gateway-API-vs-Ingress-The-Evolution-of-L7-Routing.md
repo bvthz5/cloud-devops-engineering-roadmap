@@ -34,4 +34,4 @@ ROLE: APPLICATION DEVELOPER
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Role-Oriented Design](./02-Gateway-API-Role-Oriented-Architecture-GatewayClass-Gateway-Route.md) |
+| [← Prev Module (17-Advanced-Scheduling-Taints-Tolerations-and-Affinity)](../17-Advanced-Scheduling-Taints-Tolerations-and-Affinity/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Gateway API Role Oriented Architecture GatewayClass Gateway Route →](./02-Gateway-API-Role-Oriented-Architecture-GatewayClass-Gateway-Route.md) |

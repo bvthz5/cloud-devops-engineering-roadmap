@@ -17,4 +17,4 @@ A major fintech platform running on Linux kernel 4.x suffered intermittent 5-sec
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - EndpointSlices](./06-EndpointSlices-High-Scale-Service-Endpoints.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - EndpointSlices High Scale Service Endpoints](./06-EndpointSlices-High-Scale-Service-Endpoints.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

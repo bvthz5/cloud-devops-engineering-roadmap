@@ -34,4 +34,4 @@ kubectl uncordon worker-01
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Pod Affinity & Anti-Affinity](./03-Pod-Affinity-and-Pod-Anti-Affinity-Co-location-Rules.md) | [README](./README.md) | [05 - Topology Spread Constraints](./05-Topology-Spread-Constraints-Multi-AZ-High-Availability.md) |
+| [← 03 - Pod Affinity and Pod Anti Affinity Co location Rules](./03-Pod-Affinity-and-Pod-Anti-Affinity-Co-location-Rules.md) | [Index](../../../README.md) | [05 - Topology Spread Constraints Multi AZ High Availability →](./05-Topology-Spread-Constraints-Multi-AZ-High-Availability.md) |

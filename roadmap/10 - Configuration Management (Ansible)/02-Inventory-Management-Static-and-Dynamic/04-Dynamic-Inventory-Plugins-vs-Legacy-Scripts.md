@@ -15,4 +15,4 @@ ansible-inventory -i aws_ec2.yml --graph
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - group_vars & host_vars](./03-Inventory-Variables-host_vars-and-group_vars.md) | [README](./README.md) | [05 - AWS EC2 Dynamic Inventory](./05-AWS-EC2-Dynamic-Inventory-Configuration.md) |
+| [← 03 - Inventory Variables host_vars and group_vars](./03-Inventory-Variables-host_vars-and-group_vars.md) | [Index](../../../README.md) | [05 - AWS EC2 Dynamic Inventory Configuration →](./05-AWS-EC2-Dynamic-Inventory-Configuration.md) |

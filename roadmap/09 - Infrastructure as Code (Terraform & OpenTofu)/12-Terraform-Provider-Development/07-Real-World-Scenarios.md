@@ -8,4 +8,4 @@ A fintech company built a custom Terraform provider for their internal service c
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Community Providers](./06-Community-Providers-and-Contribution.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Community Providers and Contribution](./06-Community-Providers-and-Contribution.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

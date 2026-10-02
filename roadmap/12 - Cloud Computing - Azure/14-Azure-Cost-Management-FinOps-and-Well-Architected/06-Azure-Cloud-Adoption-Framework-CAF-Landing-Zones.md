@@ -6,4 +6,4 @@ Methodology guiding cloud transformation across 6 stages: Strategy, Plan, Ready,
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Well-Architected Framework](./05-Azure-Well-Architected-Framework-5-Pillars.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Azure Well Architected Framework 5 Pillars](./05-Azure-Well-Architected-Framework-5-Pillars.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

@@ -22,4 +22,4 @@ Modern clusters with **Cilium** remove `kube-proxy` entirely. Cilium attaches eB
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - CoreDNS Architecture](./04-CoreDNS-Architecture-and-Name-Resolution-Flow.md) | [README](./README.md) | [06 - EndpointSlices](./06-EndpointSlices-High-Scale-Service-Endpoints.md) |
+| [← 04 - CoreDNS Architecture and Name Resolution Flow](./04-CoreDNS-Architecture-and-Name-Resolution-Flow.md) | [Index](../../../README.md) | [06 - EndpointSlices High Scale Service Endpoints →](./06-EndpointSlices-High-Scale-Service-Endpoints.md) |

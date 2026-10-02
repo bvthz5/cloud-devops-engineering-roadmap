@@ -22,3 +22,9 @@
 3. **Handle 2-minute Spot termination notices gracefully** using termination handlers and checkpointing.
 4. **Use private interconnects (DirectConnect / ExpressRoute / Interconnect)** to avoid high public egress rates.
 5. **Enforce Infracost guardrails in CI/CD** to gain cost visibility before infrastructure is provisioned.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (09-Multi-Cloud-Infrastructure-Automation-Terraform-and-OpenTofu) →](../09-Multi-Cloud-Infrastructure-Automation-Terraform-and-OpenTofu/01-Multi-Provider-Terraform-Architecture-and-Module-Design.md) |

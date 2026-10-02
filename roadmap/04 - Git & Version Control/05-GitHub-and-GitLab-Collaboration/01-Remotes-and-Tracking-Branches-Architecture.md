@@ -30,4 +30,4 @@ git config --global pull.rebase true
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Forking vs Shared](./02-Forking-Workflow-vs-Shared-Branch-Model.md) |
+| [← Prev Module (04-Git-Internals-and-Plumbing)](../04-Git-Internals-and-Plumbing/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Forking Workflow vs Shared Branch Model →](./02-Forking-Workflow-vs-Shared-Branch-Model.md) |

@@ -7,4 +7,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - Compute Cost Optimization](./03-Compute-Cost-Optimization-Spot-Savings-Plans-and-Right-Sizing.md) | [README](./README.md) | [05 - 7 Rs Migration Strategies](./05-AWS-Cloud-Adoption-Framework-CAF-and-7-Rs-Migration.md) |
+| [← 03 - Compute Cost Optimization Spot Savings Plans and Right Sizing](./03-Compute-Cost-Optimization-Spot-Savings-Plans-and-Right-Sizing.md) | [Index](../../../README.md) | [05 - AWS Cloud Adoption Framework CAF and 7 Rs Migration →](./05-AWS-Cloud-Adoption-Framework-CAF-and-7-Rs-Migration.md) |

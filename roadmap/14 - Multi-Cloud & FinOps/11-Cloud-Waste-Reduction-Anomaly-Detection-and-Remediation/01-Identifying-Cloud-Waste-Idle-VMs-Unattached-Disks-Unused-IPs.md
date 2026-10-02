@@ -79,3 +79,9 @@ provider "google" {
 ## 🔗 Related Resources
 - [OpenTofu Official Documentation](https://opentofu.org/)
 - [Cloud Custodian Documentation](https://cloudcustodian.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (10-Multi-Cloud-Observability-and-Centralized-Telemetry)](../10-Multi-Cloud-Observability-and-Centralized-Telemetry/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Automated Resource Scheduling Off Hours Shutdown Scripts →](./02-Automated-Resource-Scheduling-Off-Hours-Shutdown-Scripts.md) |

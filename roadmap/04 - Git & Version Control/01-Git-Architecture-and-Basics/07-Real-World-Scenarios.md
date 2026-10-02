@@ -31,4 +31,4 @@ An SRE was debugging an outage on an EC2 instance. They made 50 lines of uncommi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Log Mastery](./06-Log-Mastery-Filtering-Formatting-and-Graphing.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Log Mastery Filtering Formatting and Graphing](./06-Log-Mastery-Filtering-Formatting-and-Graphing.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

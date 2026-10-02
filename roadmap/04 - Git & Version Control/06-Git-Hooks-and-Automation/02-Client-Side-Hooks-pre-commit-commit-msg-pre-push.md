@@ -46,4 +46,4 @@ Runs during `git push`. Ideal for running fast integration tests to avoid pollut
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Hooks Architecture](./01-Git-Hooks-Architecture-Client-vs-Server.md) | [README](./README.md) | [03 - pre-commit Framework](./03-The-pre-commit-Framework-Standardization.md) |
+| [← 01 - Git Hooks Architecture Client vs Server](./01-Git-Hooks-Architecture-Client-vs-Server.md) | [Index](../../../README.md) | [03 - The pre commit Framework Standardization →](./03-The-pre-commit-Framework-Standardization.md) |

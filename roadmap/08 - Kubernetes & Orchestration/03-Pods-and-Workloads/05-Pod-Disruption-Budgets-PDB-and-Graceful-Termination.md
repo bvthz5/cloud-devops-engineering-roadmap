@@ -36,4 +36,4 @@ spec:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - QoS & Resource Limits](./04-Resource-Requests-Limits-and-Quality-of-Service-QoS.md) | [README](./README.md) | [06 - Security Contexts](./06-Security-Contexts-RunAsUser-and-Privilege-Escalation.md) |
+| [← 04 - Resource Requests Limits and Quality of Service QoS](./04-Resource-Requests-Limits-and-Quality-of-Service-QoS.md) | [Index](../../../README.md) | [06 - Security Contexts RunAsUser and Privilege Escalation →](./06-Security-Contexts-RunAsUser-and-Privilege-Escalation.md) |

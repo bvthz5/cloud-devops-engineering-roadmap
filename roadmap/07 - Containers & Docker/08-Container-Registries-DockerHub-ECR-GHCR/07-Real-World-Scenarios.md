@@ -21,4 +21,4 @@ Once set to `IMMUTABLE`, the registry rejects any attempt to overwrite an existi
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Storage Optimization & GC](./06-Registry-Storage-Optimization-and-Garbage-Collection.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Registry Storage Optimization and Garbage Collection](./06-Registry-Storage-Optimization-and-Garbage-Collection.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

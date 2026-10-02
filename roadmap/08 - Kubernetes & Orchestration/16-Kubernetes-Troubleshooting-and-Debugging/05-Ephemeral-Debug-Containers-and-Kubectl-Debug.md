@@ -19,4 +19,4 @@ chroot /host
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Control Plane Diagnostics](./04-Control-Plane-Diagnostics-API-Server-and-etcd-Failures.md) | [README](./README.md) | [06 - Audit & Forensics](./06-Cluster-Auditing-Event-Analysis-and-Forensics.md) |
+| [← 04 - Control Plane Diagnostics API Server and etcd Failures](./04-Control-Plane-Diagnostics-API-Server-and-etcd-Failures.md) | [Index](../../../README.md) | [06 - Cluster Auditing Event Analysis and Forensics →](./06-Cluster-Auditing-Event-Analysis-and-Forensics.md) |

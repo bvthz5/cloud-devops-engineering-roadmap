@@ -6,4 +6,4 @@ Restricting storage access to specific VNets using Private Endpoints via Azure P
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - SAS Tokens & Keys](./04-Storage-Security-Shared-Access-Signatures-SAS-and-Keys.md) | [README](./README.md) | [06 - Azure Files](./06-Azure-Files-Azure-Disks-and-Storage-Sync.md) |
+| [← 04 - Storage Security Shared Access Signatures SAS and Keys](./04-Storage-Security-Shared-Access-Signatures-SAS-and-Keys.md) | [Index](../../../README.md) | [06 - Azure Files Azure Disks and Storage Sync →](./06-Azure-Files-Azure-Disks-and-Storage-Sync.md) |

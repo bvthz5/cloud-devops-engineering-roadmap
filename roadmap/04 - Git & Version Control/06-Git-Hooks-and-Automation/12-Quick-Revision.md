@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Self-Assessment MCQ](./11-MCQ.md) | [README](./README.md) | [07 - Resolving Conflicts](../07-Resolving-Conflicts-and-Troubleshooting/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (07-Resolving-Conflicts-and-Troubleshooting) →](../07-Resolving-Conflicts-and-Troubleshooting/01-Merge-Conflict-Anatomy-and-diff3-Visualization.md) |

@@ -106,3 +106,9 @@ spec:
 - [ArgoCD ApplicationSet Documentation](https://argo-cd.readthedocs.io/en/stable/operator-manual/applicationset/)
 - [External Secrets Operator Documentation](https://external-secrets.io/)
 - [Flagger Documentation](https://flagger.app/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 03 - Flux Alert and Provider Controllers](./03-Flux-Alert-and-Provider-Controllers.md) | [Index](../../../README.md) | [05 - GitOps DORA Metrics Tracking Deployment Frequency Lead Time →](./05-GitOps-DORA-Metrics-Tracking-Deployment-Frequency-Lead-Time.md) |

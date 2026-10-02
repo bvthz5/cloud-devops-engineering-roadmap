@@ -93,3 +93,9 @@ jobs:
 ## 🔗 Related Resources
 - [FinOps Rate Optimization Guide](https://www.finops.org/framework/capabilities/rate-optimization/)
 - [AWS Savings Plans Documentation](https://aws.amazon.com/savingsplans/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Shift Left FinOps Overview and Benefits](./01-Shift-Left-FinOps-Overview-and-Benefits.md) | [Index](../../../README.md) | [03 - Integrating Infracost with GitHub Actions GitLab CI and Azure DevOps →](./03-Integrating-Infracost-with-GitHub-Actions-GitLab-CI-and-Azure-DevOps.md) |

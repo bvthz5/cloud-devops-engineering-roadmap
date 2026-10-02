@@ -6,4 +6,4 @@ Fully managed PostgreSQL and MySQL offering granular configuration control and z
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Consistency Levels](./04-Cosmos-DB-Consistency-Levels.md) | [README](./README.md) | [06 - Azure Cache for Redis](./06-Azure-Cache-for-Redis-and-Database-Caching.md) |
+| [← 04 - Cosmos DB Consistency Levels](./04-Cosmos-DB-Consistency-Levels.md) | [Index](../../../README.md) | [06 - Azure Cache for Redis and Database Caching →](./06-Azure-Cache-for-Redis-and-Database-Caching.md) |

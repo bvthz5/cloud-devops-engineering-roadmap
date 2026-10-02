@@ -47,4 +47,4 @@ class OAuth2Client:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Webhook Security](./04-Webhook-Security-and-HMAC-SHA256-Signatures.md) | [README](./README.md) | [06 - Rate Limiting & Jitter](./06-Rate-Limiting-Exponential-Backoff-and-Jitter.md) |
+| [← 04 - Webhook Security and HMAC SHA256 Signatures](./04-Webhook-Security-and-HMAC-SHA256-Signatures.md) | [Index](../../../README.md) | [06 - Rate Limiting Exponential Backoff and Jitter →](./06-Rate-Limiting-Exponential-Backoff-and-Jitter.md) |

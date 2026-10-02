@@ -34,3 +34,9 @@ How does GKE Workload Identity authenticate Pods to GCP APIs without static serv
 - [ ] D) By disabling IAM checks on the GKE cluster
 
 *Explanation: Workload Identity links Kubernetes ServiceAccounts directly with GCP Service Accounts for seamless OAuth 2.0 token generation.*
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 10 - Hands On Practice](./10-Hands-On-Practice.md) | [Index](../../../README.md) | [12 - Quick Revision →](./12-Quick-Revision.md) |

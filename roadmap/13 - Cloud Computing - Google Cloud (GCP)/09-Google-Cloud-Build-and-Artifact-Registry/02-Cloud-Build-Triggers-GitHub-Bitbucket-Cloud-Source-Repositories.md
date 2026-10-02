@@ -74,3 +74,9 @@ resource "google_compute_subnetwork" "subnet_app" {
 ## 🔗 Related Resources
 - [Google Cloud Official Documentation](https://cloud.google.com/docs)
 - [GCP Architecture Framework](https://cloud.google.com/architecture/framework)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 01 - Cloud Build Architecture Build Steps and cloudbuild yaml](./01-Cloud-Build-Architecture-Build-Steps-and-cloudbuild-yaml.md) | [Index](../../../README.md) | [03 - Artifact Registry Docker Helm Maven npm Package Management →](./03-Artifact-Registry-Docker-Helm-Maven-npm-Package-Management.md) |

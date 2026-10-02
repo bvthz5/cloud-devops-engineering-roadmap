@@ -32,4 +32,4 @@ sudo certbot certonly \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - Validation Challenges](./11-Validation-Challenges-HTTP-01-vs-DNS-01.md) | [README](./README.md) | [13 - Cloudflare Proxy & SSL Modes](./13-Cloudflare-Proxy-Integration-and-SSL-Modes.md) |
+| [← 11 - Validation Challenges HTTP 01 vs DNS 01](./11-Validation-Challenges-HTTP-01-vs-DNS-01.md) | [Index](../../../README.md) | [13 - Cloudflare Proxy Integration and SSL Modes →](./13-Cloudflare-Proxy-Integration-and-SSL-Modes.md) |

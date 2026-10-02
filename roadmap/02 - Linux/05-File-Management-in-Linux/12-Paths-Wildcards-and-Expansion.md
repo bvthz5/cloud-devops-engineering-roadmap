@@ -70,8 +70,9 @@ $ VAR="Linux"
 $ echo "Hello $VAR"
 Hello Linux   # (Variable is expanded!)
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - All Flags Cheat Sheet](./11-All-Flags-Cheat-Sheet.md) | [README](./README.md) | [13 - Permissions and Ownership](./13-Permissions-and-Ownership.md) |
+| [← 11 - All Flags Cheat Sheet](./11-All-Flags-Cheat-Sheet.md) | [Index](../../../README.md) | [13 - Permissions and Ownership →](./13-Permissions-and-Ownership.md) |

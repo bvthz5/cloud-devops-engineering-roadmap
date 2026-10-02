@@ -55,4 +55,4 @@ func (p *MyProvider) Schema(_ context.Context, _ provider.SchemaRequest, resp *p
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Building a Provider](./02-Building-a-Custom-Provider-in-Go.md) |
+| [← Prev Module (11-Terraform-Cloud-and-Enterprise)](../11-Terraform-Cloud-and-Enterprise/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - Building a Custom Provider in Go →](./02-Building-a-Custom-Provider-in-Go.md) |

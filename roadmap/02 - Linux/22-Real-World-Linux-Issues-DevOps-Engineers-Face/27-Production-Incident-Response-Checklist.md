@@ -34,4 +34,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [26 - Scenario MCQs](./26-Scenario-Based-MCQs-and-Diagnostic-Quizzes.md) | [README](./README.md) | [28 - Quick Revision Notes](./28-Quick-Revision-Notes.md) |
+| [← 26 - Scenario Based MCQs and Scenario Quizzes](./26-Scenario-Based-MCQs-and-Scenario-Quizzes.md) | [Index](../../../README.md) | [28 - Quick Revision Notes →](./28-Quick-Revision-Notes.md) |

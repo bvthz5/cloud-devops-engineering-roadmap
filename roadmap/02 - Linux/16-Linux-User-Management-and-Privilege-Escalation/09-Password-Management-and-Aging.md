@@ -87,4 +87,4 @@ sudo passwd -S alice
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [08 - NOPASSWD and Least Privilege](./08-NOPASSWD-and-Least-Privilege.md) | [README](./README.md) | [10 - Service Accounts and nologin](./10-Service-Accounts-and-nologin.md) |
+| [← 08 - NOPASSWD and Least Privilege](./08-NOPASSWD-and-Least-Privilege.md) | [Index](../../../README.md) | [10 - Service Accounts and nologin →](./10-Service-Accounts-and-nologin.md) |

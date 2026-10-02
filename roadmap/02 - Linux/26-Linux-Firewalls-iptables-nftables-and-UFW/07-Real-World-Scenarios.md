@@ -58,4 +58,4 @@ Netfilter creates an entry in `/proc/net/nf_conntrack` for every tracked socket.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - NAT, Port Forwarding & Masquerading](./06-NAT-Port-Forwarding-and-Masquerading.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - NAT Port Forwarding and Masquerading](./06-NAT-Port-Forwarding-and-Masquerading.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

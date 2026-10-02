@@ -102,4 +102,4 @@ ss -s
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - Modern Network Configuration](./02-Modern-Network-Configuration-iproute2.md) | [README](./README.md) | [04 - DNS Resolution Architecture](./04-DNS-Resolution-Architecture-and-systemd-resolved.md) |
+| [← 02 - Modern Network Configuration iproute2](./02-Modern-Network-Configuration-iproute2.md) | [Index](../../../README.md) | [04 - DNS Resolution Architecture and systemd resolved →](./04-DNS-Resolution-Architecture-and-systemd-resolved.md) |

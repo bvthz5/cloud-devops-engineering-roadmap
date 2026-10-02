@@ -47,8 +47,9 @@ ldd /bin/ls
 #   libselinux.so.1 => /lib/x86_64-linux-gnu/libselinux.so.1
 #   libc.so.6 => /lib/x86_64-linux-gnu/libc.so.6 (0x00007f...)
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [04 - Device Drivers](./04-Device-Drivers.md) | [README](./README.md) | [06 - System Utilities and Binaries](./06-System-Utilities-and-Binaries.md) |
+| [← 04 - Device Drivers](./04-Device-Drivers.md) | [Index](../../../README.md) | [06 - System Utilities and Binaries →](./06-System-Utilities-and-Binaries.md) |

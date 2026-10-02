@@ -8,4 +8,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [11 - MCQ](./11-MCQ.md) | [README](./README.md) | [Module 06 - AWS S3](../06-AWS-S3-Storage-Classes-and-Policies/README.md) |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (06-AWS-S3-Storage-Classes-and-Policies) →](../06-AWS-S3-Storage-Classes-and-Policies/01-S3-Architecture-Buckets-Objects-and-Namespaces.md) |

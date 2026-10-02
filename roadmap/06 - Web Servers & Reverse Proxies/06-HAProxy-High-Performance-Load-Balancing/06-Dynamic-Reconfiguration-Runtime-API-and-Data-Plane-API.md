@@ -39,4 +39,4 @@ curl -X POST -u admin:adminpwd \
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Active Health Checks & Failover](./05-Active-Health-Checks-and-Graceful-Failover.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Active Health Checks and Graceful Failover](./05-Active-Health-Checks-and-Graceful-Failover.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

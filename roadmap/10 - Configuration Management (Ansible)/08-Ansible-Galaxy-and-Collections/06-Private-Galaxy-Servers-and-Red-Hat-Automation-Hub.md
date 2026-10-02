@@ -6,4 +6,4 @@ Configuring `ansible.cfg` to download collections from internal Private Automati
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - FQCN Best Practices](./05-Fully-Qualified-Collection-Names-FQCN-Best-Practices.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Fully Qualified Collection Names FQCN Best Practices](./05-Fully-Qualified-Collection-Names-FQCN-Best-Practices.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

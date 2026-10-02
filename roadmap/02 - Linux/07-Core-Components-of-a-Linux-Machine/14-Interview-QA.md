@@ -32,8 +32,9 @@ A Linux machine consists of 6 primary layers:
 **Answer:**
 - **Static Linking:** All library dependencies are compiled directly into the binary executable file. The resulting binary is self-contained and larger in size, but requires no external `.so` libraries on target machines.
 - **Dynamic Linking:** The binary contains reference pointers to shared object libraries (`.so`). At runtime, the dynamic linker (`ld.so`) loads shared libraries into memory. This produces smaller binaries and allows memory sharing across processes, but requires target libraries to exist on the host OS.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [13 - Troubleshooting](./13-Troubleshooting.md) | [README](./README.md) | [15 - Hands On Practice](./15-Hands-On-Practice.md) |
+| [← 13 - Troubleshooting](./13-Troubleshooting.md) | [Index](../../../README.md) | [15 - Hands On Practice →](./15-Hands-On-Practice.md) |

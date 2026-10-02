@@ -22,3 +22,9 @@
 3. **Use VPC Service Controls for strict compliance data perimeters** (healthcare, financial data).
 4. **Enable BigQuery Billing Export immediately** to enable granular cost visualization and FinOps analysis.
 5. **Use Anthos Fleet and ACM for GitOps** across hybrid Kubernetes deployments.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← 11 - MCQ](./11-MCQ.md) | [Index](../../../README.md) | [Next Module (13-Anthos-and-Google-Hybrid-Cloud-Management) →](../13-Anthos-and-Google-Hybrid-Cloud-Management/01-Google-Cloud-Hybrid-and-Multi-Cloud-Strategy.md) |

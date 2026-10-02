@@ -65,3 +65,9 @@ deny[msg] {
 ## 🔗 Related Resources
 - [FinOps Foundation Official Website](https://www.finops.org/)
 - [CNCF OpenCost Project](https://www.opencost.io/)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [← Prev Module (03-Cloud-Cost-Monitoring-AWS-Cost-Explorer-Azure-Cost-Mgmt)](../03-Cloud-Cost-Monitoring-AWS-Cost-Explorer-Azure-Cost-Mgmt/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - OpenCost Architecture and CNCF Cost Standardization →](./02-OpenCost-Architecture-and-CNCF-Cost-Standardization.md) |

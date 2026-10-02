@@ -25,4 +25,4 @@ In busy engineering organizations where 50 PRs merge daily:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [03 - PR & MR Reviews](./03-Pull-Requests-and-Merge-Requests-Review-Excellence.md) | [README](./README.md) | [05 - CODEOWNERS Architecture](./05-CODEOWNERS-Architecture-and-Governance.md) |
+| [← 03 - Pull Requests and Merge Requests Review Excellence](./03-Pull-Requests-and-Merge-Requests-Review-Excellence.md) | [Index](../../../README.md) | [05 - CODEOWNERS Architecture and Governance →](./05-CODEOWNERS-Architecture-and-Governance.md) |

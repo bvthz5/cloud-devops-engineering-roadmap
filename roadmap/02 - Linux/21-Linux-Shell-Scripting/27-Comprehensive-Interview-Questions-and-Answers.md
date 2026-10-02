@@ -52,8 +52,9 @@ To print custom error logs to stderr inside script functions:
 ```bash
 echo "Error message" >&2
 ```
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [26 - Troubleshooting Scenarios](./26-Troubleshooting-Scenarios-and-Common-Pitfalls.md) | [README](./README.md) | [28 - MCQs & Quizzes](./28-MCQs-and-Scenario-Quizzes.md) |
+| [← 26 - Troubleshooting Scenarios and Common Pitfalls](./26-Troubleshooting-Scenarios-and-Common-Pitfalls.md) | [Index](../../../README.md) | [28 - MCQs and Scenario Quizzes →](./28-MCQs-and-Scenario-Quizzes.md) |

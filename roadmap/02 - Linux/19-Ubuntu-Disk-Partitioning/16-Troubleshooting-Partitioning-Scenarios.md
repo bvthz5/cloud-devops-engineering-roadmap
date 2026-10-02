@@ -15,4 +15,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [15 - Hands On Partitioning Lab](./15-Hands-On-Partitioning-Lab.md) | [README](./README.md) | [17 - Interview Questions and Answers](./17-Interview-Questions-and-Answers.md) |
+| [← 15 - Hands On Partitioning Lab](./15-Hands-On-Partitioning-Lab.md) | [Index](../../../README.md) | [17 - Interview Questions and Answers →](./17-Interview-Questions-and-Answers.md) |

@@ -18,4 +18,4 @@ sudo crictl logs <container-id>
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [02 - containerd Architecture & CRI](./02-Containerd-Architecture-and-CRI-Plugin.md) | [README](./README.md) | [04 - Low-Level Runtimes](./04-Low-Level-Runtimes-runc-vs-crun-vs-youki.md) |
+| [← 02 - Containerd Architecture and CRI Plugin](./02-Containerd-Architecture-and-CRI-Plugin.md) | [Index](../../../README.md) | [04 - Low Level Runtimes runc vs crun vs youki →](./04-Low-Level-Runtimes-runc-vs-crun-vs-youki.md) |

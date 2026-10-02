@@ -37,4 +37,4 @@ logger.info("Successfully refreshed IAM tokens", extra={"extra_data": {"account_
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [05 - Config Parsing](./05-Config-Parsing-JSON-YAML-and-TOML.md) | [README](./README.md) | [07 - Real-World Scenarios](./07-Real-World-Scenarios.md) |
+| [← 05 - Config Parsing JSON YAML and TOML](./05-Config-Parsing-JSON-YAML-and-TOML.md) | [Index](../../../README.md) | [07 - Real World Scenarios →](./07-Real-World-Scenarios.md) |

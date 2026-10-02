@@ -16,4 +16,4 @@ Kubelet's **Pod Lifecycle Event Generator (PLEG)** relies on `containerd` to rep
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [06 - Audit & Forensics](./06-Cluster-Auditing-Event-Analysis-and-Forensics.md) | [README](./README.md) | [08 - Troubleshooting](./08-Troubleshooting.md) |
+| [← 06 - Cluster Auditing Event Analysis and Forensics](./06-Cluster-Auditing-Event-Analysis-and-Forensics.md) | [Index](../../../README.md) | [08 - Troubleshooting →](./08-Troubleshooting.md) |

@@ -78,8 +78,9 @@ This strict protection prevents accidental mass data loss.
 $ rmdir -p a/b/c
 ```
 *Note:* To delete a directory along with all its nested files and subfolders, use `rm -rf` (covered in the next module).
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Navigation ls cd pwd](./01-Navigation-ls-cd-pwd.md) | [README](./README.md) | [03 - Delete rm](./03-Delete-rm.md) |
+| [← 01 - Navigation ls cd pwd](./01-Navigation-ls-cd-pwd.md) | [Index](../../../README.md) | [03 - Delete rm →](./03-Delete-rm.md) |

@@ -9,4 +9,4 @@ Amazon Simple Storage Service (S3) is an object storage service offering 99.9999
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - Storage Classes](./02-S3-Storage-Classes-Standard-IA-Glacier-Deep-Archive.md) |
+| [← Prev Module (05-AWS-EC2-Compute-and-Auto-Scaling)](../05-AWS-EC2-Compute-and-Auto-Scaling/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - S3 Storage Classes Standard IA Glacier Deep Archive →](./02-S3-Storage-Classes-Standard-IA-Glacier-Deep-Archive.md) |

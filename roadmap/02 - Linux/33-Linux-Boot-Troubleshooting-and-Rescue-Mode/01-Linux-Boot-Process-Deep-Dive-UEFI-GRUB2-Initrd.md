@@ -38,4 +38,4 @@ The journey from pressing the physical power button (or launching a cloud VM) to
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [README](./README.md) | [README](./README.md) | [02 - GRUB2 Configuration](./02-GRUB2-Configuration-and-Kernel-Parameters.md) |
+| [← Prev Module (32-SSH-Architecture-Key-Management-and-Tunneling)](../32-SSH-Architecture-Key-Management-and-Tunneling/12-Quick-Revision.md) | [Index](../../../README.md) | [02 - GRUB2 Configuration and Kernel Parameters →](./02-GRUB2-Configuration-and-Kernel-Parameters.md) |

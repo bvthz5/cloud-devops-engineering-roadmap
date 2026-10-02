@@ -33,4 +33,4 @@ When two different keys hash to the same bucket index:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [01 - Algorithmic Complexity](./01-Algorithmic-Complexity-and-Big-O-Notation.md) | [README](./README.md) | [03 - Consistent Hashing](./03-Consistent-Hashing-in-Distributed-Systems.md) |
+| [← 01 - Algorithmic Complexity and Big O Notation](./01-Algorithmic-Complexity-and-Big-O-Notation.md) | [Index](../../../README.md) | [03 - Consistent Hashing in Distributed Systems →](./03-Consistent-Hashing-in-Distributed-Systems.md) |
