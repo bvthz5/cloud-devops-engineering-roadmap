@@ -80,13 +80,18 @@ This directory contains comprehensive, deeply structured study guides and produc
 ### 04. 🐙 [04 - Git & Version Control](04%20-%20Git%20&%20Version%20Control/README.md)
 | Topic | Module Path | Status |
 |---|---|---|
-| **01. Git Architecture & Basics** | [`04 - Git & Version Control/01-Git-Architecture-and-Basics/`](04%20-%20Git%20&%20Version%20Control/01-Git-Architecture-and-Basics/README.md) | ⏳ Ready for input |
-| **02. Branching, Merging & Rebasing** | [`04 - Git & Version Control/02-Branching-Merging-and-Rebasing/`](04%20-%20Git%20&%20Version%20Control/02-Branching-Merging-and-Rebasing/README.md) | ⏳ Ready for input |
-| **03. Git Workflows (Trunk vs GitFlow)** | [`04 - Git & Version Control/03-Git-Workflows-Trunk-vs-GitFlow/`](04%20-%20Git%20&%20Version%20Control/03-Git-Workflows-Trunk-vs-GitFlow/README.md) | ⏳ Ready for input |
-| **04. Git Internals & Plumbing** | [`04 - Git & Version Control/04-Git-Internals-and-Plumbing/`](04%20-%20Git%20&%20Version%20Control/04-Git-Internals-and-Plumbing/README.md) | ⏳ Ready for input |
-| **05. GitHub & GitLab Collaboration** | [`04 - Git & Version Control/05-GitHub-and-GitLab-Collaboration/`](04%20-%20Git%20&%20Version%20Control/05-GitHub-and-GitLab-Collaboration/README.md) | ⏳ Ready for input |
-| **06. Git Hooks & Automation** | [`04 - Git & Version Control/06-Git-Hooks-and-Automation/`](04%20-%20Git%20&%20Version%20Control/06-Git-Hooks-and-Automation/README.md) | ⏳ Ready for input |
-| **07. Resolving Conflicts & Troubleshooting** | [`04 - Git & Version Control/07-Resolving-Conflicts-and-Troubleshooting/`](04%20-%20Git%20&%20Version%20Control/07-Resolving-Conflicts-and-Troubleshooting/README.md) | ⏳ Ready for input |
+| **01. Git Architecture & Basics** | [`04 - Git & Version Control/01-Git-Architecture-and-Basics/`](04%20-%20Git%20&%20Version%20Control/01-Git-Architecture-and-Basics/README.md) | ✅ Complete (13 Modules) |
+| **02. Branching, Merging & Rebasing** | [`04 - Git & Version Control/02-Branching-Merging-and-Rebasing/`](04%20-%20Git%20&%20Version%20Control/02-Branching-Merging-and-Rebasing/README.md) | ✅ Complete (13 Modules) |
+| **03. Git Workflows (Trunk vs GitFlow)** | [`04 - Git & Version Control/03-Git-Workflows-Trunk-vs-GitFlow/`](04%20-%20Git%20&%20Version%20Control/03-Git-Workflows-Trunk-vs-GitFlow/README.md) | ✅ Complete (13 Modules) |
+| **04. Git Internals & Plumbing** | [`04 - Git & Version Control/04-Git-Internals-and-Plumbing/`](04%20-%20Git%20&%20Version%20Control/04-Git-Internals-and-Plumbing/README.md) | ✅ Complete (13 Modules) |
+| **05. GitHub & GitLab Collaboration** | [`04 - Git & Version Control/05-GitHub-and-GitLab-Collaboration/`](04%20-%20Git%20&%20Version%20Control/05-GitHub-and-GitLab-Collaboration/README.md) | ✅ Complete (13 Modules) |
+| **06. Git Hooks & Automation** | [`04 - Git & Version Control/06-Git-Hooks-and-Automation/`](04%20-%20Git%20&%20Version%20Control/06-Git-Hooks-and-Automation/README.md) | ✅ Complete (13 Modules) |
+| **07. Resolving Conflicts & Troubleshooting** | [`04 - Git & Version Control/07-Resolving-Conflicts-and-Troubleshooting/`](04%20-%20Git%20&%20Version%20Control/07-Resolving-Conflicts-and-Troubleshooting/README.md) | ✅ Complete (13 Modules) |
+| **08. GitOps & Declarative Infrastructure** | [`04 - Git & Version Control/08-GitOps-and-Declarative-Infrastructure/`](04%20-%20Git%20&%20Version%20Control/08-GitOps-and-Declarative-Infrastructure/README.md) | ✅ Complete (13 Modules) |
+| **09. Monorepos, Submodules & Large Scale Git** | [`04 - Git & Version Control/09-Monorepos-Submodules-and-Large-Scale-Git/`](04%20-%20Git%20&%20Version%20Control/09-Monorepos-Submodules-and-Large-Scale-Git/README.md) | ✅ Complete (13 Modules) |
+| **10. Git Security, Signing & Supply Chain** | [`04 - Git & Version Control/10-Git-Security-Signing-and-Supply-Chain/`](04%20-%20Git%20&%20Version%20Control/10-Git-Security-Signing-and-Supply-Chain/README.md) | ✅ Complete (13 Modules) |
+| **11. Git LFS & Binary Artifacts** | [`04 - Git & Version Control/11-Git-LFS-and-Artifact-Management/`](04%20-%20Git%20&%20Version%20Control/11-Git-LFS-and-Artifact-Management/README.md) | ✅ Complete (13 Modules) |
+
 
 ### 05. 📜 [05 - Programming & Scripting](05%20-%20Programming%20&%20Scripting/README.md)
 | Topic | Module Path | Status |
