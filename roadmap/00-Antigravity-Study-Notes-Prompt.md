@@ -1,6 +1,6 @@
 # Antigravity Study Notes Generation Prompt & Standard Operating Procedure
 
-This document specifies the exact instructions and standards for generating, formatting, and maintaining study modules inside `Study_Notes_System/akumen's/`.
+This document specifies the exact instructions and standards for generating, formatting, and maintaining study modules inside `roadmap/`.
 
 ---
 
@@ -10,7 +10,7 @@ This document specifies the exact instructions and standards for generating, for
 When given a broad or specific topic (e.g. *Docker*, *Linux File Permissions*, *Kubernetes Ingress*, *Git Rebase*, *Terraform State*):
 1. Never provide a superficial high-level summary.
 2. Deconstruct the topic into its full taxonomy, prerequisites, internals, hands-on practice, production failure scenarios, interview Q&A, and quick-revision cheat sheets.
-3. Organize into the standard folder format under `Study_Notes_System/akumen's/<Category>/<Topic-Name>/`.
+3. Organize into the standard folder format under `roadmap/<Category>/<Topic-Name>/`.
 
 ---
 
@@ -19,7 +19,7 @@ When given a broad or specific topic (e.g. *Docker*, *Linux File Permissions*, *
 For each topic, create a folder containing the learning files:
 
 ```text
-Study_Notes_System/akumen's/<Category>/<Topic-Name>/
+roadmap/<Category>/<Topic-Name>/
 ├── README.md                  # High-level overview, mental models, learning goals, and prerequisites
 ├── 01-Basics.md               # Definitions, core concepts, essential terminology, basic commands/syntax
 ├── 02-Deep-Dive.md            # Deep technical details, system calls/protocols, architecture, edge cases
@@ -37,5 +37,5 @@ Study_Notes_System/akumen's/<Category>/<Topic-Name>/
 
 ## 🔄 Automatic Master Index Updates
 Whenever a new module is created:
-1. Register the module under the corresponding category in `Study_Notes_System/akumen's/00-Master-Index.md`.
+1. Register the module under the corresponding category in `roadmap/00-Master-Index.md`.
 2. Provide clickable file links so the user can easily navigate the module.

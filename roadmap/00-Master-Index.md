@@ -1,4 +1,4 @@
-# Akumen's Master Index
+# Cloud & DevOps Roadmap Master Index
 
 > **Workflow:** Understand ➔ See ➔ Practice ➔ Troubleshoot ➔ Interview ➔ Revise
 
@@ -243,7 +243,7 @@ This directory contains comprehensive, deeply structured study guides for Cloud 
 
 ## 📐 Standard Topic Structure
 
-Every topic under `akumen's/` is organized with the standard structure:
+Every topic under `roadmap/` is organized with the standard structure:
 
 ```text
 <Category>/<Topic-Name>/
