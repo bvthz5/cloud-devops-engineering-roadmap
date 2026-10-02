@@ -289,6 +289,11 @@ This directory contains comprehensive, deeply structured study guides and produc
 | **04. Progressive Delivery: Argo Rollouts** | [`16 - GitOps & Progressive Delivery/04-Argo-Rollouts-Progressive-Delivery/`](16%20-%20GitOps%20&%20Progressive%20Delivery/04-Argo-Rollouts-Progressive-Delivery/README.md) | ⏳ Ready for input |
 | **05. Kustomize vs Helm for GitOps** | [`16 - GitOps & Progressive Delivery/05-Kustomize-vs-Helm-for-GitOps/`](16%20-%20GitOps%20&%20Progressive%20Delivery/05-Kustomize-vs-Helm-for-GitOps/README.md) | ⏳ Ready for input |
 | **06. Multi-Cluster & Multi-Environment GitOps** | [`16 - GitOps & Progressive Delivery/06-Multi-Cluster-and-Multi-Environment-GitOps/`](16%20-%20GitOps%20&%20Progressive%20Delivery/06-Multi-Cluster-and-Multi-Environment-GitOps/README.md) | ⏳ Ready for input |
+| **07. Flagger Progressive Delivery & Service Mesh** | [`16 - GitOps & Progressive Delivery/07-Flagger-Progressive-Delivery-and-Service-Mesh/`](16%20-%20GitOps%20&%20Progressive%20Delivery/07-Flagger-Progressive-Delivery-and-Service-Mesh/README.md) | ⏳ Ready for input |
+| **08. GitOps Image Automation & Secrets Management** | [`16 - GitOps & Progressive Delivery/08-GitOps-Image-Automation-and-Secrets-Management/`](16%20-%20GitOps%20&%20Progressive%20Delivery/08-GitOps-Image-Automation-and-Secrets-Management/README.md) | ⏳ Ready for input |
+| **09. GitOps Security, RBAC & Policy Enforcement** | [`16 - GitOps & Progressive Delivery/09-GitOps-Security-RBAC-and-Policy-Enforcement/`](16%20-%20GitOps%20&%20Progressive%20Delivery/09-GitOps-Security-RBAC-and-Policy-Enforcement/README.md) | ⏳ Ready for input |
+| **10. GitOps Observability, Notifications & Auditability** | [`16 - GitOps & Progressive Delivery/10-GitOps-Observability-Notifications-and-Auditability/`](16%20-%20GitOps%20&%20Progressive%20Delivery/10-GitOps-Observability-Notifications-and-Auditability/README.md) | ⏳ Ready for input |
+
 
 ### 17. 📊 [17 - Monitoring, Logging & Observability](17%20-%20Monitoring,%20Logging%20&%20Observability/README.md)
 | Topic | Module Path | Status |
