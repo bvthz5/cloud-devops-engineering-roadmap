@@ -25,6 +25,8 @@ Welcome to the **Cloud & DevOps Engineering Roadmap** — a battle-tested, struc
 
 Whether you are preparing for senior engineering interviews, architecting cloud-native platforms, or automating day-2 operations, this repository provides **in-depth theory, production-grade configuration files, incident post-mortems, and rapid revision cheat sheets**.
 
+> ⚡ **Quick-Revision Short Notes (Kids-Mind Style):** In a rush or preparing for interviews? Check out our dedicated [📓 DevOps & Cloud Short Notes Hub](my-notes/00-Index.md) featuring 14 easy-to-understand, 1-line definition study guides covering Linux, Windows, Networking, Docker, K8s, AWS & Azure types, Web Servers, Observability, DevSecOps, and SRE/GitOps!
+
 ---
 
 ## 🎯 What’s in the Notes? (The Standard Module Architecture)

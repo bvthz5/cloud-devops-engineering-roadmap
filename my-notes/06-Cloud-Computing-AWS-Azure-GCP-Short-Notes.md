@@ -41,6 +41,8 @@
 
 ---
 
+> 💡 **Dedicated Cloud Architecture Deep Dives:** For comprehensive, dedicated breakdowns of all EC2/EBS/S3/ELB types and Azure VM/Disks/Blob/Networking types, explore [Guide 09: AWS Types Deep Dive](./09-AWS-Services-and-Types-Deep-Dive-Short-Notes.md) and [Guide 10: Azure Types Deep Dive](./10-Azure-Services-and-Types-Deep-Dive-Short-Notes.md).
+
 ## 💻 3. Compute Services: Virtual Machines & Serverless
 
 ### Virtual Machines (AWS EC2 / Azure VM / GCP Compute Engine)
