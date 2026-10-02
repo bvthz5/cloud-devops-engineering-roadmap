@@ -14,4 +14,8 @@
 - [09-Azure-DevOps-Boards-Pipelines-and-Artifacts](09-Azure-DevOps-Boards-Pipelines-and-Artifacts/README.md)
 - [10-Azure-Monitor-Log-Analytics-and-Application-Insights](10-Azure-Monitor-Log-Analytics-and-Application-Insights/README.md)
 - [11-Azure-Bicep-and-ARM-Templates](11-Azure-Bicep-and-ARM-Templates/README.md)
+- [12-Azure-Security-Key-Vault-Policies-and-Defender-for-Cloud](12-Azure-Security-Key-Vault-Policies-and-Defender-for-Cloud/README.md)
+- [13-Azure-Hybrid-Cloud-and-Azure-Arc](13-Azure-Hybrid-Cloud-and-Azure-Arc/README.md)
+- [14-Azure-Cost-Management-FinOps-and-Well-Architected](14-Azure-Cost-Management-FinOps-and-Well-Architected/README.md)
+
 

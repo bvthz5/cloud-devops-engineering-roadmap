@@ -222,6 +222,10 @@ This directory contains comprehensive, deeply structured study guides and produc
 | **09. Azure DevOps: Boards, Repos & Pipelines** | [`12 - Cloud Computing - Azure/09-Azure-DevOps-Boards-Pipelines-and-Artifacts/`](12%20-%20Cloud%20Computing%20-%20Azure/09-Azure-DevOps-Boards-Pipelines-and-Artifacts/README.md) | ⏳ Ready for input |
 | **10. Azure Monitor, Log Analytics & App Insights** | [`12 - Cloud Computing - Azure/10-Azure-Monitor-Log-Analytics-and-Application-Insights/`](12%20-%20Cloud%20Computing%20-%20Azure/10-Azure-Monitor-Log-Analytics-and-Application-Insights/README.md) | ⏳ Ready for input |
 | **11. Azure Bicep & ARM Templates** | [`12 - Cloud Computing - Azure/11-Azure-Bicep-and-ARM-Templates/`](12%20-%20Cloud%20Computing%20-%20Azure/11-Azure-Bicep-and-ARM-Templates/README.md) | ⏳ Ready for input |
+| **12. Azure Security, Key Vault, Policies & Defender for Cloud** | [`12 - Cloud Computing - Azure/12-Azure-Security-Key-Vault-Policies-and-Defender-for-Cloud/`](12%20-%20Cloud%20Computing%20-%20Azure/12-Azure-Security-Key-Vault-Policies-and-Defender-for-Cloud/README.md) | ⏳ Ready for input |
+| **13. Azure Hybrid Cloud & Azure Arc** | [`12 - Cloud Computing - Azure/13-Azure-Hybrid-Cloud-and-Azure-Arc/`](12%20-%20Cloud%20Computing%20-%20Azure/13-Azure-Hybrid-Cloud-and-Azure-Arc/README.md) | ⏳ Ready for input |
+| **14. Azure Cost Management, FinOps & Well-Architected** | [`12 - Cloud Computing - Azure/14-Azure-Cost-Management-FinOps-and-Well-Architected/`](12%20-%20Cloud%20Computing%20-%20Azure/14-Azure-Cost-Management-FinOps-and-Well-Architected/README.md) | ⏳ Ready for input |
+
 
 ### 13. 🌈 [13 - Cloud Computing - Google Cloud (GCP)](13%20-%20Cloud%20Computing%20-%20Google%20Cloud%20(GCP)/README.md)
 | Topic | Module Path | Status |
