@@ -1,0 +1,8 @@
+# 09 - Interview Questions & Answers
+
+Top technical interview questions for SLO, SLI, Error Budgets, and SRE Observability.
+
+1. Explain the architecture of SLO, SLI, Error Budgets, and SRE Observability.
+2. How do you address high memory consumption in production?
+3. Compare SLO, SLI, Error Budgets, and SRE Observability with alternative industry solutions.
+4. Describe an edge-case failure and your resolution strategy.
