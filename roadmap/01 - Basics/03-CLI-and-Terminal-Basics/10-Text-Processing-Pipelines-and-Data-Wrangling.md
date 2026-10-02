@@ -150,3 +150,9 @@ Output:
       8 LISTEN
       2 CLOSE-WAIT
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Help Systems and Introspection Tools](./09-Help-Systems-and-Introspection-Tools.md) | [README](./README.md) | [11 - Shell Scripting Foundations and Defensive Bash](./11-Shell-Scripting-Foundations-and-Defensive-Bash.md) |

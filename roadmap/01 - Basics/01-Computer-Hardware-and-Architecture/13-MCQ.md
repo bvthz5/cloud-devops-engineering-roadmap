@@ -181,3 +181,9 @@ Test your mastery of Computer Hardware and Architecture. Each question contains 
 **Correct Answer: C**  
 **Explanation:** Standard page size is 4 KB. Managing 256 GB of memory requires 67 million page entries, causing frequent TLB misses. Using 2 MB Huge Pages reduces the number of entries by a factor of 512, keeping the active address mappings inside the high-speed hardware TLB cache.
 </details>
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Hands On Practice](./12-Hands-On-Practice.md) | [README](./README.md) | [14 - Quick Revision](./14-Quick-Revision.md) |

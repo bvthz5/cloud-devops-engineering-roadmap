@@ -181,3 +181,9 @@ Test your mastery of Command-Line Interfaces, Bash mechanics, stream redirection
 **Correct Answer: C**  
 **Explanation:** Written in Rust, `ripgrep` utilizes work-stealing multi-threading across all CPU cores, leverages SIMD CPU instructions for pattern scanning, and parses `.gitignore` rules to avoid wasting time scanning massive dependency directories.
 </details>
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [16 - Hands On Practice](./16-Hands-On-Practice.md) | [README](./README.md) | [18 - Quick Revision](./18-Quick-Revision.md) |

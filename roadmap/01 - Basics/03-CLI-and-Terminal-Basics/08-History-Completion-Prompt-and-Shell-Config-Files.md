@@ -121,3 +121,9 @@ if [ -f ~/.bashrc ]; then
     . ~/.bashrc
 fi
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Command Chaining Exit Codes and Job Control](./07-Command-Chaining-Exit-Codes-and-Job-Control.md) | [README](./README.md) | [09 - Help Systems and Introspection Tools](./09-Help-Systems-and-Introspection-Tools.md) |

@@ -109,3 +109,9 @@ DevOps engineers must use tools like Docker Buildx and QEMU to cross-compile con
 docker buildx build --platform linux/amd64,linux/arm64 -t myrepo/app:v1.0.0 --push .
 ```
 This produces an **OCI Image Index (Manifest List)** that enables Docker/Kubernetes to automatically pull the binary matching the host node's physical CPU architecture!
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Computer Architecture and CPU Fundamentals](./01-Computer-Architecture-and-CPU-Fundamentals.md) | [README](./README.md) | [03 - CPU Cache Hierarchy and Memory Subsystems](./03-CPU-Cache-Hierarchy-and-Memory-Subsystems.md) |

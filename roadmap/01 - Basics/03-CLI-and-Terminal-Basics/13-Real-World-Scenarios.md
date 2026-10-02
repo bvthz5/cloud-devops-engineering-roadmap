@@ -141,3 +141,9 @@ Because double quotes (`"..."`) were used for the SSH command string, the **loca
    ```bash
    ssh user@server 'bash -s' < deploy_script.sh
    ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Modern CLI Replacements and Productivity Tools](./12-Modern-CLI-Replacements-and-Productivity-Tools.md) | [README](./README.md) | [14 - Troubleshooting](./14-Troubleshooting.md) |

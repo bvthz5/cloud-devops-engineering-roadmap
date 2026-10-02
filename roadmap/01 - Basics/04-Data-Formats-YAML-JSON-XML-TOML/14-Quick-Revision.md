@@ -97,3 +97,9 @@ host = "localhost"
 | **Scan Repo for Secrets** | `gitleaks detect --verbose` |
 | **Detect UTF-8 BOM** | `head -c 5 file.yaml \| xxd -p` (look for `efbbbf`) |
 | **Remove UTF-8 BOM** | `sed -i '1s/^\xEF\xBB\xBF//' file.yaml` |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - MCQ](./13-MCQ.md) | [README](./README.md) | - |

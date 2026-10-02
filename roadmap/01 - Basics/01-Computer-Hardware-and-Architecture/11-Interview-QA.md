@@ -154,3 +154,9 @@ When the OS scheduler halts Process A to run Process B:
 | **Latency** | ~50 – 100 microseconds | ~8 – 20 microseconds |
 
 - **Conclusion:** SATA AHCI creates a massive software locking bottleneck on multi-core servers because all cores serialize through a single 32-command queue. NVMe provides lockless, multi-queue parallelism directly mapped to multi-core CPUs over the high-speed PCIe bus.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Troubleshooting](./10-Troubleshooting.md) | [README](./README.md) | [12 - Hands On Practice](./12-Hands-On-Practice.md) |

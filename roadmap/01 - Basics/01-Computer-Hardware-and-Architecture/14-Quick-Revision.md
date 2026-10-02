@@ -135,3 +135,9 @@ Virtual Address (App)
 | **CPU Steal & Hypervisor Contention**| `mpstat -P ALL 1` |
 | **NUMA Topology & Memory Locality** | `numactl --hardware` |
 | **Hardware Virtualization Check** | `egrep -c '(vmx\|svm)' /proc/cpuinfo` |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - MCQ](./13-MCQ.md) | [README](./README.md) | - |

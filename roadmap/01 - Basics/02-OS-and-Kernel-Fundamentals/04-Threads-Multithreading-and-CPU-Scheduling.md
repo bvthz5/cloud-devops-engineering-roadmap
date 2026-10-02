@@ -167,3 +167,9 @@ sudo taskset -cp 2 3120
 - Keep active thread counts aligned with physical core counts for CPU-bound tasks.
 - Avoid oversubscribing threads (e.g., 200 threads on a 2-core VM); this drives high involuntary context switches (`nvcswch/s`), spending valuable CPU cycles switching tasks rather than doing actual work.
 - Use CPU pinning (`taskset` or Kubernetes `CPU Manager static policy`) for latency-critical database engines and network proxies.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - Process Lifecycle fork exec States and Zombies](./03-Process-Lifecycle-fork-exec-States-and-Zombies.md) | [README](./README.md) | [05 - OS Memory Management Paging Swap and mmap](./05-OS-Memory-Management-Paging-Swap-and-mmap.md) |

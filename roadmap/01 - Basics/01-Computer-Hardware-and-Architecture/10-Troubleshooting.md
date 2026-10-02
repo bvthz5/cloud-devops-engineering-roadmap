@@ -234,3 +234,9 @@ sensors
 | **IRQ Core Saturation**| `/proc/interrupts` | Single core handling all NIC IRQs | Start `irqbalance`, tune RSS queues with `ethtool` |
 | **Virtualization Error**| `egrep '(vmx\|svm)'`| Output `0` | Enable VT-x/SVM in BIOS or enable nested virt |
 | **Thermal Throttling**| `sensors` / `lscpu` | Clock speed dropped below base GHz | Check cooling, replace thermal interface, re-seat fans |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Real World Scenarios](./09-Real-World-Scenarios.md) | [README](./README.md) | [11 - Interview QA](./11-Interview-QA.md) |

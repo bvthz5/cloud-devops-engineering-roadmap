@@ -156,3 +156,9 @@ dos2unix script.sh
 | **`$'\r'` Syntax Error** | `file` / `cat -v` | `cat -v <file>` | Windows CRLF line endings |
 | **Hanging script** | `strace` | `sudo strace -p <PID>` | Process blocked on `read(0)` or pipe lock |
 | **Unset variable error** | `set -u` | Inspect script line | Referenced variable not defined |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - Real World Scenarios](./13-Real-World-Scenarios.md) | [README](./README.md) | [15 - Interview QA](./15-Interview-QA.md) |

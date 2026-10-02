@@ -143,3 +143,9 @@ Making a system call is significantly more expensive than an in-memory function 
 3. **Branch Prediction Penalty:** Meltdown/Spectre security mitigations (KPTI - Kernel Page Table Isolation) add memory barrier instructions on every kernel entry/exit.
 
 > **Cloud Performance Rule:** High-performance systems (like Nginx, Redis, and Envoy) minimize syscall overhead by using **batching** (e.g., `readv`, `writev`), **memory-mapped files** (`mmap`), and modern asynchronous ring buffers (**`io_uring`**).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - OS Architecture Kernel Types and Dual Mode](./01-OS-Architecture-Kernel-Types-and-Dual-Mode.md) | [README](./README.md) | [03 - Process Lifecycle fork exec States and Zombies](./03-Process-Lifecycle-fork-exec-States-and-Zombies.md) |

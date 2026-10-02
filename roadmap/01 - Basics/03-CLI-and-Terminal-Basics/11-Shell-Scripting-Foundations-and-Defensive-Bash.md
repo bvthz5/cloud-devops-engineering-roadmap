@@ -177,3 +177,9 @@ log_info "Uploading to s3://${S3_BUCKET}/ ..."
 
 log_info "Operation completed successfully!"
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Text Processing Pipelines and Data Wrangling](./10-Text-Processing-Pipelines-and-Data-Wrangling.md) | [README](./README.md) | [12 - Modern CLI Replacements and Productivity Tools](./12-Modern-CLI-Replacements-and-Productivity-Tools.md) |

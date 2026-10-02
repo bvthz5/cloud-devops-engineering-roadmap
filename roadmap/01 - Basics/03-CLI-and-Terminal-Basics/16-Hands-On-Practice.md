@@ -205,3 +205,9 @@ Clean up lab directory:
 ```bash
 rm -rf /tmp/cli_lab
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - Interview QA](./15-Interview-QA.md) | [README](./README.md) | [17 - MCQ](./17-MCQ.md) |

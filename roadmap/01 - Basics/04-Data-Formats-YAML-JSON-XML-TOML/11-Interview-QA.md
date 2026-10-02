@@ -101,3 +101,9 @@ Douglas Crockford (the creator of JSON) intentionally omitted comments from the 
 **Answer:**
 - **Syntax Validation:** Verifies that a document adheres to the basic grammar of the serialization language (e.g., "Are the quotes balanced?", "Are there illegal tabs in YAML?", "Are commas placed correctly in JSON?"). Tools: `jq empty`, `yamllint`.
 - **Schema Validation:** Verifies that a syntactically valid document conforms to specific structural constraints, required fields, and data types expected by an application domain (e.g., "Does this Kubernetes Deployment contain a `spec.template.spec.containers` array?", "Is the port an integer between 1 and 65535?"). Tools: `JSON Schema`, `XSD`, `kubeconform`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Troubleshooting](./10-Troubleshooting.md) | [README](./README.md) | [12 - Hands On Practice](./12-Hands-On-Practice.md) |

@@ -145,3 +145,9 @@ Below is the complete, structured index of all **90 fundamental topics** plus **
 - [`16-Hands-On-Practice.md`](./16-Hands-On-Practice.md)
 - [`17-MCQ.md`](./17-MCQ.md)
 - [`18-Quick-Revision.md`](./18-Quick-Revision.md)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| - | You are here | [01 - OS Architecture Kernel Types and Dual Mode](./01-OS-Architecture-Kernel-Types-and-Dual-Mode.md) |

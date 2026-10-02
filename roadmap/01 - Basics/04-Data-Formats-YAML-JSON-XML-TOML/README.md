@@ -130,3 +130,9 @@ Below is the complete syllabus mapping all **90 fundamental topics** plus **mode
 - [`12-Hands-On-Practice.md`](./12-Hands-On-Practice.md)
 - [`13-MCQ.md`](./13-MCQ.md)
 - [`14-Quick-Revision.md`](./14-Quick-Revision.md)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| - | You are here | [01 - Structured Data Serialization and Representations](./01-Structured-Data-Serialization-and-Representations.md) |

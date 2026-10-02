@@ -104,3 +104,9 @@ DMA is specialized hardware inside peripherals (or chipset controllers) that per
 2. The CPU is freed to execute unrelated application threads.
 3. The DMA controller transfers the data across the system bus.
 4. Upon completion, the DMA controller raises a single hardware interrupt to notify the CPU that the transfer is complete.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - Storage Technologies and IO Subsystems](./05-Storage-Technologies-and-IO-Subsystems.md) | [README](./README.md) | [07 - Firmware BIOS UEFI and Boot Process](./07-Firmware-BIOS-UEFI-and-Boot-Process.md) |

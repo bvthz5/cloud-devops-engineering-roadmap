@@ -204,3 +204,9 @@ Every machine instruction executed by your server passes through five fundamenta
 3. **Execute:** The ALU computes the arithmetic result or checks conditional flags.
 4. **Memory Access (MEM):** If the instruction reads or writes RAM (`mov [rax], rbx`), data passes through the load/store unit.
 5. **Writeback (WB):** The final computational result is committed back into the target destination register.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - ISA x86 ARM RISCV and Microarchitecture](./02-ISA-x86-ARM-RISCV-and-Microarchitecture.md) |

@@ -105,3 +105,9 @@ IFS=$'\n\t'
 | **`fzf`** | `Ctrl+R` | `vim $(fzf)` / `kill -9 $(ps -ef \| fzf \| awk '{print $2}')` |
 | **`jq`** | `awk` (JSON) | `kubectl get pods -o json \| jq -r '.items[].metadata.name'` |
 | **`yq`** | Python (YAML)| `yq -i '.spec.replicas = 3' deployment.yaml` |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [17 - MCQ](./17-MCQ.md) | [README](./README.md) | - |

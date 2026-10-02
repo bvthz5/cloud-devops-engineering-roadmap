@@ -139,3 +139,9 @@ User Space Process                               Linux Kernel
 
 ### Performance Impact
 `io_uring` can achieve millions of IOPS per core, delivering up to **3x the throughput of epoll** with dramatically lower CPU utilization. It is rapidly being adopted in high-performance engines like Node.js, Tokio (Rust), and Netty (Java).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Kernel Parameters Sysctl and Kernel Logs](./11-Kernel-Parameters-Sysctl-and-Kernel-Logs.md) | [README](./README.md) | [13 - Real World Scenarios](./13-Real-World-Scenarios.md) |

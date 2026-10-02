@@ -176,3 +176,9 @@ Host Physical Memory: 64 GB
 ```
 
 In the next modern kernel file, we will explore the revolution of **cgroups v2** and **eBPF** in depth.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Environment Variables Daemons and Device Drivers](./08-Environment-Variables-Daemons-and-Device-Drivers.md) | [README](./README.md) | [10 - Init Systems systemd and Boot Sequence](./10-Init-Systems-systemd-and-Boot-Sequence.md) |

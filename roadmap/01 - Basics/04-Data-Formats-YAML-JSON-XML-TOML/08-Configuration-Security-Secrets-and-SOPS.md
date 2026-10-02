@@ -144,3 +144,9 @@ spec:
 - ❌ **Base64 is NOT Encryption:** Kubernetes `Secret` data is only base64-encoded. Anyone who can read the YAML can decode it in 1 second (`echo "..." | base64 -d`).
 - ❌ **Never Commit `.env` Files:** Add `.env` and `*.key` to `.gitignore` by default.
 - ❌ **Never Pass Secrets as Docker Build Args:** `ARG SECRET=xyz` is permanently baked into the intermediate image layers viewable with `docker history`. Use **BuildKit Secrets Mounts** (`--mount=type=secret`) instead.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Config Management Environments and Templating](./07-Config-Management-Environments-and-Templating.md) | [README](./README.md) | [09 - Real World Scenarios](./09-Real-World-Scenarios.md) |

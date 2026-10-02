@@ -110,3 +110,9 @@ A condensed, high-yield reference guide summarizing Operating System and Kernel 
 | **Per-Process CPU & Memory Profiling** | `pidstat -u -r 1` |
 | **Check Inode Utilization on Filesystem** | `df -ih` |
 | **Service Status & Real-time Logs** | `systemctl status <svc>` / `journalctl -u <svc> -f` |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [17 - MCQ](./17-MCQ.md) | [README](./README.md) | - |

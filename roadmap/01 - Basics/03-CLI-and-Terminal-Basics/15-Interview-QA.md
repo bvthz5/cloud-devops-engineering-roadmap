@@ -114,3 +114,9 @@ By default, Bash scripts continue executing even if commands fail or undefined v
 1. **Multi-Threaded Parallelism:** `rg` and `fd` utilize Rust's crossbeam work-stealing parallelism to scan directory trees across all CPU cores simultaneously.
 2. **Respects VCS Ignore Rules:** Both tools automatically read `.gitignore`, `.ignore`, and hidden file rules by default, skipping massive directories like `node_modules`, `.git`, and build caches that choke classic `grep -r`.
 3. **Optimized Regex Engines:** `ripgrep` uses SIMD hardware acceleration (AVX-512 / NEON) to search for substring patterns across memory-mapped files at wire speed.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Troubleshooting](./14-Troubleshooting.md) | [README](./README.md) | [16 - Hands On Practice](./16-Hands-On-Practice.md) |

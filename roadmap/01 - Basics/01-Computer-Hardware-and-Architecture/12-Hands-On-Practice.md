@@ -194,3 +194,9 @@ virt-host-validate
 ### Pass Criteria
 - `/dev/kvm` must exist with permissions `crw-rw---- 1 root kvm`.
 - `virt-host-validate` should report `PASS` for `QEMU: Checking for hardware virtualization`.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Interview QA](./11-Interview-QA.md) | [README](./README.md) | [13 - MCQ](./13-MCQ.md) |

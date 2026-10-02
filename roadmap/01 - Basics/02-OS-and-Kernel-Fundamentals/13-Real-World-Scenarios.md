@@ -140,3 +140,9 @@ sudo sysctl -w vm.overcommit_memory=1
 echo "vm.overcommit_memory = 1" | sudo tee -a /etc/sysctl.d/99-redis.conf
 ```
 Redis can now `fork()` instantaneously without waiting for memory verification.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Modern Kernel Tech cgroups v2 eBPF and seccomp](./12-Modern-Kernel-Tech-cgroups-v2-eBPF-and-seccomp.md) | [README](./README.md) | [14 - Troubleshooting](./14-Troubleshooting.md) |

@@ -106,3 +106,9 @@ The shell provides a built-in **Job Control** subsystem to suspend, resume, and 
 | **`fg %1`** | Brings job number 1 back into the active foreground. |
 | **`bg %1`** | Resumes suspended job number 1 running in the background. |
 | **`disown -h %1`**| Removes job 1 from the shell's tracking table so it will not receive `SIGHUP` when you close the terminal. |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Streams Redirection Pipes and FDs](./06-Streams-Redirection-Pipes-and-FDs.md) | [README](./README.md) | [08 - History Completion Prompt and Shell Config Files](./08-History-Completion-Prompt-and-Shell-Config-Files.md) |

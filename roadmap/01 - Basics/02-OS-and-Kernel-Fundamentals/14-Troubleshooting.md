@@ -161,3 +161,9 @@ echo -1000 | sudo tee /proc/$(pgrep -o sshd)/oom_score_adj
 | **Zombie Accumulation** | `ps` | `ps aux \| grep 'Z'` | Parent failing to call `wait()` |
 | **File Descriptor Leak**| `lsof` | `lsof -p <PID> \| wc -l` | Rapidly growing open FD count |
 | **OOM Termination** | `dmesg` | `dmesg -T \| grep -i oom` | Memory footprint and killed PID |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [13 - Real World Scenarios](./13-Real-World-Scenarios.md) | [README](./README.md) | [15 - Interview QA](./15-Interview-QA.md) |

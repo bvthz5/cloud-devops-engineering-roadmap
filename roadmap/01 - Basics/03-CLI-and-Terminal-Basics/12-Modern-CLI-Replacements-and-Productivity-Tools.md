@@ -131,3 +131,9 @@ yq -i '.spec.template.spec.containers[0].image = "my-app:v2.1.0"' deployment.yam
 # 3. Convert YAML to JSON seamlessly
 yq -o=json deployment.yaml
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [11 - Shell Scripting Foundations and Defensive Bash](./11-Shell-Scripting-Foundations-and-Defensive-Bash.md) | [README](./README.md) | [13 - Real World Scenarios](./13-Real-World-Scenarios.md) |

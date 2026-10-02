@@ -94,3 +94,9 @@ IMPERATIVE (Procedural "HOW")                DECLARATIVE (Target State "WHAT")
 ```
 
 In the next sections, we will explore the four dominant data formats used to express declarative configurations: **JSON, YAML, XML, and TOML**.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - JSON Deep Dive Syntax Schema and Parsing](./02-JSON-Deep-Dive-Syntax-Schema-and-Parsing.md) |

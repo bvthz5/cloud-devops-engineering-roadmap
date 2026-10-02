@@ -126,3 +126,9 @@ A rigorous compilation of technical interview questions testing operating system
   - Introduces **Pressure Stall Information (PSI)** to detect resource saturation before crashes happen.
   - Introduces **`memory.high`** for soft memory throttling (reclaim memory gracefully) alongside **`memory.max`** (hard OOM kill ceiling).
   - Modern Kubernetes (v1.25+) relies on cgroups v2 for accurate container resource accounting and memory QoS.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [14 - Troubleshooting](./14-Troubleshooting.md) | [README](./README.md) | [16 - Hands On Practice](./16-Hands-On-Practice.md) |

@@ -117,3 +117,9 @@ port = 5432
   (Human authoring,     (Low overhead, wire       (containerd, cargo,   (XSD validation,
    comments, manifests)  speed, REST standard)     flat config files)    identity federation)
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - TOML Deep Dive Syntax Tables and Typing](./05-TOML-Deep-Dive-Syntax-Tables-and-Typing.md) | [README](./README.md) | [07 - Config Management Environments and Templating](./07-Config-Management-Environments-and-Templating.md) |

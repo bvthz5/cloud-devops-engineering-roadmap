@@ -123,3 +123,9 @@ python3 -c "import tomllib; tomllib.load(open('config.toml', 'rb'))" && echo "Va
 | **Trailing comma in JSON** | `jq empty` | Delete comma from final element |
 | **Unquoted string evaluates as boolean**| `yq` | Wrap string in single quotes (`'NO'`) |
 | **XML tag mismatch** | `xmllint` | Ensure closing tags match case exactly |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [09 - Real World Scenarios](./09-Real-World-Scenarios.md) | [README](./README.md) | [11 - Interview QA](./11-Interview-QA.md) |

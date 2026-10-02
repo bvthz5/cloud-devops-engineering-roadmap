@@ -115,3 +115,9 @@ When processing XML in application code, two primary parser architectures exist:
 | **Speed** | Slower for massive files | Extremely fast |
 | **Navigation** | Random access (XPath, parent, siblings) | Sequential only (read once forward) |
 | **Best For** | Small config files, modifying XML | Multi-gigabyte XML data dumps |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - YAML Deep Dive Syntax Anchors and Gotchas](./03-YAML-Deep-Dive-Syntax-Anchors-and-Gotchas.md) | [README](./README.md) | [05 - TOML Deep Dive Syntax Tables and Typing](./05-TOML-Deep-Dive-Syntax-Tables-and-Typing.md) |

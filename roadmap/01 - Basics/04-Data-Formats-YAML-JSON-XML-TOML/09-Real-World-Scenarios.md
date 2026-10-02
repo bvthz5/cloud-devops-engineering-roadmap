@@ -136,3 +136,9 @@ The engineer commits the file to a public GitHub repository. Within 4 minutes, a
    gitleaks protect --staged
    ```
 3. **Adopt Mozilla SOPS or External Secrets Operator:** Raw credentials must never touch Git in plaintext or base64.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Configuration Security Secrets and SOPS](./08-Configuration-Security-Secrets-and-SOPS.md) | [README](./README.md) | [10 - Troubleshooting](./10-Troubleshooting.md) |

@@ -194,3 +194,9 @@ nvme1n1  0.00 3000.00      0.00 125000.00   45.20  82.10 100.00
 | **CPU Steal (%st)** | `mpstat 1`, `top` | Latency drops, timeout errors | Switch from burstable (`t3`) to dedicated (`c6i/c7g`) |
 | **EBS IOPS Ceiling** | `iostat -xz 1` (`%util=100`) | Bulk indexing rejection, DB locks | Provision higher gp3 IOPS or switch to NVMe |
 | **TLB Miss Thrashing** | `perf stat -e dTLB-load-misses` | CPU cycles wasted in page table walks | Enable Transparent Huge Pages (THP) / HugeTLB |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - Virtualization Hypervisors and Containers](./08-Virtualization-Hypervisors-and-Containers.md) | [README](./README.md) | [10 - Troubleshooting](./10-Troubleshooting.md) |

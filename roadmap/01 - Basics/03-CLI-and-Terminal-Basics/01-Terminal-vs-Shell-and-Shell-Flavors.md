@@ -132,3 +132,9 @@ Shell ────┤
     Get-Process -Name nginx | Select-Object -Property Id, CPU
     ```
     Filtering, sorting, and formatting operate on concrete fields rather than regex string manipulation.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [README (Index)](./README.md) | [README](./README.md) | [02 - Command Syntax Paths and Directory Navigation](./02-Command-Syntax-Paths-and-Directory-Navigation.md) |

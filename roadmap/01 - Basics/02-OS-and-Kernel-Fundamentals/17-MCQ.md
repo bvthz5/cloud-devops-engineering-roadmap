@@ -181,3 +181,9 @@ Test your understanding of Operating System and Kernel Fundamentals. Each questi
 **Correct Answer: C**  
 **Explanation:** Setting `net.ipv4.ip_forward = 1` instructs the Linux kernel to route incoming packets destined for other IP addresses across its network interfaces, which is essential for container bridge networking and Kubernetes pod-to-pod routing.
 </details>
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [16 - Hands On Practice](./16-Hands-On-Practice.md) | [README](./README.md) | [18 - Quick Revision](./18-Quick-Revision.md) |

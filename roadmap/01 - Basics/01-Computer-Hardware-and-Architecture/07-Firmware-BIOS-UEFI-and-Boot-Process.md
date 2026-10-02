@@ -67,3 +67,9 @@ Understanding the physical boot sequence is vital for bare-metal cloud provision
   - Features modular filesystem drivers capable of reading ext4, XFS, Btrfs, and ZFS.
   - Presents the interactive boot menu, allows editing kernel command-line parameters (`nomodeset`, `single`, `systemd.unit=rescue.target`), and locates `initramfs`.
 - **Windows Boot Manager (`bootmgr` / `winload.efi`):** The Microsoft Windows equivalent, reading the Boot Configuration Data (BCD) store to start the Windows NT kernel (`ntoskrnl.exe`).
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Motherboard Buses and Peripherals](./06-Motherboard-Buses-and-Peripherals.md) | [README](./README.md) | [08 - Virtualization Hypervisors and Containers](./08-Virtualization-Hypervisors-and-Containers.md) |

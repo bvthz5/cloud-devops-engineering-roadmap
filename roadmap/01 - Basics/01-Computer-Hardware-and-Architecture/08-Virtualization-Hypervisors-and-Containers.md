@@ -68,3 +68,9 @@ Bare-Metal Server                  Virtual Machine (VM)               Container 
 | **Disk & Memory Footprint** | Gigabytes to Terabytes | Gigabytes (contains full OS binaries) | Megabytes (only application + dependencies) |
 | **Resource Efficiency** | Low (if underutilized) | Moderate (resource reservation overhead) | **Extremely High (Native OS process efficiency)** |
 | **DevOps Paradigm** | High-performance DBs, GPU rigs | Cloud Infrastructure Units (EC2, Droplets) | Microservices, CI/CD, Kubernetes Pods |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Firmware BIOS UEFI and Boot Process](./07-Firmware-BIOS-UEFI-and-Boot-Process.md) | [README](./README.md) | [09 - Real World Scenarios](./09-Real-World-Scenarios.md) |

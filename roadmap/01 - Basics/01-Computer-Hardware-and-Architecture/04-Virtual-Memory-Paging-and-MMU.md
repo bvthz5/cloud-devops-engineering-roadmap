@@ -105,3 +105,9 @@ Every page table entry stores hardware permission control flags enforced directl
 - **Readable (R) / Writable (W):** Prevents read-only memory (e.g., application code `.text` segment or string literals) from being overwritten.
 - **User / Supervisor (U/S):** Prevents unprivileged user space applications (Ring 3) from accessing kernel data structures (Ring 0). Attempted violations trigger immediate hardware trap: **Segmentation Fault (`SIGSEGV`)**.
 - **NX Bit (No-Execute / XD / DEP):** Marks data areas (such as the Call Stack and Heap) as strictly non-executable. If malicious input attempts to inject shellcode into a buffer on the stack, the CPU refuses to execute it, blocking buffer overflow exploits.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - CPU Cache Hierarchy and Memory Subsystems](./03-CPU-Cache-Hierarchy-and-Memory-Subsystems.md) | [README](./README.md) | [05 - Storage Technologies and IO Subsystems](./05-Storage-Technologies-and-IO-Subsystems.md) |

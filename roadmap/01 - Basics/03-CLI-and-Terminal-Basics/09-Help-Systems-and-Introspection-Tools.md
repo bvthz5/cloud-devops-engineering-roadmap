@@ -88,3 +88,9 @@ help export
 | "What command helps me manage network routing?" | `apropos` | `apropos "routing table"` |
 | "What are all the CLI flags supported by this tool?" | `--help` | `kubectl apply --help` |
 | "How is this configuration file structured?" | `man 5` | `man 5 crontab` |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [08 - History Completion Prompt and Shell Config Files](./08-History-Completion-Prompt-and-Shell-Config-Files.md) | [README](./README.md) | [10 - Text Processing Pipelines and Data Wrangling](./10-Text-Processing-Pipelines-and-Data-Wrangling.md) |

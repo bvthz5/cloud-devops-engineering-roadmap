@@ -147,3 +147,9 @@ sudo rmmod my_driver
 
 ### DKMS (Dynamic Kernel Module Support)
 When the Linux kernel is upgraded via `apt` or `dnf`, proprietary out-of-tree modules (such as Nvidia GPU drivers or ZFS storage modules) must be recompiled for the new kernel version. **DKMS** automatically recompiles and installs these kernel modules during the system update process.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [07 - Signals and Inter Process Communication IPC](./07-Signals-and-Inter-Process-Communication-IPC.md) | [README](./README.md) | [09 - Kernel Networking Sockets and Security](./09-Kernel-Networking-Sockets-and-Security.md) |

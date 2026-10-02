@@ -181,3 +181,9 @@ Test your mastery of Data Formats, Serialization, Declarative Configurations, an
 **Correct Answer: C**  
 **Explanation:** GitLeaks is an automated security scanner that uses regular expressions and entropy checks to identify hardcoded passwords, private keys, and cloud credentials in Git repositories and pre-commit hooks.
 </details>
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [12 - Hands On Practice](./12-Hands-On-Practice.md) | [README](./README.md) | [14 - Quick Revision](./14-Quick-Revision.md) |

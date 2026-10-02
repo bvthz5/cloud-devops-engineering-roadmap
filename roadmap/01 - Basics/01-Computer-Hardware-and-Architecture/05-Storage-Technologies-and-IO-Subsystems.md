@@ -84,3 +84,9 @@ $$\text{Throughput (Bytes/sec)} = \text{IOPS} \times \text{I/O Block Size (Bytes
 1. **IOPS (Input/Output Operations Per Second):** Number of distinct read or write transactions executed per second. Critical for transactional databases (OLTP: PostgreSQL, MongoDB, etcd in Kubernetes).
 2. **Throughput (MB/s):** The raw volume of data transferred per second. Critical for batch streaming, backups, log dumps, and video encoding (OLAP).
 3. **I/O Latency:** The round-trip time required for an I/O request to be completed by the storage device. High latency causes CPU threads to enter the uninterruptible sleep state (`D` state in Linux), generating high **`iowait`** CPU load.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [04 - Virtual Memory Paging and MMU](./04-Virtual-Memory-Paging-and-MMU.md) | [README](./README.md) | [06 - Motherboard Buses and Peripherals](./06-Motherboard-Buses-and-Peripherals.md) |

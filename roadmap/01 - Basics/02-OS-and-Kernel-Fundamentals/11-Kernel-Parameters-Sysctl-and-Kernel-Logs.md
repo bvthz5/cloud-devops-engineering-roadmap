@@ -143,3 +143,9 @@ Kernel log entries use syslog priority levels (from `0` emergency to `7` debug):
 - `5 (notice)`: Normal but significant condition.
 - `6 (info)`: Informational messages (device detections).
 - `7 (debug)`: Debug-level messages.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [10 - Init Systems systemd and Boot Sequence](./10-Init-Systems-systemd-and-Boot-Sequence.md) | [README](./README.md) | [12 - Modern Kernel Tech cgroups v2 eBPF and seccomp](./12-Modern-Kernel-Tech-cgroups-v2-eBPF-and-seccomp.md) |

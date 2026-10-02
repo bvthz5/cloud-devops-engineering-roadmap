@@ -174,3 +174,9 @@ Pipes stream data directly to the next command without writing to disk. **`tee`*
 # Write to root-owned file while preserving terminal view:
 echo "deb https://download.docker.com/linux/ubuntu ..." | sudo tee /etc/apt/sources.list.d/docker.list
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [05 - Wildcards Globbing and Quoting Mechanics](./05-Wildcards-Globbing-and-Quoting-Mechanics.md) | [README](./README.md) | [07 - Command Chaining Exit Codes and Job Control](./07-Command-Chaining-Exit-Codes-and-Job-Control.md) |

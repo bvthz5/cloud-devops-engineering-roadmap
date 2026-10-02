@@ -117,3 +117,9 @@ Processes possess isolated address spaces. When two processes need to exchange d
 - **Mutex (Mutual Exclusion):** A binary lock ensuring that only one thread/process can access a shared resource at a given time.
 - **Counting Semaphore:** An integer counter used to control access to a finite pool of shared resources (e.g., limiting concurrent database connections to 50).
 - **Deadlock:** Occurs when Process 1 holds Lock A and waits for Lock B, while Process 2 holds Lock B and waits for Lock A. Both freeze indefinitely.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Filesystem Architecture Inodes and File Descriptors](./06-Filesystem-Architecture-Inodes-and-File-Descriptors.md) | [README](./README.md) | [08 - Environment Variables Daemons and Device Drivers](./08-Environment-Variables-Daemons-and-Device-Drivers.md) |

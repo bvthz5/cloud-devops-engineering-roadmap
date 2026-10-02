@@ -235,3 +235,9 @@ sudo systemctl disable heartbeat.service
 sudo rm /etc/systemd/system/heartbeat.service
 sudo systemctl daemon-reload
 ```
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [15 - Interview QA](./15-Interview-QA.md) | [README](./README.md) | [17 - MCQ](./17-MCQ.md) |

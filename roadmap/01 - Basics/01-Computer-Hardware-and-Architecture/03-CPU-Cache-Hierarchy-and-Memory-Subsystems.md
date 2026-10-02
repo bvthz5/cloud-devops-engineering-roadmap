@@ -113,3 +113,9 @@ In modern multi-socket enterprise servers (e.g., dual Intel Xeon or AMD EPYC ser
 - **Local Access:** A CPU core accessing RAM attached directly to its own socket experiences lowest latency (~60 ns).
 - **Remote Access:** A CPU core accessing RAM attached to the opposite socket must traverse the inter-socket interconnect (Intel UPI / AMD Infinity Fabric), suffering **2x to 3x higher latency**.
 - **DevOps Impact:** High-performance database pods (PostgreSQL, Redis) and Kubernetes worker nodes should use **NUMA pinning (Topology Manager)** to lock containers to specific NUMA nodes, avoiding remote memory penalties.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - ISA x86 ARM RISCV and Microarchitecture](./02-ISA-x86-ARM-RISCV-and-Microarchitecture.md) | [README](./README.md) | [04 - Virtual Memory Paging and MMU](./04-Virtual-Memory-Paging-and-MMU.md) |

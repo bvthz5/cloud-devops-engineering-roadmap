@@ -146,3 +146,9 @@ Below is the complete syllabus mapping all **90 fundamental topics** plus **mode
 - [`16-Hands-On-Practice.md`](./16-Hands-On-Practice.md)
 - [`17-MCQ.md`](./17-MCQ.md)
 - [`18-Quick-Revision.md`](./18-Quick-Revision.md)
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| - | You are here | [01 - Terminal vs Shell and Shell Flavors](./01-Terminal-vs-Shell-and-Shell-Flavors.md) |

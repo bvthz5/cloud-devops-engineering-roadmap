@@ -146,3 +146,9 @@ The shell scans each command token for wildcard characters (`*`, `?`, `[...]`) a
 ls -l /var/log/*.log
 ```
 > **Order of Operations:** The shell performs Filename Expansion **BEFORE** the command is executed. The command itself (`ls`) never sees the literal asterisk `*`—it receives the already expanded list of file strings!
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [03 - PATH Command Resolution Builtins and Aliases](./03-PATH-Command-Resolution-Builtins-and-Aliases.md) | [README](./README.md) | [05 - Wildcards Globbing and Quoting Mechanics](./05-Wildcards-Globbing-and-Quoting-Mechanics.md) |

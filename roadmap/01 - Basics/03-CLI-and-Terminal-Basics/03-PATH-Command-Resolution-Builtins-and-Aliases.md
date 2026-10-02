@@ -169,3 +169,9 @@ unalias k
 ```
 
 > **Scripting Gotcha:** By default, **aliases are completely disabled inside non-interactive shell scripts** (`shopt -s expand_aliases` must be enabled manually). In automated scripts, always use **functions** or raw binary paths instead of aliases.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [02 - Command Syntax Paths and Directory Navigation](./02-Command-Syntax-Paths-and-Directory-Navigation.md) | [README](./README.md) | [04 - Variables Environment and Shell Expansions](./04-Variables-Environment-and-Shell-Expansions.md) |

@@ -153,3 +153,9 @@ ajv validate -s schema.json -d data.json
 - [ ] **Zero Secrets in Git:** Plaintext passwords, tokens, and private keys are never committed.
 - [ ] **Schema Validation in CI/CD:** Every pull request runs automated schema validation (`yamllint`, `kubeconform`).
 - [ ] **Immutable Infrastructure:** Containers and VMs are not modified in-place; configuration changes trigger new rolling deployments.
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [06 - Comparison Matrices JSON YAML XML TOML](./06-Comparison-Matrices-JSON-YAML-XML-TOML.md) | [README](./README.md) | [08 - Configuration Security Secrets and SOPS](./08-Configuration-Security-Secrets-and-SOPS.md) |

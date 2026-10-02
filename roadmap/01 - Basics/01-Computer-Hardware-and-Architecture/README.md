@@ -44,3 +44,9 @@ PC     IR     SP                Caches DRAM Virtual               SSD   DMA    M
 | [`12-Hands-On-Practice.md`](12-Hands-On-Practice.md) | Practical Labs | 10 CLI Labs inspecting CPU, memory, disks, PCIe, and virtualization flags. |
 | [`13-MCQ.md`](13-MCQ.md) | Self-Assessment | 15+ Diagnostic MCQs with complete answer keys and rationales. |
 | [`14-Quick-Revision.md`](14-Quick-Revision.md) | Fast Recall Sheet | One-page cheat sheet, latency numbers, and architecture comparison tables. |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| - | You are here | [01 - Computer Architecture and CPU Fundamentals](./01-Computer-Architecture-and-CPU-Fundamentals.md) |
