@@ -1,0 +1,7 @@
+# 03 - Installation and Setup
+
+Production-ready deployment steps for DAST & IAST: Dynamic & Interactive Security Testing with OWASP ZAP.
+
+- Package managers (Helm, APT, Binary)
+- Manifests and Infrastructure configuration
+- Verification commands and validation checks
