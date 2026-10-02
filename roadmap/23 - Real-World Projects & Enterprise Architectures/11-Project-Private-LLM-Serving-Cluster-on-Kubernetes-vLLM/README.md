@@ -1,9 +1,18 @@
-# Project Private LLM Serving Cluster on Kubernetes vLLM
+# Project 11: Private LLM Serving Cluster on Kubernetes (vLLM & Ray)
 
-> End-to-end production implementation guide for Project Private LLM Serving Cluster on Kubernetes vLLM.
+Deploying open-source LLMs (Llama 3 / Mistral) on Kubernetes using vLLM, Ray on K8s (KubeRay), NVIDIA GPU Operator, horizontal GPU autoscaling, and Langfuse tracing.
 
-## 🎯 Project Goals
-- Architecture design and requirements
-- Infrastructure provisioning and automated CI/CD
-- Observability, security scanning, and disaster recovery
+## Module Contents
 
+- [01 Core Concepts](01-Core-Concepts.md)
+- [02 Architecture and Design](02-Architecture-and-Design.md)
+- [03 Installation and Setup](03-Installation-and-Setup.md)
+- [04 Configuration and Rules](04-Configuration-and-Rules.md)
+- [05 Advanced Techniques](05-Advanced-Techniques.md)
+- [06 Security and Compliance](06-Security-and-Compliance.md)
+- [07 Real World Scenarios](07-Real-World-Scenarios.md)
+- [08 Troubleshooting](08-Troubleshooting.md)
+- [09 Interview QA](09-Interview-QA.md)
+- [10 Hands-On Practice](10-Hands-On-Practice.md)
+- [11 MCQ](11-MCQ.md)
+- [12 Quick Revision](12-Quick-Revision.md)
