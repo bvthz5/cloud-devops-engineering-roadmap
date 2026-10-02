@@ -344,13 +344,16 @@ This directory contains comprehensive, deeply structured study guides and produc
 ### 20. ⏱️ [20 - SRE & Reliability Engineering](20%20-%20SRE%20&%20Reliability%20Engineering/README.md)
 | Topic | Module Path | Status |
 |---|---|---|
-| **01. SRE Principles: DevOps vs SRE** | [`20 - SRE & Reliability Engineering/01-SRE-Principles-and-DevOps-vs-SRE/`](20%20-%20SRE%20&%20Reliability%20Engineering/01-SRE-Principles-and-DevOps-vs-SRE/README.md) | ⏳ Ready for input |
-| **02. SLI, SLO & SLA Measurement** | [`20 - SRE & Reliability Engineering/02-SLI-SLO-and-SLA-Definition-and-Measurement/`](20%20-%20SRE%20&%20Reliability%20Engineering/02-SLI-SLO-and-SLA-Definition-and-Measurement/README.md) | ⏳ Ready for input |
-| **03. Error Budgets & Burn Rates** | [`20 - SRE & Reliability Engineering/03-Error-Budgets-and-Burn-Rates/`](20%20-%20SRE%20&%20Reliability%20Engineering/03-Error-Budgets-and-Burn-Rates/README.md) | ⏳ Ready for input |
-| **04. Incident Management & On-Call** | [`20 - SRE & Reliability Engineering/04-Incident-Management-On-Call-and-Paging/`](20%20-%20SRE%20&%20Reliability%20Engineering/04-Incident-Management-On-Call-and-Paging/README.md) | ⏳ Ready for input |
-| **05. Blameless Post-Mortems & RCA** | [`20 - SRE & Reliability Engineering/05-Blameless-Post-Mortems-and-RCA/`](20%20-%20SRE%20&%20Reliability%20Engineering/05-Blameless-Post-Mortems-and-RCA/README.md) | ⏳ Ready for input |
-| **06. Chaos Engineering: Chaos Mesh & Litmus** | [`20 - SRE & Reliability Engineering/06-Chaos-Engineering-Principles-and-Tools/`](20%20-%20SRE%20&%20Reliability%20Engineering/06-Chaos-Engineering-Principles-and-Tools/README.md) | ⏳ Ready for input |
-| **07. Capacity Planning & Scalability** | [`20 - SRE & Reliability Engineering/07-Capacity-Planning-and-Performance-Tuning/`](20%20-%20SRE%20&%20Reliability%20Engineering/07-Capacity-Planning-and-Performance-Tuning/README.md) | ⏳ Ready for input |
+| **01. SRE Principles: DevOps vs SRE** | [`20 - SRE & Reliability Engineering/01-SRE-Principles-and-DevOps-vs-SRE/`](20%20-%20SRE%20&%20Reliability%20Engineering/01-SRE-Principles-and-DevOps-vs-SRE/README.md) | ✅ Complete (13 Modules) |
+| **02. SLI, SLO & SLA Measurement** | [`20 - SRE & Reliability Engineering/02-SLI-SLO-and-SLA-Definition-and-Measurement/`](20%20-%20SRE%20&%20Reliability%20Engineering/02-SLI-SLO-and-SLA-Definition-and-Measurement/README.md) | ✅ Complete (13 Modules) |
+| **03. Error Budgets & Burn Rates** | [`20 - SRE & Reliability Engineering/03-Error-Budgets-and-Burn-Rates/`](20%20-%20SRE%20&%20Reliability%20Engineering/03-Error-Budgets-and-Burn-Rates/README.md) | ✅ Complete (13 Modules) |
+| **04. Incident Management & On-Call** | [`20 - SRE & Reliability Engineering/04-Incident-Management-On-Call-and-Paging/`](20%20-%20SRE%20&%20Reliability%20Engineering/04-Incident-Management-On-Call-and-Paging/README.md) | ✅ Complete (13 Modules) |
+| **05. Blameless Post-Mortems & RCA** | [`20 - SRE & Reliability Engineering/05-Blameless-Post-Mortems-and-RCA/`](20%20-%20SRE%20&%20Reliability%20Engineering/05-Blameless-Post-Mortems-and-RCA/README.md) | ✅ Complete (13 Modules) |
+| **06. Chaos Engineering: Chaos Mesh & Litmus** | [`20 - SRE & Reliability Engineering/06-Chaos-Engineering-Principles-and-Tools/`](20%20-%20SRE%20&%20Reliability%20Engineering/06-Chaos-Engineering-Principles-and-Tools/README.md) | ✅ Complete (13 Modules) |
+| **07. Capacity Planning & Scalability** | [`20 - SRE & Reliability Engineering/07-Capacity-Planning-and-Performance-Tuning/`](20%20-%20SRE%20&%20Reliability%20Engineering/07-Capacity-Planning-and-Performance-Tuning/README.md) | ✅ Complete (13 Modules) |
+| **08. Toil Reduction & Automation Engineering** | [`20 - SRE & Reliability Engineering/08-Toil-Reduction-and-Automation-Engineering/`](20%20-%20SRE%20&%20Reliability%20Engineering/08-Toil-Reduction-and-Automation-Engineering/README.md) | ✅ Complete (13 Modules) |
+| **09. Disaster Recovery (RTO, RPO & HA Design)** | [`20 - SRE & Reliability Engineering/09-Disaster-Recovery-RTO-RPO-and-High-Availability-Design/`](20%20-%20SRE%20&%20Reliability%20Engineering/09-Disaster-Recovery-RTO-RPO-and-High-Availability-Design/README.md) | ✅ Complete (13 Modules) |
+| **10. Observability-Driven Development & Alerting Hygiene** | [`20 - SRE & Reliability Engineering/10-Observability-Driven-Development-and-Alerting-Hygiene/`](20%20-%20SRE%20&%20Reliability%20Engineering/10-Observability-Driven-Development-and-Alerting-Hygiene/README.md) | ✅ Complete (13 Modules) |
 
 ### 21. 🗄️ [21 - Database Reliability Engineering (DBRE)](21%20-%20Database%20Reliability%20Engineering%20(DBRE)/README.md)
 | Topic | Module Path | Status |
