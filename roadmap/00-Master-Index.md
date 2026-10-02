@@ -11,10 +11,11 @@ This directory contains comprehensive, deeply structured study guides and produc
 ### 01. 💻 [01 - Basics](01%20-%20Basics/README.md)
 | Topic | Module Path | Status |
 |---|---|---|
-| **01. Computer Hardware & Architecture** | [`01 - Basics/01-Computer-Hardware-and-Architecture/`](01%20-%20Basics/01-Computer-Hardware-and-Architecture/README.md) | ⏳ Ready for input |
-| **02. OS & Kernel Fundamentals** | [`01 - Basics/02-OS-and-Kernel-Fundamentals/`](01%20-%20Basics/02-OS-and-Kernel-Fundamentals/README.md) | ⏳ Ready for input |
-| **03. CLI & Terminal Basics** | [`01 - Basics/03-CLI-and-Terminal-Basics/`](01%20-%20Basics/03-CLI-and-Terminal-Basics/README.md) | ⏳ Ready for input |
-| **04. Data Formats (YAML, JSON, XML, TOML)** | [`01 - Basics/04-Data-Formats-YAML-JSON-XML-TOML/`](01%20-%20Basics/04-Data-Formats-YAML-JSON-XML-TOML/README.md) | ⏳ Ready for input |
+| **01. Computer Hardware & Architecture** | [`01 - Basics/01-Computer-Hardware-and-Architecture/`](01%20-%20Basics/01-Computer-Hardware-and-Architecture/README.md) | ✅ Complete |
+| **02. OS & Kernel Fundamentals** | [`01 - Basics/02-OS-and-Kernel-Fundamentals/`](01%20-%20Basics/02-OS-and-Kernel-Fundamentals/README.md) | ✅ Complete |
+| **03. CLI & Terminal Basics** | [`01 - Basics/03-CLI-and-Terminal-Basics/`](01%20-%20Basics/03-CLI-and-Terminal-Basics/README.md) | ✅ Complete |
+| **04. Data Formats (YAML, JSON, XML, TOML)** | [`01 - Basics/04-Data-Formats-YAML-JSON-XML-TOML/`](01%20-%20Basics/04-Data-Formats-YAML-JSON-XML-TOML/README.md) | ✅ Complete |
+| **05. Foundational Exercises & Troubleshooting** | [`01 - Basics/05-Foundational-Exercises-and-Troubleshooting/`](01%20-%20Basics/05-Foundational-Exercises-and-Troubleshooting/README.md) | ✅ Complete |
 
 ### 02. 🐧 [02 - Linux](02%20-%20Linux/README.md)
 | Topic | Module Path | Status |
