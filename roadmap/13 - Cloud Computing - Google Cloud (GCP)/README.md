@@ -14,4 +14,8 @@
 - [09-Google-Cloud-Build-and-Artifact-Registry](09-Google-Cloud-Build-and-Artifact-Registry/README.md)
 - [10-Google-Cloud-Operations-Cloud-Monitoring-and-Logging](10-Google-Cloud-Operations-Cloud-Monitoring-and-Logging/README.md)
 - [11-GCP-Security-Cloud-Armor-KMS-and-Security-Command-Center](11-GCP-Security-Cloud-Armor-KMS-and-Security-Command-Center/README.md)
+- [12-GCP-Infrastructure-as-Code-Deployment-Manager-and-Config-Connector](12-GCP-Infrastructure-as-Code-Deployment-Manager-and-Config-Connector/README.md)
+- [13-Anthos-and-Google-Hybrid-Cloud-Management](13-Anthos-and-Google-Hybrid-Cloud-Management/README.md)
+- [14-GCP-Cost-Management-FinOps-and-Architecture-Framework](14-GCP-Cost-Management-FinOps-and-Architecture-Framework/README.md)
+
 

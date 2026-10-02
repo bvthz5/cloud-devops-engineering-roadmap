@@ -241,6 +241,10 @@ This directory contains comprehensive, deeply structured study guides and produc
 | **09. Cloud Build & Artifact Registry** | [`13 - Cloud Computing - Google Cloud (GCP)/09-Google-Cloud-Build-and-Artifact-Registry/`](13%20-%20Cloud%20Computing%20-%20Google%20Cloud%20(GCP)/09-Google-Cloud-Build-and-Artifact-Registry/README.md) | ⏳ Ready for input |
 | **10. Cloud Operations (Cloud Monitoring & Logging)** | [`13 - Cloud Computing - Google Cloud (GCP)/10-Google-Cloud-Operations-Cloud-Monitoring-and-Logging/`](13%20-%20Cloud%20Computing%20-%20Google%20Cloud%20(GCP)/10-Google-Cloud-Operations-Cloud-Monitoring-and-Logging/README.md) | ⏳ Ready for input |
 | **11. GCP Security: Cloud Armor, KMS & SCC** | [`13 - Cloud Computing - Google Cloud (GCP)/11-GCP-Security-Cloud-Armor-KMS-and-Security-Command-Center/`](13%20-%20Cloud%20Computing%20-%20Google%20Cloud%20(GCP)/11-GCP-Security-Cloud-Armor-KMS-and-Security-Command-Center/README.md) | ⏳ Ready for input |
+| **12. GCP Infrastructure as Code (Deployment Manager & Config Connector)** | [`13 - Cloud Computing - Google Cloud (GCP)/12-GCP-Infrastructure-as-Code-Deployment-Manager-and-Config-Connector/`](13%20-%20Cloud%20Computing%20-%20Google%20Cloud%20(GCP)/12-GCP-Infrastructure-as-Code-Deployment-Manager-and-Config-Connector/README.md) | ⏳ Ready for input |
+| **13. Anthos & Google Hybrid Cloud Management** | [`13 - Cloud Computing - Google Cloud (GCP)/13-Anthos-and-Google-Hybrid-Cloud-Management/`](13%20-%20Cloud%20Computing%20-%20Google%20Cloud%20(GCP)/13-Anthos-and-Google-Hybrid-Cloud-Management/README.md) | ⏳ Ready for input |
+| **14. GCP Cost Management, FinOps & Architecture Framework** | [`13 - Cloud Computing - Google Cloud (GCP)/14-GCP-Cost-Management-FinOps-and-Architecture-Framework/`](13%20-%20Cloud%20Computing%20-%20Google%20Cloud%20(GCP)/14-GCP-Cost-Management-FinOps-and-Architecture-Framework/README.md) | ⏳ Ready for input |
+
 
 ### 14. 💰 [14 - Multi-Cloud & FinOps](14%20-%20Multi-Cloud%20&%20FinOps/README.md)
 | Topic | Module Path | Status |
