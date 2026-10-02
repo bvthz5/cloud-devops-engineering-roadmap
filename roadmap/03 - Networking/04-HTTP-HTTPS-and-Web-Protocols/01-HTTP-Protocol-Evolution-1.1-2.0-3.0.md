@@ -20,6 +20,7 @@ Head-of-Line Blocking at App  Multiplexing over 1 TCP Conn  Zero Head-of-Line Bl
 | Feature | HTTP/1.1 | HTTP/2 | HTTP/3 |
 | :--- | :--- | :--- | :--- |
 | **Transport Protocol**| TCP | TCP | **QUIC (UDP)** |
+| **Default Port** | **Port 80** (HTTP) / **Port 443** (HTTPS - TCP) | **Port 443** (TCP / TLS) | **Port 443 (UDP / QUIC)** |
 | **Data Format** | Plaintext ASCII | Binary Frames | Binary Frames |
 | **Multiplexing** | No (Requires 6 parallel TCP conns)| Yes (Interleaves streams in 1 TCP conn)| Yes (Independent streams over QUIC) |
 | **Head-of-Line (HoL)**| HoL blocking at HTTP level | Eliminated at HTTP; **Still blocks at TCP!**| **Completely eliminated!** |
