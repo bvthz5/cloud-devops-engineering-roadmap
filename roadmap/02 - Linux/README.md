@@ -31,3 +31,19 @@
 | **21** | Linux Shell Scripting | [21-Linux-Shell-Scripting/](21-Linux-Shell-Scripting/README.md) | ✅ Complete |
 | **22** | Real-World Linux Issues DevOps Face | [22-Real-World-Linux-Issues-DevOps-Engineers-Face/](22-Real-World-Linux-Issues-DevOps-Engineers-Face/README.md) | ✅ Complete |
 | **23** | Free SSL Certificate (Certbot) | [23-Free-SSL-Certificate-Lets-Encrypt-Certbot/](23-Free-SSL-Certificate-Lets-Encrypt-Certbot/README.md) | ✅ Complete |
+| **24** | Package Management (APT, YUM, DNF, APK, Source) | [24-Linux-Package-Management-APT-YUM-DNF-APK-and-Source/](24-Linux-Package-Management-APT-YUM-DNF-APK-and-Source/README.md) | ✅ Complete |
+| **25** | Linux Networking & DNS Troubleshooting | [25-Linux-Networking-and-DNS-Troubleshooting/](25-Linux-Networking-and-DNS-Troubleshooting/README.md) | ✅ Complete |
+| **26** | Linux Firewalls (iptables, nftables, UFW, firewalld) | [26-Linux-Firewalls-iptables-nftables-and-UFW/](26-Linux-Firewalls-iptables-nftables-and-UFW/README.md) | ✅ Complete |
+| **27** | systemd Service Management & Journald | [27-systemd-Service-Management-and-Journald/](27-systemd-Service-Management-and-Journald/README.md) | ✅ Complete |
+| **28** | Advanced Storage, LVM, RAID & Filesystems | [28-Advanced-Storage-LVM-RAID-and-Filesystems/](28-Advanced-Storage-LVM-RAID-and-Filesystems/README.md) | ✅ Complete |
+| **29** | Performance Tuning & Observability | [29-Linux-Performance-Tuning-and-Observability/](29-Linux-Performance-Tuning-and-Observability/README.md) | ✅ Complete |
+| **30** | Log Management (Logrotate, rsyslog, auditd) | [30-Linux-Log-Management-Logrotate-and-Rsyslog/](30-Linux-Log-Management-Logrotate-and-Rsyslog/README.md) | ✅ Complete |
+| **31** | Backup, Archiving & rsync | [31-Linux-Backup-Archiving-and-rsync/](31-Linux-Backup-Archiving-and-rsync/README.md) | ✅ Complete |
+| **32** | SSH Architecture, Key Management & Tunneling | [32-SSH-Architecture-Key-Management-and-Tunneling/](32-SSH-Architecture-Key-Management-and-Tunneling/README.md) | ✅ Complete |
+| **33** | Boot Troubleshooting, GRUB & Rescue Mode | [33-Linux-Boot-Troubleshooting-and-Rescue-Mode/](33-Linux-Boot-Troubleshooting-and-Rescue-Mode/README.md) | ✅ Complete |
+
+---
+
+| Previous | Index | Next |
+| :--- | :---: | ---: |
+| [01 - Basics Roadmap](../01%20-%20Basics/README.md) | [Roadmap Root](../../README.md) | [03 - Networking & Protocols](../03%20-%20Networking/README.md) |
