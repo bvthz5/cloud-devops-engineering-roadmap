@@ -80,25 +80,72 @@ A **Port Number** is a 16-bit unsigned integer ($0 \text{ to } 65535$) identifyi
 
 ---
 
-### 🗄️ Relational & NoSQL Database Ports
+---
 
-| Port | Protocol | Database System | Typical Architecture Role |
+### 🗄️ Relational, NoSQL & Distributed Database Ports
+
+#### 🐬 MySQL & MariaDB Ecosystem Ports (Exhaustive)
+| Port | Protocol | Component / Service | Architecture Function |
 | :---: | :---: | :--- | :--- |
-| **1433** | TCP | **Microsoft SQL Server (MSSQL)** | Default relational database listener |
-| **1521** | TCP | **Oracle Database** | Oracle Net listener port |
-| **3306** | TCP | **MySQL / MariaDB** | Default relational database listener |
-| **5432** | TCP | **PostgreSQL** | Default relational database listener |
-| **6379** | TCP | **Redis** | In-memory key-value cache and pub/sub datastore |
-| **6432** | TCP | **PgBouncer** | PostgreSQL lightweight connection pooler |
-| **7000 / 7001** | TCP | **Cassandra Inter-Node** | Unencrypted (7000) and TLS (7001) storage cluster communication |
-| **8086** | TCP | **InfluxDB** | Time-series database HTTP API |
-| **9000** | TCP | **ClickHouse / MinIO** | ClickHouse TCP native protocol / MinIO S3 object storage API |
-| **9042** | TCP | **Apache Cassandra** | Native CQL (Cassandra Query Language) binary client port |
-| **9200** | TCP | **Elasticsearch / OpenSearch** | RESTful HTTP search and indexing API |
-| **9300** | TCP | **Elasticsearch Cluster** | Internal node-to-node transport and cluster communication |
-| **27017** | TCP | **MongoDB** | Primary mongod daemon listener |
-| **27018** | TCP | **MongoDB Shard** | Shard server daemon (mongos routing / shard instances) |
-| **27019** | TCP | **MongoDB Config** | Config server replica set listener |
+| **3306** | TCP | **MySQL Classic SQL Protocol** | Default relational SQL connection port used by applications, ORMs, and `mysql` CLI. |
+| **33060** | TCP | **MySQL X Protocol** | X DevAPI, MySQL Document Store (NoSQL JSON collections), and asynchronous pipeline queries. |
+| **33061** | TCP | **MySQL Group Replication (MGR)** | Communication and Paxos consensus between members of an InnoDB Cluster / MGR group. |
+| **33062** | TCP | **MySQL Administrative Network Interface** | Dedicated `admin_port` for DBAs to connect when `max_connections` is exhausted on 3306! |
+| **6032** | TCP | **ProxySQL Admin Interface** | Administrative interface used to configure connection pools, query rules, and users. |
+| **6033** | TCP | **ProxySQL Client Traffic** | High-performance client proxy port providing read/write splitting and connection multiplexing. |
+| **4567** | TCP / UDP | **Galera Cluster Replication** | wsrep replication traffic, group communication, and multicast/unicast replication. |
+| **4568** | TCP | **Galera IST (Incremental State Transfer)** | Fast incremental cache transfer to rejoin a temporarily disconnected node. |
+| **4444** | TCP | **Galera SST (State Snapshot Transfer)** | Full binary snapshot sync (via `mariabackup` or `rsync`) when a new node joins the cluster. |
+| **1186** | TCP | **MySQL NDB Management Server** | `ndb_mgmd` cluster management daemon communication port. |
+| **2202** | TCP | **MySQL NDB Data Node** | Internal communication between NDB storage engine data nodes. |
+| **15306** | TCP | **Vitess VTGate (MySQL Protocol)** | Distributed sharded MySQL query routing gateway emulating native MySQL protocol. |
+| **15000** | TCP | **Vitess VTGate / VTTablet HTTP** | Health check, status dashboard, and administrative HTTP inspection interface. |
+
+#### 🐘 PostgreSQL & Distributed SQL Ports
+| Port | Protocol | Component / Service | Architecture Function |
+| :---: | :---: | :--- | :--- |
+| **5432** | TCP | **PostgreSQL Client Protocol** | Standard relational database port used by `psql` and client connection pools. |
+| **5433** | TCP | **PostgreSQL Secondary / Citus** | Alternative port for parallel instances or Citus distributed coordinator nodes. |
+| **6432** | TCP | **PgBouncer Connection Pooler** | Lightweight session, transaction, and statement connection pooler for Postgres. |
+| **8008** | TCP | **Patroni REST API** | High-availability leader elections, DCS failover heartbeats, and health probe checks. |
+| **8432** | TCP | **Odyssey Connection Pooler** | Scalable multi-threaded connection pooler developed for high-concurrency Postgres. |
+| **26257** | TCP | **CockroachDB SQL & Gossip** | Unified SQL client protocol and inter-node Raft consensus port. |
+| **5433** | TCP | **YugabyteDB YSQL** | PostgreSQL-compatible distributed SQL client interface. |
+| **9042** | TCP | **YugabyteDB YCQL** | Cassandra-compatible distributed NoSQL client interface. |
+
+#### ⚡ Redis, In-Memory Caches & Key-Value Stores
+| Port | Protocol | Component / Service | Architecture Function |
+| :---: | :---: | :--- | :--- |
+| **6379** | TCP | **Redis Server** | Default client connection port for in-memory caching and data structures. |
+| **16379** | TCP | **Redis Cluster Bus** | Node-to-node cluster communication: gossip protocol, failover, and slot migration (`port + 10000`). |
+| **26379** | TCP | **Redis Sentinel** | High-availability monitoring, health checks, and automated master failover arbitration. |
+| **11211** | TCP / UDP | **Memcached** | High-performance distributed memory object caching system. |
+
+#### 🍃 MongoDB Ecosystem Ports
+| Port | Protocol | Component / Service | Architecture Function |
+| :---: | :---: | :--- | :--- |
+| **27017** | TCP | **MongoDB mongod / mongos** | Standard client connection port for MongoDB databases and sharding routers. |
+| **27018** | TCP | **MongoDB Shard Instance** | Default listener when running `mongod` as a designated cluster shard member. |
+| **27019** | TCP | **MongoDB Config Server** | Metadata and chunk distribution storage for sharded cluster configurations. |
+| **28017** | TCP | **MongoDB Legacy HTTP** | Deprecated web-based diagnostic status console. |
+
+#### 📊 Columnar, Time-Series & Search Engine Ports
+| Port | Protocol | Component / Service | Architecture Function |
+| :---: | :---: | :--- | :--- |
+| **1433** | TCP | **Microsoft SQL Server (MSSQL)** | Default relational database listener for Windows/Linux SQL Server. |
+| **1521** | TCP | **Oracle Database Listener** | Traditional enterprise Oracle SQL*Net / TNS listener. |
+| **7000** | TCP | **Apache Cassandra Inter-Node** | Unencrypted internode storage cluster gossip communication. |
+| **7001** | TCP | **Apache Cassandra TLS Inter-Node**| SSL/TLS encrypted internode cluster gossip communication. |
+| **7199** | TCP | **Apache Cassandra JMX** | Java Management Extensions port for nodetool and metrics collection. |
+| **8086** | TCP | **InfluxDB HTTP API** | Ingestion and Flux query endpoint for time-series telemetry. |
+| **8123** | TCP | **ClickHouse HTTP Interface** | REST API used by Grafana plugins, Web UIs, and HTTP client libraries. |
+| **9000** | TCP | **ClickHouse Native TCP** | Binary protocol used by `clickhouse-client` and high-performance drivers. |
+| **9004** | TCP | **ClickHouse MySQL Emulation** | Connect to ClickHouse directly using native MySQL clients and BI tools! |
+| **9005** | TCP | **ClickHouse PostgreSQL Emulation**| Connect to ClickHouse directly using native PostgreSQL clients! |
+| **9009** | TCP | **ClickHouse Inter-Server Sync** | Data replication port between distributed ClickHouse nodes. |
+| **9042** | TCP | **Apache Cassandra / ScyllaDB** | Native binary transport for CQL (Cassandra Query Language). |
+| **9200** | TCP | **Elasticsearch / OpenSearch** | RESTful HTTP API for indexing, full-text searching, and cluster status. |
+| **9300** | TCP | **Elasticsearch Transport** | Java binary protocol for internal node-to-node transport and cluster sync. |
 
 ---
 
