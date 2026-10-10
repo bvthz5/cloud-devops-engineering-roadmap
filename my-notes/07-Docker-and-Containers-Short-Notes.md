@@ -1,6 +1,6 @@
-# 🐳 Docker & Containers — Complete Kids-Mind Short Notes
+# 🐳 Docker & Containers — Complete Kids-Mind Deep Dive Guide
 
-> **Format:** Simple 1-line definitions, advantages, real-life analogies, and command breakdown. Covers every Docker concept, command, flag, and Dockerfile directive.
+> **Format:** Simple 1-line definitions, real-life analogies, visual architectural flows, container operations, security guides, practice exercises, Docker Compose, and Docker Swarm.
 
 ---
 
@@ -29,389 +29,793 @@ Isolation  Multi-Tenant  Seth       CLI Tools   dotCloud    Runtimes    Standard
 
 ---
 
-## 🧠 2. Core Container Concepts (1-Line Definitions)
+## 🏗️ 2. Docker Engine Architecture & Evolution (Deep Dive)
 
-| Concept | Simple 1-Line Definition (Kids Mind) | Real-Life Analogy | Main Advantage |
-| :--- | :--- | :--- | :--- |
-| **Docker** | A software platform that lets you build, test, and ship apps inside standardized containers. | An automated shipping company. | Runs identically on a developer laptop, testing server, or cloud VM. |
-| **Container** | A running, isolated process packaged with its own code, libraries, and settings. | An apartment in a building sharing the ground and pipes. | Starts in seconds, uses very little RAM, and never interferes with other apps. |
-| **Docker Image** | A frozen, read-only template with code and instructions used to launch containers. | A frozen pizza box ready to be baked. | Immutable; anyone who downloads this image gets the exact same program. |
-| **Dockerfile** | A plain text file containing step-by-step instructions on how to build an image. | The printed recipe card for baking the pizza. | Automated, repeatable image builds tracked in Git. |
-| **Docker Daemon (`dockerd`)** | The background engine that listens to Docker commands and builds/runs containers. | The factory manager doing all the heavy lifting. | Manages container lifecycles, memory, CPU, and network interfaces. |
-| **Docker Client (`docker`)** | The command-line tool you type in terminal to talk to the Docker daemon. | The remote control that sends instructions to the TV. | User-friendly interface to control containers. |
-| **Docker Hub / Registry** | An online library where people store, share, and download pre-built container images. | An online app store for container images. | Download official images like `ubuntu`, `python`, `node`, `nginx` instantly. |
-| **Container Layer** | A thin, readable and writable layer placed on top of an image when a container runs. | A transparent sheet of plastic you write on with a marker. | Changes made inside a container are isolated and don't alter the base image. |
+Docker Engine consists of three primary parts that work together to build, ship, and run containers:
 
----
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                    DOCKER CLI (docker)                      │
+│      Command-line interface used by developers & scripts    │
+└──────────────────────────────┬──────────────────────────────┘
+                               │ REST API over Unix Socket (/var/run/docker.sock)
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│                   DOCKER DAEMON (dockerd)                   │
+│   Background engine managing images, volumes & networks     │
+└──────────────────────────────┬──────────────────────────────┘
+                               │ gRPC (/run/containerd/containerd.sock)
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│                        CONTAINERD                           │
+│   OCI container supervisor managing container lifecycles    │
+└──────────────────────────────┬──────────────────────────────┘
+                               │ Forks per container
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│                     CONTAINERD-SHIM                         │
+│  Decouples running container so dockerd can restart safely  │
+└──────────────────────────────┬──────────────────────────────┘
+                               │ Executes
+                               ▼
+┌─────────────────────────────────────────────────────────────┐
+│                  runc (OCI Runtime Spec)                    │
+│   Directly interacts with Linux Kernel (cgroups/namespaces) │
+└─────────────────────────────────────────────────────────────┘
+```
 
-## 💻 3. Docker CLI Commands & Flags Breakdown
+### 2.1 The 3 Primary Components:
+1. **Docker Daemon (`dockerd`):** The persistent background service that manages Docker images, containers, networks, and storage volumes on your host.
+2. **REST API:** A set of HTTP endpoints that expose the daemon's internal functionality to CLI clients and automated CI/CD tools.
+3. **Docker CLI (`docker`):** The command-line interface that translates your user commands into HTTP REST API requests.
 
-### 📦 Container Lifecycle Commands
-
-#### `docker run` (Create & Start a Container)
-- **1-Line Definition:** Downloads the image (if not local), creates a new container layer, and boots it up.
-- **Advantage:** Launches an entire application stack in a single command.
-- **Common Flags:**
-  - `-d` (Detached): Runs container in the background so you keep your terminal prompt free.
-  - `-it` (Interactive + TTY): Attaches your terminal keyboard directly inside the container (e.g., opens a bash shell).
-  - `--name <NAME>`: Gives the container a human-friendly name instead of a random generated string.
-  - `-p <HOST_PORT>:<CONTAINER_PORT>`: **Port Mapping**; bridges traffic from your computer port into the container port.
-  - `-v <HOST_DIR>:<CONTAINER_DIR>`: **Volume Mount**; shares a folder between your host computer and container for persistent data.
-  - `-e <KEY=VALUE>`: Injects an environment variable (like `DB_PASSWORD=secret`) into the container.
-  - `--restart=always`: Automatically restarts the container if it crashes or if the server reboots.
-  - `--rm`: Automatically deletes the container the moment it stops running (great for temporary test scripts).
-  - `-m 512m`: Limits the container's maximum RAM usage to 512 Megabytes.
-  - `--cpus 1.5`: Limits the container to using maximum 1.5 CPU cores.
-  - `--network <NAME>`: Connects the container to a custom Docker virtual network.
-- **What details you get when you type it:** Prints the full 64-character unique Container ID string.
-- **Example:** `docker run -d --name my-web -p 8080:80 --restart=always nginx:alpine`
-
----
-
-#### 🔌 Port Mapping Deep Dive (`-p <HOST_PORT>:<CONTAINER_PORT>`)
-- **1-Line Definition:** Forwards incoming network packets from your physical computer/host VM into the private container port.
-- **Why it is needed:** Containers live in isolated virtual subnets (`172.17.0.x`); without port mapping, your web browser cannot reach the container!
-- **How to read `-p 8080:80`:**
-  - `8080` (Left side): The port on YOUR real computer/laptop (what you type in your browser: `http://localhost:8080`).
-  - `80` (Right side): The internal port the application listens on INSIDE the container.
-- **Common Port Mapping Patterns:**
-  - `docker run -p 80:80 nginx` ── Maps host port 80 directly to container 80.
-  - `docker run -p 3000:3000 node-app` ── Maps host 3000 to Node.js app 3000.
-  - `docker run -p 127.0.0.1:3306:3306 mysql` ── Security trick: only localhost can connect to MySQL; public internet is blocked!
-  - `docker run -P nginx` ── Capital `-P` maps all exposed ports to random free high ports (e.g., `49153`).
-- **What details you get when you check ports (`docker port <NAME>`):**
-  ```text
-  80/tcp -> 0.0.0.0:8080
-  ```
+### 2.2 Historical Evolution: From LXC to Libcontainer to OCI
+- **2013 (LXC Dependency):** When Docker launched in 2013, it relied entirely on **LXC (Linux Containers)** to isolate processes via namespaces and cgroups.
+- **2014 (Version 0.9 - Libcontainer):** Docker introduced **Libcontainer**, an in-house Go library interfacing directly with Linux kernel primitives—eliminating the external LXC dependency and dramatically stabilizing execution.
+- **2015 (Open Container Initiative - OCI):** To prevent vendor lock-in and container fragmentation, Docker and industry leaders founded the OCI with two foundational standards:
+  1. **Runtime Specification (`runtime-spec`):** Defines container lifecycle operations (`create`, `start`, `delete`, etc.).
+  2. **Image Specification (`image-spec`):** Specifies how container images and layers are formatted, stored, and distributed.
+- **Docker 1.11 Modular Refactoring:** Docker refactored its monolithic daemon into modular, decoupled layers: **`dockerd` ➔ `containerd` ➔ `containerd-shim` ➔ `runc`**.
 
 ---
 
-#### 🔗 Container Linking: `--link` (Legacy) vs User-Defined Networks (Modern)
-- **What was `--link`? (1-Line Definition):** The legacy Docker flag (`--link container_name:alias`) that manually injected an entry into `/etc/hosts` so two containers could talk.
-- **Why `--link` is deprecated:** It was static, fragile, did not support automatic DNS, and required restarting containers if an IP changed.
-- **The Modern DevOps Standard:** Use **Docker User-Defined Bridge Networks**:
-  ```bash
-  # Step 1: Create network
-  docker network create my-app-net
+## 📦 3. What Is a Container? Containers vs. Virtual Machines
 
-  # Step 2: Attach database
-  docker run -d --name db --network my-app-net postgres:16-alpine
+A **Container** is a lightweight, isolated package containing an application and everything it needs to execute: code, runtime engine, system libraries, configuration settings, and dependencies.
 
-  # Step 3: Attach backend (automatically resolves 'db' via built-in Docker DNS!)
-  docker run -d --name backend --network my-app-net -e DB_HOST=db my-backend:v1
-  ```
-- **Advantage:** Automatic service discovery by container name; containers dynamically discover each other with zero IP hardcoding!
+### Container vs. Virtual Machine (The Mental Model):
 
----
+```text
+VIRTUAL MACHINE ARCHITECTURE:               CONTAINER ARCHITECTURE:
+┌─────────────────────────────────┐        ┌─────────────────────────────────┐
+│ App 1   │ App 2   │ App 3       │        │ App 1   │ App 2   │ App 3       │
+├─────────┼─────────┼─────────┤        ├─────────┼─────────┼─────────┤
+│ Libs    │ Libs    │ Libs        │        │ Libs    │ Libs    │ Libs        │
+├─────────┼─────────┼─────────┤        ├─────────────────────────────────┤
+│ Guest OS│ Guest OS│ Guest OS    │        │      Docker Engine / containerd │
+├─────────────────────────────────┤        ├─────────────────────────────────┤
+│          Hypervisor             │        │     Host Operating System       │
+├─────────────────────────────────┤        ├─────────────────────────────────┤
+│     Host OS & Physical HW       │        │      Host Physical Hardware     │
+└─────────────────────────────────┘        └─────────────────────────────────┘
+```
 
-#### `docker ps` (List Running Containers)
-- **1-Line Definition:** Shows all containers currently running on your machine.
-- **Advantage:** Check what web servers or databases are alive.
-- **What details you get when you type it:**
-  1. `CONTAINER ID`: Short 12-character ID (e.g., `4a7b3c8d1e2f`)
-  2. `IMAGE`: Image name and tag (e.g., `nginx:alpine`)
-  3. `COMMAND`: The initial process running inside (e.g., `"nginx -g 'daemon of…"`)
-  4. `CREATED`: When the container was created (e.g., `2 hours ago`)
-  5. `STATUS`: Health & uptime status (e.g., `Up 2 hours`)
-  6. `PORTS`: Port mappings (e.g., `0.0.0.0:8080->80/tcp`)
-  7. `NAMES`: The container name (e.g., `my-web`)
-
-#### `docker ps -a` (List All Containers Including Stopped)
-- **1-Line Definition:** Lists every container on the system, including ones that stopped, exited, or crashed.
-- **Advantage:** Find crashed containers, inspect exit codes, or locate containers to delete.
-- **What details you get:** Same columns as `docker ps`, but `STATUS` shows `Exited (0) 5 minutes ago` or `Exited (137) OOMKilled`.
-
----
-
-#### `docker stop <NAME_OR_ID>` (Graceful Stop)
-- **1-Line Definition:** Sends `SIGTERM` to the container, waiting 10 seconds for it to close database connections and save data before shutting down.
-- **Advantage:** Clean shutdown with zero data corruption.
-- **What details you get:** Prints the name or ID of the stopped container.
-- **Example:** `docker stop my-web`
-
-#### `docker kill <NAME_OR_ID>` (Instant Force Kill)
-- **1-Line Definition:** Sends `SIGKILL` to instantly terminate the container process without waiting.
-- **Advantage:** Stops frozen, runaway, or uncooperative containers instantly.
-- **Example:** `docker kill my-web`
-
-#### `docker start <NAME_OR_ID>` (Start Existing Container)
-- **1-Line Definition:** Boots up a container that was previously stopped without creating a new one.
-- **Example:** `docker start my-web`
-
-#### `docker restart <NAME_OR_ID>` (Reboot Container)
-- **1-Line Definition:** Stops and immediately restarts the container.
-- **Example:** `docker restart my-web`
-
-#### `docker rm <NAME_OR_ID>` (Delete Stopped Container)
-- **1-Line Definition:** Permanently deletes a stopped container from disk.
-- **Advantage:** Frees up disk space.
-- **Example:** `docker rm my-web`
-- **Example (Force remove running container):** `docker rm -f my-web`
-
----
-
-### 🔍 Container Inspection & Debugging Commands
-
-#### `docker logs <NAME_OR_ID>` (View Container Output)
-- **1-Line Definition:** Prints all standard output (`stdout`) and error messages (`stderr`) produced by the container.
-- **Advantage:** Diagnose crashes, bugs, and error traces inside the container.
-- **Useful Flags:**
-  - `docker logs -f <NAME>`: Follow live streaming logs in real time.
-  - `docker logs --tail 100 <NAME>`: Shows only the last 100 lines.
-  - `docker logs -t <NAME>`: Shows timestamps on each log line.
-- **Example:** `docker logs -f --tail 50 my-web`
-
----
-
-#### `docker exec -it <NAME_OR_ID> sh` (Jump Inside Container Terminal)
-- **1-Line Definition:** Opens a live, interactive shell prompt inside a running container.
-- **Advantage:** Troubleshoot files, test database connections, and run diagnostics directly inside the container environment.
-- **Flags Breakdown:**
-  - `-i`: Interactive (keeps standard input open)
-  - `-t`: Allocates a pseudo-TTY terminal window
-- **Example:** `docker exec -it my-web /bin/sh` (or `/bin/bash`)
-
----
-
-#### `docker inspect <NAME_OR_ID>` (Full JSON Configuration Dump)
-- **1-Line Definition:** Returns every single low-level configuration detail of a container or image in JSON format.
-- **Advantage:** Find the container's private IP address, volume mount paths, environment variables, and health check status.
-- **What details you get:** IPAddress (e.g., `172.17.0.2`), Gateway, Mounts, State, RestartPolicy, and Env vars.
-- **Example:** `docker inspect my-web | grep "IPAddress"`
-
----
-
-#### `docker stats` (Live Resource Monitor)
-- **1-Line Definition:** A live terminal dashboard showing real-time CPU, RAM, Network I/O, and Disk I/O consumption for every running container.
-- **Advantage:** Find out which container is hogging CPU or running out of memory.
-- **What details you get:** `CONTAINER ID`, `NAME`, `CPU %`, `MEM USAGE / LIMIT`, `MEM %`, `NET I/O`, `BLOCK I/O`, `PIDS`.
-- **Example:** `docker stats`
-
----
-
-#### `docker cp` (Copy Files In/Out of Containers)
-- **1-Line Definition:** Copies files or folders between your host filesystem and a running container.
-- **Advantage:** Extract debug logs, dump crash files, or inject emergency configuration fixes without restarting.
-- **Examples:**
-  - Copy from host to container: `docker cp ./nginx.conf my-web:/etc/nginx/nginx.conf`
-  - Copy from container to host: `docker cp my-web:/var/log/nginx/error.log ./error.log`
-
----
-
-#### `docker top <NAME>` (Inspect Running Processes)
-- **1-Line Definition:** Lists the processes actively running inside a specific container, including their Host PIDs.
-- **Advantage:** Verify if child worker processes, databases, or daemons are running inside without entering the container.
-- **What details you get:** `UID`, `PID`, `PPID`, `C`, `STIME`, `TTY`, `TIME`, `CMD`.
-- **Example:** `docker top my-web`
-
----
-
-#### `docker commit <CONTAINER> <NEW_IMAGE>` (Save Container State)
-- **1-Line Definition:** Creates a new frozen Docker image from an existing container's current state and changes.
-- **Advantage:** Quick snapshot of an experimentally modified container for debugging or forensics.
-- **Example:** `docker commit my-web my-user/custom-nginx:v1`
-
----
-
-#### `docker save` & `docker load` (Offline Image Backup & Transfer)
-- **1-Line Definition:** `docker save` exports an image to a `.tar` archive file; `docker load` imports the `.tar` back into Docker on any offline machine.
-- **Advantage:** Transfer container images to air-gapped secure servers without needing internet or Docker Hub!
-- **Examples:**
-  - Save: `docker save -o my-app.tar my-user/app:v1.0`
-  - Load: `docker load -i my-app.tar`
-
----
-
-### 🖼️ Docker Image Management Commands
-
-| Command | Simple 1-Line Definition | Common Flags & Usage | What Details Appear on Screen |
-| :--- | :--- | :--- | :--- |
-| **`docker images`** | Lists all container images stored locally on your machine. | `docker images` | `REPOSITORY`, `TAG`, `IMAGE ID`, `CREATED`, `SIZE` |
-| **`docker pull <IMAGE>`** | Downloads an image from Docker Hub to your local computer. | `docker pull node:20-alpine` | Progress bars downloading each image layer |
-| **`docker push <IMAGE>`** | Uploads your custom image to Docker Hub or private registry. | `docker push myuser/app:v1.0` | Upload progress per layer + final SHA digest |
-| **`docker tag <SRC> <DEST>`** | Creates a new alias name or version tag pointing to an image. | `docker tag app:latest app:v2.0` | Silent; creates pointer in local image index |
-| **`docker rmi <IMAGE>`** | Deletes a local image from disk. | `docker rmi node:20-alpine` | Untags and deletes image layers |
-| **`docker build -t <NAME> .`**| Compiles a Dockerfile in the current directory into a new image.| `-t app:v1` (tag name), `-f Dockerfile.prod` | Step-by-step build logs for each directive |
-
----
-
-### 🧹 Docker Prune & Disk Cleanup Commands
-
-| Command | Simple 1-Line Definition | Advantage |
+| Aspect | Virtual Machine (VM) | Container (Docker) |
 | :--- | :--- | :--- |
-| **`docker system df`** | Shows how much disk space is consumed by images, containers, local volumes, and build cache. | See exactly what is wasting gigabytes. |
-| **`docker container prune`** | Deletes all stopped containers at once. | Cleans up zombie container layers. |
-| **`docker image prune`** | Deletes all dangling images (untagged `<none>:<none>` layers). | Reclaims build cache space safely. |
-| **`docker volume prune`** | Deletes all unused volumes not attached to any container. | Deletes orphaned database storage. |
-| **`docker network prune`** | Deletes all custom networks not used by at least one container. | Cleans up stale virtual bridges. |
-| **`docker system prune -af --volumes`** | **The Ultimate Nuke Command**: Deletes ALL stopped containers, all unused networks, all dangling and unused images, and all volumes. | Reclaims 50GB+ of disk space in one shot! |
+| **What it Virtualizes** | Entire hardware + full Guest OS (Kernel included). | Just the application layer and user-space dependencies. |
+| **Size** | Gigabytes (5 GB – 30 GB per VM). | Megabytes (5 MB Alpine – 300 MB Slim). |
+| **Startup Time** | Minutes (boots a complete virtual BIOS and OS). | **Milliseconds to seconds** (just starting a process!). |
+| **Isolation** | Strong hardware-level isolation via hypervisor. | Lightweight process-level isolation (shared host kernel). |
+| **Resource Use** | Heavy; pre-allocates RAM and CPU cores upfront. | Lightweight; consumes only what the app process uses. |
+| **Kids-Mind Analogy** | **A Separate House:** Has its own private foundation, plumbing, and electrical grid. | **An Apartment:** Private rooms inside a shared building with shared foundation and main water supply. |
 
 ---
 
-## 📜 4. Dockerfile Directives Breakdown
+## 💻 4. Installing Docker & First Setup Verification
 
-Every directive in a `Dockerfile` creates a cached layer. Here is every directive explained simply:
+### 4.1 Two Main Options:
+1. **Docker Desktop:** For Windows, macOS, and desktop Linux. Includes a graphical user interface (GUI), Docker Engine, Docker CLI, Kubernetes, and Docker Compose. Easiest for beginners.
+2. **Docker Engine:** The headless core daemon installed directly on Linux servers (`sudo apt install docker-ce`). Best for cloud production servers.
 
+### 4.2 Verifying Installation:
+```bash
+# 1. Check Docker client and server versions
+docker --version
+
+# 2. Run the official test container
+docker run hello-world
+```
+- **What happens:** If Docker prints: *"Hello from Docker! This message shows that your installation appears to be working correctly"*, your daemon is successfully connected!
+
+---
+
+## 🖼️ 5. Images vs. Containers: The Core Distinction
+
+This distinction confuses almost every beginner, so memorize this clearly:
+
+```text
+       IMAGE (Read-Only Template)
+       ┌────────────────────────┐
+       │ • Python 3.12 Runtime  │
+       │ • App Source Code      │
+       │ • Installed Packages   │
+       └───────────┬────────────┘
+                   │
+                   │ docker run (Instantiation)
+                   ├────────────────────────┬────────────────────────┐
+                   ▼                        ▼                        ▼
+           CONTAINER 1              CONTAINER 2              CONTAINER 3
+        (Running Instance)       (Running Instance)       (Running Instance)
+        [Port 8001 - Active]     [Port 8002 - Active]     [Port 8003 - Active]
+```
+
+- **An Image** is a read-only template—a static snapshot of an application and its environment. It does not run; it just sits on disk.
+  - *Analogy:* A blueprint, a class in programming, a recipe card, or a cookie cutter.
+- **A Container** is a running (or stopped) instance created from an image.
+  - *Analogy:* The actual constructed building, an object in programming, the cooked meal, or the baked cookie.
+- **Key Rule:** You can spin up **10 independent containers from a single image** in seconds. Each container runs with its own private writable layer and memory space!
+
+---
+
+## 🚀 6. Running Your First Containers & Core Lifecycle Commands
+
+The primary command you will use constantly is `docker run`:
+
+```bash
+# Run an Nginx web server in the background, mapping host port 8080 to container port 80
+docker run -d -p 8080:80 --name my-web nginx
+```
+
+### Breaking Down the Flags:
+- `-d` (Detached Mode): Runs the container in the background so your terminal remains free.
+- `-p 8080:80` (Port Mapping): Maps your physical host computer's port `8080` to the container's internal port `80`.
+- `--name my-web`: Assigns a friendly name instead of a random auto-generated string (like `nervous_curie`).
+- `nginx`: The image to download from Docker Hub and execute.
+- *Test it:* Open `http://localhost:8080` in your browser to view the Nginx welcome screen!
+
+### Essential Lifecycle Commands:
+```bash
+docker container ls               # List running containers
+docker container ls -a            # List ALL containers (including stopped & exited)
+docker container stop my-web      # Gracefully stops running container (SIGTERM)
+docker container start my-web     # Boots up a stopped container
+docker container restart my-web   # Restarts container
+docker container rm my-web        # Deletes stopped container from disk
+docker container rm -f my-web     # Force kills and deletes running container
+```
+
+---
+
+## 🏷️ 7. Working with Docker Images: Registries, Tags & Version Pinning
+
+```bash
+docker image pull nginx           # Download an image from Docker Hub
+docker image ls                   # List images currently stored locally
+docker image rm nginx             # Delete an image from local disk
+```
+
+- **Docker Hub (`hub.docker.com`):** The default public registry hosting millions of pre-built official images.
+- **Image Tags:** Specify the software version:
+  - `docker image pull nginx:1.27` ── Explicit pinned version.
+  - `docker image pull python:3.12-slim` ── Minimal lightweight base.
+  - `docker image pull nginx:latest` ── Defaults to latest tag if omitted.
+- ⚠️ **The Production Trap:** **NEVER use `:latest` in production CI/CD pipelines!** The latest tag changes without notice and can pull unexpected breaking updates. Always pin exact versions (e.g., `node:20.11-alpine`).
+
+---
+
+## 🔍 8. Inspecting & Interacting with Containers
+
+These commands are how DevOps engineers debug running microservices:
+
+```bash
+# 1. View container output logs
+docker container logs my-web
+
+# 2. Stream logs live (like tail -f)
+docker container logs -f my-web
+
+# 3. Drop into an interactive bash shell INSIDE the running container
+docker container exec -it my-web bash
+
+# 4. Use sh if bash is not installed (e.g. Alpine images)
+docker container exec -it my-web sh
+
+# 5. Inspect complete JSON configuration (IP address, mounts, environment vars)
+docker container inspect my-web
+
+# 6. Monitor live CPU, RAM, and Network I/O metrics
+docker container stats
+```
+
+### Breaking Down `-it`:
+- `-i` (Interactive): Keeps standard input (`STDIN`) open even if not attached.
+- `-t` (Allocate TTY): Allocates a pseudo-terminal providing a standard command prompt.
+- *Tip:* Type `exit` to leave the container shell; the detached container continues running in the background!
+
+### System Cleaning:
+```bash
+docker container rm $(docker container ls -aq)   # Remove all stopped containers
+docker image prune                               # Remove dangling unused images
+docker system prune -a --volumes                 # Deep clean: wipes unused containers, images, and volumes
+```
+
+---
+
+## 📋 9. Basic Container Operations: Modern Management Command Syntax
+
+Docker 1.13+ introduced structured management subcommands (`docker <object> <verb>`):
+
+```text
+┌──────────────────────┬────────────────────────────────────────────────────────┐
+│ Command Syntax       │ Worked Real-World Example                              │
+├──────────────────────┼────────────────────────────────────────────────────────┤
+│ 1. Create Container  │ docker container create --name web httpd               │
+│ 2. Run Container     │ docker container run -d --name web -p 8080:80 httpd    │
+│ 3. List Running      │ docker container ls                                    │
+│    List All          │ docker container ls -a                                 │
+│ 4. Start / Stop      │ docker container start web / docker container stop web │
+│    Restart / Pause   │ docker container restart web / docker pause web        │
+│ 5. Attach Terminal   │ docker container attach web (Hooks to PID 1)           │
+│                      │ Detach escape sequence: Ctrl + P then Ctrl + Q         │
+│ 6. Inspect & Stats   │ docker container inspect web / docker container stats  │
+│ 7. Execute Command   │ docker container exec -it web bash                     │
+│ 8. Copy Files        │ docker container cp index.html web:/usr/local/apache2/ │
+│ 9. Remove Container  │ docker container rm -f web                             │
+│ 10. Update Resources │ docker container update --memory 512m --cpus 1 web     │
+└──────────────────────┴────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🚩 10. Docker Flags & Short Keys Master Cheat Sheet
+
+```text
+┌─────────────────┬───────────┬────────────────────────────────────────────────────────┐
+│ Command         │ Long Flag │ Short / Description                                    │
+├─────────────────┼───────────┼────────────────────────────────────────────────────────┤
+│ docker run      │ --detach  │ -d  (Run in background)                                │
+│                 │ --tty     │ -t  (Allocate pseudo-TTY)                              │
+│                 │ --interact│ -i  (Keep STDIN open)                                  │
+│                 │ --publish │ -p HOST:CONTAINER (Port forward, e.g. -p 8080:80)      │
+│                 │ --volume  │ -v HOST:CONTAINER (Volume mount)                       │
+│                 │ --env     │ -e KEY=val (Set environment variable)                  │
+│                 │ --memory  │ -m 512m (Limit RAM usage)                              │
+│                 │ --rm      │ Automatically deletes container upon exit              │
+├─────────────────┼───────────┼────────────────────────────────────────────────────────┤
+│ docker exec     │ -it       │ Combined: Interactive terminal shell                   │
+│                 │ -u        │ --user (Run command as specific UID or username)       │
+│                 │ -w        │ --workdir (Working directory for the command)          │
+├─────────────────┼───────────┼────────────────────────────────────────────────────────┤
+│ docker ps       │ -a        │ --all (Show all containers including exited)           │
+│                 │ -q        │ --quiet (Display numeric container IDs only)           │
+│                 │ -f        │ --filter (e.g. -f "status=exited")                     │
+├─────────────────┼───────────┼────────────────────────────────────────────────────────┤
+│ docker build    │ -t        │ --tag (Name and tag image, e.g. -t myapp:1.0)          │
+│                 │ -f        │ --file (Path to custom Dockerfile)                     │
+│                 │ --no-cache│ Rebuild image without using layer cache                │
+├─────────────────┼───────────┼────────────────────────────────────────────────────────┤
+│ docker logs     │ -f        │ --follow (Stream output live)                          │
+│                 │ -t        │ --timestamps (Display log timestamps)                  │
+│                 │ --tail    │ Show last N lines (--tail 100)                         │
+└─────────────────┴───────────┴────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 📄 11. Creating a Dockerfile: A Practical Guide & Best Practices
+
+A **Dockerfile** is a plain text file containing a sequence of instructions executed from top to bottom. Each instruction creates an immutable cached layer.
+
+### 11.1 Core Instructions Breakdown:
+- **`FROM`**: Sets the base image (e.g., `FROM python:3.12-slim`). Always start here.
+- **`WORKDIR`**: Sets the working directory for all following instructions (creates directory if missing). Avoids messy `cd` commands.
+- **`COPY` vs `ADD`**: `COPY` transfers files from build context into the image. Prefer `COPY` unless you specifically need `ADD`'s automatic tar extraction or remote URL fetching.
+- **`RUN`**: Executes shell commands during the build phase to install dependencies. Chain commands with `&&` to reduce layer count!
+- **`ENV` vs `ARG`**: `ENV` sets environment variables that persist in the running container. `ARG` defines build-time variables that disappear after the build.
+- **`EXPOSE`**: Informational documentation declaring which port the app listens on (still requires `-p` at runtime).
+- **`CMD` vs `ENTRYPOINT`**: `ENTRYPOINT` sets the fixed main executable. `CMD` provides default parameters that can be overridden by the CLI.
+
+### 11.2 Production Python Dockerfile Example:
 ```dockerfile
-# 1. FROM: The starting base image (Operating System or Runtime)
-FROM node:20-alpine
+FROM python:3.12-slim
 
-# 2. WORKDIR: Sets the working directory inside the container (like cd)
+# Set working directory
 WORKDIR /app
 
-# 3. COPY: Copies files from your host computer into the container filesystem
-COPY package*.json ./
+# 1. Install dependencies first to leverage Docker layer caching!
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
 
-# 4. RUN: Executes commands during image compilation (installs packages, compiles code)
-RUN npm ci --only=production
-
-# 5. COPY application code
+# 2. Copy source code after dependencies
 COPY . .
 
-# 6. ENV: Sets persistent environment variables inside the container
-ENV NODE_ENV=production
-ENV PORT=3000
+# 3. Create non-root user for security
+RUN adduser --disabled-password --gecos "" appuser && chown -R appuser /app
+USER appuser
 
-# 7. EXPOSE: Documentation hint indicating which port the app listens on
-EXPOSE 3000
+EXPOSE 8080
 
-# 8. USER: Security best practice - runs the app as non-root user
-USER node
-
-# 9. CMD: The default command executed when the container starts running
-CMD ["node", "server.js"]
+ENTRYPOINT ["python"]
+CMD ["app.py"]
 ```
 
-### Directives Comparison Cheat Sheet:
+---
 
-| Directive | What It Does (1 Line) | When It Runs | Example |
-| :--- | :--- | :--- | :--- |
-| **`FROM`** | Defines the parent base image to build upon. | Build Time | `FROM python:3.12-slim` |
-| **`WORKDIR`** | Creates and switches into an internal folder for all subsequent commands. | Build & Run Time | `WORKDIR /usr/src/app` |
-| **`COPY`** | Copies local files from your project folder into the image. | Build Time | `COPY . /app` |
-| **`ADD`** | Like `COPY`, but can also unpack `.tar.gz` archives and fetch remote URLs. | Build Time | `ADD app.tar.gz /app` |
-| **`RUN`** | Executes terminal commands inside the image and commits the resulting layer. | Build Time | `RUN apt-get update && apt-get install -y curl` |
-| **`ENV`** | Sets environment variables accessible during build AND runtime. | Build & Run Time | `ENV DB_HOST=db.internal` |
-| **`ARG`** | Sets temporary build-time variables that disappear in the final image. | Build Time Only | `ARG VERSION=1.0` |
-| **`EXPOSE`** | Documents which network port the container plans to listen on. | Metadata Only | `EXPOSE 8080` |
-| **`VOLUME`** | Declares a mount point for external persistent data storage. | Run Time | `VOLUME ["/var/lib/mysql"]` |
-| **`USER`** | Switches user away from root for security compliance. | Build & Run Time | `USER 10001` |
-| **`ENTRYPOINT`** | The fixed executable binary that runs when container boots. | Run Time | `ENTRYPOINT ["nginx"]` |
-| **`CMD`** | Default arguments passed to `ENTRYPOINT` (can be easily overridden in CLI). | Run Time | `CMD ["-g", "daemon off;"]` |
-| **`HEALTHCHECK`**| Tests if the containerized app is truly working, not just process running. | Run Time | `HEALTHCHECK CMD curl -f http://localhost/ || exit 1` |
+## 🏋️ 12. Dockerfile Practice Exercises (8 Hands-On Exercises with Solutions)
+
+### Exercise 1: Static Web Server (Beginner)
+- **Goal:** Containerize a static `index.html` using Nginx.
+- **Project Structure:**
+  ```text
+  ├── Dockerfile
+  └── index.html
+  ```
+- **Solution:**
+  ```dockerfile
+  FROM nginx:alpine
+  COPY index.html /usr/share/nginx/html/index.html
+  EXPOSE 80
+  CMD ["nginx", "-g", "daemon off;"]
+  ```
+
+### Exercise 2: Python Script (Beginner)
+- **Goal:** Run a one-off Python script in a container.
+- **Solution:**
+  ```dockerfile
+  FROM python:3.12-slim
+  WORKDIR /app
+  COPY greet.py .
+  CMD ["python", "greet.py"]
+  ```
+
+### Exercise 3: Flask with Layer Caching (Intermediate)
+- **Goal:** Build a Flask app ensuring dependencies are cached.
+- **Solution:**
+  ```dockerfile
+  FROM python:3.12-slim
+  WORKDIR /app
+  COPY requirements.txt .
+  RUN pip install --no-cache-dir -r requirements.txt
+  COPY app.py .
+  EXPOSE 5000
+  CMD ["python", "app.py"]
+  ```
+
+### Exercise 4: Node.js App with Environment Variables (Intermediate)
+- **Goal:** Read a port from `PORT` environment variable.
+- **Solution:**
+  ```dockerfile
+  FROM node:20-alpine
+  WORKDIR /app
+  COPY package*.json ./
+  RUN npm install
+  COPY . .
+  ENV PORT=3000
+  EXPOSE 3000
+  CMD ["node", "server.js"]
+  ```
+
+### Exercise 5: Hardening with Non-Root User (Intermediate)
+- **Goal:** Secure a container to prevent running as root.
+- **Solution:**
+  ```dockerfile
+  FROM python:3.12-alpine
+  WORKDIR /app
+  COPY requirements.txt .
+  RUN pip install -r requirements.txt
+  COPY . .
+  RUN addgroup -S appgroup && adduser -S appuser -G appgroup
+  RUN chown -R appuser:appgroup /app
+  USER appuser
+  EXPOSE 5000
+  CMD ["python", "app.py"]
+  ```
+
+### Exercise 6: Multi-Stage Build with Go (Advanced)
+- **Goal:** Compile a Go program and ship only the binary in an ultra-small image.
+- **Solution:**
+  ```dockerfile
+  # Stage 1: Build binary
+  FROM golang:1.22-alpine AS builder
+  WORKDIR /src
+  COPY . .
+  RUN CGO_ENABLED=0 go build -o /bin/app .
+
+  # Stage 2: Minimal runtime
+  FROM alpine:3.19
+  WORKDIR /app
+  COPY --from=builder /bin/app /app/app
+  EXPOSE 8080
+  ENTRYPOINT ["/app/app"]
+  ```
+  *(Image size shrinks from 850 MB to 12 MB!)*
+
+### Exercise 7: Optimize an Inefficient Dockerfile (Advanced)
+- **Inefficient Version:**
+  ```dockerfile
+  FROM ubuntu:latest
+  RUN apt-get update
+  RUN apt-get install -y python3
+  RUN apt-get install -y python3-pip
+  COPY . /app
+  RUN pip3 install -r /app/requirements.txt
+  WORKDIR /app
+  CMD python3 app.py
+  ```
+- **Optimized Solution:**
+  ```dockerfile
+  FROM python:3.12-slim
+  WORKDIR /app
+  COPY requirements.txt .
+  RUN pip install --no-cache-dir -r requirements.txt
+  COPY . .
+  CMD ["python", "app.py"]
+  ```
+
+### Exercise 8: Add a Health Check to Flask (Advanced)
+- **Goal:** Configure container health monitoring.
+- **Solution:**
+  ```dockerfile
+  FROM python:3.12-alpine
+  WORKDIR /app
+  RUN apk add --no-cache curl
+  COPY requirements.txt .
+  RUN pip install -r requirements.txt
+  COPY . .
+  EXPOSE 5000
+  HEALTHCHECK --interval=10s --timeout=3s --retries=3 \
+    CMD curl -f http://localhost:5000/ || exit 1
+  CMD ["python", "app.py"]
+  ```
 
 ---
 
-### ❓ What is the Difference between `CMD` and `ENTRYPOINT`?
-- **`ENTRYPOINT` is the fixed program** (e.g., `git`). It cannot be overridden without `--entrypoint`.
-- **`CMD` is the default argument** (e.g., `status`). If the user types `docker run my-image pull`, `pull` overrides `status`!
-- **Best Practice:** Use `ENTRYPOINT` for the program and `CMD` for default flags!
+## 🚗 13. Docker CMD, ENTRYPOINT, and WORKDIR Complete Practical Guide
 
----
-
-## 🚫 5. `.dockerignore` File
-
-### What is `.dockerignore`?
-- **1-Line Definition:** A text file listing files and folders that Docker must NEVER copy into the container image during `docker build`.
-- **Advantage:** Prevents uploading huge folders like `node_modules`, keeps image sizes small, and prevents leaking `.env` passwords into public images!
-
-### Standard `.dockerignore` Template:
+### 13.1 Real-World Car Analogy:
 ```text
-# Ignore local dependencies (let container install them clean)
-node_modules
-__pycache__
-*.pyc
+Car = Docker Container
+• ENTRYPOINT = The Engine (Fixed, always starts) ──► ENTRYPOINT ["nginx"]
+• CMD        = The Destination (Can change)     ──► CMD ["-g", "daemon off;"]
+• WORKDIR    = Starting Garage Location         ──► WORKDIR /app
+```
 
-# Ignore secret files
-.env
-.env.local
-id_rsa
-*.pem
+### 13.2 Comparison Matrix:
+| Feature | Purpose | Can Override in CLI? | Worked Example |
+| :--- | :--- | :---: | :--- |
+| **`CMD`** | Default command or arguments. | **Yes** (`docker run image date`) | `CMD ["echo", "Hello"]` |
+| **`ENTRYPOINT`** | Fixed main executable. | **No** (unless `--entrypoint` is passed) | `ENTRYPOINT ["echo"]` |
+| **`WORKDIR`** | Working directory for all ops. | N/A (creates dir automatically) | `WORKDIR /training` |
 
-# Ignore Git history & build outputs
-.git
-.gitignore
-dist/
-build/
-.DS_Store
-*.log
+### 13.3 Best Practice Combo in Production:
+```dockerfile
+FROM alpine:latest
+ENTRYPOINT ["echo"]
+CMD ["Docker Zero To Hero 🚀"]
+```
+- `docker run combo-demo` ➔ Outputs: `Docker Zero To Hero 🚀`
+- `docker run combo-demo "Security Hardened"` ➔ Outputs: `Security Hardened` (replaces CMD, keeps ENTRYPOINT!).
+
+---
+
+## 🛡️ 14. Docker Security: Absolute PID vs. Relative PID & Process Isolation
+
+Every process in Linux has a unique Process ID (PID). Docker uses **Linux PID Namespaces** to create an isolated process tree.
+
+```text
+HOST OPERATING SYSTEM (Real Linux Kernel)
+PID 2187 (Absolute PID)
+└── alpine1 container
+     └── PID 1 (Relative PID: sh)
+
+PID 2234 (Absolute PID)
+└── nginx1 container
+     └── PID 1 (Relative PID: nginx)
+```
+
+- **Relative PID:** The PID visible from inside the container namespace (always starts at PID 1).
+- **Absolute PID:** The real, actual PID visible on the host OS (`ps aux`).
+- **How to find Host PID of a container:**
+  ```bash
+  docker inspect -f '{{.State.Pid}}' <container_name>
+  ```
+- ⚠️ **The Security Risk of `--pid=host`:**
+  Running `docker run --pid=host alpine` **breaks process isolation**! The container can see and kill host processes (`dockerd`, `sshd`, `systemd`). Avoid `--pid=host` in production unless running monitoring daemons.
+
+---
+
+## 👤 15. Docker Security: Why Create a Non-Root User in a Dockerfile?
+
+By default, Docker containers run as **`root`**. This poses severe security hazards:
+
+```text
+IF CONTAINER RUNS AS ROOT:
+Attacker exploits app vulnerability (RCE) ──► Attacker gets ROOT access in container!
+                                        └──► Potential Container Escape to Host Root! 💥
+
+IF CONTAINER RUNS AS NON-ROOT USER:
+Attacker exploits app vulnerability (RCE) ──► Attacker trapped as restricted user.
+                                        └──► Cannot modify system files or escape! 🛡️
+```
+
+### Hardened Production Template:
+```dockerfile
+FROM python:3.12-alpine
+WORKDIR /app
+COPY requirements.txt .
+RUN pip install -r requirements.txt
+COPY . .
+
+# Create unprivileged group and user
+RUN addgroup -S flaskgrp && adduser -S flaskuser -G flaskgrp
+RUN chown -R flaskuser:flaskgrp /app
+
+# Switch to non-root user
+USER flaskuser
+
+EXPOSE 5000
+CMD ["python", "app.py"]
 ```
 
 ---
 
-## 🗄️ 6. Docker Volumes & Persistent Storage
+## 🌐 16. Docker Networking Fundamentals: Bridge, Host & None Networks
 
-- **The Problem:** By default, containers are **ephemeral**; when a container is deleted, all files created inside it are destroyed forever!
-- **The Solution:** Use **Volumes** to store data on the host machine outside the container.
+```text
+                        DOCKER HOST
+                             │
+             ┌───────────────┼───────────────┐
+             ▼               ▼               ▼
+           web1            app1            app2
+        172.17.0.2      172.18.0.2      172.18.0.3
+             │               ▲
+             └────── DNS ────┘ (Automatic name resolution on custom bridge!)
+```
 
-| Storage Type | Simple 1-Line Definition | Typical Use Case | Command Syntax |
-| :--- | :--- | :--- | :--- |
-| **Named Volume** | Managed by Docker inside `/var/lib/docker/volumes/`; safe from accidental deletion. | Production databases (MySQL, Postgres, Redis). | `docker run -v db_data:/var/lib/mysql mysql` |
-| **Bind Mount** | Directly maps an exact folder from your host computer into the container. | Live local coding (code edits on host reflect instantly inside container). | `docker run -v $(pwd)/src:/app/src my-app` |
-| **tmpfs Mount** | Stores data strictly in host RAM memory; never touches the hard drive. | Sensitive temporary secrets or high-speed cache. | `docker run --tmpfs /tmp my-app` |
+| Network Driver | Isolation | DNS Resolution | Port Forwarding Needed? | Recommended Use Case |
+| :--- | :---: | :---: | :---: | :--- |
+| **Default Bridge** | Yes | By IP only | Yes (`-p`) | Legacy / simple single-container testing. |
+| **Custom Bridge** | **Yes** | **Yes (Automatic by Name!)** | Yes (`-p`) | **Production microservices & Compose apps.** |
+| **Host Network** | No | N/A (Uses Host) | No | Maximum performance, low-latency gaming/telecom. |
+| **None Network** | Maximum | No | N/A | Offline batch jobs, secret key generators. |
+
+### Creating and Using Custom Networks:
+```bash
+# 1. Create isolated network
+docker network create my-net
+
+# 2. Attach containers (they can now reach each other by name!)
+docker run -d --name db --network my-net postgres:15-alpine
+docker run -d --name web --network my-net -p 8080:80 my-frontend
+```
 
 ---
 
-## 🌐 7. Docker Networking
+## 🗄️ 17. Docker Volumes & Persistent Storage: Volumes vs. Bind Mounts vs. tmpfs
 
-Docker provides virtual software switches (bridges) to connect containers:
+Containers are **ephemeral**; when a container is deleted, its writable layer is destroyed. Persistent data must be mounted externally:
 
-| Network Driver | Simple 1-Line Definition | Default / Usage |
-| :--- | :--- | :--- |
-| **`bridge`** | Default virtual network switch inside a single Docker host. Containers get private `172.17.x.x` IPs. | Used by 95% of standard multi-container web apps. |
-| **`host`** | Removes network isolation; container shares host computer's exact network and IP directly. | High-performance apps where port forwarding overhead is unacceptable. |
-| **`none`** | Completely disables networking inside the container (no network card, loopback only). | Air-gapped batch calculation jobs or cryptographic key generation. |
-| **`overlay`** | Multi-host network connecting containers across different physical machines. | Powers Docker Swarm and Kubernetes pod communication. |
-| **`macvlan`** | Assigns a physical MAC address to container, making it look like a physical machine on your router. | Legacy enterprise applications requiring direct LAN presence. |
+```text
+┌─────────────────┬──────────────────────────────────┬──────────────────────────────────────────┐
+│ Storage Type    │ Storage Location                 │ Real-World DevOps Use Case               │
+├─────────────────┼──────────────────────────────────┼──────────────────────────────────────────┤
+│ Named Volume    │ /var/lib/docker/volumes/         │ Production databases (PostgreSQL/MySQL). │
+│ Bind Mount      │ Explicit host folder ($(pwd)/src)│ Local developer code hot-reloading.      │
+│ tmpfs Mount     │ Host RAM memory only (no disk)   │ High-speed secrets, tokens, cache files. │
+└─────────────────┴──────────────────────────────────┴──────────────────────────────────────────┘
+```
+
+### Essential Volume Commands:
+```bash
+docker volume create my_volume                # Create named volume
+docker volume ls                              # List all volumes
+docker volume inspect my_volume               # Inspect mount point
+docker volume rm my_volume                    # Remove volume
+docker volume prune -f                        # Clean all unused volumes
+
+# Mount volume into container (Recommended --mount syntax)
+docker run -d --name db --mount source=my_volume,target=/var/lib/postgresql/data postgres:15
+
+# Backup volume to tar archive
+docker run --rm -v my_volume:/data -v $(pwd):/backup busybox tar czf /backup/backup.tar.gz -C /data .
+
+# Restore volume from tar archive
+docker run --rm -v my_volume:/data -v $(pwd):/backup busybox tar xzf /backup/backup.tar.gz -C /data
+```
 
 ---
 
-## 🐙 8. Docker Compose
+## 🚀 18. Docker Build Context, Multi-Stage Builds & Optimization
 
-### What is Docker Compose?
-- **1-Line Definition:** A tool for defining and running multi-container Docker applications using a single YAML file (`docker-compose.yml`).
-- **Advantage:** Launch a complete application (Frontend + Backend + PostgreSQL + Redis) with one command (`docker compose up -d`).
+### 18.1 Build Context & `.dockerignore`
+When you run `docker build -t app .`, the dot (`.`) represents the **Build Context**. The CLI sends every file in that directory to the Docker daemon.
+- Without `.dockerignore`: Docker uploads `node_modules`, `.git`, and logs (**150+ MB build context!**).
+- With `.dockerignore`: Build context shrinks to **~50 KB**, speeding up builds by 10x!
 
-### Sample `docker-compose.yml`:
+### Production `.dockerignore`:
+```text
+node_modules/
+.git/
+.gitignore
+.env
+.env.*
+logs/
+*.log
+coverage/
+Dockerfile
+.dockerignore
+```
+
+---
+
+## 🐙 19. Docker Compose: Multi-Container Orchestration & Full Todo App Project
+
+Docker Compose manages multi-container stacks via a declarative YAML file (`docker-compose.yml`).
+
+### Complete Production Project: Todo API + PostgreSQL + Redis
 ```yaml
-version: '3.8'
+version: "3.8"
 
 services:
-  web:
-    image: nginx:alpine
+  # ── Backend Node.js API ───────────────────────────────────────────────────
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
     ports:
-      - "80:80"
-    depends_on:
-      - api
-    restart: always
-
-  api:
-    build: ./api
+      - "5000:5000"
     environment:
-      - DB_HOST=db
-      - DB_PORT=5432
-    depends_on:
-      - db
-
-  db:
-    image: postgres:16-alpine
-    environment:
-      POSTGRES_DB: appdb
-      POSTGRES_PASSWORD: secretpassword
+      - DATABASE_URL=postgres://todouser:todopassword@db:5432/tododb
+      - REDIS_URL=redis://cache:6379
     volumes:
-      - pgdata:/var/lib/postgresql/data
+      - ./backend/src:/app/src
+    networks:
+      - todo_network
+    depends_on:
+      db:
+        condition: service_healthy    # Waits until Postgres is fully ready!
+      cache:
+        condition: service_started
+    restart: unless-stopped
+
+  # ── PostgreSQL Database ───────────────────────────────────────────────────
+  db:
+    image: postgres:15-alpine
+    environment:
+      POSTGRES_USER: todouser
+      POSTGRES_PASSWORD: todopassword
+      POSTGRES_DB: tododb
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+    networks:
+      - todo_network
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U todouser -d tododb"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  # ── Redis Cache ───────────────────────────────────────────────────────────
+  cache:
+    image: redis:7-alpine
+    command: redis-server --appendonly yes
+    volumes:
+      - redis_data:/data
+    networks:
+      - todo_network
+
+networks:
+  todo_network:
+    driver: bridge
 
 volumes:
-  pgdata:
+  postgres_data:
+  redis_data:
 ```
 
-### Essential Docker Compose Commands:
-- `docker compose up -d`: Builds, creates, and starts all services in the background.
-- `docker compose down`: Stops and deletes all containers and virtual networks created by the file.
-- `docker compose down -v`: Deletes containers, networks, AND named storage volumes.
-- `docker compose ps`: Shows the status and ports of all services in this compose project.
-- `docker compose logs -f`: Streams live unified logs from all services simultaneously.
-- `docker compose restart`: Restarts all containers.
+### Essential Compose Lifecycle Commands:
+```bash
+docker compose up -d --build     # Build images and start all containers in background
+docker compose ps                # Check status and health of services
+docker compose logs -f backend   # Follow backend service logs
+docker compose exec db psql -U todouser -d tododb  # Open database shell
+docker compose up -d --scale backend=3             # Scale backend to 3 instances!
+docker compose down -v           # Stop and remove containers, networks, AND volumes
+```
+
+---
+
+## 🐝 20. Docker Swarm: Production Clustering & Orchestration Guide
+
+Docker Swarm is Docker's native clustering and orchestration engine. It groups multiple Docker hosts into a single virtual cluster.
+
+```text
+┌────────────────────────────────────────────────────────┐
+│                      DOCKER SWARM                      │
+│                                                        │
+│   MANAGER NODES (Raft Consensus: 1, 3, 5, or 7 nodes)  │
+│   ┌──────────────┐     ┌──────────────┐                │
+│   │  Manager 1   │◄───►│  Manager 2   │ (Fault Tolerant│
+│   │   (Leader)   │     │  (Follower)  │  Raft Cluster) │
+│   └──────┬───────┘     └──────────────┘                │
+│          │ Assigns container tasks                     │
+│          ▼                                             │
+│   WORKER NODES (Execute application containers)        │
+│   ┌──────────────┐     ┌──────────────┐                │
+│   │   Worker 1   │     │   Worker 2   │                │
+│   │ [Task][Task] │     │ [Task][Task] │                │
+│   └──────────────┘     └──────────────┘                │
+└────────────────────────────────────────────────────────┘
+```
+
+### 20.1 Setting Up a Swarm:
+```bash
+# Step 1: Initialize Swarm on Manager Node
+docker swarm init --advertise-addr 192.168.1.10
+
+# Step 2: Get Join Tokens
+docker swarm join-token worker
+docker swarm join-token manager
+
+# Step 3: Run on Worker Node
+docker swarm join --token <TOKEN> 192.168.1.10:2377
+
+# Step 4: Verify Cluster
+docker node ls
+```
+
+### 20.2 Services, Scaling & Rolling Updates:
+```bash
+# Create replicated service (3 replicas)
+docker service create --name web --replicas 3 -p 80:80 nginx:latest
+
+# Scale service up or down instantly
+docker service scale web=5
+
+# Zero-downtime rolling update (1 at a time, 10s delay)
+docker service update --image nginx:1.25 --update-parallelism 1 --update-delay 10s web
+
+# Rollback update if errors occur
+docker service rollback web
+```
+
+### 20.3 Deploying Stacks & Maintenance:
+```bash
+# Deploy full Compose file as a Swarm Stack
+docker stack deploy -c docker-compose.yml myapp
+
+# Drain node for host maintenance (automatically moves containers with zero downtime!)
+docker node update --availability drain worker1
+
+# Re-activate node after maintenance
+docker node update --availability active worker1
+```
+
+### Swarm vs. Kubernetes Quick Comparison:
+| Feature | Docker Swarm | Kubernetes (K8s) |
+| :--- | :--- | :--- |
+| **Setup Complexity** | Simple (runs in 2 minutes out-of-the-box). | Complex (requires hours/days of setup). |
+| **Learning Curve** | Gentle; uses standard Docker CLI. | Steep; large ecosystem of objects and CRDs. |
+| **Auto-scaling** | Manual scaling via CLI/Compose. | Horizontal Pod Autoscaler (HPA) automatic. |
+| **Load Balancing** | Built-in routing mesh. | Ingress controllers + Service VIPs. |
+| **Best Used For** | Small-to-medium teams, simple microservices. | Large enterprise, highly dynamic distributed platforms. |
+
+---
+
+## ❓ 21. Quick Revision Quiz & Real-World DevOps Interview Questions
+
+1. **What is the difference between an image and a container?**
+   - *Answer:* An image is an immutable, read-only template containing code, libraries, and runtime. A container is a running, isolated process instance created from that image.
+2. **What is the difference between `CMD` and `ENTRYPOINT`?**
+   - *Answer:* `ENTRYPOINT` specifies the fixed executable that always runs. `CMD` provides default parameters that can be overridden by arguments passed to `docker run`.
+3. **Why should containers never run as the `root` user in production?**
+   - *Answer:* To enforce the Principle of Least Privilege. If an application suffers a remote code execution vulnerability, running as a non-root user prevents host file tampering and drastically limits container escape risks.
+4. **How do containers communicate by name in Docker?**
+   - *Answer:* By attaching containers to a **user-defined custom bridge network**, which activates Docker's built-in DNS server for automatic service discovery.
+5. **What is the difference between a bind mount and a named volume?**
+   - *Answer:* Bind mounts map an exact host filesystem directory into the container (great for dev hot-reloading). Named volumes are fully managed by Docker inside `/var/lib/docker/volumes/` and are portable and safe for production databases.
 
 ---
 
