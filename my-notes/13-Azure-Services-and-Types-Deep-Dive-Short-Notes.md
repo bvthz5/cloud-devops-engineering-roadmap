@@ -189,6 +189,50 @@ Azure has 4 distinct traffic distribution services:
 
 ---
 
+
+---
+
+## 🧭 8. Azure Storage, Replication & ADLS Gen2 Master Summary
+
+| Storage Primitive | Supported Protocols | Replication Types | Kids-Mind Analogy & Key Fact |
+| :--- | :--- | :--- | :--- |
+| **GPv2 Storage Account** | Blob, Files, Queues, Tables, ADLS Gen2 | LRS, ZRS, GRS, GZRS, RA-GRS, RA-GZRS | Standard master storage container. Supports Hot, Cool, Cold, and Archive tiers. |
+| **Premium Storage** | Block Blobs, Files, or Page Blobs | LRS, ZRS only | Ultra-fast SSD. **No Archive tier and single-region only!** |
+| **ADLS Gen2** | ABFS (`abfs://`), REST, POSIX ACLs | Same as GPv2 | **GPv2 + Hierarchical Namespace (HNS)**. Folder renames are $O(1)$ atomic metadata updates instead of slow $O(n)$ copy-deletes. |
+| **Azure Files** | SMB 3.0 (Port 445), NFS 4.1 (Port 2049) | LRS, ZRS, GRS, GZRS | Fully mountable shared folder. On-premise SMB requires VPN/ExpressRoute due to ISP Port 445 blocking. |
+
+### 📊 Storage Replication & Durability Reference:
+- **LRS (Locally Redundant):** 3 copies in 1 datacenter. 11 Nines (`99.999999999%`) durability.
+- **ZRS (Zone Redundant):** 3 copies across 3 separate Availability Zones in 1 region. 12 Nines durability.
+- **GRS / GZRS:** 6 copies across 2 paired regions. 16 Nines durability.
+- **RA-GRS / RA-GZRS:** 6 copies + secondary read-only endpoint (`https://<acct>-secondary.blob.core.windows.net`) is always available!
+- **Failover:** Customer-initiated account failover converts secondary into primary and resets replication to LRS.
+
+---
+
+## 🛡️ 9. Azure Networking, NSG, ASG, Load Balancer & Traffic Manager
+
+| Networking Tool | Layer | Priority / Mechanics | Best Use Case |
+| :--- | :---: | :--- | :--- |
+| **Network Security Group (NSG)** | Layer 4 | **Priority 100–4096** (Lower = higher priority). **Stateful** (Return traffic automatically allowed). Default rules: 65000 (VNet allow), 65001 (Azure LB allow), 65500 (DenyAll). | Virtual firewall filtering inbound/outbound packets on Subnets and NICs. |
+| **Application Security Group (ASG)** | Logical | Groups VM NICs logically (e.g., `asg-web`, `asg-db`). | Eliminates hardcoded IP address clutter in NSG rules. |
+| **Azure Load Balancer** | Layer 4 | TCP/UDP distribution using 5-tuple hash. Standard SKU is zone-redundant with 99.99% SLA. Requires explicit NSG allow rule. | High-throughput regional packet distribution across backend VMs. |
+| **Application Gateway** | Layer 7 | HTTP/HTTPS inspection, URL path routing (`/api/*`), SSL termination, WAF v2 OWASP CRS 3.2, cookie affinity. | Regional web application front-door with dedicated subnet. |
+| **Traffic Manager** | DNS | DNS-based global traffic routing across regions. 6 methods: Performance, Priority, Weighted, Geographic, Multivalue, Subnet. | Global multi-region high availability and DR routing. |
+
+---
+
+## 🗄️ 10. Azure Databases & In-Memory Caching Master Summary
+
+| Database Service | Engine & Model | High Availability & Resilience | Interview Key Takeaway |
+| :--- | :--- | :--- | :--- |
+| **Azure SQL Database** | Managed SQL Server PaaS | Active Geo-Replication (up to 4 secondaries) & Auto-Failover Groups (RPO < 5s, RTO < 60s). LTR up to 10 years. | Choose vCore model for Azure Hybrid Benefit and Serverless auto-pause. |
+| **Azure Cosmos DB** | Multi-Model NoSQL (NoSQL, Mongo, Cassandra, Gremlin, Table) | Turnkey global distribution, 99.999% SLA, multi-region active writes. 5 Consistency levels: Strong, Bounded Staleness, Session, Consistent Prefix, Eventual. | Request Units (RU/s): 1 KB point read = 1 RU, write = 5 RU. Partition key requires high cardinality and even distribution to avoid HTTP 429 throttling. |
+| **PostgreSQL & MySQL Flexible** | Fully Managed Open-Source | Zone-Redundant HA with synchronous replication ($RPO=0$), automatic failover in 60–120s ($RTO$). | Migrate on-premise databases with minimal downtime using Azure DMS with CDC. |
+| **Azure Cache for Redis** | In-Memory Key-Value | Premium tier supports clustering (10 shards), VNet injection, and RDB/AOF data persistence. | Implement Cache-Aside pattern (Lazy Loading). Resolve low hit rates with `allkeys-lru` eviction policy. |
+
+---
+
 | Previous | Index | Next |
 | :--- | :---: | ---: |
 | [← AWS Services & Types Short Notes](./12-AWS-Services-and-Types-Deep-Dive-Short-Notes.md) | [Index](../README.md) | [Web Servers & Reverse Proxies Short Notes →](./14-Web-Servers-and-Reverse-Proxies-Short-Notes.md) |
