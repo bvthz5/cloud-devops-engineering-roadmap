@@ -1,8 +1,14 @@
-# 12 - Quick Revision: Cloud Fundamentals Cheat Sheet
+# 12 - Quick Revision Cheat Sheet: Cloud Fundamentals & Economics
 
-- IaaS: Vendor provides Hardware/Virtualization; You manage OS/Apps.
-- PaaS: Vendor provides OS/Runtime; You manage Code/Data.
-- SaaS: Vendor manages entire application end-to-end.
+| Concept | High-Speed Exam Summary |
+| :--- | :--- |
+| **Cloud Computing** | On-demand delivery of IT resources over the internet with pay-as-you-go pricing. |
+| **5 NIST Characteristics** | On-demand self-service, broad network access, resource pooling, rapid elasticity, measured service. |
+| **IaaS vs PaaS vs SaaS** | IaaS = raw virtual hardware (EC2); PaaS = managed runtime (Beanstalk/RDS); SaaS = finished app (M365). |
+| **Shared Responsibility** | AWS = Security **OF** the cloud; Customer = Security **IN** the cloud. |
+| **CapEx vs OpEx** | CapEx = upfront physical asset investment; OpEx = ongoing variable operational expenses. |
+| **FinOps Cycle** | Inform $ightarrow$ Optimize $ightarrow$ Operate. |
+| **Graviton Benefits** | ARM64 CPU delivering up to 40% price-performance improvements over x86. |
 
 ---
 
