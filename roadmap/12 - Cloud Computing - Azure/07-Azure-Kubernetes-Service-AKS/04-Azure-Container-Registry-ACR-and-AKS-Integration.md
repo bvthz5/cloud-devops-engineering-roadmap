@@ -1,8 +1,24 @@
-# 04 - Azure Container Registry (ACR) Integration
+# 04 - Azure Container Registry (ACR) & Native AKS Integration
 
-Attach ACR to AKS cluster for seamless image pulling:
+> **Focus:** Private Docker image registry, SKUs (Basic, Standard, Premium), automated security scanning via Defender, and passwordless `--attach-acr` integration.
+
+---
+
+## 📦 1. Azure Container Registry (ACR) Architecture
+
 ```bash
-az aks update -n myAKSCluster -g myResourceGroup --attach-acr myACRRegistry
+# 1. Create Azure Container Registry (Standard SKU)
+az acr create \
+  --resource-group rg-containers \
+  --name contosoregistryprod \
+  --sku Standard
+
+# 2. Attach ACR to AKS without managing image pull secrets!
+# (Grants AcrPull role to AKS Kubelet Managed Identity automatically)
+az aks update \
+  --resource-group rg-containers \
+  --name aks-production-cluster \
+  --attach-acr contosoregistryprod
 ```
 
 ---
