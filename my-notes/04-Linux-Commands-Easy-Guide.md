@@ -554,4 +554,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← Notes Index](./00-Index.md) | [Index](../README.md) | [Windows & PowerShell Easy Guide →](./02-Windows-PowerShell-CMD-Easy-Guide.md) |
+| [← OS, Kernel, Processes & Permissions](./03-OS-Kernel-Processes-Files-Permissions-Easy-Guide.md) | [Index](../README.md) | [Windows & PowerShell Easy Guide →](./05-Windows-PowerShell-CMD-Easy-Guide.md) |

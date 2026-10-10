@@ -241,4 +241,4 @@ IAM controls WHO can access WHAT resources in your cloud account.
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← Kubernetes (K8s) Short Notes](./05-Kubernetes-K8s-Short-Notes.md) | [Index](../README.md) | [Git & CI/CD Short Notes →](./07-Git-and-CICD-Short-Notes.md) |
+| [← Kubernetes (K8s) Short Notes](./08-Kubernetes-K8s-Short-Notes.md) | [Index](../README.md) | [Git & CI/CD Short Notes →](./10-Git-and-CICD-Short-Notes.md) |

@@ -1,4 +1,4 @@
-# 05 - Storage Technologies & Storage I/O Subsystems
+# 06 - Storage Technologies & Storage I/O Subsystems
 
 ---
 
@@ -89,4 +89,4 @@ $$\text{Throughput (Bytes/sec)} = \text{IOPS} \times \text{I/O Block Size (Bytes
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← 04 - Virtual Memory Paging and MMU](./04-Virtual-Memory-Paging-and-MMU.md) | [Index](../../../README.md) | [06 - Motherboard Buses and Peripherals →](./06-Motherboard-Buses-and-Peripherals.md) |
+| [← 05 - Virtual Memory, Paging, TLB & MMU](./05-Virtual-Memory-Paging-and-MMU.md) | [Index](../../../README.md) | [07 - Motherboards, Buses, GPUs, NICs, DMA & Interrupts →](./07-Motherboard-Buses-and-Peripherals.md) |

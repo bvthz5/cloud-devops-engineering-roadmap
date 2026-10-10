@@ -1,4 +1,4 @@
-# 13 — Multiple Choice Questions (Self-Assessment)
+# 14 — Multiple Choice Questions (Self-Assessment)
 
 Test your mastery of Computer Hardware and Architecture. Each question contains four options and an expandable answer with deep technical explanation.
 
@@ -186,4 +186,4 @@ Test your mastery of Computer Hardware and Architecture. Each question contains 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← 12 - Hands On Practice](./12-Hands-On-Practice.md) | [Index](../../../README.md) | [14 - Quick Revision →](./14-Quick-Revision.md) |
+| [← 13 — Hands-On Practice Labs: Hardware & Architecture](./13-Hands-On-Practice.md) | [Index](../../../README.md) | [15 — Quick Revision & Reference Cheat Sheet →](./15-Quick-Revision.md) |

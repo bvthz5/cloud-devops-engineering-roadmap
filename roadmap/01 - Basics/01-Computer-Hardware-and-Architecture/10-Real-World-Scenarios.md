@@ -1,4 +1,4 @@
-# 09 — Real-World DevOps & Cloud Infrastructure Scenarios
+# 10 — Real-World DevOps & Cloud Infrastructure Scenarios
 
 Hardware and architecture understanding is not just theoretical computer science—it directly determines infrastructure costs, application latency, reliability, and security in production cloud systems. Below are real-world enterprise scenarios where hardware knowledge is critical for DevOps/SRE engineers.
 
@@ -199,4 +199,4 @@ nvme1n1  0.00 3000.00      0.00 125000.00   45.20  82.10 100.00
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← 08 - Virtualization Hypervisors and Containers](./08-Virtualization-Hypervisors-and-Containers.md) | [Index](../../../README.md) | [10 - Troubleshooting →](./10-Troubleshooting.md) |
+| [← 09 - Hardware Virtualization, Hypervisors & Containers](./09-Virtualization-Hypervisors-and-Containers.md) | [Index](../../../README.md) | [11 — Hardware & Architecture Troubleshooting Guide →](./11-Troubleshooting.md) |

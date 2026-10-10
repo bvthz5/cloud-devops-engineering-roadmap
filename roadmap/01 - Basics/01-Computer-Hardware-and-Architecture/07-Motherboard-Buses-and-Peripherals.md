@@ -1,4 +1,4 @@
-# 06 - Motherboards, Buses, GPUs, NICs, DMA & Interrupts
+# 07 - Motherboards, Buses, GPUs, NICs, DMA & Interrupts
 
 ---
 
@@ -109,4 +109,4 @@ DMA is specialized hardware inside peripherals (or chipset controllers) that per
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← 05 - Storage Technologies and IO Subsystems](./05-Storage-Technologies-and-IO-Subsystems.md) | [Index](../../../README.md) | [07 - Firmware BIOS UEFI and Boot Process →](./07-Firmware-BIOS-UEFI-and-Boot-Process.md) |
+| [← 06 - Storage Technologies & Storage I/O Subsystems](./06-Storage-Technologies-and-IO-Subsystems.md) | [Index](../../../README.md) | [08 - Firmware, BIOS, UEFI & System Boot Process →](./08-Firmware-BIOS-UEFI-and-Boot-Process.md) |

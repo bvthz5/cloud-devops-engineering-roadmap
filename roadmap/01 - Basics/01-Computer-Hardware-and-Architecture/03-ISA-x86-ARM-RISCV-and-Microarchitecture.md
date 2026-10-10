@@ -1,4 +1,4 @@
-# 02 - ISA, x86-64, ARM64, RISC-V & Microarchitecture
+# 03 - ISA, x86-64, ARM64, RISC-V & Microarchitecture
 
 ---
 
@@ -114,4 +114,4 @@ This produces an **OCI Image Index (Manifest List)** that enables Docker/Kuberne
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← 01 - Computer Architecture and CPU Fundamentals](./01-Computer-Architecture-and-CPU-Fundamentals.md) | [Index](../../../README.md) | [03 - CPU Cache Hierarchy and Memory Subsystems →](./03-CPU-Cache-Hierarchy-and-Memory-Subsystems.md) |
+| [← 02 — CPU, GPU, TPU, NPU & AI Accelerators Architecture](./02-CPU-GPU-TPU-and-AI-Accelerators-Architecture.md) | [Index](../../../README.md) | [04 - CPU Cache Hierarchy & Memory Subsystems →](./04-CPU-Cache-Hierarchy-and-Memory-Subsystems.md) |

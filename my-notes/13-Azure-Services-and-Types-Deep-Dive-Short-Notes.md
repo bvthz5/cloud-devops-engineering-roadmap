@@ -191,4 +191,4 @@ Azure has 4 distinct traffic distribution services:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← AWS Services & Types Short Notes](./09-AWS-Services-and-Types-Deep-Dive-Short-Notes.md) | [Index](../README.md) | [Web Servers & Reverse Proxies Short Notes →](./11-Web-Servers-and-Reverse-Proxies-Short-Notes.md) |
+| [← AWS Services & Types Short Notes](./12-AWS-Services-and-Types-Deep-Dive-Short-Notes.md) | [Index](../README.md) | [Web Servers & Reverse Proxies Short Notes →](./14-Web-Servers-and-Reverse-Proxies-Short-Notes.md) |

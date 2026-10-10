@@ -25,7 +25,7 @@ Welcome to the **Cloud & DevOps Engineering Roadmap** — a battle-tested, struc
 
 Whether you are preparing for senior engineering interviews, architecting cloud-native platforms, or automating day-2 operations, this repository provides **in-depth theory, production-grade configuration files, incident post-mortems, and rapid revision cheat sheets**.
 
-> ⚡ **Quick-Revision Short Notes (Kids-Mind Style):** In a rush or preparing for interviews? Check out our dedicated [📓 DevOps & Cloud Short Notes Hub](my-notes/00-Index.md) featuring 14 easy-to-understand, 1-line definition study guides covering Linux, Windows, Networking, Docker, K8s, AWS & Azure types, Web Servers, Observability, DevSecOps, and SRE/GitOps!
+> ⚡ **Quick-Revision Short Notes (Kids-Mind Style):** In a rush or preparing for interviews? Check out our dedicated [📓 DevOps & Cloud Short Notes Hub](my-notes/00-Index.md) featuring 17 easy-to-understand, 1-line definition study guides covering DevOps Zero-to-Hero, Hardware (CPU/GPU/TPU), OS & Kernel, Linux, Windows, Networking, Docker, K8s, AWS & Azure types, Web Servers, Observability, DevSecOps, and SRE/GitOps!
 
 ---
 
@@ -67,7 +67,7 @@ Click on any stage below to jump straight to its modules, deep-dive lessons, and
 
 | # | Domain Stage | Direct Path | Modules | Core Technologies & Highlights |
 |:---:|:---|:---:|:---:|:---|
-| **01** | **Computer Hardware & Architecture** | [Explore `01 - Basics`](roadmap/01%20-%20Basics/) | **8** | CPU microarchitecture, x86/ARM, Memory caching, Virtual memory, Storage subsystems |
+| **01** | **Computer Hardware & Architecture** | [Explore `01 - Basics`](roadmap/01%20-%20Basics/) | **8** | CPU animated cycle, CPU vs GPU vs TPU/NPU/DPU, x86/ARM, Cache hierarchy, Virtual memory, Storage |
 | **02** | **Linux & Systems Engineering** | [Explore `02 - Linux`](roadmap/02%20-%20Linux/) | **33** | FHS, Kernel internals, systemd, Storage/LVM, eBPF, Package managers, Let's Encrypt |
 | **03** | **Computer Networking & Protocols** | [Explore `03 - Networking`](roadmap/03%20-%20Networking/) | **14** | OSI 7-layer, Subnetting/CIDR, DNS, HTTP/3 & QUIC, BGP Routing, Overlay CNI, Firewalls |
 | **04** | **Git & Version Control** | [Explore `04 - Git & Version Control`](roadmap/04%20-%20Git%20&%20Version%20Control/) | **11** | Git internals & plumbing, Trunk-based vs GitFlow, Hooks, Conflict triage, Monorepos |
@@ -139,15 +139,18 @@ Every single guide in this repository contains a synchronized navigation header 
 ## 📓 Kids-Mind Short Notes & Rapid Study Hub
 
 Supercharge your revision with our high-yield, 1-line plain language cheat sheets with real-world analogies, command breakdowns, and screen outputs:
-- 🐧 **[`01 - Linux Commands, Links & Inodes`](my-notes/01-Linux-Commands-Easy-Guide.md)**: Files, soft/hard links (`ln`, `ln -s`), permissions, systemctl, tar.
-- 🪟 **[`02 - Windows CMD & PowerShell`](my-notes/02-Windows-PowerShell-CMD-Easy-Guide.md)**: `ipconfig /all`, DNS flushing, taskkill, and PowerShell cmdlets.
-- 🌐 **[`03 - Networking, OSI Model & Port Numbers`](my-notes/03-Networking-Commands-and-Concepts-Easy-Guide.md)**: OSI 7 Layers, TCP handshake, CIDR, `ip addr`, and 40+ master ports.
-- 🐳 **[`04 - Docker & Containers`](my-notes/04-Docker-and-Containers-Short-Notes.md)**: Images, containers, build, run, prune, port mapping, Dockerfile, Compose.
-- ☸️ **[`05 - Kubernetes (K8s)`](my-notes/05-Kubernetes-K8s-Short-Notes.md)**: Pods, Deployments, Services, Ingress, RBAC, Helm, and `kubectl` screen outputs.
-- ☁️ **[`06 - Cloud Computing (AWS, Azure, GCP)`](my-notes/06-Cloud-Computing-AWS-Azure-GCP-Short-Notes.md)**: Compute, S3/Storage, VPC, Subnets, NAT, IAM, and FinOps.
-- 🔀 **[`07 - Git & CI/CD Pipelines`](my-notes/07-Git-and-CICD-Short-Notes.md)**: 4 Git areas, branching, merge/rebase, stash, and GitHub Actions workflows.
-- 🏗️ **[`08 - Terraform & Ansible (IaC)`](my-notes/08-Terraform-and-Ansible-IaC-Short-Notes.md)**: HCL, State, Plan/Apply, Ansible Playbooks, Roles, and Vault.
-- 📑 **[`Explore Master Notes Index`](my-notes/00-Index.md)**: Full table of contents and study tracker.
+- 🚀 **[`01 - DevOps Roadmap & Course Overview`](my-notes/01-DevOps-Zero-to-Hero-Roadmap-and-Course-Overview.md)**: Dev vs Ops, shopping app example, 12-phase curriculum, CI/CD.
+- 🖥️ **[`02 - Hardware, CPU, GPU, TPU & Units`](my-notes/02-Computer-Foundations-Hardware-CPU-GPU-TPU-Binary-Easy-Guide.md)**: CPU animated cycle, CPU vs GPU vs TPU/NPU, RAM, bits/bytes, KB vs KiB.
+- 🎛️ **[`03 - OS, Kernel, Processes & Permissions`](my-notes/03-OS-Kernel-Processes-Files-Permissions-Easy-Guide.md)**: Kernel, syscalls, processes/threads, `systemctl`, `chmod 755`, SGID.
+- 🐧 **[`04 - Linux Commands, Links & Inodes`](my-notes/04-Linux-Commands-Easy-Guide.md)**: Files, soft/hard links (`ln`, `ln -s`), permissions, systemctl, tar.
+- 🪟 **[`05 - Windows CMD & PowerShell`](my-notes/05-Windows-PowerShell-CMD-Easy-Guide.md)**: `ipconfig /all`, DNS flushing, taskkill, and PowerShell cmdlets.
+- 🌐 **[`06 - Networking, OSI Model & Port Numbers`](my-notes/06-Networking-Commands-and-Concepts-Easy-Guide.md)**: OSI 7 Layers, TCP handshake, CIDR, `ip addr`, and 40+ master ports.
+- 🐳 **[`07 - Docker & Containers`](my-notes/07-Docker-and-Containers-Short-Notes.md)**: Images, containers, build, run, prune, port mapping, Dockerfile, Compose.
+- ☸️ **[`08 - Kubernetes (K8s)`](my-notes/08-Kubernetes-K8s-Short-Notes.md)**: Pods, Deployments, Services, Ingress, RBAC, Helm, and `kubectl` screen outputs.
+- ☁️ **[`09 - Cloud Computing (AWS, Azure, GCP)`](my-notes/09-Cloud-Computing-AWS-Azure-GCP-Short-Notes.md)**: Compute, S3/Storage, VPC, Subnets, NAT, IAM, and FinOps.
+- 🔀 **[`10 - Git & CI/CD Pipelines`](my-notes/10-Git-and-CICD-Short-Notes.md)**: 4 Git areas, branching, merge/rebase, stash, and GitHub Actions workflows.
+- 🏗️ **[`11 - Terraform & Ansible (IaC)`](my-notes/11-Terraform-and-Ansible-IaC-Short-Notes.md)**: HCL, State, Plan/Apply, Ansible Playbooks, Roles, and Vault.
+- 📑 **[`Explore Master Notes Index (All 17 Guides)`](my-notes/00-Index.md)**: Full table of contents and study tracker.
 
 ---
 

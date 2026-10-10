@@ -274,4 +274,4 @@ jobs:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← Cloud Computing (AWS/Azure/GCP) Short Notes](./06-Cloud-Computing-AWS-Azure-GCP-Short-Notes.md) | [Index](../README.md) | [Terraform & Ansible (IaC) Short Notes →](./08-Terraform-and-Ansible-IaC-Short-Notes.md) |
+| [← Cloud Computing (AWS/Azure/GCP) Short Notes](./09-Cloud-Computing-AWS-Azure-GCP-Short-Notes.md) | [Index](../README.md) | [Terraform & Ansible (IaC) Short Notes →](./11-Terraform-and-Ansible-IaC-Short-Notes.md) |

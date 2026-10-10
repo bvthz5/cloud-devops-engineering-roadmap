@@ -1,4 +1,4 @@
-# 12 — Hands-On Practice Labs: Hardware & Architecture
+# 13 — Hands-On Practice Labs: Hardware & Architecture
 
 Practical, command-driven laboratory exercises to inspect, profile, benchmark, and troubleshoot hardware subsystems on Linux servers.
 
@@ -199,4 +199,4 @@ virt-host-validate
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← 11 - Interview QA](./11-Interview-QA.md) | [Index](../../../README.md) | [13 - MCQ →](./13-MCQ.md) |
+| [← 12 — Technical Interview Questions & Answers (Junior to Staff SRE)](./12-Interview-QA.md) | [Index](../../../README.md) | [14 — Multiple Choice Questions (Self-Assessment) →](./14-MCQ.md) |

@@ -1,4 +1,4 @@
-# 07 - Firmware, BIOS, UEFI & System Boot Process
+# 08 - Firmware, BIOS, UEFI & System Boot Process
 
 ---
 
@@ -72,4 +72,4 @@ Understanding the physical boot sequence is vital for bare-metal cloud provision
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← 06 - Motherboard Buses and Peripherals](./06-Motherboard-Buses-and-Peripherals.md) | [Index](../../../README.md) | [08 - Virtualization Hypervisors and Containers →](./08-Virtualization-Hypervisors-and-Containers.md) |
+| [← 07 - Motherboards, Buses, GPUs, NICs, DMA & Interrupts](./07-Motherboard-Buses-and-Peripherals.md) | [Index](../../../README.md) | [09 - Hardware Virtualization, Hypervisors & Containers →](./09-Virtualization-Hypervisors-and-Containers.md) |

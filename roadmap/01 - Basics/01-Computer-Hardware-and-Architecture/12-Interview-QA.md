@@ -1,4 +1,4 @@
-# 11 — Technical Interview Questions & Answers (Junior to Staff SRE)
+# 12 — Technical Interview Questions & Answers (Junior to Staff SRE)
 
 A rigorous compilation of technical interview questions testing hardware, CPU microarchitecture, memory hierarchies, storage buses, and virtualization from Junior DevOps to Senior/Staff Site Reliability Engineering levels.
 
@@ -159,4 +159,4 @@ When the OS scheduler halts Process A to run Process B:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← 10 - Troubleshooting](./10-Troubleshooting.md) | [Index](../../../README.md) | [12 - Hands On Practice →](./12-Hands-On-Practice.md) |
+| [← 11 — Hardware & Architecture Troubleshooting Guide](./11-Troubleshooting.md) | [Index](../../../README.md) | [13 — Hands-On Practice Labs: Hardware & Architecture →](./13-Hands-On-Practice.md) |

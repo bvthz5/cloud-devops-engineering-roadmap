@@ -1,4 +1,4 @@
-# 10 — Hardware & Architecture Troubleshooting Guide
+# 11 — Hardware & Architecture Troubleshooting Guide
 
 This guide provides systematic, production-tested troubleshooting procedures for hardware-related bottlenecks, hypervisor resource starvation, memory bus congestion, and architecture mismatches.
 
@@ -239,4 +239,4 @@ sensors
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← 09 - Real World Scenarios](./09-Real-World-Scenarios.md) | [Index](../../../README.md) | [11 - Interview QA →](./11-Interview-QA.md) |
+| [← 10 — Real-World DevOps & Cloud Infrastructure Scenarios](./10-Real-World-Scenarios.md) | [Index](../../../README.md) | [12 — Technical Interview Questions & Answers (Junior to Staff SRE) →](./12-Interview-QA.md) |

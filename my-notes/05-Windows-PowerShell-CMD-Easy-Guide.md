@@ -176,4 +176,4 @@
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← Linux Commands Easy Guide](./01-Linux-Commands-Easy-Guide.md) | [Index](../README.md) | [Networking Commands & Concepts Easy Guide →](./03-Networking-Commands-and-Concepts-Easy-Guide.md) |
+| [← Linux Commands Easy Guide](./04-Linux-Commands-Easy-Guide.md) | [Index](../README.md) | [Networking Commands & Concepts Easy Guide →](./06-Networking-Commands-and-Concepts-Easy-Guide.md) |

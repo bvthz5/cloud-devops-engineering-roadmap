@@ -199,4 +199,4 @@ IAM policies define permissions. AWS supports 6 distinct types:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← Terraform & Ansible (IaC) Short Notes](./08-Terraform-and-Ansible-IaC-Short-Notes.md) | [Index](../README.md) | [Azure Services & Types Short Notes →](./10-Azure-Services-and-Types-Deep-Dive-Short-Notes.md) |
+| [← Terraform & Ansible (IaC) Short Notes](./11-Terraform-and-Ansible-IaC-Short-Notes.md) | [Index](../README.md) | [Azure Services & Types Short Notes →](./13-Azure-Services-and-Types-Deep-Dive-Short-Notes.md) |

@@ -92,4 +92,4 @@ CMD ["server.js"]
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← Monitoring, Logging & Observability Short Notes](./12-Monitoring-Logging-and-Observability-Short-Notes.md) | [Index](../README.md) | [SRE, GitOps & Production Reliability Short Notes →](./14-SRE-GitOps-and-Reliability-Short-Notes.md) |
+| [← Monitoring, Logging & Observability Short Notes](./15-Monitoring-Logging-and-Observability-Short-Notes.md) | [Index](../README.md) | [SRE, GitOps & Production Reliability Short Notes →](./17-SRE-GitOps-and-Reliability-Short-Notes.md) |

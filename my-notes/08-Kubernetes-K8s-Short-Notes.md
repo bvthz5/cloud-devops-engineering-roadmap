@@ -267,4 +267,4 @@ kubectl uncordon node-1
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← Docker Short Notes](./04-Docker-and-Containers-Short-Notes.md) | [Index](../README.md) | [Cloud Computing (AWS/Azure/GCP) Short Notes →](./06-Cloud-Computing-AWS-Azure-GCP-Short-Notes.md) |
+| [← Docker & Containers Short Notes](./07-Docker-and-Containers-Short-Notes.md) | [Index](../README.md) | [Cloud Computing (AWS/Azure/GCP) Short Notes →](./09-Cloud-Computing-AWS-Azure-GCP-Short-Notes.md) |

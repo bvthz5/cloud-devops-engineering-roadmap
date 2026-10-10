@@ -205,8 +205,102 @@ Every machine instruction executed by your server passes through five fundamenta
 4. **Memory Access (MEM):** If the instruction reads or writes RAM (`mov [rax], rbx`), data passes through the load/store unit.
 5. **Writeback (WB):** The final computational result is committed back into the target destination register.
 
+### 🎬 Animated Step-by-Step Execution Timeline (Clock-Cycle by Clock-Cycle)
+
+Here is how a machine command like `ADD R1, R2` (Add Register 2 into Register 1) travels through the CPU pipeline across clock ticks:
+
+```text
+Clock Cycle 1: [FETCH]
+┌──────────────────────────────────────────────────────────────┐
+│ Program Counter (PC: 0x400100) ──► Sends Address to RAM/L1   │
+│ RAM/L1 Cache returns Opcode: 0x01D1 ("ADD R1, R2")           │
+│ Instruction Register (IR) holds: [ 0x01D1 ]                  │
+│ PC increments to: 0x400104 (ready for next instruction)      │
+└──────────────────────────────────────────────────────────────┘
+                             │
+                             ▼
+Clock Cycle 2: [DECODE]
+┌──────────────────────────────────────────────────────────────┐
+│ Control Unit analyzes Opcode (0x01D1):                       │
+│ - Operation: ADD                                             │
+│ - Source A: R1 (value: 45)                                   │
+│ - Source B: R2 (value: 55)                                   │
+│ Control Unit activates internal wiring to route R1 & R2 to ALU│
+└──────────────────────────────────────────────────────────────┘
+                             │
+                             ▼
+Clock Cycle 3: [EXECUTE]
+┌──────────────────────────────────────────────────────────────┐
+│ Arithmetic Logic Unit (ALU):                                 │
+│          ┌─────────┐                                         │
+│ R1 (45) ─┤         │                                         │
+│          │   ALU   ├─► Result = 100                          │
+│ R2 (55) ─┤  (ADD)  │   Flags: Zero=0, Overflow=0, Carry=0    │
+│          └─────────┘                                         │
+└──────────────────────────────────────────────────────────────┘
+                             │
+                             ▼
+Clock Cycle 4: [MEMORY (Optional)]
+┌──────────────────────────────────────────────────────────────┐
+│ (For this register-only instruction, Memory stage is bypassed)│
+│ If it were "MOV [0x5000], R1", memory bus writes 100 to RAM. │
+└──────────────────────────────────────────────────────────────┘
+                             │
+                             ▼
+Clock Cycle 5: [WRITEBACK]
+┌──────────────────────────────────────────────────────────────┐
+│ Output bus routes 100 back into Register R1.                 │
+│ R1 now contains: 100                                         │
+│ Cycle completes! Next instruction begins immediately.         │
+└──────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 14. Real-World Analogy: The Restaurant Kitchen Model
+
+To easily grasp how the CPU and its components work, picture a five-star restaurant kitchen:
+
+```text
+┌────────────────────────────────────────────────────────────────────────┐
+│ 🍳 RESTAURANT ANALOGY FOR COMPUTER HARDWARE                            │
+├──────────────────────────┬─────────────────────────────────────────────┤
+│ Computer Component       │ Restaurant Kitchen Role                     │
+├──────────────────────────┼─────────────────────────────────────────────┤
+│ CPU (Processor)          │ The Master Chef (Executes orders)           │
+│ Control Unit (CU)        │ Head Chef (Reads tickets & directs staff)   │
+│ ALU                      │ The Chef's Chopping Knife & Pan (Does work) │
+│ Registers                │ Chef's Hands (Holds active ingredient)      │
+│ L1 / L2 Cache            │ Chopping Board (Right next to hands)        │
+│ L3 Cache                 │ Prep Counter (Shared among cooks)           │
+│ RAM                      │ Kitchen Pantry Shelves (Fast 10-second run) │
+│ SSD / Hard Drive         │ Wholesale Warehouse (Slow 30-minute drive)  │
+│ Motherboard Bus          │ Waitstaff & Carts moving items              │
+└──────────────────────────┴─────────────────────────────────────────────┘
+```
+
+---
+
+## 15. Hardware Accelerators Overview: CPU vs. GPU vs. TPU vs. NPU vs. DPU
+
+Modern cloud environments pair CPUs with specialized hardware accelerators:
+
+```text
+┌───────────────────┬───────────────────┬───────────────────┬──────────────────────┐
+│ CPU               │ GPU               │ TPU / NPU         │ DPU                  │
+│ Central Processing│ Graphics Processing│ Tensor / Neural   │ Data Processing      │
+├───────────────────┼───────────────────┼───────────────────┼──────────────────────┤
+│ 4 - 128 Big Cores │ 2,000 - 18,000    │ Dedicated 2D      │ ARM Cores + ASIC     │
+│ Low Latency       │ Tiny Cores        │ Matrix Multiply   │ Offloads Network,    │
+│ Serial Execution  │ High Throughput   │ Systolic Arrays   │ Storage & Security   │
+│ General Purpose   │ Parallel (SIMD)   │ AI / Deep Learning│ Cloud Infrastructure │
+└───────────────────┴───────────────────┴───────────────────┴──────────────────────┘
+```
+
+> 💡 **Dedicated Deep Dive:** For a complete visual architecture guide to GPUs, Google Cloud TPUs, NPUs, DPUs, and how DevOps engineers configure them with the NVIDIA GPU Operator and Kubernetes device plugins, see the dedicated guide: **[02 — CPU, GPU, TPU, NPU & AI Accelerators Architecture](./02-CPU-GPU-TPU-and-AI-Accelerators-Architecture.md)**.
+
 ---
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← Start (Roadmap Home)](../../../README.md) | [Index](../../../README.md) | [02 - ISA x86 ARM RISCV and Microarchitecture →](./02-ISA-x86-ARM-RISCV-and-Microarchitecture.md) |
+| [← Start (Roadmap Home)](../../../README.md) | [Index](../../../README.md) | [02 — CPU, GPU, TPU, NPU & AI Accelerators Architecture →](./02-CPU-GPU-TPU-and-AI-Accelerators-Architecture.md) |

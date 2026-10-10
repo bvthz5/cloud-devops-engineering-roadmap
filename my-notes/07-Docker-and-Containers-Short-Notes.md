@@ -392,4 +392,4 @@ volumes:
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← Networking Easy Guide](./03-Networking-Commands-and-Concepts-Easy-Guide.md) | [Index](../README.md) | [Kubernetes (K8s) Short Notes →](./05-Kubernetes-K8s-Short-Notes.md) |
+| [← Networking Commands & Concepts Easy Guide](./06-Networking-Commands-and-Concepts-Easy-Guide.md) | [Index](../README.md) | [Kubernetes (K8s) Short Notes →](./08-Kubernetes-K8s-Short-Notes.md) |

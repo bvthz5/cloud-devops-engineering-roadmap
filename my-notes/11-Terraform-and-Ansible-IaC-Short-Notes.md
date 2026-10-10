@@ -359,4 +359,4 @@ ansible-playbook -i hosts.ini site.yml --ask-vault-pass
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← Git & CI/CD Short Notes](./07-Git-and-CICD-Short-Notes.md) | [Index](../README.md) | [AWS Services & Types Short Notes →](./09-AWS-Services-and-Types-Deep-Dive-Short-Notes.md) |
+| [← Git & CI/CD Short Notes](./10-Git-and-CICD-Short-Notes.md) | [Index](../README.md) | [AWS Services & Types Short Notes →](./12-AWS-Services-and-Types-Deep-Dive-Short-Notes.md) |

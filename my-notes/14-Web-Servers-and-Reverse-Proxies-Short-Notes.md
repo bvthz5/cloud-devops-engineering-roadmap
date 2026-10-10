@@ -130,4 +130,4 @@ http {
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← Azure Services & Types Short Notes](./10-Azure-Services-and-Types-Deep-Dive-Short-Notes.md) | [Index](../README.md) | [Monitoring, Logging & Observability Short Notes →](./12-Monitoring-Logging-and-Observability-Short-Notes.md) |
+| [← Azure Services & Types Short Notes](./13-Azure-Services-and-Types-Deep-Dive-Short-Notes.md) | [Index](../README.md) | [Monitoring, Logging & Observability Short Notes →](./15-Monitoring-Logging-and-Observability-Short-Notes.md) |

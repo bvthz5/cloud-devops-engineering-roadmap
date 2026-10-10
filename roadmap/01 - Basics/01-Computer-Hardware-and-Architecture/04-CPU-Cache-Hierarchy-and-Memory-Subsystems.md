@@ -1,4 +1,4 @@
-# 03 - CPU Cache Hierarchy & Memory Subsystems
+# 04 - CPU Cache Hierarchy & Memory Subsystems
 
 ---
 
@@ -118,4 +118,4 @@ In modern multi-socket enterprise servers (e.g., dual Intel Xeon or AMD EPYC ser
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← 02 - ISA x86 ARM RISCV and Microarchitecture](./02-ISA-x86-ARM-RISCV-and-Microarchitecture.md) | [Index](../../../README.md) | [04 - Virtual Memory Paging and MMU →](./04-Virtual-Memory-Paging-and-MMU.md) |
+| [← 03 - ISA, x86-64, ARM64, RISC-V & Microarchitecture](./03-ISA-x86-ARM-RISCV-and-Microarchitecture.md) | [Index](../../../README.md) | [05 - Virtual Memory, Paging, TLB & MMU →](./05-Virtual-Memory-Paging-and-MMU.md) |

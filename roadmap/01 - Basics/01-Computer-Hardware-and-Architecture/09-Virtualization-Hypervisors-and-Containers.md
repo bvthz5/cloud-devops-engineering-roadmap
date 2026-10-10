@@ -1,4 +1,4 @@
-# 08 - Hardware Virtualization, Hypervisors & Containers
+# 09 - Hardware Virtualization, Hypervisors & Containers
 
 ---
 
@@ -73,4 +73,4 @@ Bare-Metal Server                  Virtual Machine (VM)               Container 
 
 | Previous | Index | Next |
 | :--- | :---: | ---: |
-| [← 07 - Firmware BIOS UEFI and Boot Process](./07-Firmware-BIOS-UEFI-and-Boot-Process.md) | [Index](../../../README.md) | [09 - Real World Scenarios →](./09-Real-World-Scenarios.md) |
+| [← 08 - Firmware, BIOS, UEFI & System Boot Process](./08-Firmware-BIOS-UEFI-and-Boot-Process.md) | [Index](../../../README.md) | [10 — Real-World DevOps & Cloud Infrastructure Scenarios →](./10-Real-World-Scenarios.md) |
