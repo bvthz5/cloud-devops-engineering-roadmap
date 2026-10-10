@@ -197,6 +197,46 @@ IAM policies define permissions. AWS supports 6 distinct types:
 
 ---
 
+
+---
+
+## 🌐 9. AWS Route 53, CloudFront & Edge Networking Master Summary
+
+| Routing / Edge Tool | OSI Layer / Scope | Mechanism | Best Enterprise Use Case |
+| :--- | :---: | :--- | :--- |
+| **Route 53 Hosted Zone** | DNS (Anycast) | **Public** (Internet domains) vs. **Private** (VPC internal resolution). | Authoritative global DNS resolution. |
+| **Route 53 Alias Record**| DNS | Free AWS proprietary record; maps Zone Apex (`example.com`) directly to ALBs, CloudFront, or S3. | Eliminates CNAME zone apex limitations at zero query cost. |
+| **Route 53 Routing Policies**| DNS | 7 Policies: **Simple**, **Weighted** (Canary), **Latency-based**, **Failover** (Active-Passive with health check), **Geolocation**, **Geoproximity** (with Bias), **Multivalue**. | Global traffic routing and automated multi-region DR. |
+| **Amazon CloudFront** | Layer 7 CDN | 600+ Global Points of Presence (PoPs); caches static/dynamic assets close to users. | Accelerates website delivery and video streaming worldwide. |
+| **Origin Access Control (OAC)**| Security | Restricts S3 bucket access strictly to authenticated CloudFront distributions via IAM policies. | Prevents users from bypassing CDN security or hotlinking S3 URLs. |
+| **CloudFront Functions vs. Lambda@Edge**| Edge Compute | **CloudFront Functions:** Sub-millisecond lightweight JS for URL redirects and header rewrites.<br>**Lambda@Edge:** Full Node.js/Python runtime with network access and body modification. | Dynamic edge header manipulation, authentication, and localization. |
+
+---
+
+## 🛡️ 10. AWS Security, Governance & Observability Master Summary
+
+| Security & Auditing Service | Scope | Architectural Mechanism | Key Enterprise Capability |
+| :--- | :---: | :--- | :--- |
+| **AWS Organizations & SCPs** | Multi-Account | **Service Control Policies (SCPs)** enforce organization guardrails down OU hierarchies. | Blocks unapproved regions and disables dangerous API actions (even for root). |
+| **AWS KMS (Key Management)**| Security | **Envelope Encryption:** Customer Master Key (CMK) encrypts a Data Encryption Key (DEK). | Centralized key rotation, hardware security modules (HSM), FIPS 140-2 compliance. |
+| **Secrets Manager vs. SSM Parameter Store**| Secrets | **Secrets Manager:** Automated password rotation via Lambda, cross-account sharing.<br>**SSM Parameter Store:** Simple, free hierarchical key-value configuration. | Secure storage of database passwords, API tokens, and environment parameters. |
+| **Amazon CloudWatch** | Monitoring | Metrics (1-min detailed vs. 5-min standard), Alarms (OK/ALARM/INSUFFICIENT), and Logs Insights. | Real-time infrastructure observability, CPU/Memory threshold alerts. |
+| **AWS CloudTrail** | Auditing | Records every API call across the entire AWS account (**Who, What, Where, When**). | Forensic security analysis, compliance audits, and unauthorized change detection. |
+| **The 6 Well-Architected Pillars**| Architecture | 1. **Operational Excellence**, 2. **Security**, 3. **Reliability**, 4. **Performance Efficiency**, 5. **Cost Optimization**, 6. **Sustainability**. | Industry benchmark framework for reviewing cloud infrastructure resilience. |
+
+---
+
+## 🚀 11. AWS DevOps CI/CD & Migration Framework (The 7 Rs)
+
+| DevOps / Migration Primitive | Architecture & File | Lifecycle & Strategy | Key Value Proposition |
+| :--- | :---: | :--- | :--- |
+| **AWS CodeBuild** | `buildspec.yml` | 4 Lifecycle Phases: `install`, `pre_build`, `build`, `post_build`. | Fully managed serverless containerized build server; scales concurrently. |
+| **AWS CodeDeploy** | `appspec.yml` | Deployment configurations: **Canary** (`Canary10Percent5Minutes`), **Linear**, and **AllAtOnce**. | Automated blue/green zero-downtime application deployments across EC2, ECS, and Lambda. |
+| **AWS CodePipeline** | Pipeline Graph | Multi-stage continuous delivery orchestration connecting Source, Build, Test, and Deploy. | Automates fast, reliable software releases from Git commit to production. |
+| **The 7 Rs Migration Strategies**| Migration | 1. **Rehost** (Lift & Shift via MGN)<br>2. **Replatform** (Lift & Reshape)<br>3. **Repurchase** (Drop & Shop to SaaS)<br>4. **Refactor** (Cloud-Native Re-architect)<br>5. **Relocate** (VMware on AWS)<br>6. **Retain** (Keep On-Premises)<br>7. **Retire** (Decommission) | The definitive blueprint for migrating enterprise workloads from physical datacenters to AWS. |
+
+---
+
 | Previous | Index | Next |
 | :--- | :---: | ---: |
 | [← Terraform & Ansible (IaC) Short Notes](./11-Terraform-and-Ansible-IaC-Short-Notes.md) | [Index](../README.md) | [Azure Services & Types Short Notes →](./13-Azure-Services-and-Types-Deep-Dive-Short-Notes.md) |
