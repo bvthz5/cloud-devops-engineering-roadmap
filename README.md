@@ -27,6 +27,8 @@ Whether you are preparing for senior engineering interviews, architecting cloud-
 
 > ⚡ **Quick-Revision Short Notes (Kids-Mind Style):** In a rush or preparing for interviews? Check out our dedicated [📓 DevOps & Cloud Short Notes Hub](my-notes/00-Index.md) featuring 17 easy-to-understand, 1-line definition study guides covering DevOps Zero-to-Hero, Hardware (CPU/GPU/TPU), OS & Kernel, Linux, Windows, Networking, Docker, K8s, AWS & Azure types, Web Servers, Observability, DevSecOps, and SRE/GitOps!
 
+> 🎮 **Hardware Accelerators Interactive Lab:** Want to watch CPU pipelining, GPU parallel warps, Google TPU systolic array heartbeats, and AWS Nitro DPU packet offloading run in real time? Open the standalone [🚀 Hardware Accelerators Interactive Animation Lab](assets/hardware-accelerators-interactive-visualizer.html)!
+
 ---
 
 ## 🎯 What’s in the Notes? (The Standard Module Architecture)

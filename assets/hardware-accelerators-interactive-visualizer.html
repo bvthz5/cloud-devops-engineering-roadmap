@@ -1,0 +1,910 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hardware Accelerators Interactive Animation Lab | CPU vs GPU vs TPU vs DPU</title>
+  <style>
+    :root {
+      --bg-dark: #0a0e17;
+      --bg-card: #111827;
+      --bg-card-hover: #1f293d;
+      --border-color: #1e293b;
+      --text-main: #f8fafc;
+      --text-muted: #94a3b8;
+      --cyan: #38bdf8;
+      --emerald: #10b981;
+      --purple: #c084fc;
+      --amber: #f59e0b;
+      --rose: #f43f5e;
+      --blue: #3b82f6;
+      --font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    }
+
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      background-color: var(--bg-dark);
+      color: var(--text-main);
+      font-family: var(--font-family);
+      line-height: 1.5;
+      padding: 24px;
+      min-height: 100vh;
+    }
+
+    header {
+      text-align: center;
+      margin-bottom: 28px;
+    }
+
+    header h1 {
+      font-size: 2.2rem;
+      font-weight: 800;
+      background: linear-gradient(135deg, var(--cyan), var(--purple), var(--emerald));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      margin-bottom: 8px;
+    }
+
+    header p {
+      color: var(--text-muted);
+      font-size: 1.05rem;
+      max-width: 750px;
+      margin: 0 auto;
+    }
+
+    .nav-tabs {
+      display: flex;
+      justify-content: center;
+      gap: 12px;
+      margin-bottom: 24px;
+      flex-wrap: wrap;
+    }
+
+    .tab-btn {
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      color: var(--text-muted);
+      padding: 10px 20px;
+      border-radius: 9999px;
+      font-size: 0.95rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.2s ease;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .tab-btn:hover {
+      background: var(--bg-card-hover);
+      color: var(--text-main);
+      border-color: var(--cyan);
+    }
+
+    .tab-btn.active {
+      background: rgba(56, 189, 248, 0.15);
+      border-color: var(--cyan);
+      color: var(--cyan);
+      box-shadow: 0 0 15px rgba(56, 189, 248, 0.25);
+    }
+
+    .tab-content {
+      display: none;
+      max-width: 1080px;
+      margin: 0 auto;
+      background: var(--bg-card);
+      border: 1px solid var(--border-color);
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.4);
+    }
+
+    .tab-content.active {
+      display: block;
+      animation: fadeIn 0.3s ease;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .controls-bar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      background: rgba(15, 23, 42, 0.6);
+      border: 1px solid var(--border-color);
+      padding: 14px 20px;
+      border-radius: 12px;
+      margin-bottom: 20px;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+
+    .btn-group {
+      display: flex;
+      gap: 8px;
+    }
+
+    .action-btn {
+      background: #2563eb;
+      color: white;
+      border: none;
+      padding: 8px 16px;
+      border-radius: 8px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: background 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .action-btn:hover {
+      background: #1d4ed8;
+    }
+
+    .action-btn.secondary {
+      background: #334155;
+      color: var(--text-main);
+    }
+
+    .action-btn.secondary:hover {
+      background: #475569;
+    }
+
+    .action-btn.emerald {
+      background: #059669;
+    }
+    .action-btn.emerald:hover {
+      background: #047857;
+    }
+
+    .speed-control {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      color: var(--text-muted);
+      font-size: 0.9rem;
+    }
+
+    .speed-control input[type="range"] {
+      cursor: pointer;
+      accent-color: var(--cyan);
+    }
+
+    .banner-info {
+      background: rgba(56, 189, 248, 0.08);
+      border-left: 4px solid var(--cyan);
+      padding: 12px 16px;
+      border-radius: 0 8px 8px 0;
+      margin-bottom: 20px;
+      font-size: 0.95rem;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    /* Tab 1: CPU vs GPU */
+    .arena-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px;
+      margin-bottom: 20px;
+    }
+
+    @media (max-width: 820px) {
+      .arena-grid {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .processor-panel {
+      background: #0b1120;
+      border: 1px solid var(--border-color);
+      border-radius: 12px;
+      padding: 20px;
+    }
+
+    .panel-header {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-bottom: 16px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border-color);
+    }
+
+    .panel-header h3 {
+      font-size: 1.15rem;
+      font-weight: 700;
+    }
+
+    .badge {
+      font-size: 0.75rem;
+      padding: 4px 10px;
+      border-radius: 9999px;
+      font-weight: 600;
+    }
+
+    .badge-cpu { background: rgba(245, 158, 11, 0.2); color: var(--amber); }
+    .badge-gpu { background: rgba(56, 189, 248, 0.2); color: var(--cyan); }
+    .badge-tpu { background: rgba(192, 132, 252, 0.2); color: var(--purple); }
+    .badge-dpu { background: rgba(16, 185, 129, 0.2); color: var(--emerald); }
+
+    .threads-container {
+      display: grid;
+      grid-template-columns: repeat(8, 1fr);
+      gap: 8px;
+      margin-bottom: 16px;
+    }
+
+    .thread-box {
+      aspect-ratio: 1;
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 6px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-size: 0.7rem;
+      color: var(--text-muted);
+      transition: all 0.2s ease;
+      position: relative;
+      overflow: hidden;
+    }
+
+    .thread-box.active {
+      background: #f59e0b;
+      color: #000;
+      font-weight: bold;
+      transform: scale(1.08);
+      box-shadow: 0 0 10px #f59e0b;
+      border-color: #fbbf24;
+    }
+
+    .thread-box.active-gpu {
+      background: #0284c7;
+      color: #fff;
+      font-weight: bold;
+      transform: scale(1.05);
+      box-shadow: 0 0 12px #38bdf8;
+      border-color: #38bdf8;
+    }
+
+    .thread-box.done {
+      background: rgba(16, 185, 129, 0.25);
+      border-color: var(--emerald);
+      color: var(--emerald);
+    }
+
+    .metrics-row {
+      display: flex;
+      justify-content: space-around;
+      background: rgba(30, 41, 59, 0.5);
+      padding: 12px;
+      border-radius: 8px;
+      font-size: 0.85rem;
+    }
+
+    .metric-val {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--text-main);
+    }
+
+    /* Tab 2: TPU Systolic Array */
+    .systolic-container {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 20px;
+    }
+
+    .systolic-grid {
+      display: grid;
+      grid-template-columns: repeat(3, 130px);
+      grid-template-rows: repeat(3, 130px);
+      gap: 20px;
+      position: relative;
+      padding: 20px;
+      background: #0b1120;
+      border-radius: 16px;
+      border: 1px solid var(--border-color);
+    }
+
+    .pe-node {
+      background: #1e293b;
+      border: 2px solid #334155;
+      border-radius: 12px;
+      padding: 10px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+      transition: all 0.3s ease;
+      position: relative;
+    }
+
+    .pe-node.pulsing {
+      border-color: var(--purple);
+      box-shadow: 0 0 18px rgba(192, 132, 252, 0.6);
+      transform: scale(1.04);
+      background: #2e1065;
+    }
+
+    .pe-title {
+      font-size: 0.75rem;
+      color: var(--cyan);
+      font-weight: 700;
+    }
+
+    .pe-weight {
+      font-size: 0.75rem;
+      color: var(--purple);
+      background: rgba(192, 132, 252, 0.1);
+      padding: 2px 4px;
+      border-radius: 4px;
+      text-align: center;
+    }
+
+    .pe-accum {
+      font-size: 0.95rem;
+      font-weight: 800;
+      color: var(--emerald);
+      text-align: center;
+    }
+
+    .input-stream-left {
+      position: absolute;
+      left: -90px;
+      display: flex;
+      flex-direction: column;
+      gap: 80px;
+      top: 50px;
+    }
+
+    .input-data-chip {
+      background: #0284c7;
+      color: white;
+      font-size: 0.75rem;
+      font-weight: 700;
+      padding: 6px 10px;
+      border-radius: 6px;
+      box-shadow: 0 0 8px rgba(56, 189, 248, 0.5);
+      animation: float 2s infinite ease-in-out;
+    }
+
+    @keyframes float {
+      0%, 100% { transform: translateX(0); }
+      50% { transform: translateX(5px); }
+    }
+
+    /* Tab 3: Nitro DPU */
+    .nitro-diagram {
+      display: flex;
+      flex-direction: column;
+      gap: 24px;
+    }
+
+    .mode-switch-bar {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+    }
+
+    .mode-btn {
+      padding: 10px 24px;
+      border-radius: 8px;
+      border: 1px solid var(--border-color);
+      background: #1e293b;
+      color: var(--text-muted);
+      cursor: pointer;
+      font-weight: 700;
+      transition: all 0.2s;
+    }
+
+    .mode-btn.active {
+      background: rgba(244, 63, 94, 0.15);
+      border-color: var(--rose);
+      color: var(--rose);
+    }
+
+    .mode-btn.active-nitro {
+      background: rgba(16, 185, 129, 0.15);
+      border-color: var(--emerald);
+      color: var(--emerald);
+    }
+
+    .flow-canvas {
+      background: #0b1120;
+      border: 1px solid var(--border-color);
+      border-radius: 14px;
+      padding: 30px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      position: relative;
+      min-height: 240px;
+    }
+
+    .flow-entity {
+      width: 180px;
+      background: #1e293b;
+      border: 1px solid #334155;
+      border-radius: 10px;
+      padding: 16px;
+      text-align: center;
+      z-index: 2;
+    }
+
+    .packet-traveler {
+      width: 22px;
+      height: 22px;
+      background: #38bdf8;
+      border-radius: 50%;
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      box-shadow: 0 0 15px #38bdf8;
+      transition: left 0.4s linear, top 0.4s ease;
+    }
+
+    .cpu-load-meter {
+      height: 12px;
+      width: 100%;
+      background: #334155;
+      border-radius: 6px;
+      margin-top: 8px;
+      overflow: hidden;
+    }
+
+    .cpu-load-fill {
+      height: 100%;
+      width: 0%;
+      transition: width 0.3s ease, background-color 0.3s;
+    }
+
+    .footer-note {
+      margin-top: 24px;
+      text-align: center;
+      font-size: 0.85rem;
+      color: var(--text-muted);
+    }
+
+    .footer-note a {
+      color: var(--cyan);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>⚡ Hardware Accelerators Animation Lab</h1>
+    <p>Watch step-by-step how CPUs, GPUs, TPUs, and DPUs process data in real time. Perfect for DevOps, Cloud, and AI Engineers.</p>
+  </header>
+
+  <div class="nav-tabs">
+    <button class="tab-btn active" onclick="switchTab('tab-cpu-gpu')">
+      <span>🖥️ vs 🎮</span> CPU vs GPU Parallelism
+    </button>
+    <button class="tab-btn" onclick="switchTab('tab-tpu')">
+      <span>🧠</span> Google TPU Systolic Array
+    </button>
+    <button class="tab-btn" onclick="switchTab('tab-dpu')">
+      <span>🚀</span> AWS Nitro DPU Offloading
+    </button>
+  </div>
+
+  <!-- TAB 1: CPU vs GPU -->
+  <div id="tab-cpu-gpu" class="tab-content active">
+    <div class="controls-bar">
+      <div class="btn-group">
+        <button id="btn-run-sim" class="action-btn" onclick="toggleSim()">▶ Play Simulation</button>
+        <button class="action-btn secondary" onclick="stepSim()">⏭ Step 1 Cycle</button>
+        <button class="action-btn secondary" onclick="resetSim()">↺ Reset</button>
+      </div>
+      <div class="speed-control">
+        <span>Animation Speed:</span>
+        <input type="range" id="speed-slider" min="100" max="1000" step="50" value="400">
+      </div>
+    </div>
+
+    <div id="sim-banner" class="banner-info">
+      <strong>Kids-Mind Insight:</strong> We have 32 math calculations (Y = A * B). Notice how the single CPU core must compute each item one-by-one sequentially, while the GPU's 32-core Warp computes all 32 items simultaneously in a single clock cycle!
+    </div>
+
+    <div class="arena-grid">
+      <!-- CPU Panel -->
+      <div class="processor-panel">
+        <div class="panel-header">
+          <div>
+            <h3>Central Processing Unit (CPU)</h3>
+            <span style="font-size: 0.8rem; color: var(--text-muted);">Sequential Single-Thread Core</span>
+          </div>
+          <span class="badge badge-cpu">Latency Optimized</span>
+        </div>
+
+        <div class="threads-container" id="cpu-threads">
+          <!-- 32 thread items generated by JS -->
+        </div>
+
+        <div class="metrics-row">
+          <div>
+            <div class="metric-val" id="cpu-cycles">0</div>
+            <div style="color: var(--text-muted)">Cycles Elapsed</div>
+          </div>
+          <div>
+            <div class="metric-val" id="cpu-completed">0 / 32</div>
+            <div style="color: var(--text-muted)">Items Calculated</div>
+          </div>
+          <div>
+            <div class="metric-val" style="color: var(--amber)" id="cpu-status">Idle</div>
+            <div style="color: var(--text-muted)">Core Status</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- GPU Panel -->
+      <div class="processor-panel">
+        <div class="panel-header">
+          <div>
+            <h3>Graphics Processing Unit (GPU)</h3>
+            <span style="font-size: 0.8rem; color: var(--text-muted);">SIMT Warp (32 Parallel CUDA Threads)</span>
+          </div>
+          <span class="badge badge-gpu">Throughput Optimized</span>
+        </div>
+
+        <div class="threads-container" id="gpu-threads">
+          <!-- 32 thread items generated by JS -->
+        </div>
+
+        <div class="metrics-row">
+          <div>
+            <div class="metric-val" id="gpu-cycles">0</div>
+            <div style="color: var(--text-muted)">Cycles Elapsed</div>
+          </div>
+          <div>
+            <div class="metric-val" id="gpu-completed">0 / 32</div>
+            <div style="color: var(--text-muted)">Items Calculated</div>
+          </div>
+          <div>
+            <div class="metric-val" style="color: var(--cyan)" id="gpu-status">Idle</div>
+            <div style="color: var(--text-muted)">Warp Status</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- TAB 2: TPU Systolic Array -->
+  <div id="tab-tpu" class="tab-content">
+    <div class="controls-bar">
+      <div class="btn-group">
+        <button id="btn-tpu-pulse" class="action-btn emerald" onclick="pulseTPU()">💓 Next Heartbeat Pulse</button>
+        <button class="action-btn secondary" onclick="autoPlayTPU()">▶ Auto Heartbeat</button>
+        <button class="action-btn secondary" onclick="resetTPU()">↺ Reset Array</button>
+      </div>
+      <div style="color: var(--text-muted); font-size: 0.9rem;">
+        Current Pulse: <strong id="tpu-pulse-step" style="color: var(--purple);">Pulse 0 (Setup)</strong>
+      </div>
+    </div>
+
+    <div class="banner-info">
+      <strong>Systolic Principle:</strong> In standard CPUs, multiplying matrices requires constantly reading and writing to RAM or cache. In Google's TPU Systolic Array, numbers flow rhythmically from cell to cell like blood through a heart valve, calculating without memory delays!
+    </div>
+
+    <div class="systolic-container">
+      <div class="systolic-grid" id="systolic-grid">
+        <!-- 3x3 PEs generated by JS -->
+      </div>
+    </div>
+  </div>
+
+  <!-- TAB 3: AWS Nitro DPU -->
+  <div id="tab-dpu" class="tab-content">
+    <div class="mode-switch-bar">
+      <button id="mode-btn-legacy" class="mode-btn active" onclick="setDPUMode('legacy')">
+        ❌ Legacy Server (Without Nitro: 30% CPU Tax)
+      </button>
+      <button id="mode-btn-nitro" class="mode-btn" onclick="setDPUMode('nitro')">
+        ✅ Modern AWS Nitro DPU (0% CPU Tax)
+      </button>
+    </div>
+
+    <div id="dpu-banner" class="banner-info" style="margin-top: 16px;">
+      <strong>Hypervisor Tax Problem:</strong> Notice how network packets force the Host CPU to interrupt the user application to do software firewall and decryption work!
+    </div>
+
+    <div class="flow-canvas" id="dpu-canvas">
+      <!-- Network Input -->
+      <div class="flow-entity">
+        <div style="font-size: 1.5rem">🌐</div>
+        <strong>100 Gbps Traffic</strong>
+        <p style="font-size: 0.75rem; color: var(--text-muted)">Incoming Web Packets</p>
+      </div>
+
+      <!-- Intermediary: Hypervisor or Nitro ASIC -->
+      <div class="flow-entity" id="middle-entity">
+        <div style="font-size: 1.5rem" id="middle-icon">⚠️</div>
+        <strong id="middle-name">Host Xen Hypervisor</strong>
+        <p style="font-size: 0.75rem; color: var(--text-muted)" id="middle-desc">Steals CPU for firewall/crypto</p>
+      </div>
+
+      <!-- Host CPU / User VM -->
+      <div class="flow-entity" id="target-entity">
+        <div style="font-size: 1.5rem">💻</div>
+        <strong>Customer EC2 VM</strong>
+        <p style="font-size: 0.75rem; color: var(--text-muted)">Your Node.js / Python API</p>
+        <div class="cpu-load-meter">
+          <div class="cpu-load-fill" id="host-cpu-bar"></div>
+        </div>
+        <div style="font-size: 0.7rem; margin-top: 4px;" id="host-cpu-text">Host Stolen CPU: 30%</div>
+      </div>
+
+      <div class="packet-traveler" id="packet-ball"></div>
+    </div>
+  </div>
+
+  <div class="footer-note">
+    Built for the <a href="../README.md">Cloud & DevOps Engineering Roadmap</a>. Crystal-clear engineering foundations.
+  </div>
+
+  <script>
+    // Tab Switching
+    function switchTab(tabId) {
+      document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+      document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+      event.currentTarget.classList.add('active');
+      document.getElementById(tabId).classList.add('active');
+    }
+
+    // TAB 1: CPU vs GPU Logic
+    const cpuThreadsContainer = document.getElementById('cpu-threads');
+    const gpuThreadsContainer = document.getElementById('gpu-threads');
+    let simInterval = null;
+    let cpuStep = 0;
+    let gpuStep = 0;
+    let isSimRunning = false;
+
+    function initThreads() {
+      cpuThreadsContainer.innerHTML = '';
+      gpuThreadsContainer.innerHTML = '';
+      for (let i = 0; i < 32; i++) {
+        const cBox = document.createElement('div');
+        cBox.className = 'thread-box';
+        cBox.id = `cpu-t-${i}`;
+        cBox.innerHTML = `<span>T${i}</span>`;
+        cpuThreadsContainer.appendChild(cBox);
+
+        const gBox = document.createElement('div');
+        gBox.className = 'thread-box';
+        gBox.id = `gpu-t-${i}`;
+        gBox.innerHTML = `<span>C${i}</span>`;
+        gpuThreadsContainer.appendChild(gBox);
+      }
+    }
+    initThreads();
+
+    function stepSim() {
+      // GPU finishes in cycle 1
+      if (gpuStep === 0) {
+        for (let i = 0; i < 32; i++) {
+          const gBox = document.getElementById(`gpu-t-${i}`);
+          gBox.classList.add('active-gpu');
+        }
+        document.getElementById('gpu-cycles').textContent = '1';
+        document.getElementById('gpu-completed').textContent = '32 / 32';
+        document.getElementById('gpu-status').textContent = 'FINISHED! ⚡';
+        document.getElementById('gpu-status').style.color = 'var(--emerald)';
+        gpuStep = 1;
+        setTimeout(() => {
+          for (let i = 0; i < 32; i++) {
+            const gBox = document.getElementById(`gpu-t-${i}`);
+            gBox.classList.remove('active-gpu');
+            gBox.classList.add('done');
+          }
+        }, 300);
+      }
+
+      // CPU proceeds sequentially
+      if (cpuStep < 32) {
+        if (cpuStep > 0) {
+          const prevBox = document.getElementById(`cpu-t-${cpuStep - 1}`);
+          prevBox.classList.remove('active');
+          prevBox.classList.add('done');
+        }
+        const currBox = document.getElementById(`cpu-t-${cpuStep}`);
+        currBox.classList.add('active');
+        cpuStep++;
+        document.getElementById('cpu-cycles').textContent = cpuStep;
+        document.getElementById('cpu-completed').textContent = `${cpuStep} / 32`;
+        document.getElementById('cpu-status').textContent = `Calculating T${cpuStep-1}...`;
+      } else if (cpuStep === 32) {
+        const lastBox = document.getElementById(`cpu-t-31`);
+        lastBox.classList.remove('active');
+        lastBox.classList.add('done');
+        document.getElementById('cpu-status').textContent = 'FINISHED (After 32 cycles!)';
+        document.getElementById('cpu-status').style.color = 'var(--emerald)';
+        pauseSim();
+      }
+    }
+
+    function toggleSim() {
+      if (isSimRunning) {
+        pauseSim();
+      } else {
+        isSimRunning = true;
+        document.getElementById('btn-run-sim').textContent = '⏸ Pause';
+        const speed = 1100 - parseInt(document.getElementById('speed-slider').value);
+        simInterval = setInterval(stepSim, speed);
+      }
+    }
+
+    function pauseSim() {
+      isSimRunning = false;
+      clearInterval(simInterval);
+      document.getElementById('btn-run-sim').textContent = '▶ Play Simulation';
+    }
+
+    function resetSim() {
+      pauseSim();
+      cpuStep = 0;
+      gpuStep = 0;
+      document.getElementById('cpu-cycles').textContent = '0';
+      document.getElementById('cpu-completed').textContent = '0 / 32';
+      document.getElementById('cpu-status').textContent = 'Idle';
+      document.getElementById('cpu-status').style.color = 'var(--amber)';
+
+      document.getElementById('gpu-cycles').textContent = '0';
+      document.getElementById('gpu-completed').textContent = '0 / 32';
+      document.getElementById('gpu-status').textContent = 'Idle';
+      document.getElementById('gpu-status').style.color = 'var(--cyan)';
+      initThreads();
+    }
+
+    // TAB 2: TPU Systolic Array Logic
+    const systolicGrid = document.getElementById('systolic-grid');
+    const weights = [
+      [2, 3, 1],
+      [1, 2, 4],
+      [3, 1, 2]
+    ];
+    let accum = [
+      [0, 0, 0],
+      [0, 0, 0],
+      [0, 0, 0]
+    ];
+    let tpuPulseCount = 0;
+    let tpuAutoTimer = null;
+
+    function initTPUGrid() {
+      systolicGrid.innerHTML = '';
+      for (let r = 0; r < 3; r++) {
+        for (let c = 0; c < 3; c++) {
+          const pe = document.createElement('div');
+          pe.className = 'pe-node';
+          pe.id = `pe-${r}-${c}`;
+          pe.innerHTML = `
+            <div class="pe-title">PE(${r},${c})</div>
+            <div class="pe-weight">W: ${weights[r][c]}</div>
+            <div class="pe-accum" id="accum-${r}-${c}">${accum[r][c]}</div>
+          `;
+          systolicGrid.appendChild(pe);
+        }
+      }
+    }
+    initTPUGrid();
+
+    function pulseTPU() {
+      tpuPulseCount++;
+      document.querySelectorAll('.pe-node').forEach(el => el.classList.remove('pulsing'));
+
+      if (tpuPulseCount === 1) {
+        document.getElementById('tpu-pulse-step').textContent = 'Pulse 1: Activation enters PE(0,0)';
+        activatePE(0, 0, 4);
+      } else if (tpuPulseCount === 2) {
+        document.getElementById('tpu-pulse-step').textContent = 'Pulse 2: Diagonal wave propagates to PE(0,1) & PE(1,0)';
+        activatePE(0, 1, 6);
+        activatePE(1, 0, 2);
+      } else if (tpuPulseCount === 3) {
+        document.getElementById('tpu-pulse-step').textContent = 'Pulse 3: Center wave PE(0,2), PE(1,1), PE(2,0)';
+        activatePE(0, 2, 2);
+        activatePE(1, 1, 4);
+        activatePE(2, 0, 6);
+      } else if (tpuPulseCount === 4) {
+        document.getElementById('tpu-pulse-step').textContent = 'Pulse 4: Output wave PE(1,2), PE(2,1)';
+        activatePE(1, 2, 8);
+        activatePE(2, 1, 2);
+      } else if (tpuPulseCount === 5) {
+        document.getElementById('tpu-pulse-step').textContent = 'Pulse 5: Final output corner PE(2,2)';
+        activatePE(2, 2, 4);
+      } else {
+        document.getElementById('tpu-pulse-step').textContent = 'Complete! Matrix product emitted with ZERO memory stalls!';
+        if (tpuAutoTimer) clearInterval(tpuAutoTimer);
+      }
+    }
+
+    function activatePE(r, c, addVal) {
+      const pe = document.getElementById(`pe-${r}-${c}`);
+      if (pe) {
+        pe.classList.add('pulsing');
+        accum[r][c] += addVal;
+        document.getElementById(`accum-${r}-${c}`).textContent = accum[r][c];
+      }
+    }
+
+    function autoPlayTPU() {
+      if (tpuAutoTimer) {
+        clearInterval(tpuAutoTimer);
+        tpuAutoTimer = null;
+      } else {
+        tpuAutoTimer = setInterval(pulseTPU, 800);
+      }
+    }
+
+    function resetTPU() {
+      if (tpuAutoTimer) clearInterval(tpuAutoTimer);
+      tpuPulseCount = 0;
+      accum = [[0, 0, 0], [0, 0, 0], [0, 0, 0]];
+      document.getElementById('tpu-pulse-step').textContent = 'Pulse 0 (Setup)';
+      initTPUGrid();
+    }
+
+    // TAB 3: DPU Animation Logic
+    let dpuMode = 'legacy';
+    let packetTimer = null;
+    const packetBall = document.getElementById('packet-ball');
+    const middleIcon = document.getElementById('middle-icon');
+    const middleName = document.getElementById('middle-name');
+    const middleDesc = document.getElementById('middle-desc');
+    const hostCpuBar = document.getElementById('host-cpu-bar');
+    const hostCpuText = document.getElementById('host-cpu-text');
+
+    function setDPUMode(mode) {
+      dpuMode = mode;
+      document.getElementById('mode-btn-legacy').classList.remove('active');
+      document.getElementById('mode-btn-nitro').classList.remove('active-nitro');
+
+      if (mode === 'legacy') {
+        document.getElementById('mode-btn-legacy').classList.add('active');
+        middleIcon.textContent = '⚠️';
+        middleName.textContent = 'Host Xen Hypervisor';
+        middleDesc.textContent = 'Steals CPU for firewall/crypto';
+        hostCpuBar.style.width = '30%';
+        hostCpuBar.style.backgroundColor = 'var(--rose)';
+        hostCpuText.textContent = 'Host Stolen CPU: 30% (Hypervisor Tax!)';
+        document.getElementById('dpu-banner').innerHTML = '<strong>Hypervisor Tax Problem:</strong> Network packets force the Host CPU to interrupt the customer application for firewall filtering and crypto, wasting 30% of system performance.';
+      } else {
+        document.getElementById('mode-btn-nitro').classList.add('active-nitro');
+        middleIcon.textContent = '⚡';
+        middleName.textContent = 'AWS Nitro Card (PCIe DPU)';
+        middleDesc.textContent = 'Offloads 100% of network & storage';
+        hostCpuBar.style.width = '0%';
+        hostCpuBar.style.backgroundColor = 'var(--emerald)';
+        hostCpuText.textContent = 'Host Stolen CPU: 0% (Bare-Metal Speed!)';
+        document.getElementById('dpu-banner').innerHTML = '<strong>Nitro DPU Solution:</strong> Network packets are decrypted and filtered at wire speed directly on the Nitro PCIe card. The host CPU stays at 0% overhead!';
+      }
+    }
+
+    function runPacketAnimation() {
+      let step = 0;
+      const positions = ['5%', '46%', '85%'];
+      packetTimer = setInterval(() => {
+        packetBall.style.left = positions[step];
+        step = (step + 1) % 3;
+      }, 700);
+    }
+    setDPUMode('legacy');
+    runPacketAnimation();
+  </script>
+</body>
+</html>

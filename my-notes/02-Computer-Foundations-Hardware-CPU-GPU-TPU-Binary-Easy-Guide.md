@@ -199,6 +199,25 @@ branchy problem            together they add           Matrix multiplication
 step-by-step fast.         1,000 numbers in 1 sec.     at lightspeed!
 ```
 
+
+> 💡 **Interactive Animation Lab:** Want to see the live animations with play/pause and stepping in your browser? Open the standalone [🚀 Hardware Accelerators Interactive Visualizer](../assets/hardware-accelerators-interactive-visualizer.html).
+
+### 🎬 Animated Motion: How CPU vs. GPU Calculates 32 Numbers in Parallel
+
+```text
+CPU: 1 Core works 1-by-1 (Takes 32 Clock Ticks):
+Cycle 01: [Core 0] ──► Y[0]  = A[0]  * B[0]
+Cycle 02: [Core 0] ──► Y[1]  = A[1]  * B[1]
+...
+Cycle 32: [Core 0] ──► Y[31] = A[31] * B[31]  (Finished after 32 ticks!)
+
+GPU: 32 CUDA Cores fire simultaneously (Takes 1 Clock Tick):
+Cycle 01: [Core 00] ──► Y[00] = A[00] * B[00] ──┐
+          [Core 01] ──► Y[01] = A[01] * B[01]   │ ALL 32 CALCULATIONS
+          ...                                   ├─ FINISHED IN EXACTLY
+          [Core 31] ──► Y[31] = A[31] * B[31] ──┘ 1 CLOCK TICK! (32x FASTER!)
+```
+
 ### Why TPUs & NPUs are Revolutionary for AI:
 - A standard CPU or GPU reads numbers from memory, adds them, and writes them back. This uses huge electrical power and memory bandwidth.
 - A **TPU (Tensor Processing Unit)** uses a **Systolic Array**: numbers flow rhythmically from cell to cell like blood pumped through a heart. Thousands of matrix multiplications ($A \times B + C$) happen simultaneously with zero memory trips!

@@ -4,6 +4,9 @@
 
 ---
 
+> 🎮 **Hardware Accelerators Interactive Lab:** Want to see hardware accelerators in action? Explore the standalone [🚀 Hardware Accelerators Interactive Animation Lab](../assets/hardware-accelerators-interactive-visualizer.html) featuring live interactive simulations for CPU vs GPU parallel warps, Google TPU systolic array heartbeats, and AWS Nitro DPU packet offloading!
+
+
 ## 🚀 Easy-Study Quick Reference Guides (01 to 17)
 
 | # | Guide Title | Core Focus & Subtopics Covered | Direct Link |

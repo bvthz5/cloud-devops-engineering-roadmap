@@ -130,7 +130,7 @@ This led to the **Hardware Accelerator Revolution**: pairing general-purpose CPU
 
 ## 5. Deep-Dive: How Each Processor Works Internally
 
-### 4.1 CPU (Central Processing Unit)
+### 5.1 CPU (Central Processing Unit)
 - **Design Philosophy:** Low-latency sequential instruction execution.
 - **Pipeline:** 5-stage classic pipeline (Fetch ➔ Decode ➔ Execute ➔ Memory Access ➔ Writeback).
 - **Core Strengths:**
@@ -139,7 +139,7 @@ This led to the **Hardware Accelerator Revolution**: pairing general-purpose CPU
   - High single-thread clock speeds (3.0 GHz to 5.5 GHz).
 - **DevOps Context:** Runs the Linux OS kernel, Nginx web servers, Node.js/Python APIs, Git workflows, database queries, and system daemons.
 
-### 4.2 GPU (Graphics Processing Unit)
+### 5.2 GPU (Graphics Processing Unit)
 - **Design Philosophy:** High-throughput data-parallel execution using the **SIMT (Single Instruction, Multiple Threads)** model.
 - **How it Works:** 
   - Instructions are executed in groups called **Warps** (typically 32 threads in NVIDIA architectures).
@@ -151,7 +151,7 @@ This led to the **Hardware Accelerator Revolution**: pairing general-purpose CPU
   - Vector search indexing.
   - Managed via NVIDIA Container Toolkit (`nvidia-docker` / `nvidia-ctk`), Kubernetes GPU Operator, and Triton Inference Server.
 
-### 4.3 TPU / NPU (Tensor / Neural Processing Unit)
+### 5.3 TPU / NPU (Tensor / Neural Processing Unit)
 - **Design Philosophy:** Application-Specific Integrated Circuit (ASIC) designed exclusively for deep learning tensor operations (matrix multiplication and addition).
 - **The Systolic Array Innovation:**
   - In a standard CPU/GPU, every addition or multiplication requires reading operands from registers/cache, calculating in the ALU, and writing back to registers. This consumes huge electrical energy and memory bus bandwidth.
@@ -163,7 +163,7 @@ This led to the **Hardware Accelerator Revolution**: pairing general-purpose CPU
   - High cost-efficiency for large-scale training and low-latency inference on Google Cloud.
   - Configured using Google Cloud TPU APIs, XLA (Accelerated Linear Algebra) compilers, and Vertex AI.
 
-### 4.4 DPU (Data Processing Unit / SmartNIC)
+### 5.4 DPU (Data Processing Unit / SmartNIC)
 - **Design Philosophy:** System-on-Chip (SoC) combining high-performance network interfaces with embedded ARM cores and hardware crypto/storage engines.
 - **What it Offloads:**
   1. **Software-Defined Networking:** Open vSwitch (OVS), Geneve/VXLAN encapsulation, and firewall packet inspection at wire speed (100–400 Gbps).
@@ -175,7 +175,163 @@ This led to the **Hardware Accelerator Revolution**: pairing general-purpose CPU
 
 ---
 
-## 6. Comprehensive Comparison Matrix
+## 6. 🎬 Animated Step-by-Step Mechanical Workings: How Each Processor Computes
+
+> 💡 **Browser Interactive Animation Lab:** You can run these animations interactively with play, pause, stepping, and speed sliders in your browser! Open the standalone [🚀 Hardware Accelerators Interactive Visualizer](../../../assets/hardware-accelerators-interactive-visualizer.html).
+
+---
+
+### 🎬 Animation 1: CPU Sequential Execution vs. GPU SIMT Warp Parallelism
+
+Imagine a computer must calculate vector multiplication for 32 numbers: $Y[i] = A[i] 	imes B[i]$ (for indices $i = 0$ to $31$).
+
+#### Scenario A: How the Single-Core CPU Computes (Sequential Loop — 32 Clock Cycles)
+
+```text
+Clock Cycle 1:
+┌────────────────────────────────────────────────────────────────────────┐
+│ CPU Core: [ ALU ] ──► Calculates Y[0] = A[0] * B[0]                   │
+│ Remaining in Queue: [ 1, 2, 3, 4, ... 31 ] (Waiting in memory...)      │
+└────────────────────────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+Clock Cycle 2:
+┌────────────────────────────────────────────────────────────────────────┐
+│ CPU Core: [ ALU ] ──► Calculates Y[1] = A[1] * B[1]                   │
+│ Remaining in Queue: [ 2, 3, 4, ... 31 ] (Waiting in memory...)        │
+└────────────────────────────────────────────────────────────────────────┘
+                                 │
+                                 ▼
+Clock Cycle 32:
+┌────────────────────────────────────────────────────────────────────────┐
+│ CPU Core: [ ALU ] ──► Calculates Y[31] = A[31] * B[31]                │
+│ TOTAL TIME ELAPSED: 32 Clock Cycles!                                   │
+└────────────────────────────────────────────────────────────────────────┘
+```
+
+#### Scenario B: How the GPU Computes with a SIMT Warp (1 Clock Cycle — Parallel Execution!)
+
+```text
+Clock Cycle 1: (ONE INSTRUCTION: "MULTIPLY", DISPATCHED TO 32 CUDA THREADS SIMULTANEOUSLY)
+┌─────────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│ [ Warp Scheduler ] ──► Broadcasts single "MUL" opcode to all 32 CUDA Cores in Streaming Multiprocessor  │
+├─────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ Thread 00: [ CUDA Core 00 ] ──► Calculates Y[00] = A[00] * B[00]                                       │
+│ Thread 01: [ CUDA Core 01 ] ──► Calculates Y[01] = A[01] * B[01]                                       │
+│ Thread 02: [ CUDA Core 02 ] ──► Calculates Y[02] = A[02] * B[02]                                       │
+│ ...                                                                                                    │
+│ Thread 30: [ CUDA Core 30 ] ──► Calculates Y[30] = A[30] * B[30]                                       │
+│ Thread 31: [ CUDA Core 31 ] ──► Calculates Y[31] = A[31] * B[31]                                       │
+├─────────────────────────────────────────────────────────────────────────────────────────────────────────┤
+│ TOTAL TIME ELAPSED: 1 Clock Cycle! (32x faster vector throughput!)                                     │
+└─────────────────────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+### 🎬 Animation 2: Google TPU 2D Systolic Array "Heartbeat" Matrix Dataflow
+
+In standard CPUs or GPUs, every multiply-accumulate operation reads operands from registers/cache, executes in the ALU, and writes results back into memory. In a large neural network matrix multiplication, memory bus contention consumes up to 70% of total electrical power!
+
+In Google's **TPU Systolic Array**, weights are held stationary inside Processing Elements (PEs). Activations ripple through the 2D grid like rhythmic pulses of a heartbeat, accumulating partial products on the fly without intermediate register or memory round-trips!
+
+#### Step-by-Step Systolic Heartbeat Pulse Timeline (## 7. Comprehensive Comparison Matrix 	imes 2$ Matrix Example):
+
+We compute:
+$
+\begin{bmatrix} a_{00} & a_{01} \\ a_{10} & a_{11} \end{bmatrix} \times \begin{bmatrix} w_{00} & w_{01} \\ w_{10} & w_{11} \end{bmatrix} = \begin{bmatrix} c_{00} & c_{01} \\ c_{10} & c_{11} \end{bmatrix}
+$
+
+```text
+T=0 [WEIGHT SETUP]: Stationary weights preloaded into PEs
+        ┌──────────────┐     ┌──────────────┐
+        │  PE (0,0)    │     │  PE (0,1)    │
+        │ Weight: w00  │     │ Weight: w01  │
+        ├──────────────┤     ├──────────────┤
+        │  PE (1,0)    │     │  PE (1,1)    │
+        │ Weight: w10  │     │ Weight: w11  │
+        └──────────────┘     └──────────────┘
+
+                          │
+                          ▼
+T=1 [HEARTBEAT PULSE 1]: Activation a00 enters top-left PE(0,0)
+[ a00 ] ──► ┌──────────────────────────┐
+            │ PE (0,0): a00 * w00      │ ──► (Partial sum initialized)
+            └──────────────────────────┘
+
+                          │
+                          ▼
+T=2 [HEARTBEAT PULSE 2]: Data wave propagates! a00 flows right; a10 enters top
+            ┌──────────────────────────┐     ┌──────────────────────────┐
+[ a10 ] ──► │ PE (1,0): a10 * w00      │     │ PE (0,0) passes a00 ──►  │
+            └─────────────┬────────────┘     │ PE (0,1): a00 * w01      │
+                          │                  └──────────────────────────┘
+                          ▼
+
+                          │
+                          ▼
+T=3 [HEARTBEAT PULSE 3]: Second activations (a01, a11) enter and accumulate without RAM traffic!
+            ┌──────────────────────────┐     ┌──────────────────────────┐
+            │ PE (1,0): + (a11 * w10)  │     │ PE (0,1): + (a01 * w11)  │
+            └─────────────┬────────────┘     └─────────────┬────────────┘
+                          │                                │
+                          ▼                                ▼
+              FINAL RESULT c10 EMITS!          FINAL RESULT c01 EMITS!
+
+Key Innovation: Zero intermediate SRAM or DRAM memory read/writes! 100% silicon efficiency!
+```
+
+---
+
+### 🎬 Animation 3: AWS Nitro DPU Wire-Speed Hardware Packet Offload
+
+#### Legacy Virtualization (Before Nitro): The 30% CPU Hypervisor Tax
+```text
+1. 100Gbps Network Packet arrives at NIC
+                │
+                ▼
+2. Hardware Interrupt fires into Host CPU
+┌────────────────────────────────────────────────────────┐
+│ HOST PHYSICAL CPU (Intel Xeon)                         │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ ❌ Xen Hypervisor Intercepts Interrupt              │ │
+│ │ ❌ Context Switch: Stalls Customer Application!    │ │
+│ │ ❌ Software VPC Routing, Security Group Filtering  │ │
+│ │ ❌ Software EBS Encryption AES Decrypt             │ │
+│ └─────────────────────────┬──────────────────────────┘ │
+│                           ▼                            │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ Customer VM Application (Gets CPU only after delay)│ │
+│ └────────────────────────────────────────────────────┘ │
+│ RESULT: Up to 30% of Host CPU & RAM stolen by Hypervisor│
+└────────────────────────────────────────────────────────┘
+```
+
+#### Modern AWS Nitro DPU Virtualization: Zero Hypervisor Tax!
+```text
+1. 100Gbps Network Packet arrives at AWS Nitro Card
+┌────────────────────────────────────────────────────────┐
+│ AWS NITRO CARD (Dedicated PCIe SoC / ASIC)             │
+│ • Nitro Packet Engine: Wire-rate VPC routing in 0.1µs  │
+│ • Nitro Security Chip: Hardware AES-256 decryption     │
+│ • Nitro NVMe Engine: Handles EBS disk I/O in hardware   │
+└───────────────────────────┬────────────────────────────┘
+                            │ Direct Memory Access (DMA via PCIe)
+                            ▼
+┌────────────────────────────────────────────────────────┐
+│ HOST PHYSICAL CPU (Intel / AMD / Graviton ARM)         │
+│ ┌────────────────────────────────────────────────────┐ │
+│ │ Customer VM Application (100% of CPU dedicated!)   │ │
+│ │ • Zero context switching stalls                     │ │
+│ │ • True Bare-Metal performance with cloud elasticity│ │
+│ └────────────────────────────────────────────────────┘ │
+│ RESULT: 0% Hypervisor Tax! 100% of CPU for Customer!   │
+└────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 7. Comprehensive Comparison Matrix
 
 | Specification | CPU (Central Processor) | GPU (Graphics Processor) | TPU / NPU (Tensor Processor) | DPU (Data Processor) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -189,7 +345,7 @@ This led to the **Hardware Accelerator Revolution**: pairing general-purpose CPU
 
 ---
 
-## 7. Cloud Offerings & Sizing Guide for DevOps Engineers
+## 8. Cloud Offerings & Sizing Guide for DevOps Engineers
 
 ### 6.1 AWS Cloud Compute Instances
 - **General & Compute CPU:** `c6i.large` (Intel Xeon), `c7g.large` (AWS Graviton3 ARM), `m6i.xlarge`.
@@ -215,7 +371,7 @@ This led to the **Hardware Accelerator Revolution**: pairing general-purpose CPU
 
 ---
 
-## 8. How DevOps Engineers Manage GPUs & Accelerators in Production
+## 9. How DevOps Engineers Manage GPUs & Accelerators in Production
 
 ### 7.1 Linux Host Layer: Drivers & Toolkits
 To use a GPU on a Linux server, three software layers must be configured:
@@ -299,7 +455,7 @@ In production, allocating an entire $30,000 H100 80GB GPU to a tiny microservice
 
 ---
 
-## 9. Hands-On Troubleshooting Runbook for AI & GPU Infrastructure
+## 10. Hands-On Troubleshooting Runbook for AI & GPU Infrastructure
 
 ### Problem 1: `CUDA out of memory (OOM)`
 - **Symptom:** AI application crashes immediately during model load with: `RuntimeError: CUDA out of memory. Tried to allocate 4.20 GiB`.
@@ -326,7 +482,7 @@ In production, allocating an entire $30,000 H100 80GB GPU to a tiny microservice
 
 ---
 
-## 10. Quick Revision Quiz
+## 11. Quick Revision Quiz
 
 1. **Which processor is best suited for executing the Linux kernel, web requests, and sequential branchy code?**
    - A) TPU
