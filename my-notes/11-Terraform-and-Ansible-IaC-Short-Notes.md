@@ -174,7 +174,55 @@ Plan: 1 to add, 1 to change, 1 to destroy.
 
 ---
 
-## ⚡ 5. Ansible Architecture & Core Concepts
+## 🔄 5. Terraform Import, Refactoring & State Surgery (`import`, `moved`, `removed`)
+
+In real-world enterprise DevOps, infrastructure is constantly refactored, brownfield resources are adopted, and state files require surgical modifications.
+
+### 5.1 The 3 Essential State Refactoring Tools:
+
+| Feature / Block | When to Use (Kids Mind) | Real-World Command / Block | What Happens to Real Cloud HW |
+| :--- | :--- | :--- | :--- |
+| **`import {}` Block** | Adopt pre-existing resources created manually in AWS Console into Terraform code. | `import { to = aws_vpc.main; id = "vpc-123" }` | **0 Changes**; binds live cloud object into state. |
+| **`moved {}` Block** | Rename a resource or move it into a module without destroying it. | `moved { from = aws_db.old; to = aws_db.new }` | **0 Changes**; rewrites state address in-place. |
+| **`removed {}` Block** | Stop managing a resource in Terraform WITHOUT deleting it from AWS. | `removed { from = aws_s3.data; lifecycle { destroy = false } }` | **0 Changes**; drops from state, keeps live in cloud. |
+
+---
+
+### 5.2 Auto-Generating HCL from Imports:
+```bash
+# 1. Define import target in imports.tf
+# import { to = aws_s3_bucket.my_bucket; id = "prod-data-lake-2026" }
+
+# 2. Plan with automatic HCL generation
+terraform plan -generate-config-out=generated.tf
+
+# 3. Apply changes cleanly
+terraform apply
+```
+
+---
+
+### 5.3 Essential Terraform State Surgery CLI Commands:
+```bash
+# 1. List every single resource currently tracked in state
+terraform state list
+
+# 2. Inspect full configuration and attributes of a specific resource in state
+terraform state show aws_instance.web
+
+# 3. Rename or move a resource address directly in state (Imperative alternative to moved block)
+terraform state mv aws_instance.old_name aws_instance.new_name
+
+# 4. Remove a resource from state so Terraform stops managing it (DOES NOT delete real AWS hardware!)
+terraform state rm aws_security_group.legacy_sg
+
+# 5. Download the raw remote state JSON to local file for disaster recovery
+terraform state pull > backup.tfstate
+```
+
+---
+
+## ⚡ 6. Ansible Architecture & Core Concepts
 
 Ansible is an open-source IT automation engine for configuration management, application deployment, and task orchestration.
 
@@ -217,7 +265,7 @@ Ansible is an open-source IT automation engine for configuration management, app
 
 ---
 
-## 📜 6. Ansible Inventory, Playbook & Roles Structure
+## 📜 7. Ansible Inventory, Playbook & Roles Structure
 
 ### 1️⃣ Sample Inventory (`hosts.ini`):
 ```ini
@@ -297,7 +345,7 @@ roles/webserver/
 
 ---
 
-## 💻 7. Essential Ansible CLI Commands & Output Breakdown
+## 💻 8. Essential Ansible CLI Commands & Output Breakdown
 
 ### 1️⃣ Ad-Hoc Commands (Quick Fire Actions)
 ```bash
