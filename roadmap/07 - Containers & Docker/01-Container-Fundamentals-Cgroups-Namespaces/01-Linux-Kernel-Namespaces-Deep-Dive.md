@@ -1,6 +1,29 @@
 # 01 - Linux Kernel Namespaces Deep Dive
 
-## 1. What Are Linux Namespaces?
+## 1. History of Linux Process Isolation & Containers
+
+| Technology / Milestone | Inventor(s) & Organization | Year | The Real Problem / Crisis That Triggered It | Real-World Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **`chroot` (Change Root)** | **Bill Joy** (Unix V7 / BSD) | **1979** | During Unix development, running new build and test scripts risked overwriting critical system binaries in `/bin` and `/etc`. Joy added `chroot` to confine a process to a sub-tree of the filesystem. | The earliest ancestor of filesystem isolation; used for early build sandboxes. |
+| **FreeBSD Jails** | **Poul-Henning Kamp** (FreeBSD) | **2000** | Shared web hosting providers had hundreds of mutual-untrusted customers on one server. If one customer's script was exploited, attackers could view other tenants' files. Jails partitioned files, processes, and IPs. | Established OS-level virtualization concepts for secure multi-tenant hosting. |
+| **Linux Control Groups (`cgroups`)** | **Paul Menage & Rohit Seth** (Google) | **2006–2007** | A runaway calculation batch job on a shared Google server could consume 100% of CPU and RAM, starving critical search/Gmail services. Google built `cgroups` to strictly enforce CPU, RAM, and I/O quotas. | Provided the resource governor engine essential for all modern containers. |
+| **Linux Namespaces** | **Al Viro, Eric Biederman et al.** (Linux Kernel Community) | **2002–2006** | Linux processes had a shared global view of PIDs, network interfaces, and mounts. Kernel developers introduced namespaces to give processes their own private, virtualized system views. | The architectural pillar that makes a container feel like a dedicated virtual server. |
+| **The Docker Revolution** | **Solomon Hykes, Sebastien Pahl** (dotCloud / Docker) | **2013** | **"Works on My Machine"**: Mismatched libraries (`libc`, Python, OpenSSL) between dev laptops and prod servers caused deployment hell. Hykes packaged code, dependencies, and rootfs into immutable layered images (`Dockerfile` + UnionFS). | Standardized containerization across the entire global IT and cloud industry. |
+
+### 🕰️ Visual Timeline: The Evolution of Containers
+
+```text
+ 1979 ────── 2000 ────── 2002/2006 ─── 2006/2007 ── 2008 ────── 2013 ────── 2015 ───── Present
+   │           │             │             │           │           │           │           │
+ chroot     FreeBSD        Linux         cgroups      LXC        Docker       OCI &      Kubernetes
+Bill Joy     Jails      Namespaces      Google     User-Space   Solomon      runc       Cloud-Native
+Unix V7    Kamp / ISP   Process View    Resource   CLI Tools    Hykes      Standard     Enterprise
+Sandboxing Multi-Tenant Virtualization  Quotas     Linux Cont.  Images     Spec         Standard
+```
+
+---
+
+## 2. What Are Linux Namespaces?
 
 Namespaces are a feature of the Linux kernel that partitions kernel resources such that one set of processes sees one set of resources while another set of processes sees a completely different, isolated set of resources.
 
@@ -22,7 +45,7 @@ Namespaces are a feature of the Linux kernel that partitions kernel resources su
 
 ---
 
-## 2. Inspecting a Process's Namespaces
+## 3. Inspecting a Process's Namespaces
 
 Every Linux process exposes symlinks to its active namespaces inside `/proc/<PID>/ns/`:
 

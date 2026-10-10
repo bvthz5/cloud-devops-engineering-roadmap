@@ -1,6 +1,28 @@
 # 01 - Control Plane Components: API, etcd, Scheduler, and Controller Manager
 
-## 1. High-Level Control Plane Architecture
+## 1. History of Kubernetes & Container Orchestration
+
+| Technology / Milestone | Inventor(s) & Organization | Year | The Real Problem / Crisis That Triggered It | Real-World Impact |
+| :--- | :--- | :--- | :--- | :--- |
+| **Google Borg** | **Google Systems Infrastructure Team** (Urs Hölzle, Abhishek Verma et al.) | **2003–2004** | Google operated hundreds of thousands of bare-metal machines running Search and Gmail. When hardware servers died, engineers could not manually SSH to reboot tasks. Borg automated bin-packing, dynamic scheduling, and self-healing. | Proved that containerized orchestrators could manage global web-scale infrastructure autonomously. |
+| **Google Omega** | **Google Cluster Management Team** (Brian Grant, Malte Schwarzkopf et al.) | **2013** | Borg had a monolithic centralized scheduler that became a lock contention bottleneck as clusters expanded. Omega introduced a shared-state transaction database architecture. | Formed the direct architectural predecessor to Kubernetes' declarative API Server + `etcd` model. |
+| **The Kubernetes Project ("Project Seven")** | **Joe Beda, Brendan Burns, Craig McLuckie** (Google, with Tim Hockin, Brian Grant) | **June 2014 (v1.0 July 2015)** | With Docker exploding in 2013, developers had isolated containers but no standard open way to run 10,000 containers across 50 servers with zero downtime. Google wrote Kubernetes in Go based on 10+ years of Borg/Omega experience. | Became the de-facto operating system of the cloud and the foundation of modern cloud-native computing. |
+| **Donation to CNCF** | **Google, Linux Foundation & 200+ Partners** | **July 2015** | To avoid corporate vendor lock-in, Google donated Kubernetes to the newly founded Cloud Native Computing Foundation (CNCF), ensuring neutral governance across AWS, Azure, Google Cloud, and Red Hat. | Standardized the global cloud-native ecosystem with vendor neutrality. |
+
+### 🕰️ Visual Timeline: The Evolution of Kubernetes
+
+```text
+ 2003/2004 ──────── 2013 ──────── 2014 ──────── 2015 ──────── 2018 ──────── Present
+     │                │             │             │             │              │
+Google Borg      Google Omega   DockerCon     Kubernetes    K8s Graduates   Managed K8s
+Google Internal  Shared-State   Announcement  v1.0 & CNCF   from CNCF       Ubiquity
+Containerized    Transaction    "Project      Donation      Enterprise      (EKS, AKS,
+Datacenters      Architecture   Seven"        by Google     Standard        GKE & Edge)
+```
+
+---
+
+## 2. High-Level Control Plane Architecture
 
 The Kubernetes Control Plane makes global decisions about the cluster (e.g., scheduling workloads), detects and responds to cluster events, and maintains the desired state declared in your YAML manifests.
 
@@ -35,7 +57,7 @@ The Kubernetes Control Plane makes global decisions about the cluster (e.g., sch
 
 ---
 
-## 2. Deep Component Breakdown
+## 3. Deep Component Breakdown
 
 ### 2.1 `kube-apiserver` (The Gateway)
 - **Role:** The only component that talks directly to `etcd`. All other components (scheduler, controller manager, kubelet) communicate exclusively with the API server.
