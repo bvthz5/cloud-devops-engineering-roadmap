@@ -4485,8 +4485,7 @@ public class BuilderDemo {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder(64); // Pre-size capacity!
         for (int i = 0; i < 5; i++) {
-            sb.append("Item ").append(i).append("
-");
+            sb.append("Item ").append(i).append("\n");
         }
         System.out.print(sb.toString());
     }
@@ -5031,7 +5030,7 @@ public class SecurePasswordDemo {
         // Authenticate user with password...
 
         // Immediately sanitize memory:
-        Arrays.fill(password, ' ');
+        Arrays.fill(password, '\0');
         System.out.println("Password array wiped from memory.");
     }
 }
@@ -5761,9 +5760,7 @@ import java.util.Scanner;
 
 public class ScannerSkipFix {
     public static void main(String[] args) {
-        String mockInput = "42
-Enterprise Java
-";
+        String mockInput = "42\nEnterprise Java\n";
         Scanner scanner = new Scanner(mockInput);
 
         int id = scanner.nextInt();
@@ -5894,8 +5891,7 @@ public class WriterDemo {
     public static void main(String[] args) {
         StringWriter sw = new StringWriter();
         PrintWriter pw = new PrintWriter(sw);
-        pw.printf("Hello, %s! Value: %d
-", "World", 42);
+        pw.printf("Hello, %s! Value: %d\n", "World", 42);
         System.out.print(sw.toString());
     }
 }
@@ -16216,8 +16212,7 @@ public class StreamLifecycleDemo {
         try {
             stream.forEach(System.out::print); // Illegal reuse!
         } catch (IllegalStateException e) {
-            System.out.println("
-Caught: Stream cannot be reused!");
+            System.out.println("\nCaught: Stream cannot be reused!");
         }
     }
 }
@@ -17175,8 +17170,7 @@ import java.util.stream.Stream;
 public class SafeStreamIoDemo {
     public static void main(String[] args) throws Exception {
         Path temp = Files.createTempFile("stream-test", ".txt");
-        Files.writeString(temp, "Line1
-Line2");
+        Files.writeString(temp, "Line1\nLine2");
 
         // Mandatory try-with-resources for I/O streams:
         try (Stream<String> lines = Files.lines(temp)) {
@@ -24806,7 +24800,7 @@ public class MemoryPasswordSafety {
             // authenticate using password array
         } finally {
             // Securely wipe from RAM immediately:
-            Arrays.fill(password, ' ');
+            Arrays.fill(password, '\0');
         }
     }
 }
@@ -28052,11 +28046,9 @@ public class ExportController {
     public ResponseEntity<StreamingResponseBody> exportCsv() {
         StreamingResponseBody stream = out -> {
             try (BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(out))) {
-                writer.write("id,transaction_date,amount
-");
+                writer.write("id,transaction_date,amount\n");
                 for (int i = 1; i <= 1_000_000; i++) {
-                    writer.write(i + ",2026-01-01,100.00
-");
+                    writer.write(i + ",2026-01-01,100.00\n");
                 }
             }
         };
