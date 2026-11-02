@@ -2673,8 +2673,7 @@ Repr conversion: 'k8s-node-01'
 
 ```python
 normal_path = "C:\new_folder\test"
-raw_path = r"C:
-ew_folder	est"
+raw_path = r"C:\new_folder\test"
 
 print("Normal string (interprets \n and \t):")
 print(normal_path)
@@ -3035,7 +3034,7 @@ from collections import Counter
 import re
 
 text = "Docker is great. Kubernetes is great! Cloud is great and docker is awesome."
-words = re.findall(r"\w+", text.lower())
+words = re.findall(r"\b\w+\b", text.lower())
 counts = Counter(words)
 
 print("Top 3 words:", counts.most_common(3))
@@ -3056,8 +3055,8 @@ Top 3 words: [('is', 4), ('great', 3), ('docker', 2)]
 import re
 
 def camel_to_snake(name: str) -> str:
-    s1 = re.sub(r"(.)([A-Z][a-z]+)", r"_", name)
-    return re.sub(r"([a-z0-9])([A-Z])", r"_", s1).lower()
+    s1 = re.sub(r"(.)([A-Z][a-z]+)", r"\1_\2", name)
+    return re.sub(r"([a-z0-9])([A-Z])", r"\1_\2", s1).lower()
 
 def snake_to_camel(name: str) -> str:
     return "".join(word.capitalize() for word in name.split("_"))
@@ -3543,8 +3542,7 @@ nodes = ["node-3", "node-1", "node-2"]
 print("Reversed iterator:")
 for n in reversed(nodes):
     print(n, end=" ")
-print("
-Sorted copy:")
+print("\nSorted copy:")
 print(sorted(nodes))
 print("Original untouched:", nodes)
 ```
@@ -8777,13 +8775,9 @@ Stream line 3: line 3: Gamma
 import io
 
 buf = io.StringIO()
-buf.write("Header
-")
-buf.writelines(["Row 1
-", "Row 2
-"])
-print("Buffer content:
-" + buf.getvalue().strip())
+buf.write("Header\n")
+buf.writelines(["Row 1\n", "Row 2\n"])
+print("Buffer content:\n" + buf.getvalue().strip())
 ```
 
 Output:
@@ -8880,17 +8874,15 @@ Read back: Kubernetes cluster online
 ```python
 import io
 
-raw_bytes = b"header
-payload
-"
+raw_bytes = b"header\r\npayload\r\n"
 bin_stream = io.BytesIO(raw_bytes)
 print("Binary reads exact bytes:", bin_stream.read())
 ```
 
 Output:
 ```text
-Binary reads exact bytes: b'header
-payload
+Binary reads exact bytes: b'header
+payload
 '
 ```
 
@@ -8982,10 +8974,7 @@ import io
 def count_errors(file_obj):
     return sum(1 for line in file_obj if "ERROR" in line)
 
-sample_log = io.StringIO("INFO: Start
-ERROR: Failed
-INFO: Retry
-ERROR: Timeout")
+sample_log = io.StringIO("INFO: Start\nERROR: Failed\nINFO: Retry\nERROR: Timeout")
 print("Total errors found:", count_errors(sample_log))
 ```
 
@@ -9171,8 +9160,7 @@ import io
 def tail(file_obj, n=3):
     return list(deque(file_obj, maxlen=n))
 
-data = io.StringIO("
-".join(f"Log line {i}" for i in range(100)))
+data = io.StringIO("\n".join(f"Log line {i}" for i in range(100)))
 print("Tailed lines:", [line.strip() for line in tail(data, 3)])
 ```
 
@@ -9332,7 +9320,7 @@ Mode 'x' caught expected error: FileExistsError
 **Answer:** Specify the encoding explicitly `encoding='utf-8'` and use error policies like `errors='replace'` or `errors='ignore'`.
 
 ```python
-bad_bytes = b"Server test ÿþ data"
+bad_bytes = b"Server test \xff\xfe data"
 decoded = bad_bytes.decode("utf-8", errors="replace")
 print("Decoded with replacement:", decoded)
 ```
@@ -10124,9 +10112,7 @@ def mock_tail_f(stream):
             break # in real tail -f: time.sleep(0.1); continue
         yield line.strip()
 
-log_stream = io.StringIO("Server booted
-Interface up
-")
+log_stream = io.StringIO("Server booted\nInterface up\n")
 for log_entry in mock_tail_f(log_stream):
     print("Streamed log:", log_entry)
 ```
@@ -11624,11 +11610,11 @@ JSON: {"timestamp": "2026-10-30T10:00:00"}
 ```python
 import ast
 
-code = """
+code = '''
 def my_func():
     """Docstring description."""
     pass
-"""
+'''
 tree = ast.parse(code)
 print("Function docstring from AST:", ast.get_docstring(tree.body[0]))
 ```
@@ -14348,11 +14334,11 @@ import re
 
 text = "user: alice, role: admin"
 # Swap key and value using backreferences
-swapped = re.sub(r"(\w+):\s*(\w+)", r" ()", text)
+swapped = re.sub(r"(\w+):\s*(\w+)", r"\2 (\1)", text)
 print("Swapped:", swapped)
 
 # Using callable replacer
-masked = re.sub(r"\w{5}", lambda m: m.group(0).upper(), "alice in wonderland")
+masked = re.sub(r"\b\w{5}\b", lambda m: m.group(0).upper(), "alice in wonderland")
 print("Callable upper 5-letter:", masked)
 ```
 
@@ -14460,7 +14446,7 @@ Matches literal text: True
 import re
 
 text = "deploy deployment deployed"
-matches = re.findall(r"deploy", text)
+matches = re.findall(r"\bdeploy\b", text)
 print("Exact word matches for 'deploy':", matches)
 ```
 
@@ -14595,7 +14581,7 @@ Parsed log: {'ip': '192.168.1.5', 'time': '30/Oct/2026:10:00:00 +0000', 'method'
 import re
 
 def sanitize_db_url(url: str) -> str:
-    return re.sub(r"://([^:]+):([^@]+)@", r"://:***@", url)
+    return re.sub(r"://([^:]+):([^@]+)@", r"://\1:***@", url)
 
 raw_url = "postgres://admin:SuperSecretPass123@prod-db.internal:5432/main"
 print("Sanitized URL:", sanitize_db_url(raw_url))
@@ -14742,8 +14728,7 @@ import json
 
 payload = {"service": "api-gateway", "replicas": 3, "healthy": True, "metadata": None}
 json_text = json.dumps(payload, indent=2)
-print("Serialized JSON:
-" + json_text)
+print("Serialized JSON:\n" + json_text)
 
 reconstructed = json.loads(json_text)
 print("Reconstructed dict:", reconstructed["service"], reconstructed["healthy"])
@@ -14799,9 +14784,7 @@ Custom JSON: {"id": "...", "created_at": "2026-10-30T10:00:00"}
 import csv
 import io
 
-tsv_data = "name	port	protocol
-web	80	tcp
-db	5432	tcp"
+tsv_data = "name\tport\tprotocol\nweb\t80\ttcp\ndb\t5432\ttcp"
 f = io.StringIO(tsv_data)
 reader = csv.DictReader(f, delimiter="	")
 for row in reader:
@@ -15160,12 +15143,8 @@ BeautifulSoup provides robust navigation over malformed HTML documents
 **Answer:** Read initial bytes and check magic signatures.
 
 ```python
-PNG_MAGIC = b"PNG
-
-"
-mock_png_header = b"PNG
-
-   IHDR"
+PNG_MAGIC = b"\x89PNG\r\n\x1a\n"
+mock_png_header = b"\x89PNG\r\n\x1a\n\x00\x00\x00\rIHDR"
 is_png = mock_png_header.startswith(PNG_MAGIC)
 print("Is valid PNG magic header:", is_png)
 ```
@@ -15307,10 +15286,7 @@ def stream_filter(csv_file, col_idx, target_val):
         if len(row) > col_idx and row[col_idx] == target_val:
             yield row
 
-sample_csv = io.StringIO("id,status
-1,OK
-2,FAIL
-3,FAIL")
+sample_csv = io.StringIO("id,status\n1,OK\n2,FAIL\n3,FAIL")
 filtered = list(stream_filter(sample_csv, 1, "FAIL"))
 print("Filtered count:", len(filtered) - 1)
 ```
@@ -15837,7 +15813,7 @@ import sqlite3
 
 conn = sqlite3.connect(":memory:")
 conn.execute("CREATE TABLE events (payload JSON)")
-conn.execute("INSERT INTO events VALUES ('{"cluster": "prod-east", "active": true}')")
+conn.execute("""INSERT INTO events VALUES ('{"cluster": "prod-east", "active": true}')""")
 
 cur = conn.cursor()
 cur.execute("SELECT json_extract(payload, '$.cluster') FROM events")
@@ -16648,8 +16624,7 @@ Throttler enforced request spacing
 **Answer:** Pass a dictionary of `{'file': open(..., 'rb')}`.
 
 ```python
-# files = {'file': ('report.csv', b'id,metric
-1,100', 'text/csv')}
+# files = {'file': ('report.csv', b'id,metric\n1,100', 'text/csv')}
 # requests.post(url, files=files)
 print("Multipart file upload payloads configured via files dictionary")
 ```
@@ -17094,8 +17069,7 @@ def format_error_response(status_code: int, message: str, path: str) -> dict:
         }
     }
 
-print("Standardized Error Envelope:
-", format_error_response(404, "Endpoint not found", "/api/v1/invalid"))
+print("Standardized Error Envelope:\n", format_error_response(404, "Endpoint not found", "/api/v1/invalid"))
 ```
 
 Output:
@@ -17187,9 +17161,7 @@ Readiness check (db down): (503, {'ready': False, 'db': False, 'cache': True})
 ```python
 # async def event_generator():
 #     for step in ["Linting", "Testing", "Deploying"]:
-#         yield f"data: {step}
-
-"
+#         yield f"data: {step}\n\n"
 # return StreamingResponse(event_generator(), media_type="text/event-stream")
 print("StreamingResponse delivers real-time Server-Sent Events to web clients")
 ```
@@ -18740,9 +18712,7 @@ async def main():
     results = await asyncio.gather(*(probe_endpoint(sem, u) for u in urls))
     return results
 
-print("Probed endpoints:
-" + "
-".join(asyncio.run(main())[:2]))
+print("Probed endpoints:\n" + "\n".join(asyncio.run(main())[:2]))
 ```
 
 Output:
@@ -19820,8 +19790,7 @@ def is_genuine_pdf(file_bytes: bytes) -> bool:
     return file_bytes.startswith(b"%PDF-")
 
 fake_pdf = b"malicious shell script payload"
-real_pdf = b"%PDF-1.4
-%..."
+real_pdf = b"%PDF-1.4\n%..."
 
 print("Fake PDF verified: ", is_genuine_pdf(fake_pdf))
 print("Real PDF verified: ", is_genuine_pdf(real_pdf))
@@ -20892,8 +20861,7 @@ def build_slack_alert(service: str, status: str) -> dict:
         }]
     }
 
-print("Formatted Slack payload:
-" + json.dumps(build_slack_alert("auth-api", "DOWN"), indent=2))
+print("Formatted Slack payload:\n" + json.dumps(build_slack_alert("auth-api", "DOWN"), indent=2))
 ```
 
 Output:
@@ -21343,8 +21311,7 @@ def emit_structured_log(level: str, message: str, **extra):
     }
     return json.dumps(log_entry)
 
-print("JSON Log Line:
-", emit_structured_log("INFO", "Deployment completed", service="auth", duration_ms=450))
+print("JSON Log Line:\n", emit_structured_log("INFO", "Deployment completed", service="auth", duration_ms=450))
 ```
 
 Output:
